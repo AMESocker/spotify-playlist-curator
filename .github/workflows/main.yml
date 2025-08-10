@@ -1,0 +1,30 @@
+name: Spotify Playlist Cleanup
+
+on:
+  schedule:
+    - cron: "0 10 * * *" # Runs every day at 10:00 UTC (~3 AM Pacific)
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  run-cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run cleanup script
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          PLAYLIST_ID: ${{ secrets.PLAYLIST_ID }}
+          RUN_MODE: once
+        run: node index.js
