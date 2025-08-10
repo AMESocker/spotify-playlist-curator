@@ -26,5 +26,6 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           PLAYLIST_ID: ${{ secrets.PLAYLIST_ID }}
+          ARCHIVE_PLAYLIST_ID: ${{ secrets.ARCHIVE_PLAYLIST_ID }}
           RUN_MODE: once
         run: node index.js
