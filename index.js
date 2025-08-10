@@ -92,15 +92,7 @@ async function fetchAllPlaylistItems(playlistId) {
   return all;
 }
 
-async function addTracksToArchive(playlistId, tracks) {
-  const uris = tracks.map(t => t.uri);
-  const chunkSize = 100;
-  for (let i = 0; i < uris.length; i += chunkSize) {
-    const chunk = uris.slice(i, i + chunkSize);
-    await spotify.addTracksToPlaylist(playlistId, chunk);
-    console.log(`Archived ${chunk.length} tracks.`);
-  }
-}
+
 
 
 async function removeTracks(playlistId, tracks) {
