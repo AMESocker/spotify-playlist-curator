@@ -92,6 +92,17 @@ async function fetchAllPlaylistItems(playlistId) {
   return all;
 }
 
+async function addTracksToArchive(playlistId, tracks) {
+  const uris = tracks.map(t => t.uri);
+  const chunkSize = 100;
+  for (let i = 0; i < uris.length; i += chunkSize) {
+    const chunk = uris.slice(i, i + chunkSize);
+    await spotify.addTracksToPlaylist(playlistId, chunk);
+    console.log(`Archived ${chunk.length} tracks.`);
+  }
+}
+
+
 async function removeTracks(playlistId, tracks) {
   const chunkSize = 100;
   for (let i = 0; i < tracks.length; i += chunkSize) {
@@ -129,11 +140,15 @@ async function job() {
     });
 
     if (removals.length > 0) {
-      console.log(`Removing ${removals.length} tracks...`);
+      console.log(`Archiving ${removals.length} tracks before removal...`);
+      await addTracksToArchive(process.env.ARCHIVE_PLAYLIST_ID, removals);
+
+      console.log(`Removing ${removals.length} tracks from main playlist...`);
       await removeTracks(PLAYLIST_ID, removals);
     } else {
       console.log('No recently played tracks to remove.');
     }
+
   } catch (err) {
     console.error('Error in job:', err.message || err);
   }
