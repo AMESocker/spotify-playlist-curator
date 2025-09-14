@@ -1,0 +1,502 @@
+[
+  {
+    "Artist": "Alanis Morissette",
+    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Albums": [
+      "Jagged Little Pill (1995)",
+      "Supposed Former Infatuation Junkie (1998)^",
+      "Under Rug Swept (2002)",
+      "Feast on Scraps (2002)",
+      "So-Called Chaos (2004)",
+      "Flavors of Entanglement (2008)",
+      "Havoc and Bright Lights (2012)",
+      "Such Pretty Forks in the Road (2020)^",
+      "The Storm Before the Calm (2022)"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Goo Goo Dolls",
+    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Albums": [
+      "Goo Goo Dolls (1987)",
+      "Jed (1989)",
+      "Hold Me Up (1990)",
+      "A Boy Named Goo (1995)",
+      "Dizzy Up the Girl (1998)",
+      "Gutterflower (2002)",
+      "Let Love In (2006)",
+      "Something for the Rest of Us (2010)",
+      "Magnetic (2013)",
+      "Boxes (2016)",
+      "Miracle Pill (2019)",
+      "It's Christmas All Over (2020)",
+      "Chaos in Bloom (2022)",
+      "Summer Anthem"
+    ],
+    "AddedAlbums": [
+      "Superstar Car Wash (1993)"
+    ]
+  },
+  {
+    "Artist": "Everclear",
+    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Albums": [
+      "World of Noise (1993)",
+      "Sparkle and Fade (1995)",
+      "So Much for the Afterglow (1997)",
+      "Songs from an American Movie Vol. One: Learning How to Smile (2000)",
+      "Slow Motion Daydream (2003)",
+      "Welcome to the Drama Club (2006)",
+      "Return to Santa Monica (2011)",
+      "Invisible Stars (2012)",
+      "Black Is the New Black (2015)"
+    ],
+    "AddedAlbums": [
+      "Songs from an American Movie Vol. Two: Good Time for a Bad Attitude (2000)"
+    ]
+  },
+  {
+    "Artist": "Matchbox Twenty / Rob Thomas",
+    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Albums": [
+      "Mad Season (2000)",
+      "More Than You Think You Are (2002)",
+      "...Something to Be (2005)",
+      "Cradlesong (2009)",
+      "North (2012)",
+      "The Great Unknown (2015)",
+      "Chip Tooth Smile (2019)",
+      "Where the Light Goes (2023)"
+    ],
+    "AddedAlbums": [
+      "Yourself or Someone Like You (1996)"
+    ]
+  },
+  {
+    "Artist": "Stone Temple Pilots",
+    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Albums": [
+      "Core (1992)",
+      "Purple (1994)",
+      "Tiny Music... Songs from the Vatican Gift Shop (1996)",
+      "No. 4 (1999)",
+      "Shangri-La Dee Da (2001)",
+      "Stone Temple Pilots (2010)",
+      "Stone Temple Pilots (2018)"
+    ],
+    "AddedAlbums": [
+      "Perdida (2020)"
+    ]
+  },
+  {
+    "Artist": "Blink-182",
+    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Albums": [
+      "Cheshire Cat (1995)",
+      "Dude Ranch (1997)",
+      "Enema of the State (1999)",
+      "Take Off Your Pants and Jacket (2001)",
+      "Blink-182 (2003)",
+      "Neighborhoods (2011)",
+      "Dogs Eating Dogs",
+      "California (2016)^",
+      "Nine (2019)",
+      "One More Time... (2023)^"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "The Offspring",
+    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Albums": [
+      "The Offspring (1989)",
+      "Ignition (1992)",
+      "Smash (1994)",
+      "Americana (1998)",
+      "Conspiracy of One (2000)",
+      "Splinter (2003)",
+      "Rise and Fall, Rage and Grace (2008)",
+      "Days Go By (2012)",
+      "Let the Bad Times Roll (2021)",
+      "Supercharged (2024)"
+    ],
+    "AddedAlbums": [
+      "Ixnay on the Hombre (1997)"
+    ]
+  },
+  {
+    "Artist": "Catch 22/Streetlight Manifesto",
+    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Albums": [
+      "Alone in a Crowd (2000)",
+      "Washed Up and Through the Ringer (2001)^",
+      "Dinosaur Sounds (2003)",
+      "Permanent Revolution (2006)",
+      "Everything Goes Numb (2003)",
+      "Keasbey Nights (2006)^",
+      "Somewhere in the Between (2007)",
+      "99 Songs of Revolution: Vol. 1 (2010)",
+      "The Hands That Thieve (2013)^"
+    ],
+    "AddedAlbums": [
+      "Keasbey Nights (1998)^"
+    ]
+  },
+  {
+    "Artist": "Less Than Jake",
+    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Albums": [
+      "Losing Streak (1996)^",
+      "Hello Rockview (1998)",
+      "Borders & Boundaries (2000)",
+      "Anthem (2003)",
+      "In with the Out Crowd (2006)",
+      "GNV FLA (2008)",
+      "See the Light (2013)",
+      "Silver Linings (2020)",
+      "Uncharted"
+    ],
+    "AddedAlbums": [
+      "Pezcore (1995)^"
+    ]
+  },
+  {
+    "Artist": "Sum-41",
+    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Albums": [
+      "All Killer No Filler (2001)",
+      "Does This Look Infected? (2002)",
+      "Chuck (2004)",
+      "Underclass Hero (2007)",
+      "Screaming Bloody Murder (2011)",
+      "13 Voices (2016)",
+      "Order in Decline (2019)",
+      "Heaven :x: Hell (2024)"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Coldplay",
+    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Albums": [
+      "A Rush of Blood to the Head (2002)",
+      "X&Y (2005)",
+      "Viva la Vida or Death and All His Friends (2008)",
+      "Mylo Xyloto (2011)",
+      "Ghost Stories (2014)",
+      "A Head Full of Dreams (2015)",
+      "Everyday Life (2019)",
+      "Music of the Spheres (2021)",
+      "Moon Music (2024)"
+    ],
+    "AddedAlbums": [
+      "Parachutes (2000)"
+    ]
+  },
+  {
+    "Artist": "The White Stripes",
+    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Albums": [
+      "White Blood Cells (2001)",
+      "Elephant (2003)",
+      "Get Behind Me Satan (2005)",
+      "Broken Boy Soldiers (2006)",
+      "Icky Thump (2007)",
+      "Consolers of the Lonely (2008)",
+      "Horehound (2009)",
+      "Sea of Cowards (2010)",
+      "Blunderbuss (2012)",
+      "Lazaretto (2014)",
+      "Dodge and Burn (2015)",
+      "Boarding House Reach (2018)",
+      "Help Us Stranger (2019)",
+      "Fear of the Dawn (2022)",
+      "Entering Heaven Alive (2022)",
+      "No Name (2024)"
+    ],
+    "AddedAlbums": [
+      "The White Stripes (1999)",
+      "De Stijl (2000)"
+    ]
+  },
+  {
+    "Artist": "The Killers",
+    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Albums": [
+      "Sam's Town (2006)",
+      "Day & Age (2008)",
+      "Battle Born (2012)",
+      "Wonderful Wonderful (2017)",
+      "Imploding the Mirage (2020)",
+      "Pressure Machine (2021)"
+    ],
+    "AddedAlbums": [
+      "Hot Fuss (2004)"
+    ]
+  },
+  {
+    "Artist": "OK Go",
+    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Albums": [
+      "OK Go (2002)",
+      "Oh No (2005)",
+      "Of the Blue Colour of the Sky (2010)",
+      "And the Adjacent Possible (2025)"
+    ],
+    "AddedAlbums": [
+      "Hungry Ghosts (2014)"
+    ]
+  },
+  {
+    "Artist": "Weezer",
+    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Albums": [
+      "Weezer (Blue Album) (1994)^",
+      "Pinkerton (1996)",
+      "Weezer (Green Album) (2001)",
+      "Maladroit (2002)",
+      "Make Believe (2005)",
+      "Weezer (Red Album) (2008)",
+      "Raditude (2009)^",
+      "Hurley (2010)",
+      "Everything Will Be Alright in the End (2014)",
+      "Weezer (White Album) (2016)^",
+      "Pacific Daydream (2017)",
+      "Weezer (Teal Album) (2019)",
+      "Weezer (Black Album) (2019)",
+      "OK Human (2021)",
+      "Van Weezer (2021)",
+      "SZNZ: Winter (2022)"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Korn",
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "Korn (1994)",
+      "Korn (1994)",
+      "Life Is Peachy (1996)",
+      "Follow the Leader (1998)",
+      "Issues (1999)",
+      "Untouchables (2002)",
+      "Take a Look in the Mirror (2003)",
+      "See You on the Other Side (2005)",
+      "Untitled (2007)",
+      "Korn III: Remember Who You Are (2010)",
+      "The Path of Totality (2011)",
+      "The Paradigm Shift (2013)",
+      "The Serenity of Suffering (2016)",
+      "The Nothing (2019)"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Linkin Park",
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "Hybrid Theory (2000)",
+      "Meteora (2003)",
+      "Minutes to Midnight (2007)",
+      "A Thousand Suns (2010)",
+      "Living Things (2012)",
+      "The Hunting Party (2014)",
+      "One More Light (2017)",
+      "From Zero"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "System of a Down",
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "System of a Down (1998)",
+      "Toxicity (2001)",
+      "Steal This Album! (2002)",
+      "Mezmerize (2005)"
+    ],
+    "AddedAlbums": [
+      "Hypnotize (2005)"
+    ]
+  },
+  {
+    "Artist": "RATM",
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "Evil Empire (1996)",
+      "The Battle of Los Angeles (1999)",
+      "Renegades (2000)"
+    ],
+    "AddedAlbums": [
+      "Rage Against the Machine (1992)"
+    ]
+  },
+  {
+    "Artist": "White/Rob Zombie",
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "Soul-Crusher (1987)^",
+      "Make Them Die Slowly (1989)^",
+      "La Sexorcisto: Devil Music Volume One (1992)",
+      "Astro-Creep: 2000 (1995)^",
+      "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International (1998)",
+      "The Sinister Urge (2001)",
+      "Educated Horses (2006)",
+      "Hellbilly Deluxe 2: Noble Jackals, Penny Dreadfuls and the Systematic Dehumanization of Cool (2010)",
+      "Venomous Rat Regeneration Vendor (2013)",
+      "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser (2016)",
+      "The Lunar Injection Kool Aid Eclipse Conspiracy (2021)"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "The Chemical Brothers",
+    "Group": "🟣 Electronic & Experimental",
+    "Albums": [
+      "Dig Your Own Hole (1997)",
+      "Surrender (1999)",
+      "Come with Us (2002)",
+      "Push the Button (2005)",
+      "We Are the Night (2007)",
+      "Further (2010)",
+      "Born in the Echoes (2015)",
+      "No Geography (2019)",
+      "For That Beautiful Feeling (2023)[71][72"
+    ],
+    "AddedAlbums": [
+      "Exit Planet Dust (1995)"
+    ]
+  },
+  {
+    "Artist": "The Prodigy",
+    "Group": "🟣 Electronic & Experimental",
+    "Albums": [
+      "Music for the Jilted Generation (1994)",
+      "The Fat of the Land (1997)",
+      "Always Outnumbered, Never Outgunned (2004)",
+      "Invaders Must Die (2009)",
+      "The Day Is My Enemy (2015)",
+      "No Tourists (2018)"
+    ],
+    "AddedAlbums": [
+      "Experience (1992)"
+    ]
+  },
+  {
+    "Artist": "Au5",
+    "Group": "🟣 Electronic & Experimental",
+    "Albums": [
+      "Anchus Definy",
+      "Divinorum",
+      "Alchemy[88]",
+      "Bridges Between[89]"
+    ],
+    "AddedAlbums": [
+      "Minimality"
+    ]
+  },
+  {
+    "Artist": "Justice",
+    "Group": "🟣 Electronic & Experimental",
+    "Albums": [
+      "Cross (2007)",
+      "Woman (2016)",
+      "Hyperdrama (2024)"
+    ],
+    "AddedAlbums": [
+      "Audio, Video, Disco (2011)"
+    ]
+  },
+  {
+    "Artist": "Daft Punk",
+    "Group": "🟣 Electronic & Experimental",
+    "Albums": [
+      "Discovery (2001)",
+      "Human After All (2005)",
+      "Random Access Memories (2013)"
+    ],
+    "AddedAlbums": [
+      "Homework (1997)"
+    ]
+  },
+  {
+    "Artist": "Alicia Keys",
+    "Group": "🟤 Soul / R&B",
+    "Albums": [
+      "The Diary of Alicia Keys (2003)",
+      "As I Am (2007)",
+      "The Element of Freedom (2009)",
+      "Girl on Fire (2012)",
+      "Here (2016)",
+      "Alicia (2020)",
+      "Keys (2021)",
+      "Santa Baby (2022)"
+    ],
+    "AddedAlbums": [
+      "Songs in A Minor (2001)"
+    ]
+  },
+  {
+    "Artist": "Jamiroquai",
+    "Group": "🟤 Soul / R&B",
+    "Albums": [
+      "The Return of the Space Cowboy (1994)",
+      "Travelling Without Moving (1996)",
+      "Synkronized (1999)",
+      "A Funk Odyssey (2001)",
+      "Dynamite (2005)",
+      "Rock Dust Light Star (2010)",
+      "Automaton (2017)"
+    ],
+    "AddedAlbums": [
+      "Emergency on Planet Earth (1993)"
+    ]
+  },
+  {
+    "Artist": "Aretha Franklin",
+    "Group": "🟤 Soul / R&B",
+    "Albums": [
+      "I Never Loved a Man the Way I Love You (1967)",
+      "Lady Soul (1968)",
+      "Aretha Now (1968)",
+      "Soul '69 (1969)",
+      "Spirit in the Dark (1970)",
+      "Young, Gifted and Black (1972)",
+      "Sparkle (1976, soundtrack)",
+      "Jump to It (1982)",
+      "Who's Zoomin' Who? (1985)",
+      "Aretha (1986)",
+      "A Rose Is Still a Rose (1998)"
+    ],
+    "AddedAlbums": [
+      "Aretha: With the Ray Bryant Combo (1961)",
+      "The Electrifying Aretha Franklin (1962)",
+      "The Tender, the Moving, the Swinging Aretha Franklin (1962)"
+    ]
+  },
+  {
+    "Artist": "Anderson .Paak",
+    "Group": "🟤 Soul / R&B",
+    "Albums": [
+      "Malibu (2016)",
+      "Oxnard (2018)",
+      "Ventura (2019)"
+    ],
+    "AddedAlbums": [
+      "Venice (2014)"
+    ]
+  },
+  {
+    "Artist": "Bruno Mars",
+    "Group": "🟤 Soul / R&B",
+    "Albums": [
+      "Unorthodox Jukebox (2012)",
+      "24K Magic (2016)",
+      "An Evening with Silk Sonic (with Anderson .Paak, as Silk Sonic) (2021)"
+    ],
+    "AddedAlbums": [
+      "Doo-Wops & Hooligans (2010)"
+    ]
+  }
+]
