@@ -104,7 +104,6 @@
     "Artist": "Blink-182",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Cheshire Cat (1995)",
       "Dude Ranch (1997)",
       "Enema of the State (1999)",
       "Take Off Your Pants and Jacket (2001)",
@@ -115,7 +114,9 @@
       "Nine (2019)",
       "One More Time... (2023)^"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Cheshire Cat (1995)"
+    ]
   },
   {
     "Artist": "The Offspring",
