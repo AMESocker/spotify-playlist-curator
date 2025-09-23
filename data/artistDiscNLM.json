@@ -3,7 +3,6 @@
     "Artist": "Alanis Morissette",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Jagged Little Pill (1995)",
       "Supposed Former Infatuation Junkie (1998)^",
       "Under Rug Swept (2002)",
       "Feast on Scraps (2002)",
@@ -13,7 +12,9 @@
       "Such Pretty Forks in the Road (2020)^",
       "The Storm Before the Calm (2022)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Jagged Little Pill (1995)"
+    ]
   },
   {
     "Artist": "Goo Goo Dolls",
