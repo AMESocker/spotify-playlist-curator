@@ -34,5 +34,11 @@
     "artist": "Weezer",
     "album": "Weezer (Blue Album) (1994)^",
     "timestamp": "2025-09-27T10:19:18.682Z"
+  },
+  {
+    "action": "add",
+    "artist": "Rob Thomas",
+    "album": "...Something to Be (2005)",
+    "timestamp": "2025-09-28T10:19:13.644Z"
   }
 ]
