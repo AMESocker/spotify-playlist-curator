@@ -352,15 +352,16 @@
     "Artist": "Rob Zombie",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International (1998)",
       "The Sinister Urge (2001)",
       "Educated Horses (2006)",
-      "Hellbilly Deluxe 2: Noble Jackals, Penny Dreadfuls and the Systematic Dehumanization of Cool (2010)",
+      "Hellbilly Deluxe 2 (2010)",
       "Venomous Rat Regeneration Vendor (2013)",
       "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser (2016)",
       "The Lunar Injection Kool Aid Eclipse Conspiracy (2021)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Hellbilly Deluxe (1998)"
+    ]
   },
   {
     "Artist": "White Zombie",
