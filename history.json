@@ -46,5 +46,11 @@
     "artist": "The Offspring",
     "album": "The Offspring (1989)",
     "timestamp": "2025-10-01T10:22:57.602Z"
+  },
+  {
+    "action": "add",
+    "artist": "Weezer",
+    "album": "Pinkerton (1996)",
+    "timestamp": "2025-10-04T10:19:15.758Z"
   }
 ]
