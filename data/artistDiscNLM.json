@@ -20,7 +20,6 @@
     "Artist": "Goo Goo Dolls",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Goo Goo Dolls (1987)",
       "Jed (1989)",
       "Hold Me Up (1990)",
       "A Boy Named Goo (1995)",
@@ -36,7 +35,8 @@
       "Summer Anthem"
     ],
     "AddedAlbums": [
-      "Superstar Car Wash (1993)"
+      "Superstar Car Wash (1993)",
+      "Goo Goo Dolls (1987)"
     ]
   },
   {
@@ -367,12 +367,13 @@
     "Artist": "White Zombie",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Soul-Crusher (1987)^",
       "Make Them Die Slowly (1989)^",
       "La Sexorcisto: Devil Music Volume One (1992)",
       "Astro-Creep: 2000 (1995)^"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Soul-Crusher (1987)^"
+    ]
   },
   {
     "Artist": "The Chemical Brothers",
