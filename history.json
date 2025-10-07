@@ -64,5 +64,11 @@
     "artist": "White Zombie",
     "album": "Soul-Crusher (1987)^",
     "timestamp": "2025-10-05T10:19:41.235Z"
+  },
+  {
+    "action": "add",
+    "artist": "Blink-182",
+    "album": "Dude Ranch (1997)",
+    "timestamp": "2025-10-07T10:22:14.845Z"
   }
 ]
