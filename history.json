@@ -70,5 +70,11 @@
     "artist": "Blink-182",
     "album": "Dude Ranch (1997)",
     "timestamp": "2025-10-07T10:22:14.845Z"
+  },
+  {
+    "action": "add",
+    "artist": "Coldplay",
+    "album": "A Rush of Blood to the Head (2002)",
+    "timestamp": "2025-10-11T10:19:24.842Z"
   }
 ]
