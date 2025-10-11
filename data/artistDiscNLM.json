@@ -194,7 +194,6 @@
     "Artist": "Coldplay",
     "Group": "🔵 Alternative / Indie /Folk-Rock",
     "Albums": [
-      "A Rush of Blood to the Head (2002)",
       "X&Y (2005)",
       "Viva la Vida or Death and All His Friends (2008)",
       "Mylo Xyloto (2011)",
@@ -205,7 +204,8 @@
       "Moon Music (2024)"
     ],
     "AddedAlbums": [
-      "Parachutes (2000)"
+      "Parachutes (2000)",
+      "A Rush of Blood to the Head (2002)"
     ]
   },
   {
