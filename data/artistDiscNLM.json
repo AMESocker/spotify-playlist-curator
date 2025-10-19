@@ -150,7 +150,7 @@
       "Keasbey Nights (1998)^"
     ]
   },
-    {
+  {
     "Artist": "Streetlight Manifesto",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
@@ -221,7 +221,6 @@
     "Artist": "The White Stripes",
     "Group": "🔵 Alternative / Indie /Folk-Rock",
     "Albums": [
-      "White Blood Cells (2001)",
       "Elephant (2003)",
       "Get Behind Me Satan (2005)",
       "Broken Boy Soldiers (2006)",
@@ -240,7 +239,8 @@
     ],
     "AddedAlbums": [
       "The White Stripes (1999)",
-      "De Stijl (2000)"
+      "De Stijl (2000)",
+      "White Blood Cells (2001)"
     ]
   },
   {
@@ -299,7 +299,6 @@
     "Artist": "Korn",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Life Is Peachy (1996)",
       "Follow the Leader (1998)",
       "Issues (1999)",
       "Untouchables (2002)",
@@ -313,7 +312,8 @@
       "The Nothing (2019)"
     ],
     "AddedAlbums": [
-      "Korn (1994)"
+      "Korn (1994)",
+      "Life Is Peachy (1996)"
     ]
   },
   {
