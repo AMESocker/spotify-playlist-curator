@@ -94,5 +94,11 @@
     "artist": "Korn",
     "album": "Life Is Peachy (1996)",
     "timestamp": "2025-10-19T10:20:19.882Z"
+  },
+  {
+    "action": "add",
+    "artist": "Alanis Morissette",
+    "album": "Supposed Former Infatuation Junkie (1998)^",
+    "timestamp": "2025-10-20T10:27:31.305Z"
   }
 ]
