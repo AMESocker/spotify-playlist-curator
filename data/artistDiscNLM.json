@@ -169,7 +169,6 @@
     "Artist": "Less Than Jake",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Losing Streak (1996)^",
       "Hello Rockview (1998)",
       "Borders & Boundaries (2000)",
       "Anthem (2003)",
@@ -180,7 +179,8 @@
       "Uncharted"
     ],
     "AddedAlbums": [
-      "Pezcore (1995)^"
+      "Pezcore (1995)^",
+      "Losing Streak (1996)^"
     ]
   },
   {
