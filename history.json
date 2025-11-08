@@ -112,5 +112,17 @@
     "artist": "The Chemical Brothers",
     "album": "Dig Your Own Hole (1997)",
     "timestamp": "2025-11-02T10:20:08.935Z"
+  },
+  {
+    "action": "add",
+    "artist": "Linkin Park",
+    "album": "Meteora (2003)",
+    "timestamp": "2025-11-08T18:16:36.439Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Killers",
+    "album": "Sam's Town (2006)",
+    "timestamp": "2025-11-08T18:16:54.405Z"
   }
 ]
