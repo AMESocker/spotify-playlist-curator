@@ -247,7 +247,6 @@
     "Artist": "The Killers",
     "Group": "🔵 Alternative / Indie /Folk-Rock",
     "Albums": [
-      "Sam's Town (2006)",
       "Day & Age (2008)",
       "Battle Born (2012)",
       "Wonderful Wonderful (2017)",
@@ -255,7 +254,8 @@
       "Pressure Machine (2021)"
     ],
     "AddedAlbums": [
-      "Hot Fuss (2004)"
+      "Hot Fuss (2004)",
+      "Sam's Town (2006)"
     ]
   },
   {
@@ -320,7 +320,6 @@
     "Artist": "Linkin Park",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Meteora (2003)",
       "Minutes to Midnight (2007)",
       "A Thousand Suns (2010)",
       "Living Things (2012)",
@@ -329,7 +328,8 @@
       "From Zero"
     ],
     "AddedAlbums": [
-      "Hybrid Theory (2000)"
+      "Hybrid Theory (2000)",
+      "Meteora (2003)"
     ]
   },
   {
