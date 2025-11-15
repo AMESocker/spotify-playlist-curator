@@ -20,7 +20,6 @@
     "Artist": "Goo Goo Dolls",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Jed (1989)",
       "Hold Me Up (1990)",
       "A Boy Named Goo (1995)",
       "Dizzy Up the Girl (1998)",
@@ -36,7 +35,8 @@
     ],
     "AddedAlbums": [
       "Superstar Car Wash (1993)",
-      "Goo Goo Dolls (1987)"
+      "Goo Goo Dolls (1987)",
+      "Jed (1989)"
     ]
   },
   {
