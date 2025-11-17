@@ -142,5 +142,11 @@
     "artist": "Goo Goo Dolls",
     "album": "Jed (1989)",
     "timestamp": "2025-11-15T10:21:38.924Z"
+  },
+  {
+    "action": "add",
+    "artist": "Rob Zombie",
+    "album": "The Sinister Urge (2001)",
+    "timestamp": "2025-11-17T10:26:38.324Z"
   }
 ]
