@@ -154,7 +154,6 @@
     "Artist": "Streetlight Manifesto",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Everything Goes Numb (2003)",
       "Keasbey Nights (2006)^",
       "Somewhere in the Between (2007)",
       "99 Songs of Revolution: Vol. 1 (2010)",
@@ -162,7 +161,8 @@
       "The Place Behind the Stars (2025)"
     ],
     "AddedAlbums": [
-      "Keasbey Nights (1998)^"
+      "Keasbey Nights (1998)^",
+      "Everything Goes Numb (2003)"
     ]
   },
   {
