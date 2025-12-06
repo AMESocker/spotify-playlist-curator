@@ -406,7 +406,6 @@
     "Artist": "The Prodigy",
     "Group": "🟣 Electronic & Experimental",
     "Albums": [
-      "Music for the Jilted Generation (1994)",
       "The Fat of the Land (1997)",
       "Always Outnumbered, Never Outgunned (2004)",
       "Invaders Must Die (2009)",
@@ -414,7 +413,8 @@
       "No Tourists (2018)"
     ],
     "AddedAlbums": [
-      "Experience (1992)"
+      "Experience (1992)",
+      "Music for the Jilted Generation (1994)"
     ]
   },
   {
