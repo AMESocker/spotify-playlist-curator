@@ -184,5 +184,11 @@
     "artist": "Weezer",
     "album": "Maladroit (2002)",
     "timestamp": "2025-12-14T10:23:04.804Z"
+  },
+  {
+    "action": "add",
+    "artist": "Korn",
+    "album": "Follow the Leader (1998)",
+    "timestamp": "2025-12-16T10:29:19.400Z"
   }
 ]
