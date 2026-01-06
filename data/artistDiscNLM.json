@@ -123,7 +123,6 @@
     "Artist": "The Offspring",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Ignition (1992)",
       "Smash (1994)",
       "Americana (1998)",
       "Conspiracy of One (2000)",
@@ -135,7 +134,8 @@
     ],
     "AddedAlbums": [
       "Ixnay on the Hombre (1997)",
-      "The Offspring (1989)"
+      "The Offspring (1989)",
+      "Ignition (1992)"
     ]
   },
   {
