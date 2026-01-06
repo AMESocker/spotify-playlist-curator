@@ -190,5 +190,11 @@
     "artist": "Korn",
     "album": "Follow the Leader (1998)",
     "timestamp": "2025-12-16T10:29:19.400Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Offspring",
+    "album": "Ignition (1992)",
+    "timestamp": "2026-01-06T10:27:58.306Z"
   }
 ]
