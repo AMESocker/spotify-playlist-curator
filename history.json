@@ -202,5 +202,11 @@
     "artist": "Rob Thomas",
     "album": "Cradlesong (2009)",
     "timestamp": "2026-01-10T10:24:33.207Z"
+  },
+  {
+    "action": "add",
+    "artist": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You (1967)",
+    "timestamp": "2026-01-13T10:28:23.502Z"
   }
 ]
