@@ -11,23 +11,23 @@ import { addTracks } from './playlist.js';
 import { getSpotify } from './auth.js';
 
 // Load JSON
-const file = "data/artistDiscNLM.json";
-const historyFile = "history.json";
+const fileMENL = "data/artistDisc.json";
+const historyFileMENL = "history.json";
 
 // Load main dataset
-const data = JSON.parse(fs.readFileSync(file, "utf-8"));
+const dataMENL = JSON.parse(fs.readFileSync(fileMENL, "utf-8"));
 
 // Load history (for undo)
 let history = [];
-if (fs.existsSync(historyFile)) {
-  history = JSON.parse(fs.readFileSync(historyFile, "utf-8"));
+if (fs.existsSync(historyFileMENL)) {
+  history = JSON.parse(fs.readFileSync(historyFileMENL, "utf-8"));
 }
 
 
 // Utility: save both files
 function saveFiles() {
-  fs.writeFileSync(file, JSON.stringify(data, null, 2));
-  fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
+  fs.writeFileSync(fileMENL, JSON.stringify(dataMENL, null, 2));
+  fs.writeFileSync(historyFileMENL, JSON.stringify(history, null, 2));
 }
 
 // Step 1: Calculate group stats
@@ -78,7 +78,7 @@ function getCandidates(dataset) {
 
 // Step 3: Select next album + update JSON
 export async function addNextAlbum() {
-  const candidates = getCandidates(data);
+  const candidates = getCandidates(dataMENL);
 
   if (candidates.length > 0) {
     const pick = candidates[0];
@@ -91,7 +91,7 @@ export async function addNextAlbum() {
     console.log(`Artist %: ${(pick.artistPercentage * 100).toFixed(2)}%`);
 
     // Find artist entry
-    const artistEntry = data.find((a) => a.Artist === pick.artist);
+    const artistEntry = dataMENL.find((a) => a.Artist === pick.artist);
 
     const ready = await initAuthIfNeeded();
     if (!ready) return;
@@ -157,7 +157,7 @@ function undoLastAction() {
 
   const last = history.pop();
   if (last.action === "add") {
-    const artistEntry = data.find((a) => a.Artist === last.artist);
+    const artistEntry = dataMENL.find((a) => a.Artist === last.artist);
     const albumIndex = artistEntry.AddedAlbums.indexOf(last.album);
     if (albumIndex > -1) {
       artistEntry.AddedAlbums.splice(albumIndex, 1);
