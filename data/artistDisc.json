@@ -105,7 +105,6 @@
     "Artist": "Blink-182",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Enema of the State (1999)",
       "Take Off Your Pants and Jacket (2001)",
       "Blink-182 (2003)",
       "Neighborhoods (2011)",
@@ -116,7 +115,8 @@
     ],
     "AddedAlbums": [
       "Cheshire Cat (1995)",
-      "Dude Ranch (1997)"
+      "Dude Ranch (1997)",
+      "Enema of the State (1999)"
     ]
   },
   {
@@ -221,7 +221,6 @@
     "Artist": "The White Stripes",
     "Group": "🔵 Alternative / Indie /Folk-Rock",
     "Albums": [
-      "Get Behind Me Satan (2005)",
       "Broken Boy Soldiers (2006)",
       "Icky Thump (2007)",
       "Consolers of the Lonely (2008)",
@@ -240,7 +239,8 @@
       "The White Stripes (1999)",
       "De Stijl (2000)",
       "White Blood Cells (2001)",
-      "Elephant (2003)"
+      "Elephant (2003)",
+      "Get Behind Me Satan (2005)"
     ]
   },
   {
