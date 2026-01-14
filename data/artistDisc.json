@@ -458,7 +458,6 @@
     "Artist": "Alicia Keys",
     "Group": "🟤 Soul / R&B",
     "Albums": [
-      "As I Am (2007)",
       "The Element of Freedom (2009)",
       "Girl on Fire (2012)",
       "Here (2016)",
@@ -468,7 +467,8 @@
     ],
     "AddedAlbums": [
       "Songs in A Minor (2001)",
-      "The Diary of Alicia Keys (2003)"
+      "The Diary of Alicia Keys (2003)",
+      "As I Am (2007)"
     ]
   },
   {
@@ -1046,11 +1046,12 @@
     "Orig": "AES",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Audioslave (2002)",
       "Out of Exile (2005)",
       "Revelations (2006)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Audioslave (2002)"
+    ]
   },
   {
     "Artist": "The Beatles Core / Compilation",
