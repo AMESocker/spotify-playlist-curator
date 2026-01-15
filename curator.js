@@ -1,36 +1,85 @@
-//File: curator.js
-// Usage
+// File: curator.js
+// Usage:
 // Add Next Album   --- node curator.js add
 // Undo Last Action --- node curator.js undo
+
 import 'dotenv/config';
 import fs from "fs";
 import { getAlbumTrackCount } from "./albumInfo.js";
-import { initAuthIfNeeded } from './auth.js';
-import { checkPlaylistSizes } from './playlistChecker.js'; // ✅ import here
-import { addTracks } from './playlist.js';
-import { getSpotify } from './auth.js';
+import { initAuthIfNeeded, getSpotify } from "./auth.js";
+import { checkPlaylistSizes } from "./playlistChecker.js";
+import { addTracks } from "./playlist.js";
 
-// Load JSON
-const fileMENL = "data/artistDisc.json";
-const historyFileMENL = "history.json";
+/* ==================================================
+   DATA SOURCES
+================================================== */
 
-// Load main dataset
-const dataMENL = JSON.parse(fs.readFileSync(fileMENL, "utf-8"));
+const dataSources = [
+  {
+    name: "artistDisc",
+    file: "data/artistDisc.json",
+    strategy: "fairness"
+  },
+  {
+    name: "1001Albums",
+    file: "data/1001Albums.json",
+    strategy: "sequential"
+  }
+];
 
-// Load history (for undo)
+const sourceIndexFile = "data/sourceIndex.json";
+const historyFile = "history.json";
+
+/* ==================================================
+   SOURCE INDEX INITIALIZATION
+================================================== */
+
+if (!fs.existsSync(sourceIndexFile)) {
+  fs.writeFileSync(
+    sourceIndexFile,
+    JSON.stringify({ index: 0 }, null, 2)
+  );
+}
+
+let sourceIndex = JSON.parse(
+  fs.readFileSync(sourceIndexFile, "utf-8")
+).index;
+
+const currentSource = dataSources[sourceIndex];
+const dataFile = currentSource.file;
+
+/* ==================================================
+   LOAD DATA + HISTORY
+================================================== */
+
+const data = JSON.parse(fs.readFileSync(dataFile, "utf-8"));
+
 let history = [];
-if (fs.existsSync(historyFileMENL)) {
-  history = JSON.parse(fs.readFileSync(historyFileMENL, "utf-8"));
+if (fs.existsSync(historyFile)) {
+  history = JSON.parse(fs.readFileSync(historyFile, "utf-8"));
 }
 
+/* ==================================================
+   UTILITIES
+================================================== */
 
-// Utility: save both files
-function saveFiles() {
-  fs.writeFileSync(fileMENL, JSON.stringify(dataMENL, null, 2));
-  fs.writeFileSync(historyFileMENL, JSON.stringify(history, null, 2));
+function saveData() {
+  fs.writeFileSync(dataFile, JSON.stringify(data, null, 2));
+  fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
 }
 
-// Step 1: Calculate group stats
+function advanceSource() {
+  sourceIndex = (sourceIndex + 1) % dataSources.length;
+  fs.writeFileSync(
+    sourceIndexFile,
+    JSON.stringify({ index: sourceIndex }, null, 2)
+  );
+}
+
+/* ==================================================
+   FAIRNESS LOGIC (USED BY ONE SOURCE ONLY)
+================================================== */
+
 function calculateGroupStats(dataset) {
   const stats = {};
   for (const artist of dataset) {
@@ -44,25 +93,21 @@ function calculateGroupStats(dataset) {
   return stats;
 }
 
-// Step 2: Compute candidate ranking
 function getCandidates(dataset) {
   const groupStats = calculateGroupStats(dataset);
 
   return dataset
-    .filter((artist) => artist.Albums.length > 0)
-    .map((artist) => {
-      const group = artist.Group;
-      const totalAlbums = artist.Albums.length + artist.AddedAlbums.length;
-      const artistPercentage = artist.AddedAlbums.length / totalAlbums;
-      const groupPercentage = groupStats[group].added / groupStats[group].albums;
-
+    .filter(a => a.Albums.length > 0)
+    .map(a => {
+      const totalAlbums = a.Albums.length + a.AddedAlbums.length;
       return {
-        artist: artist.Artist,
-        group,
+        artist: a.Artist,
+        group: a.Group,
+        artistPercentage: a.AddedAlbums.length / totalAlbums,
+        groupPercentage:
+          groupStats[a.Group].added / groupStats[a.Group].albums,
         totalAlbums,
-        artistPercentage,
-        groupPercentage,
-        nextAlbum: artist.Albums[0],
+        nextAlbum: a.Albums[0]
       };
     })
     .sort((a, b) => {
@@ -76,79 +121,101 @@ function getCandidates(dataset) {
     });
 }
 
-// Step 3: Select next album + update JSON
-export async function addNextAlbum() {
-  const candidates = getCandidates(dataMENL);
-
-  if (candidates.length > 0) {
-    const pick = candidates[0];
-
-    console.log("🎵 Next album selected:");
-    console.log(`Artist: ${pick.artist}`);
-    console.log(`Album: ${pick.nextAlbum}`);
-    console.log(`Group: ${pick.group}`);
-    console.log(`Group %: ${(pick.groupPercentage * 100).toFixed(2)}%`);
-    console.log(`Artist %: ${(pick.artistPercentage * 100).toFixed(2)}%`);
-
-    // Find artist entry
-    const artistEntry = dataMENL.find((a) => a.Artist === pick.artist);
-
-    const ready = await initAuthIfNeeded();
-    if (!ready) return;
-
-    const albumInfo = await getAlbumTrackCount(pick.artist, pick.nextAlbum);
-
-    if (albumInfo) {
-      console.log(`ℹ️ Album: "${albumInfo.name}"`);
-      console.log(`Tracks: ${albumInfo.totalTracks}`);
-      console.log(`Release: ${albumInfo.release}`);
-      console.log(`Link: ${albumInfo.url}`);
-
-      // ✅ Check playlist sizes
-      const sizes = await checkPlaylistSizes();
-      const targetPlaylistId = process.env.TARGET_PLAYLIST_ID; // define in .env
-      const playlistSize = sizes.find(p => p.playlistId === targetPlaylistId);
-
-      if (playlistSize && (playlistSize.trackCount + albumInfo.totalTracks) > 100) {
-        console.log(`⚠️ Skipping album — adding ${albumInfo.totalTracks} tracks would exceed 100 limit.`);
-        return; // stop here, don’t update dataset
-      }
-
-      // ✅ Fetch album tracks
-      const spotify = getSpotify();
-      const trackRes = await spotify.getAlbumTracks(albumInfo.id, { limit: 50 });
-      const uris = trackRes.body.items.map(t => t.uri);
-
-      // ✅ Add to Spotify playlist
-      await addTracks(targetPlaylistId, uris);
-      console.log(`🎶 Added ${uris.length} tracks to playlist ${targetPlaylistId}.`);
-
-      // Move album
-      const albumIndex = artistEntry.Albums.indexOf(pick.nextAlbum);
-      artistEntry.Albums.splice(albumIndex, 1);
-      artistEntry.AddedAlbums.push(pick.nextAlbum);
-
-      // Save action to history
-      history.push({
-        action: "add",
-        artist: pick.artist,
-        album: pick.nextAlbum,
-        timestamp: new Date().toISOString(),
-      });
-
-      saveFiles();
-      console.log("✅ Dataset updated and saved.");
-
-    } else {
-      console.log("⚠️ Could not find album on Spotify.");
-    }
-
-  } else {
-    console.log("🎉 No albums left to add!");
-  }
+function selectWithFairness(dataset) {
+  const candidates = getCandidates(dataset);
+  return candidates.length > 0 ? candidates[0] : null;
 }
 
-// Step 4: Undo last action
+/* ==================================================
+   SEQUENTIAL STRATEGY (DEFAULT)
+================================================== */
+/*
+function selectSequential(dataset) {
+  const artist = dataset.find(a => a.Albums.length > 0);
+  if (!artist) return null;
+
+  return {
+    artist: artist.Artist,
+    nextAlbum: artist.Albums[0]
+  };
+} */
+function selectSequential(dataset) {
+  if (dataset.length === 0) return null;
+  return dataset[0];
+}
+
+/* ==================================================
+   ADD NEXT ALBUM
+================================================== */
+
+export async function addNextAlbum() {
+  let pick;
+
+  if (currentSource.strategy === "fairness") {
+    pick = selectWithFairness(data);
+  } else {
+    pick = selectSequential(data);
+  }
+
+  if (!pick) {
+    console.log(`🎉 No albums left in ${currentSource.name}`);
+    advanceSource();
+    return;
+  }
+
+  const artistEntry = data.find(a => a.Artist === pick.artist);
+  const albumName = pick.nextAlbum;
+
+  console.log("🎵 Next album selected:");
+  console.log(`Source: ${currentSource.name}`);
+  console.log(`Artist: ${pick.artist}`);
+  console.log(`Album: ${albumName}`);
+
+  const ready = await initAuthIfNeeded();
+  if (!ready) return;
+
+  const albumInfo = await getAlbumTrackCount(pick.artist, albumName);
+  if (!albumInfo) {
+    console.log("⚠️ Album not found on Spotify.");
+    return;
+  }
+
+  const sizes = await checkPlaylistSizes();
+  const targetPlaylistId = process.env.TARGET_PLAYLIST_ID;
+  const playlistSize = sizes.find(p => p.playlistId === targetPlaylistId);
+
+  if (playlistSize && playlistSize.trackCount + albumInfo.totalTracks > 100) {
+    console.log("⚠️ Skipping — playlist limit would be exceeded.");
+    return;
+  }
+
+  const spotify = getSpotify();
+  const tracks = await spotify.getAlbumTracks(albumInfo.id, { limit: 50 });
+  const uris = tracks.body.items.map(t => t.uri);
+
+  await addTracks(targetPlaylistId, uris);
+  console.log(`🎶 Added ${uris.length} tracks.`);
+
+  // Move album in dataset
+  artistEntry.Albums.shift();
+  artistEntry.AddedAlbums.push(albumName);
+
+  history.push({
+    action: "add",
+    artist: pick.artist,
+    album: albumName,
+    sourceFile: dataFile,
+    timestamp: new Date().toISOString()
+  });
+
+  saveData();
+  advanceSource();
+}
+
+/* ==================================================
+   UNDO LAST ACTION (SOURCE-AWARE)
+================================================== */
+
 function undoLastAction() {
   if (history.length === 0) {
     console.log("⚠️ No history to undo.");
@@ -156,21 +223,28 @@ function undoLastAction() {
   }
 
   const last = history.pop();
-  if (last.action === "add") {
-    const artistEntry = dataMENL.find((a) => a.Artist === last.artist);
-    const albumIndex = artistEntry.AddedAlbums.indexOf(last.album);
-    if (albumIndex > -1) {
-      artistEntry.AddedAlbums.splice(albumIndex, 1);
-      artistEntry.Albums.unshift(last.album); // put it back at the start
-      console.log(`↩️ Undid: moved "${last.album}" back to ${last.artist}'s Albums`);
-    }
+  const undoData = JSON.parse(fs.readFileSync(last.sourceFile, "utf-8"));
+
+  const artistEntry = undoData.find(a => a.Artist === last.artist);
+  if (!artistEntry) return;
+
+  const index = artistEntry.AddedAlbums.indexOf(last.album);
+  if (index > -1) {
+    artistEntry.AddedAlbums.splice(index, 1);
+    artistEntry.Albums.unshift(last.album);
   }
 
-  saveFiles();
+  fs.writeFileSync(last.sourceFile, JSON.stringify(undoData, null, 2));
+  fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
+
+  console.log(`↩️ Undid album "${last.album}" from ${last.artist}`);
 }
 
-// --- Run mode ---
-const mode = process.argv[2]; // "add" or "undo"
+/* ==================================================
+   RUN MODE
+================================================== */
+
+const mode = process.argv[2];
 
 if (mode === "undo") {
   undoLastAction();
