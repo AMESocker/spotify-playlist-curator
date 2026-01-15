@@ -21,8 +21,8 @@ const dataSources = [
     strategy: "fairness"
   },
   {
-    name: "1001Albums",
-    file: "data/1001Albums.json",
+    name: "1080albums",
+    file: "data/1080albums.json",
     strategy: "sequential"
   }
 ];
