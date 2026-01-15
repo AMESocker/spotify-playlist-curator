@@ -262,5 +262,12 @@
     "artist": "Less Than Jake",
     "album": "Hello Rockview (1998)",
     "timestamp": "2026-01-14T18:38:01.863Z"
+  },
+  {
+    "action": "add",
+    "artist": "Everclear",
+    "album": "Sparkle and Fade (1995)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-15T20:17:41.726Z"
   }
 ]
