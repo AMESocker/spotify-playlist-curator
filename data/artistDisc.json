@@ -43,7 +43,6 @@
     "Artist": "Everclear",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Sparkle and Fade (1995)",
       "So Much for the Afterglow (1997)",
       "Songs from an American Movie Vol. One: Learning How to Smile (2000)",
       "Slow Motion Daydream (2003)",
@@ -54,7 +53,8 @@
     ],
     "AddedAlbums": [
       "Songs from an American Movie Vol. Two: Good Time for a Bad Attitude (2000)",
-      "World of Noise"
+      "World of Noise",
+      "Sparkle and Fade (1995)"
     ]
   },
   {
