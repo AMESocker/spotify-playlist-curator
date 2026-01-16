@@ -275,7 +275,6 @@
     "Artist": "Weezer",
     "Group": "🔵 Alternative / Indie /Folk-Rock",
     "Albums": [
-      "Make Believe (2005)",
       "Weezer (Red Album) (2008)",
       "Raditude (2009)^",
       "Hurley (2010)",
@@ -292,7 +291,8 @@
       "Weezer (Blue Album) (1994)^",
       "Pinkerton (1996)",
       "Weezer (Green Album) (2001)",
-      "Maladroit (2002)"
+      "Maladroit (2002)",
+      "Make Believe (2005)"
     ]
   },
   {
@@ -896,7 +896,6 @@
     "Orig": "AES",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Nothing Gold Can Stay (1999)",
       "New Found Glory (2000)",
       "Sticks and Stones (2002)",
       "Catalyst (2004)",
@@ -909,7 +908,8 @@
     "AddedAlbums": [
       "Coming Home (2006)",
       "Radiosurgery (2011)",
-      "Resurrection (2014)"
+      "Resurrection (2014)",
+      "Nothing Gold Can Stay (1999)"
     ]
   },
   {
