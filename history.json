@@ -297,5 +297,12 @@
     "album": "Boggy Depot",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-16T01:17:32.698Z"
+  },
+  {
+    "action": "add",
+    "artist": "Sum-41",
+    "album": "Chuck (2004)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-17T10:23:41.022Z"
   }
 ]
