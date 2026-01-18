@@ -304,5 +304,19 @@
     "album": "Chuck (2004)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-17T10:23:41.022Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Chemical Brothers",
+    "album": "Surrender (1999)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-18T10:24:59.370Z"
+  },
+  {
+    "action": "add",
+    "artist": "Alanis Morissette",
+    "album": "Under Rug Swept (2002)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-18T10:25:18.062Z"
   }
 ]
