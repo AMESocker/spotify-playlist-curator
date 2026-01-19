@@ -318,5 +318,12 @@
     "album": "Under Rug Swept (2002)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-18T10:25:18.062Z"
+  },
+  {
+    "action": "add",
+    "artist": "Megadeth",
+    "album": "Killing Is My Business... and Business Is Good! (1985)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-19T10:33:40.383Z"
   }
 ]
