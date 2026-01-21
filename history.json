@@ -325,5 +325,19 @@
     "album": "Killing Is My Business... and Business Is Good! (1985)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-19T10:33:40.383Z"
+  },
+  {
+    "action": "add",
+    "artist": "Catch 22",
+    "album": "Alone in a Crowd (2000)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-21T19:18:52.610Z"
+  },
+  {
+    "action": "add",
+    "artist": "Megadeth",
+    "album": "Peace Sells... but Who's Buying? (1986)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-21T19:19:06.806Z"
   }
 ]
