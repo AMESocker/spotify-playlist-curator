@@ -142,12 +142,12 @@
     "Artist": "Catch 22",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Alone in a Crowd (2000)",
       "Dinosaur Sounds (2003)",
       "Permanent Revolution (2006)"
     ],
     "AddedAlbums": [
-      "Keasbey Nights (1998)^"
+      "Keasbey Nights (1998)^",
+      "Alone in a Crowd (2000)"
     ]
   },
   {
@@ -255,13 +255,13 @@
     ],
     "AddedAlbums": []
   },
-    {
+  {
     "Artist": "The Dead Weather",
     "Group": "🔵 Alternative / Indie /Folk-Rock",
     "Albums": [
-    "Horehound (2009)",
-    "Sea of Cowards (2010)",
-    "Dodge and Burn (2015)" 
+      "Horehound (2009)",
+      "Sea of Cowards (2010)",
+      "Dodge and Burn (2015)"
     ],
     "AddedAlbums": []
   },
@@ -831,7 +831,6 @@
     "Orig": "AES",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Peace Sells... but Who's Buying? (1986)",
       "So Far, So Good... So What! (1988)",
       "Rust in Peace (1990)",
       "Youthanasia (1994)",
@@ -848,7 +847,8 @@
     "AddedAlbums": [
       "Countdown to Extinction (1992)",
       "The Sick, the Dying... and the Dead! (2022)",
-      "Killing Is My Business... and Business Is Good! (1985)"
+      "Killing Is My Business... and Business Is Good! (1985)",
+      "Peace Sells... but Who's Buying? (1986)"
     ]
   },
   {
