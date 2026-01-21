@@ -339,5 +339,12 @@
     "album": "Peace Sells... but Who's Buying? (1986)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-21T19:19:06.806Z"
+  },
+  {
+    "action": "add",
+    "artist": "Pearl Jam",
+    "album": "Vitalogy (1994)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-21T22:13:50.239Z"
   }
 ]
