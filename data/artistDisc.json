@@ -221,19 +221,7 @@
     "Artist": "The White Stripes",
     "Group": "🔵 Alternative / Indie /Folk-Rock",
     "Albums": [
-      "Broken Boy Soldiers (2006)",
-      "Icky Thump (2007)",
-      "Consolers of the Lonely (2008)",
-      "Horehound (2009)",
-      "Sea of Cowards (2010)",
-      "Blunderbuss (2012)",
-      "Lazaretto (2014)",
-      "Dodge and Burn (2015)",
-      "Boarding House Reach (2018)",
-      "Help Us Stranger (2019)",
-      "Fear of the Dawn (2022)",
-      "Entering Heaven Alive (2022)",
-      "No Name (2024)"
+      "Icky Thump (2007)"
     ],
     "AddedAlbums": [
       "The White Stripes (1999)",
@@ -242,6 +230,40 @@
       "Elephant (2003)",
       "Get Behind Me Satan (2005)"
     ]
+  },
+  {
+    "Artist": "The Raconteurs",
+    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Albums": [
+      "Consolers of the Lonely (2008)",
+      "Help Us Stranger (2019)"
+    ],
+    "AddedAlbums": [
+      "Broken Boy Soldiers (2006)"
+    ]
+  },
+  {
+    "Artist": "Jack White",
+    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Albums": [
+      "Blunderbuss (2012)",
+      "Lazaretto (2014)",
+      "Boarding House Reach (2018)",
+      "Fear of the Dawn (2022)",
+      "Entering Heaven Alive (2022)",
+      "No Name (2024)"
+    ],
+    "AddedAlbums": []
+  },
+    {
+    "Artist": "The Dead Weather",
+    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Albums": [
+    "Horehound (2009)",
+    "Sea of Cowards (2010)",
+    "Dodge and Burn (2015)" 
+    ],
+    "AddedAlbums": []
   },
   {
     "Artist": "The Killers",
@@ -576,13 +598,13 @@
     "Orig": "AES",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
+      "Boggy Depot",
       "Degradation Trip",
       "Degradation Trip Vol. 2",
       "Brighten"
     ],
     "AddedAlbums": [
-      "I Want Blood",
-      "Boggy Depot"
+      "I Want Blood"
     ]
   },
   {
