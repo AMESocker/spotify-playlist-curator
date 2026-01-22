@@ -346,5 +346,19 @@
     "album": "Vitalogy (1994)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-21T22:13:50.239Z"
+  },
+  {
+    "action": "add",
+    "artist": "Anderson .Paak",
+    "album": "Malibu (2016)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T10:31:53.410Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Offspring",
+    "album": "Smash (1994)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T10:32:07.872Z"
   }
 ]
