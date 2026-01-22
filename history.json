@@ -374,5 +374,12 @@
     "album": "System of a Down (1998)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-22T18:32:29.092Z"
+  },
+  {
+    "action": "add",
+    "artist": "Au5",
+    "album": "Anchus Definy",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T18:39:31.477Z"
   }
 ]
