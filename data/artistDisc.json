@@ -89,7 +89,6 @@
     "Artist": "Stone Temple Pilots",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Purple (1994)",
       "Tiny Music... Songs from the Vatican Gift Shop (1996)",
       "No. 4 (1999)",
       "Shangri-La Dee Da (2001)",
@@ -98,7 +97,8 @@
     ],
     "AddedAlbums": [
       "Perdida (2020)",
-      "Core (1992)"
+      "Core (1992)",
+      "Purple (1994)"
     ]
   },
   {
