@@ -123,7 +123,6 @@
     "Artist": "The Offspring",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Smash (1994)",
       "Americana (1998)",
       "Conspiracy of One (2000)",
       "Splinter (2003)",
@@ -135,7 +134,8 @@
     "AddedAlbums": [
       "Ixnay on the Hombre (1997)",
       "The Offspring (1989)",
-      "Ignition (1992)"
+      "Ignition (1992)",
+      "Smash (1994)"
     ]
   },
   {
@@ -535,12 +535,12 @@
     "Artist": "Anderson .Paak",
     "Group": "🟤 Soul / R&B",
     "Albums": [
-      "Malibu (2016)",
       "Oxnard (2018)",
       "Ventura (2019)"
     ],
     "AddedAlbums": [
-      "Venice (2014)"
+      "Venice (2014)",
+      "Malibu (2016)"
     ]
   },
   {
