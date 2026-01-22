@@ -290,12 +290,5 @@
     "album": "Nothing Gold Can Stay (1999)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-16T01:16:42.042Z"
-  },
-  {
-    "action": "add",
-    "artist": "Jerry Cantrell",
-    "album": "Boggy Depot",
-    "sourceFile": "data/artistDisc.json",
-    "timestamp": "2026-01-16T01:17:32.698Z"
   }
 ]
