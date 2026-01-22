@@ -388,5 +388,12 @@
     "album": "Purple (1994)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-22T21:05:40.756Z"
+  },
+  {
+    "action": "add",
+    "artist": "Jack White",
+    "album": "Blunderbuss (2012)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T22:09:55.362Z"
   }
 ]
