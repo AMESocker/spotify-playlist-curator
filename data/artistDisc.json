@@ -3,7 +3,6 @@
     "Artist": "Alanis Morissette",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Under Rug Swept (2002)",
       "Feast on Scraps (2002)",
       "So-Called Chaos (2004)",
       "Flavors of Entanglement (2008)",
@@ -13,7 +12,8 @@
     ],
     "AddedAlbums": [
       "Jagged Little Pill (1995)",
-      "Supposed Former Infatuation Junkie (1998)^"
+      "Supposed Former Infatuation Junkie (1998)^",
+      "Under Rug Swept (2002)"
     ]
   },
   {
@@ -123,7 +123,6 @@
     "Artist": "The Offspring",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Smash (1994)",
       "Americana (1998)",
       "Conspiracy of One (2000)",
       "Splinter (2003)",
@@ -135,19 +134,20 @@
     "AddedAlbums": [
       "Ixnay on the Hombre (1997)",
       "The Offspring (1989)",
-      "Ignition (1992)"
+      "Ignition (1992)",
+      "Smash (1994)"
     ]
   },
   {
     "Artist": "Catch 22",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Alone in a Crowd (2000)",
       "Dinosaur Sounds (2003)",
       "Permanent Revolution (2006)"
     ],
     "AddedAlbums": [
-      "Keasbey Nights (1998)^"
+      "Keasbey Nights (1998)^",
+      "Alone in a Crowd (2000)"
     ]
   },
   {
@@ -187,7 +187,6 @@
     "Artist": "Sum-41",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Chuck (2004)",
       "Underclass Hero (2007)",
       "Screaming Bloody Murder (2011)",
       "13 Voices (2016)",
@@ -196,7 +195,8 @@
     ],
     "AddedAlbums": [
       "All Killer No Filler (2001)",
-      "Does This Look Infected? (2002)"
+      "Does This Look Infected? (2002)",
+      "Chuck (2004)"
     ]
   },
   {
@@ -255,13 +255,13 @@
     ],
     "AddedAlbums": []
   },
-    {
+  {
     "Artist": "The Dead Weather",
     "Group": "🔵 Alternative / Indie /Folk-Rock",
     "Albums": [
-    "Horehound (2009)",
-    "Sea of Cowards (2010)",
-    "Dodge and Burn (2015)" 
+      "Horehound (2009)",
+      "Sea of Cowards (2010)",
+      "Dodge and Burn (2015)"
     ],
     "AddedAlbums": []
   },
@@ -410,7 +410,6 @@
     "Artist": "The Chemical Brothers",
     "Group": "🟣 Electronic & Experimental",
     "Albums": [
-      "Surrender (1999)",
       "Come with Us (2002)",
       "Push the Button (2005)",
       "We Are the Night (2007)",
@@ -421,7 +420,8 @@
     ],
     "AddedAlbums": [
       "Exit Planet Dust (1995)",
-      "Dig Your Own Hole (1997)"
+      "Dig Your Own Hole (1997)",
+      "Surrender (1999)"
     ]
   },
   {
@@ -535,12 +535,12 @@
     "Artist": "Anderson .Paak",
     "Group": "🟤 Soul / R&B",
     "Albums": [
-      "Malibu (2016)",
       "Oxnard (2018)",
       "Ventura (2019)"
     ],
     "AddedAlbums": [
-      "Venice (2014)"
+      "Venice (2014)",
+      "Malibu (2016)"
     ]
   },
   {
@@ -831,8 +831,6 @@
     "Orig": "AES",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Killing Is My Business... and Business Is Good! (1985)",
-      "Peace Sells... but Who's Buying? (1986)",
       "So Far, So Good... So What! (1988)",
       "Rust in Peace (1990)",
       "Youthanasia (1994)",
@@ -848,7 +846,9 @@
     ],
     "AddedAlbums": [
       "Countdown to Extinction (1992)",
-      "The Sick, the Dying... and the Dead! (2022)"
+      "The Sick, the Dying... and the Dead! (2022)",
+      "Killing Is My Business... and Business Is Good! (1985)",
+      "Peace Sells... but Who's Buying? (1986)"
     ]
   },
   {
@@ -985,7 +985,6 @@
     "Orig": "AES",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Vitalogy (1994)",
       "No Code (1996)",
       "Yield (1998)",
       "Binaural (2000)",
@@ -998,7 +997,8 @@
     "AddedAlbums": [
       "Ten (1991)",
       "Vs. (1993)",
-      "Dark Matter (2024)"
+      "Dark Matter (2024)",
+      "Vitalogy (1994)"
     ]
   },
   {

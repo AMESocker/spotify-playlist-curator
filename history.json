@@ -290,5 +290,75 @@
     "album": "Nothing Gold Can Stay (1999)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-16T01:16:42.042Z"
+  },
+  {
+    "action": "add",
+    "artist": "Jerry Cantrell",
+    "album": "Boggy Depot",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-16T01:17:32.698Z"
+  },
+  {
+    "action": "add",
+    "artist": "Sum-41",
+    "album": "Chuck (2004)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-17T10:23:41.022Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Chemical Brothers",
+    "album": "Surrender (1999)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-18T10:24:59.370Z"
+  },
+  {
+    "action": "add",
+    "artist": "Alanis Morissette",
+    "album": "Under Rug Swept (2002)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-18T10:25:18.062Z"
+  },
+  {
+    "action": "add",
+    "artist": "Megadeth",
+    "album": "Killing Is My Business... and Business Is Good! (1985)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-19T10:33:40.383Z"
+  },
+  {
+    "action": "add",
+    "artist": "Catch 22",
+    "album": "Alone in a Crowd (2000)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-21T19:18:52.610Z"
+  },
+  {
+    "action": "add",
+    "artist": "Megadeth",
+    "album": "Peace Sells... but Who's Buying? (1986)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-21T19:19:06.806Z"
+  },
+  {
+    "action": "add",
+    "artist": "Pearl Jam",
+    "album": "Vitalogy (1994)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-21T22:13:50.239Z"
+  },
+  {
+    "action": "add",
+    "artist": "Anderson .Paak",
+    "album": "Malibu (2016)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T10:31:53.410Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Offspring",
+    "album": "Smash (1994)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T10:32:07.872Z"
   }
 ]
