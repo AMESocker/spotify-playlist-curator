@@ -89,7 +89,6 @@
     "Artist": "Stone Temple Pilots",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Purple (1994)",
       "Tiny Music... Songs from the Vatican Gift Shop (1996)",
       "No. 4 (1999)",
       "Shangri-La Dee Da (2001)",
@@ -98,7 +97,8 @@
     ],
     "AddedAlbums": [
       "Perdida (2020)",
-      "Core (1992)"
+      "Core (1992)",
+      "Purple (1994)"
     ]
   },
   {
@@ -246,14 +246,15 @@
     "Artist": "Jack White",
     "Group": "🔵 Alternative / Indie /Folk-Rock",
     "Albums": [
-      "Blunderbuss (2012)",
       "Lazaretto (2014)",
       "Boarding House Reach (2018)",
       "Fear of the Dawn (2022)",
       "Entering Heaven Alive (2022)",
       "No Name (2024)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Blunderbuss (2012)"
+    ]
   },
   {
     "Artist": "The Dead Weather",
@@ -321,7 +322,6 @@
     "Artist": "Korn",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Issues (1999)",
       "Untouchables (2002)",
       "Take a Look in the Mirror (2003)",
       "See You on the Other Side (2005)",
@@ -335,7 +335,8 @@
     "AddedAlbums": [
       "Korn (1994)",
       "Life Is Peachy (1996)",
-      "Follow the Leader (1998)"
+      "Follow the Leader (1998)",
+      "Issues (1999)"
     ]
   },
   {
@@ -358,13 +359,13 @@
     "Artist": "System of a Down",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "System of a Down (1998)",
       "Toxicity (2001)",
       "Steal This Album! (2002)",
       "Mezmerize (2005)"
     ],
     "AddedAlbums": [
-      "Hypnotize (2005)"
+      "Hypnotize (2005)",
+      "System of a Down (1998)"
     ]
   },
   {
@@ -443,13 +444,13 @@
     "Artist": "Au5",
     "Group": "🟣 Electronic & Experimental",
     "Albums": [
-      "Anchus Definy",
       "Divinorum",
       "Alchemy[88]",
       "Bridges Between[89]"
     ],
     "AddedAlbums": [
-      "Minimality"
+      "Minimality",
+      "Anchus Definy"
     ]
   },
   {
@@ -598,13 +599,13 @@
     "Orig": "AES",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Boggy Depot",
       "Degradation Trip",
       "Degradation Trip Vol. 2",
       "Brighten"
     ],
     "AddedAlbums": [
-      "I Want Blood"
+      "I Want Blood",
+      "Boggy Depot"
     ]
   },
   {
@@ -664,7 +665,6 @@
     "Orig": "AES",
     "Group": "🟠 Classic Rock",
     "Albums": [
-      "Shades of Deep Purple (1968)",
       "The Book of Taliesyn (1968)",
       "Deep Purple (1969)",
       "Deep Purple in Rock (1970)",
@@ -688,7 +688,9 @@
       "Turning to Crime (2021)",
       "=1 (2024)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Shades of Deep Purple (1968)"
+    ]
   },
   {
     "Artist": "Nirvana",

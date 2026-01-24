@@ -360,5 +360,54 @@
     "album": "Smash (1994)",
     "sourceFile": "data/artistDisc.json",
     "timestamp": "2026-01-22T10:32:07.872Z"
+  },
+  {
+    "action": "add",
+    "artist": "Jerry Cantrell",
+    "album": "Boggy Depot",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T18:31:36.744Z"
+  },
+  {
+    "action": "add",
+    "artist": "System of a Down",
+    "album": "System of a Down (1998)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T18:32:29.092Z"
+  },
+  {
+    "action": "add",
+    "artist": "Au5",
+    "album": "Anchus Definy",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T18:39:31.477Z"
+  },
+  {
+    "action": "add",
+    "artist": "Stone Temple Pilots",
+    "album": "Purple (1994)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T21:05:40.756Z"
+  },
+  {
+    "action": "add",
+    "artist": "Jack White",
+    "album": "Blunderbuss (2012)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-22T22:09:55.362Z"
+  },
+  {
+    "action": "add",
+    "artist": "Korn",
+    "album": "Issues (1999)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-23T10:29:06.250Z"
+  },
+  {
+    "action": "add",
+    "artist": "Deep Purple",
+    "album": "Shades of Deep Purple (1968)",
+    "sourceFile": "data/artistDisc.json",
+    "timestamp": "2026-01-24T00:03:30.044Z"
   }
 ]
