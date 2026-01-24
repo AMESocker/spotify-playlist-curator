@@ -203,16 +203,19 @@ export async function addNextAlbum() {
   const albumInfo = await getAlbumTrackCount(pick.artist, albumName);
   if (!albumInfo) {
     console.log("⚠️ Album not found on Spotify.");
-    // Still remove from queue even if not found
+    // Remove from queue even if not found
     if (currentSource.strategy === "sequential") {
       data.master.shift();
+      data.added.push(`${pick.artist} - ${albumName} [NOT FOUND]`);
     } else {
       const artistEntry = data.find(a => a.Artist === pick.artist);
       if (artistEntry) {
         artistEntry.Albums.shift();
+        artistEntry.AddedAlbums.push(`${albumName} [NOT FOUND]`);
       }
     }
     saveData();
+    advanceSource();
     return;
   }
 
@@ -221,8 +224,10 @@ export async function addNextAlbum() {
   const playlistSize = sizes.find(p => p.playlistId === targetPlaylistId);
 
   if (playlistSize && (playlistSize.trackCount + albumInfo.totalTracks) > 200) {
-    console.log(`⚠️ Skipping album — adding ${albumInfo.totalTracks} tracks would exceed 200 limit.`);
-    return; // Don't update dataset if we're skipping
+    console.log(`⚠️ Playlist would exceed 200 tracks (currently ${playlistSize.trackCount}, album has ${albumInfo.totalTracks} tracks).`);
+    console.log(`⏸️  Waiting for space in playlist before adding more albums.`);
+    // Don't advance source or modify data - just stop here
+    return;
   }
 
   const spotify = getSpotify();
