@@ -140,7 +140,7 @@ function selectSequential(dataset) {
   };
 } */
 function selectSequential(dataset) {
-  if (dataset.length === 0) return null;
+  if (dataset.master.length === 0) return null;
   return dataset.master[0];
 }
 
