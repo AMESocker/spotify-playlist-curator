@@ -156,22 +156,20 @@ export async function addNextAlbum() {
   } else {
     pick = selectSequential(data);
   }
-console.log(currentSource.strategy);
+
   if (!pick) {
     console.log(`🎉 No albums left in ${currentSource.name}`);
     advanceSource();
     return;
   }
 
-  if(currentSource.strategy === "fairness"){
-
-    const artistEntry = data.find(a => a.Artist === pick.artist);
-    const albumName = pick.nextAlbum;
-    
-    console.log("🎵 Next album selected:");
-    console.log(`Source: ${currentSource.name}`);
-    console.log(`Artist: ${pick.artist}`);
-    console.log(`Album: ${albumName}`);
+  const albumName = pick.nextAlbum;
+  
+  console.log("🎵 Next album selected:");
+  console.log(`Source: ${currentSource.name}`);
+  console.log(`Strategy: ${currentSource.strategy}`);
+  console.log(`Artist: ${pick.artist}`);
+  console.log(`Album: ${albumName}`);
 
   const ready = await initAuthIfNeeded();
   if (!ready) return;
@@ -186,10 +184,10 @@ console.log(currentSource.strategy);
   const targetPlaylistId = process.env.TARGET_PLAYLIST_ID;
   const playlistSize = sizes.find(p => p.playlistId === targetPlaylistId);
 
-      if (playlistSize && (playlistSize.trackCount + albumInfo.totalTracks) > 200) {
-        console.log(`⚠️ Skipping album — adding ${albumInfo.totalTracks} tracks would exceed 100 limit.`);
-        return; // stop here, don’t update dataset
-      }
+  if (playlistSize && (playlistSize.trackCount + albumInfo.totalTracks) > 200) {
+    console.log(`⚠️ Skipping album — adding ${albumInfo.totalTracks} tracks would exceed 200 limit.`);
+    return;
+  }
 
   const spotify = getSpotify();
   const tracks = await spotify.getAlbumTracks(albumInfo.id, { limit: 50 });
@@ -198,9 +196,17 @@ console.log(currentSource.strategy);
   await addTracks(targetPlaylistId, uris);
   console.log(`🎶 Added ${uris.length} tracks.`);
 
-  // Move album in dataset
-  artistEntry.Albums.shift();
-  artistEntry.AddedAlbums.push(albumName);
+  // Move album in dataset - handle both formats
+  if (currentSource.strategy === "sequential") {
+    // For 1080albums format
+    data.master.shift();
+    data.added.push(`${pick.artist} - ${albumName}`);
+  } else {
+    // For artistDisc format (fairness strategy)
+    const artistEntry = data.find(a => a.Artist === pick.artist);
+    artistEntry.Albums.shift();
+    artistEntry.AddedAlbums.push(albumName);
+  }
 
   history.push({
     action: "add",
@@ -209,12 +215,10 @@ console.log(currentSource.strategy);
     sourceFile: dataFile,
     timestamp: new Date().toISOString()
   });
-  }
 
   saveData();
   advanceSource();
-console.log(`🔀 Current data source: ${dataSources[sourceIndex].name}`);
-  
+  console.log(`🔀 Next data source: ${dataSources[sourceIndex].name}`);
 }
 
 /* ==================================================
