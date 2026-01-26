@@ -431,5 +431,13 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-01-24T05:41:56.158Z"
+  },
+  {
+    "action": "add",
+    "artist": "Otis Redding",
+    "album": "Otis Blue: Otis Redding Sings Soul",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-01-26T21:10:15.247Z"
   }
 ]
