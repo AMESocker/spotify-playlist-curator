@@ -455,5 +455,13 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-01-26T21:11:11.812Z"
+  },
+  {
+    "action": "add",
+    "artist": "Iron Maiden",
+    "album": "Iron Maiden (1980)",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-01-26T21:12:03.716Z"
   }
 ]
