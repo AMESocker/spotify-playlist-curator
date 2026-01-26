@@ -582,7 +582,6 @@
     "Orig": "AES",
     "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
-      "Sap",
       "Jar of Flies",
       "Alice in Chains (1995)",
       "Black Gives Way to Blue (2009)",
@@ -591,7 +590,8 @@
     ],
     "AddedAlbums": [
       "Facelift (1990)",
-      "Dirt (1992)"
+      "Dirt (1992)",
+      "Sap"
     ]
   },
   {
@@ -730,7 +730,6 @@
     "Orig": "AES",
     "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
     "Albums": [
-      "Dookie",
       "Insomniac",
       "Nimrod",
       "Warning",
@@ -745,7 +744,8 @@
       "39/Smooth",
       "Kerplunk",
       "American Idiot",
-      "¡Uno!"
+      "¡Uno!",
+      "Dookie"
     ]
   },
   {

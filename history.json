@@ -439,5 +439,21 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-01-26T21:10:15.247Z"
+  },
+  {
+    "action": "add",
+    "artist": "Green Day",
+    "album": "Dookie",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-01-26T21:11:05.470Z"
+  },
+  {
+    "action": "add",
+    "artist": "Alice in Chains",
+    "album": "Sap",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-01-26T21:11:11.812Z"
   }
 ]
