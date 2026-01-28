@@ -479,5 +479,21 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-01-28T10:33:00.330Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Byrds",
+    "album": "Mr Tambourine Man",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-01-28T20:53:51.406Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Sonics",
+    "album": "Here Are the Sonics",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-01-28T20:54:05.362Z"
   }
 ]
