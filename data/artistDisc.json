@@ -1184,5 +1184,644 @@
       "Opiate^",
       "Undertow^"
     ]
+  },
+  {
+    "Artist": "Stevie Wonder",
+    "Group": "Soul / R&B",
+    "Albums": [
+      "The Jazz Soul of Little Stevie",
+      "Tribute to Uncle Ray",
+      "With a Song in My Heart",
+      "Stevie at the Beach",
+      "Up-Tight",
+      "Down to Earth",
+      "For Once in My Life",
+      "My Cherie Amour",
+      "Signed, Sealed & Delivered",
+      "Where I'm Coming From",
+      "Music of My Mind",
+      "Talking Book",
+      "Innervisions",
+      "Fulfillingness' First Finale",
+      "Songs in the Key of Life",
+      "Hotter than July",
+      "In Square Circle",
+      "Characters",
+      "Jungle Fever",
+      "Conversation Peace",
+      "A Time to Love"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Marvin Gaye",
+    "Group": "Soul / R&B",
+    "Albums": [
+      "The Soulful Moods of Marvin Gaye",
+      "That Stubborn Kinda Fellow",
+      "When I'm Alone I Cry",
+      "Hello Broadway",
+      "How Sweet It Is to Be Loved by You",
+      "In the Groove",
+      "M.P.G.",
+      "That's the Way Love Is",
+      "What's Going On",
+      "Trouble Man",
+      "Let's Get It On",
+      "I Want You",
+      "Here, My Dear",
+      "In Our Lifetime?"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Radiohead",
+    "Group": "Alternative / Indie / Folk-Rock",
+    "Albums": [
+      "Pablo Honey",
+      "The Bends",
+      "OK Computer",
+      "Kid A",
+      "Amnesiac",
+      "Hail to the Thief",
+      "In Rainbows",
+      "The King of Limbs",
+      "A Moon Shaped Pool"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Bon Iver",
+    "Group": "Alternative / Indie / Folk-Rock",
+    "Albums": [
+      "For Emma, Forever Ago",
+      "Bon Iver",
+      "22, A Million",
+      "i,i"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Fleet Foxes",
+    "Group": "Alternative / Indie / Folk-Rock",
+    "Albums": [
+      "Fleet Foxes",
+      "Helplessness Blues",
+      "Crack-Up",
+      "Shore"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "AC/DC",
+    "Group": "Classic Rock",
+    "Albums": [
+      "High Voltage",
+      "T.N.T.",
+      "Dirty Deeds Done Dirt Cheap",
+      "Powerage",
+      "Flick of the Switch",
+      "Fly on the Wall",
+      "Blow Up Your Video",
+      "Ballbreaker",
+      "Black Ice",
+      "Rock or Bust",
+      "Power Up"
+    ],
+    "AddedAlbums": [
+      "Let There Be Rock",
+      "Highway to Hell",
+      "Back in Black",
+      "For Those About to Rock We Salute You",
+      "The Razors Edge",
+      "Stiff Upper Lip"
+    ]
+  },
+  {
+    "Artist": "Sufjan Stevens",
+    "Group": "Alternative / Indie / Folk-Rock",
+    "Albums": [
+      "A Sun Came",
+      "Enjoy Your Rabbit",
+      "Michigan",
+      "Seven Swans",
+      "Illinois",
+      "The Age of Adz",
+      "Carrie & Lowell",
+      "The Ascension",
+      "Javelin"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Vulfpeck",
+    "Group": "Soul / R&B",
+    "Albums": [
+      "The Beautiful Game",
+      "Hill Climber"
+    ],
+    "AddedAlbums": [
+      "Thrill of the Arts",
+      "The Joy of Music, The Job of Real Estate",
+      "Schvitz"
+    ]
+  },
+  {
+    "Artist": "Orbital",
+    "Group": "Electronic & Experimental",
+    "Albums": [
+      "Orbital",
+      "Orbital 2",
+      "Snivilisation",
+      "In Sides",
+      "Middle of Nowhere",
+      "The Altogether",
+      "Wonky",
+      "Monsters Exist"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Bonobo",
+    "Group": "Electronic & Experimental",
+    "Albums": [
+      "Animal Magic",
+      "Dial 'M' for Monkey",
+      "Days to Come",
+      "Black Sands",
+      "The North Borders",
+      "Migration",
+      "Fragments"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Boards of Canada",
+    "Group": "Electronic & Experimental",
+    "Albums": [
+      "Music Has the Right to Children",
+      "Geogaddi",
+      "The Campfire Headphase",
+      "Tomorrow's Harvest"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "D’Angelo",
+    "Group": "Soul / R&B",
+    "Albums": [
+      "Brown Sugar",
+      "Voodoo",
+      "Black Messiah"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Flying Lotus",
+    "Group": "Electronic & Experimental",
+    "Albums": [
+      "1983",
+      "Los Angeles",
+      "Cosmogramma",
+      "Until the Quiet Comes",
+      "You're Dead!",
+      "Flamagra"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Iron & Wine",
+    "Group": "Alternative / Indie / Folk-Rock",
+    "Albums": [
+      "The Creek Drank the Cradle",
+      "Our Endless Numbered Days",
+      "The Shepherd's Dog",
+      "Kiss Each Other Clean",
+      "Ghost on Ghost",
+      "Beast Epic",
+      "Weed Garden",
+      "Light Verse"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "O.A.R.",
+    "Group": "Pop Rock",
+    "Albums": [
+      "The Wanderer",
+      "Risen",
+      "In Between Now and Then",
+      "Stories of a Stranger",
+      "All Sides",
+      "King",
+      "The Rockville LP",
+      "The Arcade",
+      "The Mighty"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Toadies",
+    "Group": "Grunge / Alt Rock / Post-Grunge",
+    "Albums": [
+      "Rubberneck",
+      "Hell Below/Stars Above",
+      "No Deliverance",
+      "Feeler",
+      "Heretics"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Third Eye Blind",
+    "Group": "Pop Rock",
+    "Albums": [
+      "Third Eye Blind",
+      "Blue",
+      "Out of the Vein",
+      "Ursa Major",
+      "Dopamine",
+      "Screamer"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Fiona Apple",
+    "Group": "Alternative / Indie / Folk-Rock",
+    "Albums": [
+      "Tidal",
+      "Extraordinary Machine",
+      "The Idler Wheel...",
+      "Fetch the Bolt Cutters"
+    ],
+    "AddedAlbums": [
+      "When the Pawn..."
+    ]
+  },
+  {
+    "Artist": "Tom Petty",
+    "Group": "Classic Rock",
+    "Albums": [
+      "Tom Petty and the Heartbreakers",
+      "You're Gonna Get It!",
+      "Damn the Torpedoes",
+      "Hard Promises",
+      "Southern Accents",
+      "Let Me Up (I've Had Enough)",
+      "Full Moon Fever",
+      "Into the Great Wide Open",
+      "Wildflowers",
+      "Echo",
+      "Mojo",
+      "Hypnotic Eye"
+    ],
+    "AddedAlbums": [
+      "Long After Dark"
+    ]
+  },
+  {
+    "Artist": "Yellowcard",
+    "Group": "Pop-Punk",
+    "Albums": [
+      "Midget Tossing",
+      "Where We Stand",
+      "One for the Kids",
+      "Ocean Avenue",
+      "Lights and Sounds",
+      "Paper Walls",
+      "When You're Through Thinking, Say Yes",
+      "Southern Air",
+      "Lift a Sail",
+      "Yellowcard"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Amber Pacific",
+    "Group": "Pop-Punk",
+    "Albums": [
+      "The Possibility and the Promise",
+      "Truth in Sincerity",
+      "Virtues"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "The Ataris",
+    "Group": "Pop-Punk",
+    "Albums": [
+      "Anywhere but Here",
+      "Blue Skies, Broken Hearts...Next 12 Exits",
+      "End Is Forever",
+      "So Long, Astoria",
+      "Welcome the Night"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Bowling for Soup",
+    "Group": "Pop-Punk",
+    "Albums": [
+      "Bowling for Soup (1994)",
+      "Rock on Honorable Ones!! (1998)",
+      "Let's Do It for Johnny!! (2000)",
+      "Drunk Enough to Dance (2002)",
+      "A Hangover You Don't Deserve (2004)",
+      "Sorry for Partyin' (2009)",
+      "Fishin' for Woos (2011)",
+      "Lunch. Drunk. Love. (2013)",
+      "Pop Drunk Snot Bread (2022)"
+    ],
+    "AddedAlbums": [
+      "The Great Burrito Extortion Case",
+      "Drunk Dynasty (2016)"
+    ]
+  },
+  {
+    "Artist": "The Toy Dolls",
+    "Group": "Punk Rock",
+    "Albums": [
+      "Dig That Groove Baby",
+      "A Far Out Disc",
+      "Idle Gossip",
+      "Ten Years of Toys",
+      "Absurd-Ditties",
+      "Dig That Groove Baby",
+      "A Far Out Disc",
+      "Idle Gossip",
+      "Ten Years of Toys",
+      "Wakey Wakey",
+      "One More Megabyte",
+      "Anniversary Anthems",
+      "We're mad! The Anthology",
+      "The Album After the Last One",
+      "Olgacoustic",
+      "EPISODE XIII"
+    ],
+    "AddedAlbums": [
+      "Bare Faced Cheek",
+      "Fat Bob's Feet",
+      "Absurd-Ditties",
+      "Orcastrated",
+      "Our Last Album?"
+    ]
+  },
+  {
+    "Artist": "Creed",
+    "Group": "Post-Grunge / Hard Rock",
+    "Albums": [
+      "My Own Prison",
+      "Human Clay",
+      "Weathered"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Alter Bridge",
+    "Group": "Post-Grunge / Hard Rock",
+    "Albums": [
+      "One Day Remains",
+      "Blackbird",
+      "AB III",
+      "Fortress",
+      "Walk the Sky",
+      "Pawns & Kings",
+      "Alter Bridge"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Godsmack",
+    "Group": "Hard Rock / Metal",
+    "Albums": [
+      "Godsmack",
+      "Awake",
+      "Faceless",
+      "IV",
+      "The Oracle",
+      "1000hp",
+      "When Legends Rise",
+      "Lighting Up the Sky"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Static-X",
+    "Group": "Industrial Metal",
+    "Albums": [
+      "Wisconsin Death Trip",
+      "Machine",
+      "Shadow Zone",
+      "Start a War",
+      "Cannibal",
+      "Cult of Static",
+      "Project Regeneration Vol. 1",
+      "Project Regeneration Vol. 2"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "King Crimson",
+    "Group": "Progressive Rock",
+    "Albums": [
+      "In the Court of the Crimson King",
+      "In the Wake of Poseidon",
+      "Lizard",
+      "Islands",
+      "Larks' Tongues in Aspic",
+      "Starless and Bible Black",
+      "Red",
+      "Discipline",
+      "Beat",
+      "Three of a Perfect Pair",
+      "THRAK",
+      "The Power to Believe"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Melvins",
+    "Group": "Sludge / Alternative Metal",
+    "Albums": [
+      "Gluey Porch Treatments (1987)",
+      "Ozma (1989)",
+      "Bullhead (1991)",
+      "Lysol (1992)",
+      "Houdini (1993)",
+      "Prick (1994)",
+      "Stag (1996)",
+      "Honky (1997)",
+      "The Maggot (1999)",
+      "The Bootlicker (1999)",
+      "The Crybaby (2000)",
+      "Electroretard (2001)",
+      "Hostile Ambient Takeover (2002)",
+      "(A) Senile Animal (2006)",
+      "Nude with Boots (2008)",
+      "The Bride Screamed Murder (2010)",
+      "Freak Puke (2012)",
+      "Everybody Loves Sausages (2013)",
+      "Tres Cabrones (2013)",
+      "Hold It In (2014)",
+      "Basses Loaded (2016)",
+      "A Walk with Love & Death (2017)",
+      "Pinkus Abortion Technician (2018)",
+      "Working with God (2021)",
+      "Five Legged Dog (2021)",
+      "Tarantula Heart (2024)",
+      "Thunderball (2025)"
+    ],
+    "AddedAlbums": [
+      "Stoner Witch (1994)",
+      "Bad Mood Rising (2022)"
+    ]
+  },
+  {
+    "Artist": "Blind Guardian",
+    "Group": "Power Metal",
+    "Albums": [
+      "Battalions of Fear (1988)",
+      "Follow the Blind (1989)",
+      "Tales from the Twilight World (1990)",
+      "Somewhere Far Beyond (1992)",
+      "Imaginations from the Other Side (1995)",
+      "The Forgotten Tales (1996)",
+      "Nightfall in Middle-Earth (1998)",
+      "A Night at the Opera (2002)",
+      "A Twist in the Myth (2006)",
+      "At the Edge of Time (2010)",
+      "Beyond the Red Mirror (2015)",
+      "Legacy of the Dark Lands (2019)",
+      "The God Machine (2022)"
+    ],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "DethKlok",
+    "Group": "Metal",
+    "Albums": [
+      "Dethalbum III",
+      "Dethalbum IV"
+    ],
+    "AddedAlbums": [
+      "The Dethalbum",
+      "Dethalbum II"
+    ]
+  },
+  {
+    "Artist": "Overkill",
+    "Group": "Thrash Metal",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Rainbow",
+    "Group": "Hard Rock / Metal",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Ozzy Osbourne",
+    "Group": "Metal",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Testament",
+    "Group": "Thrash Metal",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Ronnie James Dio",
+    "Group": "Metal",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Sly and the Family Stone",
+    "Group": "Soul / Funk",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "The Fearless Flyers",
+    "Group": "Funk",
+    "Albums": [
+      "The Fearless Flyers IV"
+    ],
+    "AddedAlbums": [
+      "The Fearless Flyers",
+      "The Fearless Flyers II",
+      "Tailwinds",
+      "The Fearless Flyers III"
+    ]
+  },
+  {
+    "Artist": "First of October",
+    "Group": "Indie Rock",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Rob Scallon",
+    "Group": "Indie Rock",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Rodrigo y Gabriela",
+    "Group": "Acoustic / Rock",
+    "Albums": [
+      "11:11",
+      "9 Dead Alive",
+      "Mettavolution",
+      "In Between Thoughts...A New World"
+    ],
+    "AddedAlbums": [
+      "Re-Foc",
+      "Rodrigo y Gabriela",
+      "Area 52"
+    ]
+  },
+  {
+    "Artist": "LMFAO",
+    "Group": "Electronic / Dance",
+    "Albums": [
+      "Party Rock"
+    ],
+    "AddedAlbums": [
+      "Sorry for Party Rocking"
+    ]
+  },
+  {
+    "Artist": "Kool & the Gang",
+    "Group": "Funk / R&B",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Cory Wong",
+    "Group": "Funk",
+    "Albums": [],
+    "AddedAlbums": []
+  },
+  {
+    "Artist": "Dave Matthews Band",
+    "Group": "Alternative Rock",
+    "Albums": [
+      "Crash",
+      "Everyday",
+      "Stand Up",
+      "Big Whiskey & the GrooGrux King",
+      "Come Tomorrow"
+    ],
+    "AddedAlbums": [
+      "Under the Table and Dreaming",
+      "Before These Crowded Streets",
+      "Busted Stuff",
+      "Away from the World",
+      "Walk Around the Moon"
+    ]
   }
 ]
