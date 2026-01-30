@@ -519,5 +519,13 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-01-29T22:09:25.079Z"
+  },
+  {
+    "action": "add",
+    "artist": "Bruno Mars",
+    "album": "Unorthodox Jukebox (2012)",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-01-30T10:38:47.643Z"
   }
 ]
