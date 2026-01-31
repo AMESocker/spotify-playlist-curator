@@ -1,7 +1,7 @@
 [
   {
     "Artist": "Alanis Morissette",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "Feast on Scraps (2002)",
       "So-Called Chaos (2004)",
@@ -18,7 +18,7 @@
   },
   {
     "Artist": "Goo Goo Dolls",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "A Boy Named Goo (1995)",
       "Dizzy Up the Girl (1998)",
@@ -41,7 +41,7 @@
   },
   {
     "Artist": "Everclear",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "So Much for the Afterglow (1997)",
       "Songs from an American Movie Vol. One: Learning How to Smile (2000)",
@@ -59,7 +59,7 @@
   },
   {
     "Artist": "Matchbox Twenty",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "More Than You Think You Are (2002)",
       "North (2012)",
@@ -73,7 +73,7 @@
   },
   {
     "Artist": "Rob Thomas",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "The Great Unknown (2015)",
       "Chip Tooth Smile (2019)",
@@ -87,7 +87,7 @@
   },
   {
     "Artist": "Stone Temple Pilots",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "Tiny Music... Songs from the Vatican Gift Shop (1996)",
       "No. 4 (1999)",
@@ -103,7 +103,7 @@
   },
   {
     "Artist": "Blink-182",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Take Off Your Pants and Jacket (2001)",
       "Blink-182 (2003)",
@@ -121,7 +121,7 @@
   },
   {
     "Artist": "The Offspring",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Americana (1998)",
       "Conspiracy of One (2000)",
@@ -140,7 +140,7 @@
   },
   {
     "Artist": "Catch 22",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Dinosaur Sounds (2003)",
       "Permanent Revolution (2006)"
@@ -152,7 +152,7 @@
   },
   {
     "Artist": "Streetlight Manifesto",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Keasbey Nights (2006)^",
       "Somewhere in the Between (2007)",
@@ -167,7 +167,7 @@
   },
   {
     "Artist": "Less Than Jake",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Borders & Boundaries (2000)",
       "Anthem (2003)",
@@ -185,7 +185,7 @@
   },
   {
     "Artist": "Sum-41",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Underclass Hero (2007)",
       "Screaming Bloody Murder (2011)",
@@ -201,7 +201,7 @@
   },
   {
     "Artist": "Coldplay",
-    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Viva la Vida or Death and All His Friends (2008)",
       "Mylo Xyloto (2011)",
@@ -219,7 +219,7 @@
   },
   {
     "Artist": "The White Stripes",
-    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Icky Thump (2007)"
     ],
@@ -233,7 +233,7 @@
   },
   {
     "Artist": "The Raconteurs",
-    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Consolers of the Lonely (2008)",
       "Help Us Stranger (2019)"
@@ -244,7 +244,7 @@
   },
   {
     "Artist": "Jack White",
-    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Lazaretto (2014)",
       "Boarding House Reach (2018)",
@@ -258,7 +258,7 @@
   },
   {
     "Artist": "The Dead Weather",
-    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Horehound (2009)",
       "Sea of Cowards (2010)",
@@ -268,7 +268,7 @@
   },
   {
     "Artist": "The Killers",
-    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Day & Age (2008)",
       "Battle Born (2012)",
@@ -283,7 +283,7 @@
   },
   {
     "Artist": "OK Go",
-    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Oh No (2005)",
       "Of the Blue Colour of the Sky (2010)",
@@ -296,7 +296,7 @@
   },
   {
     "Artist": "Weezer",
-    "Group": "🔵 Alternative / Indie /Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Weezer (Red Album) (2008)",
       "Raditude (2009)^",
@@ -558,7 +558,7 @@
   },
   {
     "Artist": "AFI",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Orig": "AES",
     "Albums": [
       "Black Sails in the Sunset (1999)",
@@ -580,7 +580,7 @@
   {
     "Artist": "Alice in Chains",
     "Orig": "AES",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "Jar of Flies",
       "Alice in Chains (1995)",
@@ -597,7 +597,7 @@
   {
     "Artist": "Jerry Cantrell",
     "Orig": "AES",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "Degradation Trip",
       "Degradation Trip Vol. 2",
@@ -656,14 +656,14 @@
       "Cocktail Queen(with Melleefresh)",
       "Random Album Title (2008)",
       "For Lack of a Better Name (2009)",
-      "4×4=12 (2010)",
+      "4x4=12 (2010)",
       "The Veldt"
     ]
   },
   {
     "Artist": "Deep Purple",
     "Orig": "AES",
-    "Group": "🟠 Classic Rock",
+    "Group": "⚪ Classic Rock",
     "Albums": [
       "Deep Purple (1969)",
       "Deep Purple in Rock (1970)",
@@ -695,7 +695,7 @@
   {
     "Artist": "Nirvana",
     "Orig": "AES",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "Nevermind (1991)",
       "Incesticide",
@@ -708,7 +708,7 @@
   {
     "Artist": "Foo Fighters",
     "Orig": "AES",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "There Is Nothing Left to Lose (1999)",
       "One by One (2002)",
@@ -728,7 +728,7 @@
   {
     "Artist": "Green Day",
     "Orig": "AES",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Insomniac",
       "Nimrod",
@@ -751,7 +751,7 @@
   {
     "Artist": "Hot Water Music",
     "Orig": "AES",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "A Flight and a Crash ",
       "Caution ",
@@ -812,7 +812,7 @@
   {
     "Artist": "Led Zeppelin",
     "Orig": "AES",
-    "Group": "🟠 Classic Rock",
+    "Group": "⚪ Classic Rock",
     "Albums": [
       "Led Zeppelin II (1969)",
       "Physical Graffiti (1975) Disc 1",
@@ -918,7 +918,7 @@
   {
     "Artist": "New Found Glory",
     "Orig": "AES",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "New Found Glory (2000)",
       "Sticks and Stones (2002)",
@@ -939,7 +939,7 @@
   {
     "Artist": "Paul McCartney",
     "Orig": "AES",
-    "Group": "🟠 Classic Rock",
+    "Group": "⚪ Classic Rock",
     "Albums": [
       "McCartney II",
       "Tug of War",
@@ -967,7 +967,7 @@
   {
     "Artist": "Wings",
     "Orig": "AES",
-    "Group": "🟠 Classic Rock",
+    "Group": "⚪ Classic Rock",
     "Albums": [
       "Ram (Paul and Linda McCartney)",
       "Wild Life (Wings)",
@@ -985,7 +985,7 @@
   {
     "Artist": "Pearl Jam",
     "Orig": "AES",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "No Code (1996)",
       "Yield (1998)",
@@ -1006,7 +1006,7 @@
   {
     "Artist": "Queen",
     "Orig": "AES",
-    "Group": "🟠 Classic Rock",
+    "Group": "⚪ Classic Rock",
     "Albums": [
       "Flash Gordon",
       "Hot Space",
@@ -1030,14 +1030,14 @@
   {
     "Artist": "Smashing Pumpkins",
     "Orig": "AES",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "Mellon Collie and the Infinite Sadness Disc 1 (1995)",
       "Mellon Collie and the Infinite Sadness Disc 2 (1995)",
       "Machina II/The Friends & Enemies of Modern Music (2000)",
       "Zeitgeist (2007)",
-      "Oceania (2012)†",
-      "Monuments to an Elegy (2014)†",
+      "Oceania (2012)",
+      "Monuments to an Elegy (2014)",
       "Shiny and Oh So Bright, Vol. 1 / LP: No Past. No Future. No Sun. (2018)",
       "Cyr (2020)",
       "Aghori Mhori Mei"
@@ -1053,7 +1053,7 @@
   {
     "Artist": "Soundgarden",
     "Orig": "AES",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "Louder Than Love (1989)",
       "Superunknown (1994)",
@@ -1068,7 +1068,7 @@
   {
     "Artist": "Audioslave",
     "Orig": "AES",
-    "Group": "🟡 Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "Out of Exile (2005)",
       "Revelations (2006)"
@@ -1080,7 +1080,7 @@
   {
     "Artist": "The Beatles Core / Compilation",
     "Orig": "AES",
-    "Group": "🟠 Classic Rock",
+    "Group": "⚪ Classic Rock",
     "Albums": [
       "Beatles for Sale (1964)",
       "Help! (1965)",
@@ -1115,7 +1115,7 @@
   {
     "Artist": "The Beatles Super Deluxe/Comp",
     "Orig": "AES",
-    "Group": "🟠 Classic Rock",
+    "Group": "⚪ Classic Rock",
     "Albums": [
       "Let It Be Disc 1",
       "Let It Be Disc 3",
@@ -1157,7 +1157,7 @@
   {
     "Artist": "The Hives",
     "Orig": "AES",
-    "Group": "🟢 Pop-Punk / Emo / Ska / Pop Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Tyrannosaurus Hives (2004)",
       "The Black and White Album (2007)",
@@ -1187,7 +1187,7 @@
   },
   {
     "Artist": "Stevie Wonder",
-    "Group": "Soul / R&B",
+    "Group": "🟤 Soul / R&B",
     "Albums": [
       "The Jazz Soul of Little Stevie",
       "Tribute to Uncle Ray",
@@ -1215,7 +1215,7 @@
   },
   {
     "Artist": "Marvin Gaye",
-    "Group": "Soul / R&B",
+    "Group": "🟤 Soul / R&B",
     "Albums": [
       "The Soulful Moods of Marvin Gaye",
       "That Stubborn Kinda Fellow",
@@ -1236,7 +1236,7 @@
   },
   {
     "Artist": "Radiohead",
-    "Group": "Alternative / Indie / Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Pablo Honey",
       "The Bends",
@@ -1252,7 +1252,7 @@
   },
   {
     "Artist": "Bon Iver",
-    "Group": "Alternative / Indie / Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "For Emma, Forever Ago",
       "Bon Iver",
@@ -1263,7 +1263,7 @@
   },
   {
     "Artist": "Fleet Foxes",
-    "Group": "Alternative / Indie / Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Fleet Foxes",
       "Helplessness Blues",
@@ -1274,7 +1274,7 @@
   },
   {
     "Artist": "AC/DC",
-    "Group": "Classic Rock",
+    "Group": "⚪ Classic Rock",
     "Albums": [
       "High Voltage",
       "T.N.T.",
@@ -1299,7 +1299,7 @@
   },
   {
     "Artist": "Sufjan Stevens",
-    "Group": "Alternative / Indie / Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "A Sun Came",
       "Enjoy Your Rabbit",
@@ -1315,7 +1315,7 @@
   },
   {
     "Artist": "Vulfpeck",
-    "Group": "Soul / R&B",
+    "Group": "🟤 Soul / R&B",
     "Albums": [
       "The Beautiful Game",
       "Hill Climber"
@@ -1328,7 +1328,7 @@
   },
   {
     "Artist": "Orbital",
-    "Group": "Electronic & Experimental",
+    "Group": "🟣 Electronic & Experimental",
     "Albums": [
       "Orbital",
       "Orbital 2",
@@ -1343,7 +1343,7 @@
   },
   {
     "Artist": "Bonobo",
-    "Group": "Electronic & Experimental",
+    "Group": "🟣 Electronic & Experimental",
     "Albums": [
       "Animal Magic",
       "Dial 'M' for Monkey",
@@ -1357,7 +1357,7 @@
   },
   {
     "Artist": "Boards of Canada",
-    "Group": "Electronic & Experimental",
+    "Group": "🟣 Electronic & Experimental",
     "Albums": [
       "Music Has the Right to Children",
       "Geogaddi",
@@ -1367,8 +1367,8 @@
     "AddedAlbums": []
   },
   {
-    "Artist": "D’Angelo",
-    "Group": "Soul / R&B",
+    "Artist": "D'Angelo",
+    "Group": "🟤 Soul / R&B",
     "Albums": [
       "Brown Sugar",
       "Voodoo",
@@ -1378,7 +1378,7 @@
   },
   {
     "Artist": "Flying Lotus",
-    "Group": "Electronic & Experimental",
+    "Group": "🟣 Electronic & Experimental",
     "Albums": [
       "1983",
       "Los Angeles",
@@ -1391,7 +1391,7 @@
   },
   {
     "Artist": "Iron & Wine",
-    "Group": "Alternative / Indie / Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "The Creek Drank the Cradle",
       "Our Endless Numbered Days",
@@ -1406,7 +1406,7 @@
   },
   {
     "Artist": "O.A.R.",
-    "Group": "Pop Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "The Wanderer",
       "Risen",
@@ -1422,7 +1422,7 @@
   },
   {
     "Artist": "Toadies",
-    "Group": "Grunge / Alt Rock / Post-Grunge",
+    "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
     "Albums": [
       "Rubberneck",
       "Hell Below/Stars Above",
@@ -1434,7 +1434,7 @@
   },
   {
     "Artist": "Third Eye Blind",
-    "Group": "Pop Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Third Eye Blind",
       "Blue",
@@ -1447,7 +1447,7 @@
   },
   {
     "Artist": "Fiona Apple",
-    "Group": "Alternative / Indie / Folk-Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Tidal",
       "Extraordinary Machine",
@@ -1460,7 +1460,7 @@
   },
   {
     "Artist": "Tom Petty",
-    "Group": "Classic Rock",
+    "Group": "⚪ Classic Rock",
     "Albums": [
       "Tom Petty and the Heartbreakers",
       "You're Gonna Get It!",
@@ -1481,7 +1481,7 @@
   },
   {
     "Artist": "Yellowcard",
-    "Group": "Pop-Punk",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Midget Tossing",
       "Where We Stand",
@@ -1498,7 +1498,7 @@
   },
   {
     "Artist": "Amber Pacific",
-    "Group": "Pop-Punk",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "The Possibility and the Promise",
       "Truth in Sincerity",
@@ -1508,7 +1508,7 @@
   },
   {
     "Artist": "The Ataris",
-    "Group": "Pop-Punk",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Anywhere but Here",
       "Blue Skies, Broken Hearts...Next 12 Exits",
@@ -1520,7 +1520,7 @@
   },
   {
     "Artist": "Bowling for Soup",
-    "Group": "Pop-Punk",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Bowling for Soup (1994)",
       "Rock on Honorable Ones!! (1998)",
@@ -1539,7 +1539,7 @@
   },
   {
     "Artist": "The Toy Dolls",
-    "Group": "Punk Rock",
+    "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
       "Dig That Groove Baby",
       "A Far Out Disc",
@@ -1568,7 +1568,7 @@
   },
   {
     "Artist": "Creed",
-    "Group": "Post-Grunge / Hard Rock",
+    "Group": "🔴 Metal / Hard Rock",
     "Albums": [
       "My Own Prison",
       "Human Clay",
@@ -1578,7 +1578,7 @@
   },
   {
     "Artist": "Alter Bridge",
-    "Group": "Post-Grunge / Hard Rock",
+    "Group": "🔴 Metal / Hard Rock",
     "Albums": [
       "One Day Remains",
       "Blackbird",
@@ -1592,7 +1592,7 @@
   },
   {
     "Artist": "Godsmack",
-    "Group": "Hard Rock / Metal",
+    "Group": "🔴 Metal / Hard Rock",
     "Albums": [
       "Godsmack",
       "Awake",
@@ -1607,7 +1607,7 @@
   },
   {
     "Artist": "Static-X",
-    "Group": "Industrial Metal",
+    "Group": "🔴 Metal / Hard Rock",
     "Albums": [
       "Wisconsin Death Trip",
       "Machine",
@@ -1622,7 +1622,7 @@
   },
   {
     "Artist": "King Crimson",
-    "Group": "Progressive Rock",
+    "Group": "🔴 Metal / Hard Rock",
     "Albums": [
       "In the Court of the Crimson King",
       "In the Wake of Poseidon",
@@ -1641,7 +1641,7 @@
   },
   {
     "Artist": "Melvins",
-    "Group": "Sludge / Alternative Metal",
+    "Group": "🔴 Metal / Hard Rock",
     "Albums": [
       "Gluey Porch Treatments (1987)",
       "Ozma (1989)",
@@ -1678,7 +1678,7 @@
   },
   {
     "Artist": "Blind Guardian",
-    "Group": "Power Metal",
+    "Group": "🔴 Metal / Hard Rock",
     "Albums": [
       "Battalions of Fear (1988)",
       "Follow the Blind (1989)",
@@ -1698,7 +1698,7 @@
   },
   {
     "Artist": "DethKlok",
-    "Group": "Metal",
+    "Group": "🔴 Metal / Hard Rock",
     "Albums": [
       "Dethalbum III",
       "Dethalbum IV"
@@ -1710,43 +1710,128 @@
   },
   {
     "Artist": "Overkill",
-    "Group": "Thrash Metal",
-    "Albums": [],
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "Feel the Fire (1985)",
+      "Taking Over (1987)",
+      "Under the Influence (1988)",
+      "The Years of Decay (1989)",
+      "Horrorscope (1991)",
+      "I Hear Black (1993)",
+      "W.F.O. (1994)",
+      "The Killing Kind (1996)",
+      "From the Underground and Below (1997)",
+      "Necroshine (1999)",
+      "Bloodletting (2000)",
+      "Killbox 13 (2003)",
+      "ReliXIV (2005)",
+      "Immortalis (2007)",
+      "Ironbound (2010)",
+      "The Electric Age (2012)",
+      "White Devil Armory (2014)",
+      "The Grinding Wheel (2017)",
+      "The Wings of War (2019)",
+      "Scorched (2023)"
+    ],
     "AddedAlbums": []
   },
   {
     "Artist": "Rainbow",
-    "Group": "Hard Rock / Metal",
-    "Albums": [],
-    "AddedAlbums": []
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "Down to Earth (1979)",
+      "Difficult to Cure (1981)",
+      "Straight Between the Eyes (1982)",
+      "Bent Out of Shape (1983)",
+      "Stranger in Us All (1995)"
+    ],
+    "AddedAlbums": [
+      "Ritchie Blackmore's Rainbow (1975)",
+      "Rising (1976)",
+      "Long Live Rock 'n' Roll (1978)"
+    ]
   },
   {
     "Artist": "Ozzy Osbourne",
-    "Group": "Metal",
-    "Albums": [],
-    "AddedAlbums": []
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "Blizzard of Ozz (1980)",
+      "Diary of a Madman (1981)",
+      "Bark at the Moon (1983)",
+      "The Ultimate Sin (1986)",
+      "No Rest for the Wicked (1988)",
+      "No More Tears (1991)",
+      "Black Rain (2007)",
+      "Patient Number 9 (2022)"
+    ],
+    "AddedAlbums": [
+      "Ozzmosis (1995)",
+      "Down to Earth (2001)",
+      "Under Cover (2005)",
+      "Scream (2010)",
+      "Ordinary Man (2020)"
+    ]
   },
   {
     "Artist": "Testament",
-    "Group": "Thrash Metal",
-    "Albums": [],
-    "AddedAlbums": []
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "Practice What You Preach (1989)",
+      "The Ritual (1992)",
+      "Low (1994)",
+      "The Gathering (1999)",
+      "First Strike Still Deadly (2001)",
+      "The Formation of Damnation (2008)",
+      "Dark Roots of Earth (2012)",
+      "Titans of Creation (2020)",
+      "Para Bellum (2025)"
+    ],
+    "AddedAlbums": [
+      "The Legacy (1987)",
+      "The New Order (1988)",
+      "Souls of Black (1990)",
+      "Demonic (1997)",
+      "Brotherhood of the Snake (2016)"
+    ]
   },
   {
-    "Artist": "Ronnie James Dio",
-    "Group": "Metal",
-    "Albums": [],
-    "AddedAlbums": []
+    "Artist": "Dio",
+    "Group": "🔴 Metal / Hard Rock",
+    "Albums": [
+      "Sacred Heart (1985)",
+      "Lock up the Wolves (1990)",
+      "Strange Highways (1993)",
+      "Magica (2000)"
+    ],
+    "AddedAlbums": [
+      "Holy Diver (1983)",
+      "The Last in Line (1984)",
+      "Dream Evil (1987)",
+      "Angry Machines (1996)",
+      "Killing the Dragon (2002)",
+      "Master of the Moon (2004)"
+    ]
   },
   {
     "Artist": "Sly and the Family Stone",
-    "Group": "Soul / Funk",
-    "Albums": [],
+    "Group": "🟤 Soul / R&B",
+    "Albums": [
+      "A Whole New Thing (1967)",
+      "Dance to the Music (1968)",
+      "Life (1968)",
+      "Stand! (1969)",
+      "There's a Riot Goin' On (1971)",
+      "Fresh (1973)",
+      "Small Talk (1974)",
+      "Heard Ya Missed Me, Well I'm Back (1976)",
+      "Back on the Right Track (1979)",
+      "Ain't but the One Way (1982)"
+    ],
     "AddedAlbums": []
   },
   {
     "Artist": "The Fearless Flyers",
-    "Group": "Funk",
+    "Group": "🟤 Soul / R&B",
     "Albums": [
       "The Fearless Flyers IV"
     ],
@@ -1759,19 +1844,39 @@
   },
   {
     "Artist": "First of October",
-    "Group": "Indie Rock",
-    "Albums": [],
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
+    "Albums": [
+      "Ten Hours (2018)",
+      "Gourmet Ravioli (2019)",
+      "Gotta Record Everything Good (2021)",
+      "CHAOS (2022)",
+      "Across The Road (2023)",
+      "Round 6 (2024)",
+      "One Week (2025)"
+    ],
     "AddedAlbums": []
   },
   {
     "Artist": "Rob Scallon",
-    "Group": "Indie Rock",
-    "Albums": [],
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
+    "Albums": [
+      "Summer (2008)",
+      "The Ride Home (2009)",
+      "The Winter's Months (2011)",
+      "Rob Scallon (2012)",
+      "Aldine (2014)",
+      "The Scene Is Dead (2017)",
+      "Crowded Rooms (2024)",
+      "A Purple Cello EP (2013)",
+      "Anchor (2014)",
+      "Metal Mad Libs 1-6 (with Eddie Guillen) (2016)",
+      "Sunday Uke Group (2018)"
+    ],
     "AddedAlbums": []
   },
   {
     "Artist": "Rodrigo y Gabriela",
-    "Group": "Acoustic / Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "11:11",
       "9 Dead Alive",
@@ -1786,7 +1891,7 @@
   },
   {
     "Artist": "LMFAO",
-    "Group": "Electronic / Dance",
+    "Group": "🟣 Electronic & Experimental",
     "Albums": [
       "Party Rock"
     ],
@@ -1796,19 +1901,62 @@
   },
   {
     "Artist": "Kool & the Gang",
-    "Group": "Funk / R&B",
-    "Albums": [],
+    "Group": "🟤 Soul / R&B",
+    "Albums": [
+      "Kool and the Gang (1969)",
+      "Music Is the Message (1972)",
+      "Good Times (1972)",
+      "Wild and Peaceful (1973)",
+      "Light of Worlds (1974)",
+      "Spirit of the Boogie (1975)",
+      "Love & Understanding (1976)",
+      "Open Sesame (1976)",
+      "The Force (1977)",
+      "Everybody's Dancin' (1978)",
+      "Ladies' Night (1979)",
+      "Celebrate! (1980)",
+      "Something Special (1981)",
+      "As One (1982)",
+      "In the Heart (1983)",
+      "Emergency (1984)",
+      "Forever (1986)",
+      "Sweat (1989)",
+      "Unite (1992)",
+      "State of Affairs (1996)",
+      "Gangland (2001)",
+      "The Hits: Reloaded (2004)",
+      "Still Kool (2007)",
+      "Kool for the Holidays (2013)",
+      "Perfect Union (2021)",
+      "People Just Wanna Have Fun (2023)"
+    ],
     "AddedAlbums": []
   },
   {
     "Artist": "Cory Wong",
-    "Group": "Funk",
-    "Albums": [],
-    "AddedAlbums": []
+    "Group": "🟤 Soul / R&B",
+    "Albums": [
+      "Becoming (2010)",
+      "Quartet/Quintet (2012)",
+      "Cory Wong and The Green Screen Band (2017)",
+      "The Optimist (2018)",
+      "Motivational Music for the Syncopated Soul (2019)",
+      "The Striped Album (2020)",
+      "Cory and The Wongnotes (2021)",
+      "Power Station (2022)",
+      "The Lucky One (2023)",
+      "Starship Syncopation (2024)"
+    ],
+    "AddedAlbums": [
+      "Elevator Music for an Elevated Mood (2020)",
+      "Trail Songs : Dusk (2020)",
+      "Trail Songs (Dawn) (2020)",
+      "Wong's Cafe (2022)"
+    ]
   },
   {
     "Artist": "Dave Matthews Band",
-    "Group": "Alternative Rock",
+    "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
       "Crash",
       "Everyday",
