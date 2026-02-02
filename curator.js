@@ -202,79 +202,13 @@ async function processRockHallArtist(artistName) {
     const artist = artistResults.body.artists.items[0];
     console.log(`✅ Found artist: "${artist.name}" (ID: ${artist.id})`);
 
-    // Get artist's albums and EPs (exclude singles)
-    console.log(`📀 Getting albums and EPs...`);
-    const albumsResponse = await spotify.getArtistAlbums(artist.id, { 
-      limit: 50,
-      include_groups: 'album' // Only albums and EPs, no singles
-    });
+   // Get artist's top tracks
+    console.log(`🎵 Getting top tracks...`);
+    const topTracksResponse = await spotify.getArtistTopTracks(artist.id, 'US');
+    const topTracks = topTracksResponse.body.tracks;
     
-    let albums = albumsResponse.body.items;
-    
-    // Filter to only albums
-    albums = albums.filter(album => {
-      return album.album_type === 'album';
-    });
-    
-    console.log(`   Found ${albums.length} albums/EPs`);
-    
-    if (albums.length === 0) {
-      console.log(`⚠️ No albums/EPs found for ${artistName}`);
-      return {
-        success: false,
-        reason: "NO ALBUMS",
-        trackUris: []
-      };
-    }
-
-    // Sort by popularity or release date
-    albums.sort((a, b) => {
-      if (a.popularity !== undefined && b.popularity !== undefined) {
-        return b.popularity - a.popularity;
-      }
-      return new Date(b.release_date) - new Date(a.release_date);
-    });
-
-    // Get most popular track from each album (cycling if needed)
-    const trackUris = [];
-    const addedTrackIds = new Set();
-    let albumIndex = 0;
-    
-    console.log(`🎵 Getting most popular track from albums/EPs...`);
-    
-    while (trackUris.length < 10 && albumIndex < albums.length * 20) {
-      const album = albums[albumIndex % albums.length];
-      
-      // Get full album details to access track popularity
-      const albumDetails = await spotify.getAlbum(album.id);
-      const tracks = albumDetails.body.tracks.items;
-      
-      if (tracks.length > 0) {
-        // Sort tracks by popularity (highest first)
-        tracks.sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
-        
-        // Find the most popular track that we haven't added yet
-        let trackAdded = false;
-        for (const track of tracks) {
-          if (!addedTrackIds.has(track.id)) {
-            trackUris.push(track.uri);
-            addedTrackIds.add(track.id);
-            console.log(`   ${trackUris.length}. "${track.name}" from "${album.name}" (popularity: ${track.popularity || 'N/A'})`);
-            trackAdded = true;
-            break;
-          }
-        }
-        
-        if (!trackAdded) {
-          console.log(`   ⏭️  Skipping "${album.name}" - all tracks already added`);
-        }
-      }
-      
-      albumIndex++;
-    }
-    
-    if (trackUris.length === 0) {
-      console.log(`⚠️ No tracks found`);
+    if (topTracks.length === 0) {
+      console.log(`⚠️ No tracks found for ${artistName}`);
       return {
         success: false,
         reason: "NO TRACKS",
@@ -282,8 +216,14 @@ async function processRockHallArtist(artistName) {
       };
     }
 
-    console.log(`\n📊 Summary: Found ${trackUris.length} unique tracks from ${albums.length} albums/EPs`);
-
+    // Take up to 10 top tracks
+    const trackUris = topTracks.slice(0, 10).map(t => t.uri);
+    
+    console.log(`   Found ${topTracks.length} top tracks, adding ${trackUris.length}:`);
+    topTracks.slice(0, 10).forEach((track, i) => {
+      console.log(`   ${i + 1}. "${track.name}" (popularity: ${track.popularity})`);
+    });
+    
     return {
       success: true,
       trackUris: trackUris,
