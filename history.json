@@ -591,5 +591,13 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-02-02T14:50:06.107Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Mamas and Papas",
+    "album": "If You Can Believe Your Eyes and Ears (1966)",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-02T14:52:13.239Z"
   }
 ]
