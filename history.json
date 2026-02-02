@@ -583,5 +583,13 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-02-02T10:50:32.994Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Cyndi Lauper",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-02T14:50:06.107Z"
   }
 ]
