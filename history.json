@@ -631,5 +631,13 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-03T03:11:17.563Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Rolling Stones",
+    "album": "Aftermath",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-03T10:44:23.281Z"
   }
 ]
