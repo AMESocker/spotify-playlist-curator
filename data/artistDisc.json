@@ -1189,7 +1189,6 @@
     "Artist": "Stevie Wonder",
     "Group": "🟤 Soul / R&B",
     "Albums": [
-      "The Jazz Soul of Little Stevie",
       "Tribute to Uncle Ray",
       "With a Song in My Heart",
       "Stevie at the Beach",
@@ -1211,7 +1210,9 @@
       "Conversation Peace",
       "A Time to Love"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "The Jazz Soul of Little Stevie"
+    ]
   },
   {
     "Artist": "Marvin Gaye",
