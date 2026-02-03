@@ -13,7 +13,11 @@ import { addTracks } from "./playlist.js";
 /* ==================================================
    DATA SOURCES
 ================================================== */
-
+// TODO: Add AllMusic Editors Choice source
+// TODO: Add Artist Top 10 source
+// TODO: Label added artists with genres in Artist Top 10 source
+// TODO: Add Disney/Pixar Movie Soundtracks source
+// TODO: Add Classical Composers source
 const dataSources = [
   {
     name: "artistDisc",
@@ -72,6 +76,9 @@ function saveData() {
   fs.writeFileSync(dataFile, JSON.stringify(data, null, 2));
   fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
 }
+
+/*
+ // Done: When a source is added, make sure advanceSource handles it correctly */ 
 
 function advanceSource() {
   sourceIndex = (sourceIndex + 1) % dataSources.length;
@@ -461,10 +468,10 @@ function undoLastAction() {
    RUN MODE
 ================================================== */
 
-const mode = process.argv[2];
+// const mode = process.argv[2];
 
-if (mode === "undo") {
-  undoLastAction();
-} else {
-  addNextAlbum();
-}
+// if (mode === "undo") {
+//   undoLastAction();
+// } else {
+//   addNextAlbum();
+// }
