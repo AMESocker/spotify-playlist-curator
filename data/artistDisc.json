@@ -1819,7 +1819,6 @@
     "Artist": "Sly and the Family Stone",
     "Group": "🟤 Soul / R&B",
     "Albums": [
-      "A Whole New Thing (1967)",
       "Dance to the Music (1968)",
       "Life (1968)",
       "Stand! (1969)",
@@ -1830,7 +1829,9 @@
       "Back on the Right Track (1979)",
       "Ain't but the One Way (1982)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "A Whole New Thing (1967)"
+    ]
   },
   {
     "Artist": "The Fearless Flyers",

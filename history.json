@@ -687,5 +687,13 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-04T23:32:05.276Z"
+  },
+  {
+    "action": "add",
+    "artist": "Sly and the Family Stone",
+    "album": "A Whole New Thing (1967)",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-04T23:32:48.966Z"
   }
 ]
