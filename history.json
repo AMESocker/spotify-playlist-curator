@@ -671,5 +671,13 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-02-04T21:39:04.671Z"
+  },
+  {
+    "action": "add",
+    "artist": "Marvin Gaye",
+    "album": "The Soulful Moods of Marvin Gaye",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-04T21:39:58.770Z"
   }
 ]

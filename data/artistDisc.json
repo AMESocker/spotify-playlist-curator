@@ -1218,7 +1218,6 @@
     "Artist": "Marvin Gaye",
     "Group": "🟤 Soul / R&B",
     "Albums": [
-      "The Soulful Moods of Marvin Gaye",
       "That Stubborn Kinda Fellow",
       "When I'm Alone I Cry",
       "Hello Broadway",
@@ -1233,7 +1232,9 @@
       "Here, My Dear",
       "In Our Lifetime?"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "The Soulful Moods of Marvin Gaye"
+    ]
   },
   {
     "Artist": "Radiohead",
