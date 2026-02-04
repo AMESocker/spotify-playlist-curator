@@ -1240,7 +1240,6 @@
     "Artist": "Radiohead",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
-      "Pablo Honey",
       "The Bends",
       "OK Computer",
       "Kid A",
@@ -1250,7 +1249,9 @@
       "The King of Limbs",
       "A Moon Shaped Pool"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Pablo Honey"
+    ]
   },
   {
     "Artist": "Bon Iver",
