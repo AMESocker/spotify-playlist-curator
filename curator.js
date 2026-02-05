@@ -78,7 +78,7 @@ function saveData() {
 }
 
 /*
- // Done: When a source is added, make sure advanceSource handles it correctly */ 
+ // Done: When a source is added, make sure advanceSource handles it correctly */
 
 function advanceSource() {
   sourceIndex = (sourceIndex + 1) % dataSources.length;
@@ -146,36 +146,36 @@ function selectSequential(dataset) {
   // For 1080albums format with master/added structure
   if (dataset.master && Array.isArray(dataset.master)) {
     if (dataset.master.length === 0) return null;
-    
+
     // Get first album string from master array
     const albumString = dataset.master[0];
     console.log(`📀 Parsing: "${albumString}"`);
-    
+
     // Find the first occurrence of " - " (with spaces)
     const separator = ' - ';
     const dashIndex = albumString.indexOf(separator);
-    
+
     if (dashIndex === -1) {
       console.log(`⚠️ Invalid format (no ' - ' separator): ${albumString}`);
       return null;
     }
-    
+
     const artist = albumString.substring(0, dashIndex).trim();
     const album = albumString.substring(dashIndex + separator.length).trim();
-    
+
     console.log(`🎤 Artist: "${artist}"`);
     console.log(`💿 Album: "${album}"`);
-    
+
     return {
       artist: artist,
       nextAlbum: album
     };
   }
-  
+
   // Fallback for artistDisc format
   const entry = dataset.find(item => item.Albums && item.Albums.length > 0);
   if (!entry) return null;
-  
+
   return {
     artist: entry.Artist,
     nextAlbum: entry.Albums[0]
@@ -191,12 +191,12 @@ async function processRockHallArtist(artistName) {
   console.log(`🎵 Processing: ${artistName}`);
 
   const spotify = getSpotify();
-  
+
   try {
     // Find the artist
     console.log(`🔍 Finding artist: ${artistName}`);
     const artistResults = await spotify.searchArtists(artistName, { limit: 5 });
-    
+
     if (artistResults.body.artists.items.length === 0) {
       console.log(`⚠️ Artist not found: ${artistName}`);
       return {
@@ -209,11 +209,11 @@ async function processRockHallArtist(artistName) {
     const artist = artistResults.body.artists.items[0];
     console.log(`✅ Found artist: "${artist.name}" (ID: ${artist.id})`);
 
-   // Get artist's top tracks
+    // Get artist's top tracks
     console.log(`🎵 Getting top tracks...`);
     const topTracksResponse = await spotify.getArtistTopTracks(artist.id, 'US');
     const topTracks = topTracksResponse.body.tracks;
-    
+
     if (topTracks.length === 0) {
       console.log(`⚠️ No tracks found for ${artistName}`);
       return {
@@ -225,18 +225,18 @@ async function processRockHallArtist(artistName) {
 
     // Take up to 10 top tracks
     const trackUris = topTracks.slice(0, 10).map(t => t.uri);
-    
+
     console.log(`   Found ${topTracks.length} top tracks, adding ${trackUris.length}:`);
     topTracks.slice(0, 10).forEach((track, i) => {
       console.log(`   ${i + 1}. "${track.name}" (popularity: ${track.popularity})`);
     });
-    
+
     return {
       success: true,
       trackUris: trackUris,
       trackCount: trackUris.length
     };
-    
+
   } catch (error) {
     console.error(`❌ Error:`, error.message);
     return {
@@ -254,8 +254,8 @@ async function processRockHallArtist(artistName) {
 
 export async function addNextAlbum() {
 
-  
-    let pick;
+
+  let pick;
 
   // Handle Rock Hall strategy differently
   if (currentSource.strategy === "rockHall") {
@@ -324,7 +324,7 @@ export async function addNextAlbum() {
   }
 
   // Original album-based strategies
-  
+
   if (currentSource.strategy === "fairness") {
     pick = selectWithFairness(data);
   } else {
@@ -337,7 +337,7 @@ export async function addNextAlbum() {
   }
 
   const albumName = pick.nextAlbum;
-  
+
   console.log("🎵 Next album selected:");
   console.log(`Source: ${currentSource.name}`);
   console.log(`Strategy: ${currentSource.strategy}`);
@@ -403,10 +403,14 @@ export async function addNextAlbum() {
     timestamp: new Date().toISOString()
   });
 
+  saveData(); // This should handle both data and history saves
+  advanceSource();
+
   fs.writeFileSync(dataFile, JSON.stringify(data, null, 2));
   fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
-  
+
   console.log(`✅ Album added successfully`);
+  console.log(`🔀 Next data source: ${dataSources[sourceIndex].name}`);
   return true; // Return true on success
 }
 
