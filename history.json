@@ -727,5 +727,13 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-06T18:44:42.044Z"
+  },
+  {
+    "action": "add",
+    "artist": "Captain Beefheart and His Magic Band",
+    "album": "Safe as Milk",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-06T18:45:43.628Z"
   }
 ]
