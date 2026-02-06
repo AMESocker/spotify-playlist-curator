@@ -1,0 +1,5022 @@
+{
+  "weeklyAlbums": [
+    {
+      "date": "2026-01-30",
+      "albums": [
+        {
+          "title": "Attitude Adjustment",
+          "artist": "Buzzcocks",
+          "spotifyTrack": {
+            "id": "33htjBm6s6M1568XX14jIQ",
+            "name": "Games",
+            "uri": "spotify:track:33htjBm6s6M1568XX14jIQ",
+            "popularity": 33,
+            "albumName": "Attitude Adjustment",
+            "albumId": "1gcAl3qytDpuAMzK2dKNjo",
+            "foundAt": "2026-02-04T20:03:14.628Z"
+          }
+        },
+        {
+          "title": "Nineteen Seventy Seven",
+          "artist": "Grupo Um",
+          "spotifyTrack": {
+            "id": "3uUmXuZ9h5styPpj4Zp8SH",
+            "name": "Absurdo Mudo",
+            "uri": "spotify:track:3uUmXuZ9h5styPpj4Zp8SH",
+            "popularity": 16,
+            "albumName": "Nineteen Seventy Seven",
+            "albumId": "0yTvY5VFKRJgzWgxDGx08I",
+            "foundAt": "2026-02-04T20:03:16.126Z"
+          }
+        },
+        {
+          "title": "Gospel Music",
+          "artist": "Joel Ross",
+          "spotifyTrack": {
+            "id": "0nONfdSjBptV3MtphsdYDc",
+            "name": "Trinity (Father, Son, and Holy Spirit)",
+            "uri": "spotify:track:0nONfdSjBptV3MtphsdYDc",
+            "popularity": 34,
+            "albumName": "Gospel Music",
+            "albumId": "52H41dJZIWXp6SjvXF0Gie",
+            "foundAt": "2026-02-04T20:03:17.965Z"
+          }
+        },
+        {
+          "title": "While I Was Away",
+          "artist": "Julia HülsmannJulia Hülsmann OctetJulia Husmann",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:26.028Z"
+          }
+        },
+        {
+          "title": "Labor of Love",
+          "artist": "Tinsley Ellis",
+          "spotifyTrack": {
+            "id": "4OzazzaU3Jv3Sf2czAp2kr",
+            "name": "Too Broke",
+            "uri": "spotify:track:4OzazzaU3Jv3Sf2czAp2kr",
+            "popularity": 33,
+            "albumName": "Labor Of Love",
+            "albumId": "3tM2BhfXRTk19q2aD2fLhf",
+            "foundAt": "2026-02-04T20:03:20.342Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "albums": [
+        {
+          "title": "Boycott Heaven",
+          "artist": "The Format",
+          "spotifyTrack": {
+            "id": "1jUNEF8KHemuZZOhk2nhfs",
+            "name": "Depressed",
+            "uri": "spotify:track:1jUNEF8KHemuZZOhk2nhfs",
+            "popularity": 50,
+            "albumName": "Boycott Heaven",
+            "albumId": "4yMJnpezQRZr8MIkNUor1M",
+            "foundAt": "2026-02-05T18:42:27.618Z"
+          }
+        },
+        {
+          "title": "World's Gone Wrong",
+          "artist": "Lucinda Williams",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:28.437Z"
+          }
+        },
+        {
+          "title": "Yoo-Hoo",
+          "artist": "Shintaro Sakamoto",
+          "spotifyTrack": {
+            "id": "5kfgWXn6YD9ed6pPNsrcgY",
+            "name": "Numb",
+            "uri": "spotify:track:5kfgWXn6YD9ed6pPNsrcgY",
+            "popularity": 39,
+            "albumName": "Yoo-hoo",
+            "albumId": "2ovdkF5kkDDWfjJgk9rHtu",
+            "foundAt": "2026-02-05T18:42:30.282Z"
+          }
+        },
+        {
+          "title": "ElectroSoul",
+          "artist": "DJ Harrison",
+          "spotifyTrack": {
+            "id": "2mztDIJDXUXy0Oxd7WM6e5",
+            "name": "It’s All Love (feat. Yazmin Lacey)",
+            "uri": "spotify:track:2mztDIJDXUXy0Oxd7WM6e5",
+            "popularity": 40,
+            "albumName": "ElectroSoul",
+            "albumId": "0KwGULFHLHMz9qg84ahZZe",
+            "foundAt": "2026-02-05T18:42:31.895Z"
+          }
+        },
+        {
+          "title": "No More Like This",
+          "artist": "PVA",
+          "spotifyTrack": {
+            "id": "4r7S03Kt95iWLOlfNryZny",
+            "name": "Rain",
+            "uri": "spotify:track:4r7S03Kt95iWLOlfNryZny",
+            "popularity": 43,
+            "albumName": "No More Like This",
+            "albumId": "12DsfLStHj9iTWgbNQVoRK",
+            "foundAt": "2026-02-05T18:42:33.428Z"
+          }
+        },
+        {
+          "title": "A Constant Charade",
+          "artist": "Elujay",
+          "spotifyTrack": {
+            "id": "1IbcX5yIsTavsZmZKr2OGR",
+            "name": "Circles",
+            "uri": "spotify:track:1IbcX5yIsTavsZmZKr2OGR",
+            "popularity": 44,
+            "albumName": "A Constant Charade",
+            "albumId": "60rPZxVWJo6Gy8RduvuKlY",
+            "foundAt": "2026-02-05T18:42:35.011Z"
+          }
+        },
+        {
+          "title": "Yatta!",
+          "artist": "YĪN YĪN",
+          "spotifyTrack": {
+            "id": "6FR6o5mqPEVRffn9Jxsnqr",
+            "name": "In Search of Yang",
+            "uri": "spotify:track:6FR6o5mqPEVRffn9Jxsnqr",
+            "popularity": 49,
+            "albumName": "Yatta!",
+            "albumId": "14miHHQBXPPlt61Ax0SK2W",
+            "foundAt": "2026-02-05T18:42:36.625Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "albums": [
+        {
+          "title": "The Demise of Planet X",
+          "artist": "Sleaford Mods",
+          "spotifyTrack": {
+            "id": "4eE444ihBoqlc7L6xZGFuP",
+            "name": "Elitest G.O.A.T.",
+            "uri": "spotify:track:4eE444ihBoqlc7L6xZGFuP",
+            "popularity": 51,
+            "albumName": "The Demise Of Planet X",
+            "albumId": "4SWvydRBO91rnCEYHsvcK9",
+            "foundAt": "2026-02-05T18:42:38.229Z"
+          }
+        },
+        {
+          "title": "Tragic Magic",
+          "artist": "Julianna BarwickMary Lattimore",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:38.984Z"
+          }
+        },
+        {
+          "title": "Off The Fence",
+          "artist": "James HunterThe James Hunter Six",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:39.699Z"
+          }
+        },
+        {
+          "title": "Dream Archives",
+          "artist": "Tomeka ReidChes SmithCraig Taborn",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:40.303Z"
+          }
+        },
+        {
+          "title": "Jana Horn",
+          "artist": "Jana Horn",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:40.981Z"
+          }
+        },
+        {
+          "title": "Can't Take My Story Away",
+          "artist": "Elles Bailey",
+          "spotifyTrack": {
+            "id": "6lLt2S8KH9BCJtvjrNMeGI",
+            "name": "Tightrope",
+            "uri": "spotify:track:6lLt2S8KH9BCJtvjrNMeGI",
+            "popularity": 38,
+            "albumName": "Can't Take My Story Away",
+            "albumId": "5QpYgpA3RKj2a1MJFRTCTq",
+            "foundAt": "2026-02-05T18:42:42.668Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "albums": [
+        {
+          "title": "Secret Love",
+          "artist": "Dry Cleaning",
+          "spotifyTrack": {
+            "id": "0quJpknjZo8gMmwzMhiHb3",
+            "name": "Hit My Head All Day",
+            "uri": "spotify:track:0quJpknjZo8gMmwzMhiHb3",
+            "popularity": 53,
+            "albumName": "Secret Love",
+            "albumId": "79o6ZvFsXaAkL9MHCE6ts4",
+            "foundAt": "2026-02-05T18:42:44.415Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-01-02",
+      "albums": []
+    },
+    {
+      "date": "2025-12-26",
+      "albums": []
+    },
+    {
+      "date": "2025-12-19",
+      "albums": []
+    },
+    {
+      "date": "2025-12-12",
+      "albums": [
+        {
+          "title": "Wish You Were Here [50th Anniversary] [Blu-Ray Audio]",
+          "artist": "Pink Floyd",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:45.071Z"
+          }
+        },
+        {
+          "title": "Lightning Might Strike",
+          "artist": "Juliana Hatfield",
+          "spotifyTrack": {
+            "id": "1bfBGMj019pbumrBcr9Bfc",
+            "name": "Fall Apart",
+            "uri": "spotify:track:1bfBGMj019pbumrBcr9Bfc",
+            "popularity": 27,
+            "albumName": "Lightning Might Strike",
+            "albumId": "0xSOJeAt24wGT1mMnCvWa0",
+            "foundAt": "2026-02-05T18:42:46.665Z"
+          }
+        },
+        {
+          "title": "Holo Boy",
+          "artist": "This Is Lorelei",
+          "spotifyTrack": {
+            "id": "3O3qS7OEH1cIFfDzzWO3ym",
+            "name": "But You Just Woke Me Up",
+            "uri": "spotify:track:3O3qS7OEH1cIFfDzzWO3ym",
+            "popularity": 50,
+            "albumName": "Holo Boy",
+            "albumId": "7GXQ3XWkTEnfI37a8zX2TB",
+            "foundAt": "2026-02-05T18:42:48.403Z"
+          }
+        },
+        {
+          "title": "Fuzz's Fourth Dream",
+          "artist": "Fuzz",
+          "spotifyTrack": {
+            "id": "79k0KuFTunbKwoilo5lArb",
+            "name": "This Time I Got A Reason",
+            "uri": "spotify:track:79k0KuFTunbKwoilo5lArb",
+            "popularity": 34,
+            "albumName": "Fuzz's Fourth Dream: Singles, Demos And Rarities",
+            "albumId": "49BzaPYyP7DHGq3UeEXdHs",
+            "foundAt": "2026-02-05T18:42:50.250Z"
+          }
+        },
+        {
+          "title": "A Spirit Speaks",
+          "artist": "The Descendants of Mike and Phoebe",
+          "spotifyTrack": {
+            "id": "4WfWL2XBczYNTazNqJWhnK",
+            "name": "Two Songs for a Boy Named Mark: a) Little Bitty Baby, b) Soliloquy to a Man-Child",
+            "uri": "spotify:track:4WfWL2XBczYNTazNqJWhnK",
+            "popularity": 6,
+            "albumName": "A Spirit Speaks",
+            "albumId": "52LeXBU9sP2dEYvwTU7kZ5",
+            "foundAt": "2026-02-05T18:42:51.885Z"
+          }
+        },
+        {
+          "title": "Mozart: Idomeneo",
+          "artist": "Magdalena KoženáAndrew StaplesSimon RattleBavarian Radio Symphony Orchestra",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:52.513Z"
+          }
+        },
+        {
+          "title": "Beethoven: Sonatas 2 & 10",
+          "artist": "Viktoria MullovaAlasdair Beatson",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:53.138Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-12-05",
+      "albums": [
+        {
+          "title": "The Universe Smiles Upon You ii",
+          "artist": "Khruangbin",
+          "spotifyTrack": {
+            "id": "4EGilW7VYfTULk4RENDfJp",
+            "name": "White Gloves ii",
+            "uri": "spotify:track:4EGilW7VYfTULk4RENDfJp",
+            "popularity": 67,
+            "albumName": "The Universe Smiles Upon You ii",
+            "albumId": "45ZWDMMVK0N0Hd2p7fLTCB",
+            "foundAt": "2026-02-05T18:42:54.750Z"
+          }
+        },
+        {
+          "title": "Memento Mori: Mexico City",
+          "artist": "Depeche Mode",
+          "spotifyTrack": {
+            "id": "1TQPAGhCAe85NT83438Mgk",
+            "name": "Sister Of Night - Live in Mexico City",
+            "uri": "spotify:track:1TQPAGhCAe85NT83438Mgk",
+            "popularity": 48,
+            "albumName": "Memento Mori: Mexico City",
+            "albumId": "3rWr9v5saPs29Pvu05extl",
+            "foundAt": "2026-02-05T18:42:56.392Z"
+          }
+        },
+        {
+          "title": "Unclouded",
+          "artist": "Melody's Echo Chamber",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:42:57.211Z"
+          }
+        },
+        {
+          "title": "Motion II",
+          "artist": "Out Of/Into",
+          "spotifyTrack": {
+            "id": "0AfHjDkvsE4aCDIg2wZsBa",
+            "name": "Finding Ways",
+            "uri": "spotify:track:0AfHjDkvsE4aCDIg2wZsBa",
+            "popularity": 38,
+            "albumName": "Motion II",
+            "albumId": "32sjyqbMI1JdpJoKXOuWVk",
+            "foundAt": "2026-02-05T18:42:58.746Z"
+          }
+        },
+        {
+          "title": "Vibrations in the Village: Live at the Village Gate",
+          "artist": "Rahsaan Roland Kirk",
+          "spotifyTrack": {
+            "id": "3o66cisAdVyFzQI96GGoR1",
+            "name": "Jump Up And Down (Live at the Village Gate in New York City November 1963)",
+            "uri": "spotify:track:3o66cisAdVyFzQI96GGoR1",
+            "popularity": 6,
+            "albumName": "Vibrations in the Village (Live at the Village Gate in New York City November 1963)",
+            "albumId": "1kItL4bc8ASkZBvrdxYbII",
+            "foundAt": "2026-02-05T18:43:00.281Z"
+          }
+        },
+        {
+          "title": "Golden Flower: Live in Sweden",
+          "artist": "Yusef Lateef",
+          "spotifyTrack": {
+            "id": "2rBfkOjtg3wh6I93fy4QGY",
+            "name": "The Golden Flute (Live in Sweden)",
+            "uri": "spotify:track:2rBfkOjtg3wh6I93fy4QGY",
+            "popularity": 16,
+            "albumName": "Golden Flower (Live in Sweden)",
+            "albumId": "7pWVGGQIoGMEIUCAXVz2CZ",
+            "foundAt": "2026-02-05T18:43:02.027Z"
+          }
+        },
+        {
+          "title": "Spíra",
+          "artist": "Ólöf ArnaldsDavíd Pór JónssonSkúli Sverrisson",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:02.799Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "albums": [
+        {
+          "title": "Tonight's the Night [50th Anniversary Deluxe]",
+          "artist": "Neil Young",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:03.453Z"
+          }
+        },
+        {
+          "title": "Selenites, Selenites!",
+          "artist": "Jimi TenorJimi Tenor Band",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:04.085Z"
+          }
+        },
+        {
+          "title": "Back Stabbers/Ship Ahoy/Survival/Family Reunion",
+          "artist": "The O'Jays",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:04.706Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "albums": [
+        {
+          "title": "Anthology 4",
+          "artist": "The Beatles",
+          "spotifyTrack": {
+            "id": "38BXrHTZhMkBZyThYMdwnY",
+            "name": "I Saw Her Standing There (Take 2)",
+            "uri": "spotify:track:38BXrHTZhMkBZyThYMdwnY",
+            "popularity": 51,
+            "albumName": "Anthology 4",
+            "albumId": "0L7ggz4vMdACCCnGV2lioZ",
+            "foundAt": "2026-02-05T18:43:06.429Z"
+          }
+        },
+        {
+          "title": "Let It Be [Deluxe Edition]",
+          "artist": "The Replacements",
+          "spotifyTrack": {
+            "id": "32UdJfwBl7UdAlJsYy9Zes",
+            "name": "I Will Dare - 2025 Remaster",
+            "uri": "spotify:track:32UdJfwBl7UdAlJsYy9Zes",
+            "popularity": 45,
+            "albumName": "Let It Be (Deluxe Edition)",
+            "albumId": "5ePgTxUYBrhKvE69AbxD0j",
+            "foundAt": "2026-02-05T18:43:08.275Z"
+          }
+        },
+        {
+          "title": "50th Anniversay Super Deluxe Edition [4CD/Blu-Ray]",
+          "artist": "Kiss",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:08.889Z"
+          }
+        },
+        {
+          "title": "Balloon Balloon Balloon",
+          "artist": "Sharp Pins",
+          "spotifyTrack": {
+            "id": "7bEHAHKACvKJNtxdTmm0fG",
+            "name": "Popafangout",
+            "uri": "spotify:track:7bEHAHKACvKJNtxdTmm0fG",
+            "popularity": 44,
+            "albumName": "Balloon Balloon Balloon",
+            "albumId": "4rCduWuK1sHdM4TNILadHp",
+            "foundAt": "2026-02-05T18:43:10.621Z"
+          }
+        },
+        {
+          "title": "I'm a Stranger Here Myself: Wainwright Does Weill",
+          "artist": "Pacific Jazz OrchestraRufus Wainwright",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:11.234Z"
+          }
+        },
+        {
+          "title": "Haunted Heart: The Legendary Riverside Studio Recordings",
+          "artist": "Bill EvansBill Evans Trio",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:11.953Z"
+          }
+        },
+        {
+          "title": "Parader",
+          "artist": "Keaton Henson",
+          "spotifyTrack": {
+            "id": "4VR1AQaLowk61kmFR5kgB4",
+            "name": "Don't I Just",
+            "uri": "spotify:track:4VR1AQaLowk61kmFR5kgB4",
+            "popularity": 34,
+            "albumName": "Parader",
+            "albumId": "2zv40AdcaUQOtGnRw7M1Dh",
+            "foundAt": "2026-02-05T18:43:13.592Z"
+          }
+        },
+        {
+          "title": "Supernature [20th Anniversary Edition] [Deluxe 2 CD/Blu-ray Audio]",
+          "artist": "Goldfrapp",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:14.205Z"
+          }
+        },
+        {
+          "title": "England Screaming",
+          "artist": "Wreckless Eric",
+          "spotifyTrack": {
+            "id": "3bDNR7pkobg3RW7POiwbKM",
+            "name": "Lifeline",
+            "uri": "spotify:track:3bDNR7pkobg3RW7POiwbKM",
+            "popularity": 18,
+            "albumName": "England Screaming",
+            "albumId": "7Im8tjO6SB342zgehoETBP",
+            "foundAt": "2026-02-05T18:43:15.845Z"
+          }
+        },
+        {
+          "title": "What of Our Nature",
+          "artist": "Max García ConoverHaley Heynderickx",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:16.452Z"
+          }
+        },
+        {
+          "title": "Implosion",
+          "artist": "The BugGhost Dubs",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:17.174Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "albums": [
+        {
+          "title": "Black and Blue [Super Deluxe 4 CD/Blu-ray]",
+          "artist": "The Rolling Stones",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:17.797Z"
+          }
+        },
+        {
+          "title": "Chin Up Buttercup",
+          "artist": "Austra",
+          "spotifyTrack": {
+            "id": "33IBQKB1tHkVqTNb2SDREd",
+            "name": "Fallen Cloud",
+            "uri": "spotify:track:33IBQKB1tHkVqTNb2SDREd",
+            "popularity": 40,
+            "albumName": "Chin Up Buttercup",
+            "albumId": "6HgcWTOYtsZaLlNOoyjqGL",
+            "foundAt": "2026-02-05T18:43:19.461Z"
+          }
+        },
+        {
+          "title": "Baby",
+          "artist": "Dijon",
+          "spotifyTrack": {
+            "id": "6qR5YGunNSASaabs4kJB9V",
+            "name": "Yamaha",
+            "uri": "spotify:track:6qR5YGunNSASaabs4kJB9V",
+            "popularity": 63,
+            "albumName": "Baby",
+            "albumId": "3hKlec1wgYVJcI0YvwCFJB",
+            "foundAt": "2026-02-05T18:43:21.196Z"
+          }
+        },
+        {
+          "title": "On This Day",
+          "artist": "Tony Molina",
+          "spotifyTrack": {
+            "id": "5NjYjaqeq4dLwFgpu3MDk3",
+            "name": "FC '23",
+            "uri": "spotify:track:5NjYjaqeq4dLwFgpu3MDk3",
+            "popularity": 22,
+            "albumName": "On This Day",
+            "albumId": "0hOYEcoN7Su3cRi9ZbjV3C",
+            "foundAt": "2026-02-05T18:43:23.120Z"
+          }
+        },
+        {
+          "title": "I LOVE LIFE even when I'm hurting",
+          "artist": "Dave McMurray",
+          "spotifyTrack": {
+            "id": "4jGJ5lDRWp9df3xNrxvBRX",
+            "name": "The Jungaleers",
+            "uri": "spotify:track:4jGJ5lDRWp9df3xNrxvBRX",
+            "popularity": 21,
+            "albumName": "I LOVE LIFE even when I'm hurting",
+            "albumId": "7FVjauIggSqzd89M8uBtrZ",
+            "foundAt": "2026-02-05T18:43:24.724Z"
+          }
+        },
+        {
+          "title": "Man-Trap",
+          "artist": "Thee Headcoatees",
+          "spotifyTrack": {
+            "id": "6gUBFOIVhzGeA3empM8nfe",
+            "name": "The KKK Took My Baby Away - Ludella vocal",
+            "uri": "spotify:track:6gUBFOIVhzGeA3empM8nfe",
+            "popularity": 18,
+            "albumName": "Man-Trap",
+            "albumId": "0v6FJKLvPmKCAVL3BPlQTy",
+            "foundAt": "2026-02-05T18:43:26.599Z"
+          }
+        },
+        {
+          "title": "Amorica. [Super Deluxe 3 CD]",
+          "artist": "The Black Crowes",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:27.208Z"
+          }
+        },
+        {
+          "title": "DJ-Kicks",
+          "artist": "Eris Drew",
+          "spotifyTrack": {
+            "id": "5qa6ZfIsqHWkEdD0F1lvxB",
+            "name": "Tribute (DJ Utopia’s Mix) - Mixed",
+            "uri": "spotify:track:5qa6ZfIsqHWkEdD0F1lvxB",
+            "popularity": 23,
+            "albumName": "DJ-Kicks: Eris Drew",
+            "albumId": "1NkbXLDLpC979zCE1OO8dJ",
+            "foundAt": "2026-02-05T18:43:28.749Z"
+          }
+        },
+        {
+          "title": "Personal Computer Music, 1997-2022",
+          "artist": "Jeremy DowerTetrphnm",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:29.464Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "albums": [
+        {
+          "title": "Sad and Beautiful World",
+          "artist": "Mavis Staples",
+          "spotifyTrack": {
+            "id": "6UFDma78AVAyHaN4i88R8i",
+            "name": "Sad and Beautiful World",
+            "uri": "spotify:track:6UFDma78AVAyHaN4i88R8i",
+            "popularity": 51,
+            "albumName": "Sad And Beautiful World",
+            "albumId": "07aZwFEzDfh0BALXf1o6FH",
+            "foundAt": "2026-02-05T18:43:31.312Z"
+          }
+        },
+        {
+          "title": "Liquorice",
+          "artist": "Hatchie",
+          "spotifyTrack": {
+            "id": "7nRGn3i9VjWrOzgktOoIMW",
+            "name": "Carousel",
+            "uri": "spotify:track:7nRGn3i9VjWrOzgktOoIMW",
+            "popularity": 47,
+            "albumName": "Liquorice",
+            "albumId": "0dtHFmAZG3WuxrpxxGoXlV",
+            "foundAt": "2026-02-05T18:43:33.049Z"
+          }
+        },
+        {
+          "title": "Through This Fire Across From Peter Balkan",
+          "artist": "The Mountain Goats",
+          "spotifyTrack": {
+            "id": "2yFSKzBynfMYUTRtkxjLx2",
+            "name": "Cold at Night",
+            "uri": "spotify:track:2yFSKzBynfMYUTRtkxjLx2",
+            "popularity": 44,
+            "albumName": "Through This Fire Across from Peter Balkan",
+            "albumId": "23wXSnurzNp56xCyGBPQ65",
+            "foundAt": "2026-02-05T18:43:34.689Z"
+          }
+        },
+        {
+          "title": "Small Talk",
+          "artist": "Whitney",
+          "spotifyTrack": {
+            "id": "05URVp6intVrFUYhIksYyB",
+            "name": "Evangeline",
+            "uri": "spotify:track:05URVp6intVrFUYhIksYyB",
+            "popularity": 48,
+            "albumName": "Small Talk",
+            "albumId": "0DV7ElSZhfGNknhxBnQeJk",
+            "foundAt": "2026-02-05T18:43:36.326Z"
+          }
+        },
+        {
+          "title": "Shish",
+          "artist": "Portugal. The Man",
+          "spotifyTrack": {
+            "id": "2eTPYfu84D0msm8ibxZ1La",
+            "name": "Tanana",
+            "uri": "spotify:track:2eTPYfu84D0msm8ibxZ1La",
+            "popularity": 52,
+            "albumName": "SHISH",
+            "albumId": "7pbhvtNUvp160w3qgtwCCg",
+            "foundAt": "2026-02-05T18:43:38.067Z"
+          }
+        },
+        {
+          "title": "1985: The Miracle Year",
+          "artist": "Hüsker Dü",
+          "spotifyTrack": {
+            "id": "4A7rCmz1xlZDtfMXBgrkOg",
+            "name": "New Day Rising",
+            "uri": "spotify:track:4A7rCmz1xlZDtfMXBgrkOg",
+            "popularity": 25,
+            "albumName": "1985: The Miracle Year",
+            "albumId": "1UAPT7a6MoGo3phDeskmKd",
+            "foundAt": "2026-02-05T18:43:39.912Z"
+          }
+        },
+        {
+          "title": "How You Been",
+          "artist": "SML",
+          "spotifyTrack": {
+            "id": "3le7tV5MtNCVpBQ1e2ubSD",
+            "name": "Taking out the Trash",
+            "uri": "spotify:track:3le7tV5MtNCVpBQ1e2ubSD",
+            "popularity": 31,
+            "albumName": "How You Been",
+            "albumId": "00xaBkvgiCZ7mMlcHIRgQy",
+            "foundAt": "2026-02-05T18:43:41.447Z"
+          }
+        },
+        {
+          "title": "Cosplay",
+          "artist": "Sorry",
+          "spotifyTrack": {
+            "id": "393Vol6T8l2Koj5QeKLEOV",
+            "name": "Echoes",
+            "uri": "spotify:track:393Vol6T8l2Koj5QeKLEOV",
+            "popularity": 46,
+            "albumName": "COSPLAY",
+            "albumId": "2y9KTl1MXK8jgH40zwh11X",
+            "foundAt": "2026-02-05T18:43:43.185Z"
+          }
+        },
+        {
+          "title": "Daylight Daylight",
+          "artist": "Steve Gunn",
+          "spotifyTrack": {
+            "id": "5L8Id6a2oAYbOHZjl14MEZ",
+            "name": "Nearly There",
+            "uri": "spotify:track:5L8Id6a2oAYbOHZjl14MEZ",
+            "popularity": 34,
+            "albumName": "Daylight Daylight",
+            "albumId": "1J0qV3wcKMtct7t1YSIALl",
+            "foundAt": "2026-02-05T18:43:44.723Z"
+          }
+        },
+        {
+          "title": "Lasting Impression",
+          "artist": "Brandon Sanders",
+          "spotifyTrack": {
+            "id": "3epFwp7ZHkBXYPdfa5zy5F",
+            "name": "8/4 Beat",
+            "uri": "spotify:track:3epFwp7ZHkBXYPdfa5zy5F",
+            "popularity": 28,
+            "albumName": "Lasting Impression",
+            "albumId": "1avyPXf8rP4eqgbfGHnnQN",
+            "foundAt": "2026-02-05T18:43:46.467Z"
+          }
+        },
+        {
+          "title": "No Time for Poetry",
+          "artist": "The Saxophones",
+          "spotifyTrack": {
+            "id": "5osNBPZZHKAtsFAqSsG6gO",
+            "name": "Winter Moon",
+            "uri": "spotify:track:5osNBPZZHKAtsFAqSsG6gO",
+            "popularity": 27,
+            "albumName": "No Time for Poetry",
+            "albumId": "2qgNl5E8KZZ14Z5Utlqy8h",
+            "foundAt": "2026-02-05T18:43:47.996Z"
+          }
+        },
+        {
+          "title": "Finding Ways",
+          "artist": "Finding Ways",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:48.738Z"
+          }
+        },
+        {
+          "title": "Birds & Insects: Arlene Sierra, Vol. 4",
+          "artist": "Sarah CahillSteven Beck",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:49.389Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "albums": [
+        {
+          "title": "The Bootleg Series, Vol. 18: Through the Open Window 1956-1963",
+          "artist": "Bob Dylan",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:50.149Z"
+          }
+        },
+        {
+          "title": "Thick Rich and Delicious",
+          "artist": "Guided by Voices",
+          "spotifyTrack": {
+            "id": "4XlcUFJy8CHJTlVrPVFeTV",
+            "name": "Lucy's World",
+            "uri": "spotify:track:4XlcUFJy8CHJTlVrPVFeTV",
+            "popularity": 30,
+            "albumName": "Thick Rich And Delicious",
+            "albumId": "57oBeed9LWnLqFJsmolcQ4",
+            "foundAt": "2026-02-05T18:43:51.892Z"
+          }
+        },
+        {
+          "title": "We Are Love",
+          "artist": "The Charlatans",
+          "spotifyTrack": {
+            "id": "5IJXr2quGZlSIH6YSiwOBR",
+            "name": "We Are Love",
+            "uri": "spotify:track:5IJXr2quGZlSIH6YSiwOBR",
+            "popularity": 40,
+            "albumName": "We Are Love",
+            "albumId": "6NfDKhBNBIMR1HeStDZqs7",
+            "foundAt": "2026-02-05T18:43:53.412Z"
+          }
+        },
+        {
+          "title": "Welcome to the Tudor Gate",
+          "artist": "Maps",
+          "spotifyTrack": {
+            "id": "7MQKQmy0Lhkc0UEHjWtjlM",
+            "name": "Chapter One",
+            "uri": "spotify:track:7MQKQmy0Lhkc0UEHjWtjlM",
+            "popularity": 5,
+            "albumName": "Welcome To The Tudor Gate",
+            "albumId": "2t95QKZNx60u9wTJMoRVis",
+            "foundAt": "2026-02-05T18:43:55.166Z"
+          }
+        },
+        {
+          "title": "ICONOCLASTS",
+          "artist": "Anna von Hausswolff",
+          "spotifyTrack": {
+            "id": "0t4bUB3mz9gzBLAQRAx6cK",
+            "name": "Aging Young Women",
+            "uri": "spotify:track:0t4bUB3mz9gzBLAQRAx6cK",
+            "popularity": 51,
+            "albumName": "ICONOCLASTS",
+            "albumId": "20BKSOzIQSHI4kLQIzPslN",
+            "foundAt": "2026-02-05T18:43:56.703Z"
+          }
+        },
+        {
+          "title": "The Epic & Creation Years 1993-1998",
+          "artist": "Nick Heyward",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:43:57.417Z"
+          }
+        },
+        {
+          "title": "Ex Voto/The Silent Love",
+          "artist": "Christian Kjellvander",
+          "spotifyTrack": {
+            "id": "1JVTJM7Mdv5Kkrjlnf5XIS",
+            "name": "Hole in My Heart",
+            "uri": "spotify:track:1JVTJM7Mdv5Kkrjlnf5XIS",
+            "popularity": 30,
+            "albumName": "Ex Voto / The Silent Love",
+            "albumId": "2SwdpGKxoZwq1Wh5xGr3NG",
+            "foundAt": "2026-02-05T18:43:59.366Z"
+          }
+        },
+        {
+          "title": "A Little Death",
+          "artist": "claire rousay",
+          "spotifyTrack": {
+            "id": "0Dg4nN3hKf3Ml3KV5VRd7W",
+            "name": "a little death",
+            "uri": "spotify:track:0Dg4nN3hKf3Ml3KV5VRd7W",
+            "popularity": 34,
+            "albumName": "a little death",
+            "albumId": "6pnb0vQLp8a9c6u1XAW3Up",
+            "foundAt": "2026-02-05T18:44:00.964Z"
+          }
+        },
+        {
+          "title": "We're Headed to the Lake",
+          "artist": "Guitar",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:44:01.719Z"
+          }
+        },
+        {
+          "title": "hooke's law",
+          "artist": "Keiyaa",
+          "spotifyTrack": {
+            "id": "4YZXIoOJbus69PEBfP1AF0",
+            "name": "stupid prizes",
+            "uri": "spotify:track:4YZXIoOJbus69PEBfP1AF0",
+            "popularity": 32,
+            "albumName": "hooke’s law",
+            "albumId": "2sTsH9vYQhIi60IYjE3hJp",
+            "foundAt": "2026-02-05T18:44:03.468Z"
+          }
+        },
+        {
+          "title": "Time Won't Bring Me Down",
+          "artist": "Radioactivity",
+          "spotifyTrack": {
+            "id": "0TM4K2XHPWbIJIUcwvDBeS",
+            "name": "Time Won't Bring Me Down",
+            "uri": "spotify:track:0TM4K2XHPWbIJIUcwvDBeS",
+            "popularity": 25,
+            "albumName": "Time Won't Bring Me Down",
+            "albumId": "7KWufDtqqmPXiE8tWeDtRd",
+            "foundAt": "2026-02-05T18:44:05.099Z"
+          }
+        },
+        {
+          "title": "Ruin",
+          "artist": "Ritual Howls",
+          "spotifyTrack": {
+            "id": "2ya3bj6Hb36KWlrjzquuAn",
+            "name": "Follow the Sun",
+            "uri": "spotify:track:2ya3bj6Hb36KWlrjzquuAn",
+            "popularity": 21,
+            "albumName": "Ruin",
+            "albumId": "1Qj2gjomtPoIVGJw0T9WdO",
+            "foundAt": "2026-02-05T18:44:06.740Z"
+          }
+        },
+        {
+          "title": "Arvo Pärt: And I heard a voice",
+          "artist": "Vox ClamantisJaan-Eik Tulve",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:44:07.459Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "albums": [
+        {
+          "title": "Returning to Myself",
+          "artist": "Brandi Carlile",
+          "spotifyTrack": {
+            "id": "63oBWU1UnEwk5z441Xjngq",
+            "name": "Human",
+            "uri": "spotify:track:63oBWU1UnEwk5z441Xjngq",
+            "popularity": 50,
+            "albumName": "Returning To Myself",
+            "albumId": "3e2Q0TkwIIfmWUAssLAJ8U",
+            "foundAt": "2026-02-05T18:44:09.096Z"
+          }
+        },
+        {
+          "title": "Nebraska 82: Expanded Edition",
+          "artist": "Bruce Springsteen",
+          "spotifyTrack": {
+            "id": "3nyE4s2ueZ03Q2czUMfJ88",
+            "name": "Losin' Kind - Nebraska Outtakes",
+            "uri": "spotify:track:3nyE4s2ueZ03Q2czUMfJ88",
+            "popularity": 46,
+            "albumName": "Nebraska '82: Expanded Edition",
+            "albumId": "6Cd23zUXeW83jRFlUiwcPM",
+            "foundAt": "2026-02-05T18:44:10.832Z"
+          }
+        },
+        {
+          "title": "FEMME FATALE",
+          "artist": "Mon Laferte",
+          "spotifyTrack": {
+            "id": "0ILCaNMr4s5CZdF1Km09Ln",
+            "name": "My One And Only Love",
+            "uri": "spotify:track:0ILCaNMr4s5CZdF1Km09Ln",
+            "popularity": 70,
+            "albumName": "FEMME FATALE",
+            "albumId": "7q2GxttTFDWOihvnSWdwWw",
+            "foundAt": "2026-02-05T18:44:12.570Z"
+          }
+        },
+        {
+          "title": "Teal Dreams",
+          "artist": "Yazmin Lacey",
+          "spotifyTrack": {
+            "id": "3gURB0TgRppQkfaFgU735h",
+            "name": "Longest Way Round",
+            "uri": "spotify:track:3gURB0TgRppQkfaFgU735h",
+            "popularity": 44,
+            "albumName": "Teal Dreams",
+            "albumId": "2AzTf9LVZzgJ7DoN1nE7uQ",
+            "foundAt": "2026-02-05T18:44:14.320Z"
+          }
+        },
+        {
+          "title": "Slacker",
+          "artist": "Oruã",
+          "spotifyTrack": {
+            "id": "0wqaJOgslL6LBOGLkR2Ovq",
+            "name": "Deus-Dará",
+            "uri": "spotify:track:0wqaJOgslL6LBOGLkR2Ovq",
+            "popularity": 16,
+            "albumName": "Slacker",
+            "albumId": "5Vn4wzALbme6dBvvgznJUa",
+            "foundAt": "2026-02-05T18:44:16.159Z"
+          }
+        },
+        {
+          "title": "More Colors of Sound",
+          "artist": "Major Stars",
+          "spotifyTrack": {
+            "id": "0lYDnvTInnGTryzmsz02Ht",
+            "name": "Blackout",
+            "uri": "spotify:track:0lYDnvTInnGTryzmsz02Ht",
+            "popularity": 10,
+            "albumName": "More Colors of Sound",
+            "albumId": "0DKT7wx8cN4jdLTw6SLh1d",
+            "foundAt": "2026-02-05T18:44:17.691Z"
+          }
+        },
+        {
+          "title": "Krok",
+          "artist": "Soyuz",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:44:18.410Z"
+          }
+        },
+        {
+          "title": "Stereotype",
+          "artist": "Squarepusher",
+          "spotifyTrack": {
+            "id": "2PDPho4GseHB4Gw925KjqR",
+            "name": "Whooshki",
+            "uri": "spotify:track:2PDPho4GseHB4Gw925KjqR",
+            "popularity": 20,
+            "albumName": "Stereotype",
+            "albumId": "6YoFtf2Ou3IrsoS4xybT3y",
+            "foundAt": "2026-02-05T18:44:20.000Z"
+          }
+        },
+        {
+          "title": "Amasia: Anamibia Sessions 2",
+          "artist": "Melvin Gibbs",
+          "spotifyTrack": {
+            "id": "2MbhhJlidYkFsxwhxZHf7z",
+            "name": "Gullah Jack Style",
+            "uri": "spotify:track:2MbhhJlidYkFsxwhxZHf7z",
+            "popularity": 17,
+            "albumName": "Amasia: Anamibia Sessions 2",
+            "albumId": "7DYAxLoCh9xtr9nbqbbmMS",
+            "foundAt": "2026-02-05T18:44:21.485Z"
+          }
+        },
+        {
+          "title": "Silver in Seattle: Live at the Penthouse",
+          "artist": "Horace SilverHorace Silver Quintet",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:44:22.303Z"
+          }
+        },
+        {
+          "title": "Unfold in the Sky",
+          "artist": "Cubzoa",
+          "spotifyTrack": {
+            "id": "7lDrZ6JVSWziyXAGzIUh1h",
+            "name": "Buckle Up",
+            "uri": "spotify:track:7lDrZ6JVSWziyXAGzIUh1h",
+            "popularity": 28,
+            "albumName": "Unfold In The Sky",
+            "albumId": "7fCGumjqMjzUV0fG2AMrdS",
+            "foundAt": "2026-02-05T18:44:23.941Z"
+          }
+        },
+        {
+          "title": "Mozart's Clavichord: Arias, Lieder and Keyboard Pieces",
+          "artist": "Georg NiglAlexander Gergelyfi",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:44:24.655Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "albums": [
+        {
+          "title": "Deadbeat",
+          "artist": "Tame Impala",
+          "spotifyTrack": {
+            "id": "1NXbNEAcPvY5G1xvfN57aA",
+            "name": "Dracula",
+            "uri": "spotify:track:1NXbNEAcPvY5G1xvfN57aA",
+            "popularity": 84,
+            "albumName": "Deadbeat",
+            "albumId": "5WulAOx9ilWy1h8UGZ1gkI",
+            "foundAt": "2026-02-05T18:44:26.286Z"
+          }
+        },
+        {
+          "title": "THE BPM",
+          "artist": "Sudan Archives",
+          "spotifyTrack": {
+            "id": "1MRQ49rkgqahm7K51ZjtRf",
+            "name": "DEAD",
+            "uri": "spotify:track:1MRQ49rkgqahm7K51ZjtRf",
+            "popularity": 50,
+            "albumName": "THE BPM",
+            "albumId": "6xuXmpSyh7WqIct3bvsSfg",
+            "foundAt": "2026-02-05T18:44:28.039Z"
+          }
+        },
+        {
+          "title": "From the Pyre",
+          "artist": "The Last Dinner Party",
+          "spotifyTrack": {
+            "id": "4lC5STpnrBm7aXMls2zGqJ",
+            "name": "The Scythe",
+            "uri": "spotify:track:4lC5STpnrBm7aXMls2zGqJ",
+            "popularity": 60,
+            "albumName": "From The Pyre",
+            "albumId": "3xxkjx6Hgl8sWpNfuqhHtD",
+            "foundAt": "2026-02-05T18:44:29.675Z"
+          }
+        },
+        {
+          "title": "Sunlight in the Shadows",
+          "artist": "Miles Kane",
+          "spotifyTrack": {
+            "id": "6Y8ecenZetaPf69GfAnQNG",
+            "name": "Love Is Cruel",
+            "uri": "spotify:track:6Y8ecenZetaPf69GfAnQNG",
+            "popularity": 40,
+            "albumName": "Sunlight In The Shadows",
+            "albumId": "0LpQiuhhd5REbYe82Lo1F2",
+            "foundAt": "2026-02-05T18:44:31.311Z"
+          }
+        },
+        {
+          "title": "Some Like It Hot",
+          "artist": "bar italia",
+          "spotifyTrack": {
+            "id": "1IBsWEOUwPCDJLwyzsbiBP",
+            "name": "Fundraiser",
+            "uri": "spotify:track:1IBsWEOUwPCDJLwyzsbiBP",
+            "popularity": 45,
+            "albumName": "Some Like It Hot",
+            "albumId": "2CVovXC4S92eRgjtZazNEU",
+            "foundAt": "2026-02-05T18:44:32.923Z"
+          }
+        },
+        {
+          "title": "Diary of a Candle",
+          "artist": "Faten Kanaan",
+          "spotifyTrack": {
+            "id": "6BRzITRltQ3t0DxsTPvxtj",
+            "name": "Supercore",
+            "uri": "spotify:track:6BRzITRltQ3t0DxsTPvxtj",
+            "popularity": 12,
+            "albumName": "Diary of a Candle",
+            "albumId": "0NZsxneIVXSedijfpvTcgl",
+            "foundAt": "2026-02-05T18:44:34.696Z"
+          }
+        },
+        {
+          "title": "Talulah's Tape",
+          "artist": "Good Flying Birds",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:44:35.407Z"
+          }
+        },
+        {
+          "title": "Tower Block in a Jam Jar",
+          "artist": "Mozart Estate",
+          "spotifyTrack": {
+            "id": "249m4DlTf3fyjEHWIv2Le6",
+            "name": "Summer Is Here",
+            "uri": "spotify:track:249m4DlTf3fyjEHWIv2Le6",
+            "popularity": 15,
+            "albumName": "Tower Block In A Jam Jar",
+            "albumId": "3kVLOoqEzJEQrKocjAKAnX",
+            "foundAt": "2026-02-05T18:44:36.997Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "albums": [
+        {
+          "title": "Belong",
+          "artist": "Jay Som",
+          "spotifyTrack": {
+            "id": "1oABrgkUeG6UEtaBcCBqKn",
+            "name": "What You Need",
+            "uri": "spotify:track:1oABrgkUeG6UEtaBcCBqKn",
+            "popularity": 48,
+            "albumName": "Belong",
+            "albumId": "2sdK35lVZvkcOvztZYpG3a",
+            "foundAt": "2026-02-05T18:44:38.508Z"
+          }
+        },
+        {
+          "title": "Figure in Blue",
+          "artist": "Charles Lloyd",
+          "spotifyTrack": {
+            "id": "3ivpMHUv87YqLNcbqzIJda",
+            "name": "Figure In Blue, memories of Duke",
+            "uri": "spotify:track:3ivpMHUv87YqLNcbqzIJda",
+            "popularity": 35,
+            "albumName": "Figure In Blue",
+            "albumId": "1qMMVXxfxe0rPsHunQzFe0",
+            "foundAt": "2026-02-05T18:44:40.453Z"
+          }
+        },
+        {
+          "title": "Fatal Optimist",
+          "artist": "Madi Diaz",
+          "spotifyTrack": {
+            "id": "5YM9jQQsPGrZdQWyUM33cR",
+            "name": "Heavy Metal",
+            "uri": "spotify:track:5YM9jQQsPGrZdQWyUM33cR",
+            "popularity": 34,
+            "albumName": "Fatal Optimist",
+            "albumId": "5nr1WsFgzermy9sTeuAqGC",
+            "foundAt": "2026-02-05T18:44:42.066Z"
+          }
+        },
+        {
+          "title": "A Lifetime of Riding by Night",
+          "artist": "Rhett Miller",
+          "spotifyTrack": {
+            "id": "1FhwWoZxYFDM9XL9TV1Hhi",
+            "name": "Come As You Are (feat. Evan Felker of Turnpike Troubadours)",
+            "uri": "spotify:track:1FhwWoZxYFDM9XL9TV1Hhi",
+            "popularity": 18,
+            "albumName": "A lifetime of riding by night",
+            "albumId": "3UOoAa8224RuBwga4SmYpW",
+            "foundAt": "2026-02-05T18:44:43.539Z"
+          }
+        },
+        {
+          "title": "Ace",
+          "artist": "Madison Cunningham",
+          "spotifyTrack": {
+            "id": "1s28bDyZPvFl8OPKOPgYdN",
+            "name": "Break The Jaw",
+            "uri": "spotify:track:1s28bDyZPvFl8OPKOPgYdN",
+            "popularity": 42,
+            "albumName": "Ace",
+            "albumId": "1A8y28WkLlz79cpf843cWV",
+            "foundAt": "2026-02-05T18:44:45.141Z"
+          }
+        },
+        {
+          "title": "Off the Record",
+          "artist": "Makaya McCraven",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:44:45.855Z"
+          }
+        },
+        {
+          "title": "Corporal",
+          "artist": "Lorelle Meets the Obsolete",
+          "spotifyTrack": {
+            "id": "7b7OYhA5osF3pkZbkjypS3",
+            "name": "Ker",
+            "uri": "spotify:track:7b7OYhA5osF3pkZbkjypS3",
+            "popularity": 12,
+            "albumName": "Corporal",
+            "albumId": "3cU4MZCA5sOTWdmbs0aBUV",
+            "foundAt": "2026-02-05T18:44:47.697Z"
+          }
+        },
+        {
+          "title": "Here and Nowhere",
+          "artist": "The Autumn Defense",
+          "spotifyTrack": {
+            "id": "0zE0HZAVXatnwGbtrRnLNP",
+            "name": "Love Lives",
+            "uri": "spotify:track:0zE0HZAVXatnwGbtrRnLNP",
+            "popularity": 32,
+            "albumName": "Here and Nowhere",
+            "albumId": "2pkCGwlUid7rQgcUGvjfw7",
+            "foundAt": "2026-02-05T18:44:49.273Z"
+          }
+        },
+        {
+          "title": "Max Reger: Four Tone Poems after Böcklin; Romantic Suite",
+          "artist": "Jaime MartínGävle Symphony Orchestra",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:44:49.949Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "albums": [
+        {
+          "title": "The Life of a Showgirl",
+          "artist": "Taylor Swift",
+          "spotifyTrack": {
+            "id": "53iuhJlwXhSER5J2IYYv1W",
+            "name": "The Fate of Ophelia",
+            "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
+            "popularity": 98,
+            "albumName": "The Life of a Showgirl",
+            "albumId": "4a6NzYL1YHRUgx9e3YZI6I",
+            "foundAt": "2026-02-05T18:44:51.798Z"
+          }
+        },
+        {
+          "title": "Cut & Rewind",
+          "artist": "Say She She",
+          "spotifyTrack": {
+            "id": "7Jhq5xJqX9RL3vwig3YR0I",
+            "name": "Disco Life",
+            "uri": "spotify:track:7Jhq5xJqX9RL3vwig3YR0I",
+            "popularity": 45,
+            "albumName": "Cut & Rewind",
+            "albumId": "7hFUCq6uO0DeJg3Ns7ik2T",
+            "foundAt": "2026-02-05T18:44:53.473Z"
+          }
+        },
+        {
+          "title": "Silver Bleeds the Black Sun...",
+          "artist": "AFI",
+          "spotifyTrack": {
+            "id": "5DcTkTG3Z4uoQTxIv4LgPZ",
+            "name": "Holy Visions",
+            "uri": "spotify:track:5DcTkTG3Z4uoQTxIv4LgPZ",
+            "popularity": 44,
+            "albumName": "Silver Bleeds the Black Sun...",
+            "albumId": "5mkdGum4SA8FWcwNMlttf5",
+            "foundAt": "2026-02-05T18:44:55.171Z"
+          }
+        },
+        {
+          "title": "Worldwide",
+          "artist": "Snõõper",
+          "spotifyTrack": {
+            "id": "0e2aRqnNEkLc1NDgVpfSuP",
+            "name": "Star 6 9",
+            "uri": "spotify:track:0e2aRqnNEkLc1NDgVpfSuP",
+            "popularity": 40,
+            "albumName": "Worldwide",
+            "albumId": "1Lej9DPOh2ljmeiyKTFHrz",
+            "foundAt": "2026-02-05T18:44:56.916Z"
+          }
+        },
+        {
+          "title": "I'm Nice Now",
+          "artist": "Upchuck",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:44:57.584Z"
+          }
+        },
+        {
+          "title": "Not for Lack of Trying",
+          "artist": "Dodie",
+          "spotifyTrack": {
+            "id": "7v4rzwg3HdsV2Nk7soqTgk",
+            "name": "I’M FINE!",
+            "uri": "spotify:track:7v4rzwg3HdsV2Nk7soqTgk",
+            "popularity": 40,
+            "albumName": "Not For Lack Of Trying",
+            "albumId": "6ogKuILl7vFFCahzxHvFOi",
+            "foundAt": "2026-02-05T18:44:59.371Z"
+          }
+        },
+        {
+          "title": "Songbird",
+          "artist": "Waylon Jennings",
+          "spotifyTrack": {
+            "id": "2uZA3PguAb1CXW8we1Dxwo",
+            "name": "The Cowboy (Small Texas Town)",
+            "uri": "spotify:track:2uZA3PguAb1CXW8we1Dxwo",
+            "popularity": 42,
+            "albumName": "Songbird",
+            "albumId": "3U2Nj6eoEgISZWr6t9WFZV",
+            "foundAt": "2026-02-05T18:45:01.114Z"
+          }
+        },
+        {
+          "title": "For Dinah",
+          "artist": "Ledisi",
+          "spotifyTrack": {
+            "id": "4uqMVAe76Y0UBQXn0KCXLh",
+            "name": "If I Never Get To Heaven",
+            "uri": "spotify:track:4uqMVAe76Y0UBQXn0KCXLh",
+            "popularity": 31,
+            "albumName": "For Dinah",
+            "albumId": "7jH6j03bgQIOsVG3Haw5kZ",
+            "foundAt": "2026-02-05T18:45:02.649Z"
+          }
+        },
+        {
+          "title": "Scarlatti",
+          "artist": "Javier Perianes",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:45:03.365Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-09-26",
+      "albums": [
+        {
+          "title": "Twilight Override",
+          "artist": "Jeff Tweedy",
+          "spotifyTrack": {
+            "id": "5KC9mJ9jRDbGOHzMmINjAl",
+            "name": "One Tiny Flower",
+            "uri": "spotify:track:5KC9mJ9jRDbGOHzMmINjAl",
+            "popularity": 41,
+            "albumName": "Twilight Override",
+            "albumId": "4nczkBnxvOZNewjhxws5q6",
+            "foundAt": "2026-02-05T18:45:05.111Z"
+          }
+        },
+        {
+          "title": "Saving Grace",
+          "artist": "Robert Plant",
+          "spotifyTrack": {
+            "id": "6wn3ZYA7XiXqfUCJCBo7q0",
+            "name": "It's A Beautiful Day Today",
+            "uri": "spotify:track:6wn3ZYA7XiXqfUCJCBo7q0",
+            "popularity": 43,
+            "albumName": "Saving Grace",
+            "albumId": "3E3qeXLdDtaX16OV4kbNoF",
+            "foundAt": "2026-02-05T18:45:07.048Z"
+          }
+        },
+        {
+          "title": "Midnight Sun",
+          "artist": "Zara Larsson",
+          "spotifyTrack": {
+            "id": "1qRV1dKLOfH1s00b9J2LUQ",
+            "name": "Midnight Sun",
+            "uri": "spotify:track:1qRV1dKLOfH1s00b9J2LUQ",
+            "popularity": 81,
+            "albumName": "Midnight Sun",
+            "albumId": "2IdHrETl3jsOYQRsF0nV16",
+            "foundAt": "2026-02-05T18:45:09.098Z"
+          }
+        },
+        {
+          "title": "Neon Grey Midnight Green",
+          "artist": "Neko Case",
+          "spotifyTrack": {
+            "id": "2N0e3WdwtkeDSAC8sqvP9a",
+            "name": "Wreck",
+            "uri": "spotify:track:2N0e3WdwtkeDSAC8sqvP9a",
+            "popularity": 43,
+            "albumName": "Neon Grey Midnight Green",
+            "albumId": "6iTA9mrYpN3l5P3nJbq1BU",
+            "foundAt": "2026-02-05T18:45:10.759Z"
+          }
+        },
+        {
+          "title": "Michelangelo Dying",
+          "artist": "Cate Le Bon",
+          "spotifyTrack": {
+            "id": "6QyDopDgclGYNXf3UeuDZv",
+            "name": "Heaven Is No Feeling",
+            "uri": "spotify:track:6QyDopDgclGYNXf3UeuDZv",
+            "popularity": 48,
+            "albumName": "Michelangelo Dying",
+            "albumId": "1Ce9FPiBLS0PBkYjg2NKho",
+            "foundAt": "2026-02-05T18:45:12.480Z"
+          }
+        },
+        {
+          "title": "Odessey and Oracle",
+          "artist": "The Zombies",
+          "spotifyTrack": {
+            "id": "6lx1n63qJmhzPpirxxksbI",
+            "name": "Time of the Season - Mono Remastered",
+            "uri": "spotify:track:6lx1n63qJmhzPpirxxksbI",
+            "popularity": 71,
+            "albumName": "Odessey and Oracle (Mono Remastered)",
+            "albumId": "1Rad3I77vbl5L65DjbSIzJ",
+            "foundAt": "2026-02-05T18:45:14.247Z"
+          }
+        },
+        {
+          "title": "Cover Girl",
+          "artist": "Lady Wray",
+          "spotifyTrack": {
+            "id": "0QEb6GsOltzSeCj4iMuBFr",
+            "name": "Best For Us",
+            "uri": "spotify:track:0QEb6GsOltzSeCj4iMuBFr",
+            "popularity": 38,
+            "albumName": "Cover Girl",
+            "albumId": "4SvP99rd8lr8wpDW8p55uq",
+            "foundAt": "2026-02-05T18:45:15.852Z"
+          }
+        },
+        {
+          "title": "The Cords",
+          "artist": "The Cords",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:45:16.502Z"
+          }
+        },
+        {
+          "title": "Mulatu Plays Mulatu",
+          "artist": "Mulatu Astatke",
+          "spotifyTrack": {
+            "id": "0oFChZRso5GydtIoSCv9Kz",
+            "name": "Yèkèrmo Sèw",
+            "uri": "spotify:track:0oFChZRso5GydtIoSCv9Kz",
+            "popularity": 42,
+            "albumName": "Mulatu Plays Mulatu",
+            "albumId": "7p6BngLDdLeAeY38yptAjc",
+            "foundAt": "2026-02-05T18:45:18.214Z"
+          }
+        },
+        {
+          "title": "Purity Ring",
+          "artist": "Purity Ring",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:45:18.924Z"
+          }
+        },
+        {
+          "title": "Through the Wall",
+          "artist": "Rochelle Jordan",
+          "spotifyTrack": {
+            "id": "71opuLWkFhYlqcYYKPkkQw",
+            "name": "The Boy",
+            "uri": "spotify:track:71opuLWkFhYlqcYYKPkkQw",
+            "popularity": 54,
+            "albumName": "Through The Wall",
+            "albumId": "1vTquD47VNHtfuc5tVLI98",
+            "foundAt": "2026-02-05T18:45:20.569Z"
+          }
+        },
+        {
+          "title": "Diabolico",
+          "artist": "Laura Lootens",
+          "spotifyTrack": {
+            "id": "0mquPRhalxCjmcv8Ffqk2y",
+            "name": "Violin Sonata in G Minor, B.g5 \"Il trillo del diavolo\": I. Larghetto affettuoso - Arr. for Solo Guitar by Roberto Zadra",
+            "uri": "spotify:track:0mquPRhalxCjmcv8Ffqk2y",
+            "popularity": 7,
+            "albumName": "Diabolico",
+            "albumId": "3jFPFLxeIpdyv4CiuwvT6J",
+            "foundAt": "2026-02-05T18:45:22.319Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-09-19",
+      "albums": [
+        {
+          "title": "Buckingham Nicks",
+          "artist": "Buckingham Nicks",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:45:23.128Z"
+          }
+        },
+        {
+          "title": "TRON: Ares [Original Motion Picture Soundtrack]",
+          "artist": "Nine Inch Nails",
+          "spotifyTrack": {
+            "id": "06USX1htQD4LgOgX4FF0ix",
+            "name": "As Alive As You Need Me To Be",
+            "uri": "spotify:track:06USX1htQD4LgOgX4FF0ix",
+            "popularity": 64,
+            "albumName": "TRON: Ares (Original Motion Picture Soundtrack)",
+            "albumId": "47pjW3XDPW99NShtkeewxl",
+            "foundAt": "2026-02-05T18:45:24.783Z"
+          }
+        },
+        {
+          "title": "Better Broken",
+          "artist": "Sarah McLachlan",
+          "spotifyTrack": {
+            "id": "2uG4DKQ59ymjurpfpy0Nbf",
+            "name": "Better Broken",
+            "uri": "spotify:track:2uG4DKQ59ymjurpfpy0Nbf",
+            "popularity": 42,
+            "albumName": "Better Broken",
+            "albumId": "1M6hqzklMlxYCA3nyS43KI",
+            "foundAt": "2026-02-05T18:45:26.387Z"
+          }
+        },
+        {
+          "title": "Dance Called Memory",
+          "artist": "Nation of Language",
+          "spotifyTrack": {
+            "id": "6YE0zn10XApgoCMaFeSj7b",
+            "name": "Inept Apollo",
+            "uri": "spotify:track:6YE0zn10XApgoCMaFeSj7b",
+            "popularity": 54,
+            "albumName": "Dance Called Memory",
+            "albumId": "2fNPTFiU2sCY9m6tv3Ucqa",
+            "foundAt": "2026-02-05T18:45:28.246Z"
+          }
+        },
+        {
+          "title": "41 Longfield Street Late ‘80s",
+          "artist": "Kieran HebdenWilliam Tyler",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:45:28.964Z"
+          }
+        },
+        {
+          "title": "40",
+          "artist": "The Wedding Present",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:45:29.580Z"
+          }
+        },
+        {
+          "title": "The Streets Like Beds Still Warm",
+          "artist": "Wilder Maker",
+          "spotifyTrack": {
+            "id": "3N0sNPggL7RNADa8U5UUJ5",
+            "name": "Strange Meeting with Owls",
+            "uri": "spotify:track:3N0sNPggL7RNADa8U5UUJ5",
+            "popularity": 16,
+            "albumName": "The Streets Like Beds Still Warm",
+            "albumId": "19vY5mb3mxaGIAEx8m3y0q",
+            "foundAt": "2026-02-05T18:45:31.218Z"
+          }
+        },
+        {
+          "title": "AFIM",
+          "artist": "Zé Ibarra",
+          "spotifyTrack": {
+            "id": "6k6PhENdLggOmmaXkmucTT",
+            "name": "Infinito em nós",
+            "uri": "spotify:track:6k6PhENdLggOmmaXkmucTT",
+            "popularity": 41,
+            "albumName": "AFIM",
+            "albumId": "1LJrM0eFBcInguPLI28Ui7",
+            "foundAt": "2026-02-05T18:45:32.725Z"
+          }
+        },
+        {
+          "title": "I'm Only F**king Myself",
+          "artist": "Lola Young",
+          "spotifyTrack": {
+            "id": "1n4Y7LSSZ38HgEdpPpivpg",
+            "name": "Post Sex Clarity",
+            "uri": "spotify:track:1n4Y7LSSZ38HgEdpPpivpg",
+            "popularity": 71,
+            "albumName": "I’m Only F**king Myself",
+            "albumId": "5jUCvcrzCNng7N3iNVY4ts",
+            "foundAt": "2026-02-05T18:45:34.496Z"
+          }
+        },
+        {
+          "title": "My Life Matters",
+          "artist": "Johnathan Blake",
+          "spotifyTrack": {
+            "id": "399lk3KeNdL1DUOpGF1Lky",
+            "name": "My Life Matters",
+            "uri": "spotify:track:399lk3KeNdL1DUOpGF1Lky",
+            "popularity": 32,
+            "albumName": "My Life Matters",
+            "albumId": "2xBXyOee7dECjSo657sXeL",
+            "foundAt": "2026-02-05T18:45:36.132Z"
+          }
+        },
+        {
+          "title": "SWEET TOOTH",
+          "artist": "Halima",
+          "spotifyTrack": {
+            "id": "36lnWRJRdHffKxKT5Y0Mfm",
+            "name": "cocoa body",
+            "uri": "spotify:track:36lnWRJRdHffKxKT5Y0Mfm",
+            "popularity": 25,
+            "albumName": "SWEET TOOTH",
+            "albumId": "0LGOZou83JowRUU1hWGOmD",
+            "foundAt": "2026-02-05T18:45:37.632Z"
+          }
+        },
+        {
+          "title": "Ned Rorem: Choral Works",
+          "artist": "St. Martin's VoicesAndrew Earis",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:45:38.289Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "albums": [
+        {
+          "title": "Breach",
+          "artist": "Twenty One Pilots",
+          "spotifyTrack": {
+            "id": "0Ji9UonfwC90rbZ4IaQhOb",
+            "name": "City Walls",
+            "uri": "spotify:track:0Ji9UonfwC90rbZ4IaQhOb",
+            "popularity": 73,
+            "albumName": "Breach",
+            "albumId": "1El3k8dU3sKyoGUeuyrolH",
+            "foundAt": "2026-02-05T18:45:39.924Z"
+          }
+        },
+        {
+          "title": "Allbarone",
+          "artist": "Baxter Dury",
+          "spotifyTrack": {
+            "id": "041DJ4hUI6drOqYgLf3QQG",
+            "name": "Allbarone",
+            "uri": "spotify:track:041DJ4hUI6drOqYgLf3QQG",
+            "popularity": 50,
+            "albumName": "Allbarone",
+            "albumId": "53ZQGljMsozLkaUc3mO2FZ",
+            "foundAt": "2026-02-05T18:45:41.541Z"
+          }
+        },
+        {
+          "title": "CREAM (Cash Rules Everything Around Me)",
+          "artist": "Kassa Overall",
+          "spotifyTrack": {
+            "id": "4D8MhjN6X8cHwSZGtLIXw8",
+            "name": "C.R.E.A.M. (CASH RULES EVERYTHING AROUND ME)",
+            "uri": "spotify:track:4D8MhjN6X8cHwSZGtLIXw8",
+            "popularity": 25,
+            "albumName": "C.R.E.A.M. (CASH RULES EVERYTHING AROUND ME)",
+            "albumId": "4Ze0FHhMNSsEGFlxZEF4Tz",
+            "foundAt": "2026-02-05T18:45:43.173Z"
+          }
+        },
+        {
+          "title": "Greatest Hits/BBC Sessions",
+          "artist": "Metronomy",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:45:43.841Z"
+          }
+        },
+        {
+          "title": "Dark Sky Reserve",
+          "artist": "Robin Kester",
+          "spotifyTrack": {
+            "id": "6ucC8V4w2NqRmZHf9qaGhe",
+            "name": "The Daylight",
+            "uri": "spotify:track:6ucC8V4w2NqRmZHf9qaGhe",
+            "popularity": 13,
+            "albumName": "Dark Sky Reserve",
+            "albumId": "0LlvYFCfQompPoaZ18ld7a",
+            "foundAt": "2026-02-05T18:45:45.662Z"
+          }
+        },
+        {
+          "title": "Mount Crystal",
+          "artist": "Joviale",
+          "spotifyTrack": {
+            "id": "7p4XQTjHv9uSXUxQnPmPSV",
+            "name": "Blu",
+            "uri": "spotify:track:7p4XQTjHv9uSXUxQnPmPSV",
+            "popularity": 34,
+            "albumName": "Mount Crystal",
+            "albumId": "5qiZBMIgAH1lqylwi0FC8h",
+            "foundAt": "2026-02-05T18:45:47.262Z"
+          }
+        },
+        {
+          "title": "Au",
+          "artist": "Peyton",
+          "spotifyTrack": {
+            "id": "0R6uge6tjTqDc1sb9OdHrc",
+            "name": "Get Out Of Your Hair (feat. Sunni Colón)",
+            "uri": "spotify:track:0R6uge6tjTqDc1sb9OdHrc",
+            "popularity": 23,
+            "albumName": "Au",
+            "albumId": "2ddqwkTKxHVWweH5t1y1Ll",
+            "foundAt": "2026-02-05T18:45:48.893Z"
+          }
+        },
+        {
+          "title": "Environments",
+          "artist": "Rafiq Bhatia",
+          "spotifyTrack": {
+            "id": "09GQkSIWQhhz8uWw3eWb6r",
+            "name": "Clearing, Crickets",
+            "uri": "spotify:track:09GQkSIWQhhz8uWw3eWb6r",
+            "popularity": 17,
+            "albumName": "Environments",
+            "albumId": "3qPT9onHusqtFhNIJjEI8k",
+            "foundAt": "2026-02-05T18:45:50.482Z"
+          }
+        },
+        {
+          "title": "Bronto",
+          "artist": "The Hidden Cameras",
+          "spotifyTrack": {
+            "id": "5ntbc0PLiN6X79kO58uptm",
+            "name": "Undertow",
+            "uri": "spotify:track:5ntbc0PLiN6X79kO58uptm",
+            "popularity": 34,
+            "albumName": "BRONTO",
+            "albumId": "0eNvJ2HnYCCTmzW0nA2yzb",
+            "foundAt": "2026-02-05T18:45:52.301Z"
+          }
+        },
+        {
+          "title": "DJ-Kicks",
+          "artist": "Modeselektor",
+          "spotifyTrack": {
+            "id": "5fWI5MJOLLfXFQ4UvAzCbc",
+            "name": "Permit Riddim - Mixed",
+            "uri": "spotify:track:5fWI5MJOLLfXFQ4UvAzCbc",
+            "popularity": 35,
+            "albumName": "DJ-Kicks: Modeselektor",
+            "albumId": "4ApWMQXAEOaNpFWaKG2FtN",
+            "foundAt": "2026-02-05T18:45:53.960Z"
+          }
+        },
+        {
+          "title": "Cicero Nights",
+          "artist": "Blue Earth Sound",
+          "spotifyTrack": {
+            "id": "6nl3jCIB5DTVx3DCtwKngi",
+            "name": "Mariposa",
+            "uri": "spotify:track:6nl3jCIB5DTVx3DCtwKngi",
+            "popularity": 41,
+            "albumName": "Cicero Nights",
+            "albumId": "2kDj2bteVTnOkcCEa8CuTq",
+            "foundAt": "2026-02-05T18:45:55.806Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "albums": [
+        {
+          "title": "Double Infinity",
+          "artist": "Big Thief",
+          "spotifyTrack": {
+            "id": "5TSj6ySt4WqDuljv61Q4D5",
+            "name": "Los Angeles",
+            "uri": "spotify:track:5TSj6ySt4WqDuljv61Q4D5",
+            "popularity": 57,
+            "albumName": "Double Infinity",
+            "albumId": "1yEo1ZJE5ZgIF7LYrDTbMK",
+            "foundAt": "2026-02-05T18:45:57.385Z"
+          }
+        },
+        {
+          "title": "Who Is the Sky?",
+          "artist": "David Byrne",
+          "spotifyTrack": {
+            "id": "7CMAthiXRZvDBC8dbFuqRH",
+            "name": "Everybody Laughs",
+            "uri": "spotify:track:7CMAthiXRZvDBC8dbFuqRH",
+            "popularity": 48,
+            "albumName": "Who Is The Sky?",
+            "albumId": "5xDqZQlSx2gRrAyAgHQ8AB",
+            "foundAt": "2026-02-05T18:45:59.262Z"
+          }
+        },
+        {
+          "title": "International",
+          "artist": "Saint Etienne",
+          "spotifyTrack": {
+            "id": "6UYzOKGh4hXae0reTWKK24",
+            "name": "Brand New Me",
+            "uri": "spotify:track:6UYzOKGh4hXae0reTWKK24",
+            "popularity": 34,
+            "albumName": "International",
+            "albumId": "5CEt8piPRnEk8BAE9gpdAz",
+            "foundAt": "2026-02-05T18:46:00.779Z"
+          }
+        },
+        {
+          "title": "Departures & Arrivals: Adventures of Captain Curt",
+          "artist": "Curtis Harding",
+          "spotifyTrack": {
+            "id": "4difawHT7Gzi9q7l9qUcZi",
+            "name": "The Power",
+            "uri": "spotify:track:4difawHT7Gzi9q7l9qUcZi",
+            "popularity": 52,
+            "albumName": "Departures & Arrivals: Adventures of Captain Curt",
+            "albumId": "6kslXkHCr5rcOpf07Ss37k",
+            "foundAt": "2026-02-05T18:46:02.348Z"
+          }
+        },
+        {
+          "title": "Joni's Jazz",
+          "artist": "Joni Mitchell",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:03.082Z"
+          }
+        },
+        {
+          "title": "Shrunken Elvis",
+          "artist": "Shrunken Elvis",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:03.974Z"
+          }
+        },
+        {
+          "title": "Nueva Timba",
+          "artist": "Harold López-Nussa",
+          "spotifyTrack": {
+            "id": "2I87Boyr1bzuQnQrvTKn7c",
+            "name": "Cerca y Lejos - Live",
+            "uri": "spotify:track:2I87Boyr1bzuQnQrvTKn7c",
+            "popularity": 24,
+            "albumName": "NUEVA TIMBA",
+            "albumId": "1tEFMXDncFNzDKbMSj5vlA",
+            "foundAt": "2026-02-05T18:46:05.730Z"
+          }
+        },
+        {
+          "title": "Arvo Pärt: Lente",
+          "artist": "Tõnu KaljusteConcerto CopenhagenEstonian Philharmonic Chamber Choir",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:06.732Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "albums": [
+        {
+          "title": "Straight Line Was a Lie",
+          "artist": "The Beths",
+          "spotifyTrack": {
+            "id": "0fQTTO4Bn2qM017W8iw5BH",
+            "name": "Til My Heart Stops",
+            "uri": "spotify:track:0fQTTO4Bn2qM017W8iw5BH",
+            "popularity": 49,
+            "albumName": "Straight Line Was A Lie",
+            "albumId": "5XbVk30ifqaiI6EiVVjA1p",
+            "foundAt": "2026-02-05T18:46:08.490Z"
+          }
+        },
+        {
+          "title": "Essex Honey",
+          "artist": "Blood Orange",
+          "spotifyTrack": {
+            "id": "04KHyqdGs5sVEWX6UnukF2",
+            "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+            "uri": "spotify:track:04KHyqdGs5sVEWX6UnukF2",
+            "popularity": 62,
+            "albumName": "Essex Honey",
+            "albumId": "5RUma3H9uzDLXxwT7JzTel",
+            "foundAt": "2026-02-05T18:46:10.071Z"
+          }
+        },
+        {
+          "title": "The Hives Forever Forever the Hives",
+          "artist": "The Hives",
+          "spotifyTrack": {
+            "id": "4BKlAqMNx0YMFTuU39aKb3",
+            "name": "Enough Is Enough",
+            "uri": "spotify:track:4BKlAqMNx0YMFTuU39aKb3",
+            "popularity": 52,
+            "albumName": "The Hives Forever Forever The Hives",
+            "albumId": "3iE2EtiK9bWxYqhkzCgea0",
+            "foundAt": "2026-02-05T18:46:11.977Z"
+          }
+        },
+        {
+          "title": "Rwanda Sings With Strings",
+          "artist": "The Good Ones",
+          "spotifyTrack": {
+            "id": "7A64mpl63uOmATXJ57QEc6",
+            "name": "Agnes Dreams of Being an Artist",
+            "uri": "spotify:track:7A64mpl63uOmATXJ57QEc6",
+            "popularity": 9,
+            "albumName": "Rwanda Sings With Strings",
+            "albumId": "3qyCrDaiUhovbugDOD3CD2",
+            "foundAt": "2026-02-05T18:46:13.583Z"
+          }
+        },
+        {
+          "title": "Pareidolia",
+          "artist": "Eiko IshibashiJim O'Rourke",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:14.214Z"
+          }
+        },
+        {
+          "title": "Hotel Pupik",
+          "artist": "Led Bib",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:14.833Z"
+          }
+        },
+        {
+          "title": "Wao",
+          "artist": "Nicholas KrgovichJoseph ShabasonTenniscoats",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:15.452Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-08-22",
+      "albums": [
+        {
+          "title": "Private Music",
+          "artist": "Deftones",
+          "spotifyTrack": {
+            "id": "0M5NH22uVXHSXjSi5SXTXM",
+            "name": "i think about you all the time",
+            "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+            "popularity": 71,
+            "albumName": "private music",
+            "albumId": "1gmWnG5TeRj91Tdm2lpEvJ",
+            "foundAt": "2026-02-05T18:46:16.991Z"
+          }
+        },
+        {
+          "title": "The Clearing",
+          "artist": "Wolf Alice",
+          "spotifyTrack": {
+            "id": "2piywRQIsqCM9cei6ZYTkl",
+            "name": "Bloom Baby Bloom",
+            "uri": "spotify:track:2piywRQIsqCM9cei6ZYTkl",
+            "popularity": 61,
+            "albumName": "The Clearing",
+            "albumId": "2kKc3Yid0YR3SSbeQ3x5kV",
+            "foundAt": "2026-02-05T18:46:18.528Z"
+          }
+        },
+        {
+          "title": "Songs in the Key of Yikes",
+          "artist": "Superchunk",
+          "spotifyTrack": {
+            "id": "3kW5qLAM1HPamPcovroV0G",
+            "name": "Is It Making You Feel Something",
+            "uri": "spotify:track:3kW5qLAM1HPamPcovroV0G",
+            "popularity": 24,
+            "albumName": "Songs in the Key of Yikes",
+            "albumId": "6tm5zLqlR6gZBptA1dzUkl",
+            "foundAt": "2026-02-05T18:46:20.343Z"
+          }
+        },
+        {
+          "title": "Adult Romantix",
+          "artist": "Winter",
+          "spotifyTrack": {
+            "id": "4vlCL86ZEAPoZWJ4Io03AD",
+            "name": "Misery",
+            "uri": "spotify:track:4vlCL86ZEAPoZWJ4Io03AD",
+            "popularity": 41,
+            "albumName": "Adult Romantix",
+            "albumId": "3QhaKVItgP8GQ5RQiz25FM",
+            "foundAt": "2026-02-05T18:46:22.463Z"
+          }
+        },
+        {
+          "title": "Blue Reminder",
+          "artist": "Hand Habits",
+          "spotifyTrack": {
+            "id": "6hmpvFKplIrMc7sySSl94Q",
+            "name": "More Today",
+            "uri": "spotify:track:6hmpvFKplIrMc7sySSl94Q",
+            "popularity": 22,
+            "albumName": "Blue Reminder",
+            "albumId": "7GeWoOysWD8oI0BdddsMxH",
+            "foundAt": "2026-02-05T18:46:24.727Z"
+          }
+        },
+        {
+          "title": "The Drugboy Tapes",
+          "artist": "Tsar",
+          "spotifyTrack": {
+            "id": "656zQin0rMZgOkBTthLIl9",
+            "name": "Silver Shifter - (Demo)",
+            "uri": "spotify:track:656zQin0rMZgOkBTthLIl9",
+            "popularity": 1,
+            "albumName": "The Drugboy Tapes",
+            "albumId": "6dnpFoOJh8DiLFuEdO05BS",
+            "foundAt": "2026-02-05T18:46:26.817Z"
+          }
+        },
+        {
+          "title": "The Passionate Ones",
+          "artist": "Nourished by Time",
+          "spotifyTrack": {
+            "id": "6TLEg0rUFLH0EF9CYfRJ7B",
+            "name": "Automatic Love",
+            "uri": "spotify:track:6TLEg0rUFLH0EF9CYfRJ7B",
+            "popularity": 51,
+            "albumName": "The Passionate Ones",
+            "albumId": "5Y3SsoA0yibZh5946vXgKS",
+            "foundAt": "2026-02-05T18:46:29.221Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "albums": [
+        {
+          "title": "So Long Little Miss Sunshine",
+          "artist": "Molly Tuttle",
+          "spotifyTrack": {
+            "id": "0lL6aruZNHj9NdWEVni3MX",
+            "name": "Everything Burns",
+            "uri": "spotify:track:0lL6aruZNHj9NdWEVni3MX",
+            "popularity": 37,
+            "albumName": "So Long Little Miss Sunshine",
+            "albumId": "66H97i02fAu4oFUYUGxIhr",
+            "foundAt": "2026-02-05T18:46:32.405Z"
+          }
+        },
+        {
+          "title": "Flux",
+          "artist": "Alison Goldfrapp",
+          "spotifyTrack": {
+            "id": "4sCo5lmrCF8oygoQSGsYnp",
+            "name": "Strange Things Happen",
+            "uri": "spotify:track:4sCo5lmrCF8oygoQSGsYnp",
+            "popularity": 37,
+            "albumName": "Flux",
+            "albumId": "4pN57ynmI7e8JPA6egj1t8",
+            "foundAt": "2026-02-05T18:46:34.114Z"
+          }
+        },
+        {
+          "title": "Wishbone",
+          "artist": "Conan Gray",
+          "spotifyTrack": {
+            "id": "60mJHAb1XIDyk9bTLnyaQU",
+            "name": "Actor",
+            "uri": "spotify:track:60mJHAb1XIDyk9bTLnyaQU",
+            "popularity": 69,
+            "albumName": "Wishbone",
+            "albumId": "1Q0kTJx8DrQd8RJW9L7eIN",
+            "foundAt": "2026-02-05T18:46:36.046Z"
+          }
+        },
+        {
+          "title": "New Radiations",
+          "artist": "Marissa Nadler",
+          "spotifyTrack": {
+            "id": "1dyoc8PNcZQgJsbK7E4BiI",
+            "name": "Hatchet Man",
+            "uri": "spotify:track:1dyoc8PNcZQgJsbK7E4BiI",
+            "popularity": 18,
+            "albumName": "New Radiations",
+            "albumId": "0YHjzYtgYMDhlVd11mDRAY",
+            "foundAt": "2026-02-05T18:46:37.666Z"
+          }
+        },
+        {
+          "title": "El Viejo Caminante",
+          "artist": "Dino SaluzziJosé Maria SaluzziJacob Young",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:38.331Z"
+          }
+        },
+        {
+          "title": "You Can't Hip a Square: The Doc Pomus Songwriting Demos",
+          "artist": "Doc Pomus",
+          "spotifyTrack": {
+            "id": "3WDLBFcu8kJ3jwIJIqznvI",
+            "name": "It's Great To Be Young And In Love - (Demo)",
+            "uri": "spotify:track:3WDLBFcu8kJ3jwIJIqznvI",
+            "popularity": 4,
+            "albumName": "You Can't Hip A Square: The Doc Pomus Songwriting Demos",
+            "albumId": "6Uhfg1v9T7piRoM3TEAAtk",
+            "foundAt": "2026-02-05T18:46:40.345Z"
+          }
+        },
+        {
+          "title": "Gilles Binchois: Loyal Souvenir - Sacred Works, Chansons...",
+          "artist": "Le Miroir de MusiqueBaptiste Romain",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:41.038Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-08-08",
+      "albums": [
+        {
+          "title": "No Rain, No Flowers",
+          "artist": "The Black Keys",
+          "spotifyTrack": {
+            "id": "4ns4t9csFyWBMjyHAzwLl0",
+            "name": "No Rain, No Flowers",
+            "uri": "spotify:track:4ns4t9csFyWBMjyHAzwLl0",
+            "popularity": 51,
+            "albumName": "No Rain, No Flowers",
+            "albumId": "3GP6fZgniD9cydeW0nwEe4",
+            "foundAt": "2026-02-05T18:46:43.000Z"
+          }
+        },
+        {
+          "title": "ABOMINATION REVEALED AT LAST",
+          "artist": "Osees",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:43.680Z"
+          }
+        },
+        {
+          "title": "Pressing Onward",
+          "artist": "Big Freedia",
+          "spotifyTrack": {
+            "id": "723J8TT1MrywSg66aIqZio",
+            "name": "Celebration (feat. Dawn Richard)",
+            "uri": "spotify:track:723J8TT1MrywSg66aIqZio",
+            "popularity": 27,
+            "albumName": "Pressing Onward",
+            "albumId": "6Q4UcPfHz8RnPNn2NlJ71C",
+            "foundAt": "2026-02-05T18:46:45.664Z"
+          }
+        },
+        {
+          "title": "Surrender Instead",
+          "artist": "Field Medic",
+          "spotifyTrack": {
+            "id": "0WL4ZlGFwe6lbf1ghzqrNY",
+            "name": "tricks & illusions",
+            "uri": "spotify:track:0WL4ZlGFwe6lbf1ghzqrNY",
+            "popularity": 27,
+            "albumName": "surrender instead",
+            "albumId": "2TMcraJh8CGP7Ch7oHgX3z",
+            "foundAt": "2026-02-05T18:46:47.300Z"
+          }
+        },
+        {
+          "title": "CBGB 12.13.88",
+          "artist": "Galaxie 500",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:47.946Z"
+          }
+        },
+        {
+          "title": "Bugland",
+          "artist": "No Joy",
+          "spotifyTrack": {
+            "id": "76cifUIaquJRo1utBIenpZ",
+            "name": "Garbage Dream House",
+            "uri": "spotify:track:76cifUIaquJRo1utBIenpZ",
+            "popularity": 25,
+            "albumName": "Bugland",
+            "albumId": "0FjxmPbY1wNex6PaMzjbsk",
+            "foundAt": "2026-02-05T18:46:49.553Z"
+          }
+        },
+        {
+          "title": "Crucial Cuts From the Heart of the Ark [1973-1978]",
+          "artist": "Lee \"Scratch\" Perry",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:50.266Z"
+          }
+        },
+        {
+          "title": "Love Lives Forever [BBC Sessions 2003-2011]",
+          "artist": "Daniel Johnston",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:46:51.050Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-08-01",
+      "albums": [
+        {
+          "title": "The Future Is Here and Everything Needs to Be Destroyed",
+          "artist": "The Armed",
+          "spotifyTrack": {
+            "id": "5eSJ7qh5NFqTwCap9lNz3E",
+            "name": "Sharp Teeth",
+            "uri": "spotify:track:5eSJ7qh5NFqTwCap9lNz3E",
+            "popularity": 31,
+            "albumName": "THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED",
+            "albumId": "4bTc11nxlikKJqEEY8rMqJ",
+            "foundAt": "2026-02-05T18:46:52.642Z"
+          }
+        },
+        {
+          "title": "Sunset Boulevard",
+          "artist": "Elvis Presley",
+          "spotifyTrack": {
+            "id": "22roPr2PQno2tmSXXZ4cvE",
+            "name": "Burning Love",
+            "uri": "spotify:track:22roPr2PQno2tmSXXZ4cvE",
+            "popularity": 40,
+            "albumName": "Sunset Boulevard",
+            "albumId": "4zUZv055gk4daN0VusN3gw",
+            "foundAt": "2026-02-05T18:46:54.219Z"
+          }
+        },
+        {
+          "title": "Ain't Done With the Blues",
+          "artist": "Buddy Guy",
+          "spotifyTrack": {
+            "id": "58fNv64oeBSZdAsYipR5pj",
+            "name": "Been There Done That",
+            "uri": "spotify:track:58fNv64oeBSZdAsYipR5pj",
+            "popularity": 36,
+            "albumName": "Ain't Done With The Blues",
+            "albumId": "2MIp3zMbggiFAgOOLUgU50",
+            "foundAt": "2026-02-05T18:46:56.003Z"
+          }
+        },
+        {
+          "title": "If Not Winter",
+          "artist": "WISP",
+          "spotifyTrack": {
+            "id": "59ledUSDBtJ0f4YEAf8Fxi",
+            "name": "Save me now",
+            "uri": "spotify:track:59ledUSDBtJ0f4YEAf8Fxi",
+            "popularity": 56,
+            "albumName": "If Not Winter",
+            "albumId": "6R21I5E805CLZmDn8vESQM",
+            "foundAt": "2026-02-05T18:46:57.855Z"
+          }
+        },
+        {
+          "title": "West of Broadway",
+          "artist": "Rachael & Vilray",
+          "spotifyTrack": {
+            "id": "1dhHKhItoJoBPe4ewDdTjj",
+            "name": "One Wonders Why - deluxe bonus track",
+            "uri": "spotify:track:1dhHKhItoJoBPe4ewDdTjj",
+            "popularity": 40,
+            "albumName": "West of Broadway (Deluxe Edition)",
+            "albumId": "3Pu7oGvOi4CoTnSUQqLlrZ",
+            "foundAt": "2026-02-05T18:46:59.819Z"
+          }
+        },
+        {
+          "title": "Electric Fields",
+          "artist": "Barbara HanniganDavid ChalminKatia LabèqueMarielle Labèque",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:00.620Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "albums": [
+        {
+          "title": "The Revenge of Alice Cooper",
+          "artist": "Alice Cooper",
+          "spotifyTrack": {
+            "id": "11D9VatIWVMUt5rsnMxPnr",
+            "name": "Wild Ones",
+            "uri": "spotify:track:11D9VatIWVMUt5rsnMxPnr",
+            "popularity": 24,
+            "albumName": "The Revenge of Alice Cooper",
+            "albumId": "1UZ19qQUfDVRm9Odj7Yvjg",
+            "foundAt": "2026-02-05T18:47:02.084Z"
+          }
+        },
+        {
+          "title": "The Year of the Radical Romantics",
+          "artist": "Fever Ray",
+          "spotifyTrack": {
+            "id": "4zom2FE4blvWHUboKPmN6G",
+            "name": "I'm Not Done - Therapy Session",
+            "uri": "spotify:track:4zom2FE4blvWHUboKPmN6G",
+            "popularity": 20,
+            "albumName": "The Year of The Radical Romantics",
+            "albumId": "2xtssnWpxj0BsytyyrX2jE",
+            "foundAt": "2026-02-05T18:47:03.648Z"
+          }
+        },
+        {
+          "title": "Double Life",
+          "artist": "Night Moves",
+          "spotifyTrack": {
+            "id": "4O0PeP51kTgkrHAvUJu4wZ",
+            "name": "Trying To Steal A Smile",
+            "uri": "spotify:track:4O0PeP51kTgkrHAvUJu4wZ",
+            "popularity": 39,
+            "albumName": "Double Life",
+            "albumId": "7o0wr8KDp8DRX7scKNB04Z",
+            "foundAt": "2026-02-05T18:47:05.323Z"
+          }
+        },
+        {
+          "title": "Now Would Be a Good Time",
+          "artist": "Folk Bitch Trio",
+          "spotifyTrack": {
+            "id": "6HnF46ePB8hypcS0q1x9Tn",
+            "name": "God's A Different Sword",
+            "uri": "spotify:track:6HnF46ePB8hypcS0q1x9Tn",
+            "popularity": 56,
+            "albumName": "Now Would Be A Good Time",
+            "albumId": "6SSsPPOxMvAiDA6B8AWH3y",
+            "foundAt": "2026-02-05T18:47:07.280Z"
+          }
+        },
+        {
+          "title": "Crushed",
+          "artist": "Highspire",
+          "spotifyTrack": {
+            "id": "4e02SNsV38ujIywr5trYDJ",
+            "name": "Crushed",
+            "uri": "spotify:track:4e02SNsV38ujIywr5trYDJ",
+            "popularity": 4,
+            "albumName": "Crushed",
+            "albumId": "2UsVUZ5od3bgfVKVNQXgM2",
+            "foundAt": "2026-02-05T18:47:08.805Z"
+          }
+        },
+        {
+          "title": "Live at the Montreal International Jazz Festival",
+          "artist": "Dominique Fils-Aimé",
+          "spotifyTrack": {
+            "id": "1V39Rzh7hm0eqT3g7BR5QE",
+            "name": "Introduction - Live",
+            "uri": "spotify:track:1V39Rzh7hm0eqT3g7BR5QE",
+            "popularity": 20,
+            "albumName": "Live At The Montreal International Jazz Festival",
+            "albumId": "5kJaHkoqAOL6Phw7lFpc6p",
+            "foundAt": "2026-02-05T18:47:10.445Z"
+          }
+        },
+        {
+          "title": "The Lost Tapes: Beethoven – Sonatas Nos. 18, 27, 28 & 31",
+          "artist": "Sviatoslav Richter",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:11.144Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "albums": [
+        {
+          "title": "The Cosmic Selector, Vol. 1",
+          "artist": "Lord Huron",
+          "spotifyTrack": {
+            "id": "0TPS1dKI4m27xCxm7jF7SU",
+            "name": "Nothing I Need",
+            "uri": "spotify:track:0TPS1dKI4m27xCxm7jF7SU",
+            "popularity": 59,
+            "albumName": "The Cosmic Selector Vol. 1",
+            "albumId": "6lpG635tVIMn2WAN2QG9Sp",
+            "foundAt": "2026-02-05T18:47:13.156Z"
+          }
+        },
+        {
+          "title": "Forward",
+          "artist": "Glen HansardMarkéta IrglováThe Swell Season",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:13.820Z"
+          }
+        },
+        {
+          "title": "Desire: The Carl Craig Story",
+          "artist": "Carl Craig",
+          "spotifyTrack": {
+            "id": "2ugBKRsUJ8ooqxAEI4Bx4H",
+            "name": "Azure - Carl Craig C2 Remix",
+            "uri": "spotify:track:2ugBKRsUJ8ooqxAEI4Bx4H",
+            "popularity": 15,
+            "albumName": "Desire: The Carl Craig Story",
+            "albumId": "6RtLpopFitxjRgeqfy0Xn0",
+            "foundAt": "2026-02-05T18:47:15.476Z"
+          }
+        },
+        {
+          "title": "The Longer This Goes On",
+          "artist": "Forth Wanderers",
+          "spotifyTrack": {
+            "id": "6osTRNeb7J1ObM9Msn0cY5",
+            "name": "Bluff",
+            "uri": "spotify:track:6osTRNeb7J1ObM9Msn0cY5",
+            "popularity": 39,
+            "albumName": "The Longer This Goes On",
+            "albumId": "5IWKBOaYZM9sX3kr6SCB27",
+            "foundAt": "2026-02-05T18:47:17.101Z"
+          }
+        },
+        {
+          "title": "Certain Shades of Limelight",
+          "artist": "Swing Out Sister",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:17.814Z"
+          }
+        },
+        {
+          "title": "Madeleine Dring: Complete Works for Oboe",
+          "artist": "Nicholas DanielAmy HarmanAntonio OyarzabalAdam Walker",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:18.532Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-07-11",
+      "albums": [
+        {
+          "title": "moisturizer",
+          "artist": "Wet Leg",
+          "spotifyTrack": {
+            "id": "5UW4tA4j23YL6kDfRw3rWT",
+            "name": "mangetout",
+            "uri": "spotify:track:5UW4tA4j23YL6kDfRw3rWT",
+            "popularity": 78,
+            "albumName": "moisturizer",
+            "albumId": "3YVnHpyms4rLr3fXS0ROQy",
+            "foundAt": "2026-02-05T18:47:20.379Z"
+          }
+        },
+        {
+          "title": "Loner",
+          "artist": "Barry Can't Swim",
+          "spotifyTrack": {
+            "id": "3efypTRurdVvf2kCuUWr2Q",
+            "name": "Childhood",
+            "uri": "spotify:track:3efypTRurdVvf2kCuUWr2Q",
+            "popularity": 62,
+            "albumName": "Loner",
+            "albumId": "6aE10Kz82jIDkcOM2hRhR5",
+            "foundAt": "2026-02-05T18:47:22.017Z"
+          }
+        },
+        {
+          "title": "Make It Easy on Yourself: The Scepter Recordings 1962-1971",
+          "artist": "Dionne Warwick",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:22.674Z"
+          }
+        },
+        {
+          "title": "Dom Salvador JID024",
+          "artist": "Ali Shaheed MuhammadDom SalvadorAdrian Younge",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:23.345Z"
+          }
+        },
+        {
+          "title": "Bright Nights",
+          "artist": "Allo Darlin'",
+          "spotifyTrack": {
+            "id": "4fI6OM8MqVmuFhrhHH46r1",
+            "name": "Northern Waters",
+            "uri": "spotify:track:4fI6OM8MqVmuFhrhHH46r1",
+            "popularity": 13,
+            "albumName": "Bright Nights",
+            "albumId": "1DMul8xYtwYNedwrQQOglU",
+            "foundAt": "2026-02-05T18:47:24.944Z"
+          }
+        },
+        {
+          "title": "Around Sound",
+          "artist": "Mike Polizze",
+          "spotifyTrack": {
+            "id": "6pQb3HMskL8iNkd7oie0vJ",
+            "name": "Everybody I Know",
+            "uri": "spotify:track:6pQb3HMskL8iNkd7oie0vJ",
+            "popularity": 10,
+            "albumName": "Around Sound",
+            "albumId": "2uI9BSQIZAAys7FxEp0IOu",
+            "foundAt": "2026-02-05T18:47:26.625Z"
+          }
+        },
+        {
+          "title": "Affirmations: Live at Blue Note New York",
+          "artist": "Theon Cross",
+          "spotifyTrack": {
+            "id": "2ePKwwvvvJfO5FCE6IBJ0F",
+            "name": "We Go Again - Live At Blue Note New York",
+            "uri": "spotify:track:2ePKwwvvvJfO5FCE6IBJ0F",
+            "popularity": 16,
+            "albumName": "Affirmations (Live At Blue Note New York)",
+            "albumId": "3AIswqp7h2S2X0bdXuG9CD",
+            "foundAt": "2026-02-05T18:47:28.241Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "albums": [
+        {
+          "title": ".",
+          "artist": "Kesha",
+          "spotifyTrack": {
+            "id": "7Irq3diEoAatji9snaUuwq",
+            "name": "JOYRIDE.",
+            "uri": "spotify:track:7Irq3diEoAatji9snaUuwq",
+            "popularity": 65,
+            "albumName": ".",
+            "albumId": "0kjnLvCvaGwRDJ53kvdqi9",
+            "foundAt": "2026-02-05T18:47:30.101Z"
+          }
+        },
+        {
+          "title": "Self Titled",
+          "artist": "Kae Tempest",
+          "spotifyTrack": {
+            "id": "6tS3DwtV1MogKKF8ixpeiJ",
+            "name": "Statue In The Square",
+            "uri": "spotify:track:6tS3DwtV1MogKKF8ixpeiJ",
+            "popularity": 35,
+            "albumName": "Self Titled",
+            "albumId": "4yRTZSqafx7hhRELaOHU4o",
+            "foundAt": "2026-02-05T18:47:31.740Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "albums": [
+        {
+          "title": "Tracks II: The Lost Albums",
+          "artist": "Bruce Springsteen",
+          "spotifyTrack": {
+            "id": "05bNV0j3tWX008cxkJA8YT",
+            "name": "Follow That Dream",
+            "uri": "spotify:track:05bNV0j3tWX008cxkJA8YT",
+            "popularity": 36,
+            "albumName": "Tracks II: The Lost Albums",
+            "albumId": "4MWHAwGK4x0tMyghx1sB37",
+            "foundAt": "2026-02-05T18:47:33.384Z"
+          }
+        },
+        {
+          "title": "Virgin",
+          "artist": "Lorde",
+          "spotifyTrack": {
+            "id": "6ghDayhHeBXAP4OOnnrFW9",
+            "name": "David",
+            "uri": "spotify:track:6ghDayhHeBXAP4OOnnrFW9",
+            "popularity": 75,
+            "albumName": "Virgin",
+            "albumId": "28bHj2enHkHVFLwuWmkwlQ",
+            "foundAt": "2026-02-05T18:47:35.124Z"
+          }
+        },
+        {
+          "title": "Boleros Psicodélicos II",
+          "artist": "Adrian Quesada",
+          "spotifyTrack": {
+            "id": "0wmTtuuIIj3acWY4IwY8KR",
+            "name": "Primos (with Hermanos Gutiérrez)",
+            "uri": "spotify:track:0wmTtuuIIj3acWY4IwY8KR",
+            "popularity": 41,
+            "albumName": "Boleros Psicodélicos II",
+            "albumId": "6BVuy3MrwlGHN4z1kimJ6c",
+            "foundAt": "2026-02-05T18:47:36.656Z"
+          }
+        },
+        {
+          "title": "Flowers",
+          "artist": "Durand Jones & the Indications",
+          "spotifyTrack": {
+            "id": "16fiL1QD7x9FeoGu8ktxrz",
+            "name": "Flower Moon",
+            "uri": "spotify:track:16fiL1QD7x9FeoGu8ktxrz",
+            "popularity": 68,
+            "albumName": "Flowers",
+            "albumId": "7zyILGPU1W58PNTgEgRNvO",
+            "foundAt": "2026-02-05T18:47:38.398Z"
+          }
+        },
+        {
+          "title": "The Surrounding Green",
+          "artist": "Joey BaronDrew GressFred Hersch",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:39.018Z"
+          }
+        },
+        {
+          "title": "How Long Can It Last",
+          "artist": "Jeanines",
+          "spotifyTrack": {
+            "id": "5ISLzpotOGtUdESx6UXUz7",
+            "name": "To Fail",
+            "uri": "spotify:track:5ISLzpotOGtUdESx6UXUz7",
+            "popularity": 13,
+            "albumName": "How Long Can It Last",
+            "albumId": "0anrs2vlGqCSTheDV7Irgi",
+            "foundAt": "2026-02-05T18:47:40.858Z"
+          }
+        },
+        {
+          "title": "This Material Moment",
+          "artist": "Me Lost Me",
+          "spotifyTrack": {
+            "id": "060QiKrDPx5x6TrgRToGG4",
+            "name": "Compromise!",
+            "uri": "spotify:track:060QiKrDPx5x6TrgRToGG4",
+            "popularity": 4,
+            "albumName": "This Material Moment",
+            "albumId": "4uwkuZ2E6kypgmaAtS9Zu7",
+            "foundAt": "2026-02-05T18:47:42.598Z"
+          }
+        },
+        {
+          "title": "Late Great",
+          "artist": "Laura Stevenson",
+          "spotifyTrack": {
+            "id": "37I7tE6VD7RfJO2WVYoWHd",
+            "name": "Honey",
+            "uri": "spotify:track:37I7tE6VD7RfJO2WVYoWHd",
+            "popularity": 23,
+            "albumName": "Late Great",
+            "albumId": "637RjNPlB66TysQ9cn577L",
+            "foundAt": "2026-02-05T18:47:44.184Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-06-20",
+      "albums": [
+        {
+          "title": "I Quit",
+          "artist": "HAIM",
+          "spotifyTrack": {
+            "id": "1FlDLGaTsr9HH1zfJiq6is",
+            "name": "Relationships",
+            "uri": "spotify:track:1FlDLGaTsr9HH1zfJiq6is",
+            "popularity": 50,
+            "albumName": "I quit",
+            "albumId": "6bpglEwFypc0rfzYDyhf6i",
+            "foundAt": "2026-02-05T18:47:45.789Z"
+          }
+        },
+        {
+          "title": "Metallic Life Review",
+          "artist": "Matmos",
+          "spotifyTrack": {
+            "id": "1KOlXSrzEZHdEX4Scqzjw5",
+            "name": "Changing States",
+            "uri": "spotify:track:1KOlXSrzEZHdEX4Scqzjw5",
+            "popularity": 19,
+            "albumName": "Metallic Life Review",
+            "albumId": "3BRvLi10lgG6J6ighV6tsR",
+            "foundAt": "2026-02-05T18:47:47.323Z"
+          }
+        },
+        {
+          "title": "Raspberry Moon",
+          "artist": "Hotline TNT",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:47.999Z"
+          }
+        },
+        {
+          "title": "do it afraid",
+          "artist": "Yaya Bey",
+          "spotifyTrack": {
+            "id": "2vBjZFdR2y2TAoDzvFJmD5",
+            "name": "spin cycle",
+            "uri": "spotify:track:2vBjZFdR2y2TAoDzvFJmD5",
+            "popularity": 33,
+            "albumName": "do it afraid",
+            "albumId": "43EgijZ2EwYb8xgRDMh8GK",
+            "foundAt": "2026-02-05T18:47:49.779Z"
+          }
+        },
+        {
+          "title": "Words Fall Short",
+          "artist": "Joshua Redman",
+          "spotifyTrack": {
+            "id": "7hw0gTEglwLIXdnvd35Cu1",
+            "name": "Borrowed Eyes",
+            "uri": "spotify:track:7hw0gTEglwLIXdnvd35Cu1",
+            "popularity": 35,
+            "albumName": "Words Fall Short",
+            "albumId": "2toluYLW38SlSkSYLHscpR",
+            "foundAt": "2026-02-05T18:47:51.603Z"
+          }
+        },
+        {
+          "title": "Solace of the Mind",
+          "artist": "Amina Claudine Myers",
+          "spotifyTrack": {
+            "id": "1qKDytptOpoCbAW2ZjzUOO",
+            "name": "African Blues",
+            "uri": "spotify:track:1qKDytptOpoCbAW2ZjzUOO",
+            "popularity": 32,
+            "albumName": "Solace of the Mind",
+            "albumId": "2FqtIfqlE5GjhQelCprSHl",
+            "foundAt": "2026-02-05T18:47:53.143Z"
+          }
+        },
+        {
+          "title": "McCartney, It'll Be OK",
+          "artist": "UNIVERSITY",
+          "spotifyTrack": {
+            "id": "0ECyD9JSQkXUQUVmBZc64d",
+            "name": "GTA Online",
+            "uri": "spotify:track:0ECyD9JSQkXUQUVmBZc64d",
+            "popularity": 26,
+            "albumName": "McCartney, It'll Be OK",
+            "albumId": "72ngHbkK2oI4I3FRqN4cxR",
+            "foundAt": "2026-02-05T18:47:54.676Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-06-13",
+      "albums": [
+        {
+          "title": "Talkin to the Trees",
+          "artist": "Neil Young and the Chrome HeartsNeil Young",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:47:55.393Z"
+          }
+        },
+        {
+          "title": "Gadabout Season",
+          "artist": "Brandee Younger",
+          "spotifyTrack": {
+            "id": "5Z4YeqJLy2Ik0NYr0xlfh7",
+            "name": "Gadabout Season",
+            "uri": "spotify:track:5Z4YeqJLy2Ik0NYr0xlfh7",
+            "popularity": 36,
+            "albumName": "Gadabout Season",
+            "albumId": "372tUB50Rip4brrZdUELBQ",
+            "foundAt": "2026-02-05T18:47:56.930Z"
+          }
+        },
+        {
+          "title": "Black Thunder",
+          "artist": "Brittany Davis",
+          "spotifyTrack": {
+            "id": "4H1p6xuWwT3kVtCvMVGZp6",
+            "name": "Amid the Blackout of the NIght",
+            "uri": "spotify:track:4H1p6xuWwT3kVtCvMVGZp6",
+            "popularity": 19,
+            "albumName": "Black Thunder",
+            "albumId": "1Hho9EeM6w6oHVIrg21FxR",
+            "foundAt": "2026-02-05T18:47:58.673Z"
+          }
+        },
+        {
+          "title": "Very Human Features",
+          "artist": "Bug Club",
+          "spotifyTrack": {
+            "id": "6n0NZmREI4EC0W8Mdnq6P7",
+            "name": "Jealous Boy",
+            "uri": "spotify:track:6n0NZmREI4EC0W8Mdnq6P7",
+            "popularity": 34,
+            "albumName": "Very Human Features",
+            "albumId": "2YQIflzFSMojRZXfDexMtQ",
+            "foundAt": "2026-02-05T18:48:00.333Z"
+          }
+        },
+        {
+          "title": "Elemental",
+          "artist": "Dee Dee BridgewaterBill Charlap",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:48:01.007Z"
+          }
+        },
+        {
+          "title": "We Insist 2025!",
+          "artist": "Terri Lyne CarringtonChristie Dashiell",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:48:01.619Z"
+          }
+        },
+        {
+          "title": "SOGOLO",
+          "artist": "Witch",
+          "spotifyTrack": {
+            "id": "0Bewhclwe6S4wALHhNSDBH",
+            "name": "Queenless King",
+            "uri": "spotify:track:0Bewhclwe6S4wALHhNSDBH",
+            "popularity": 29,
+            "albumName": "SOGOLO",
+            "albumId": "4yadH5nbxiSPG2Bo4121Qp",
+            "foundAt": "2026-02-05T18:48:03.283Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-06-06",
+      "albums": [
+        {
+          "title": "More",
+          "artist": "Pulp",
+          "spotifyTrack": {
+            "id": "1c66APUihMSvbniRdka1Er",
+            "name": "Spike Island",
+            "uri": "spotify:track:1c66APUihMSvbniRdka1Er",
+            "popularity": 54,
+            "albumName": "More",
+            "albumId": "4et2xBFMKmsaWQPjlKTbG6",
+            "foundAt": "2026-02-05T18:48:04.916Z"
+          }
+        },
+        {
+          "title": "Lotus",
+          "artist": "Little Simz",
+          "spotifyTrack": {
+            "id": "05n0mwlh1y3cwjGmHnfVjh",
+            "name": "Free",
+            "uri": "spotify:track:05n0mwlh1y3cwjGmHnfVjh",
+            "popularity": 54,
+            "albumName": "Lotus",
+            "albumId": "0ofdTvYtx4LpsVjemJt71X",
+            "foundAt": "2026-02-05T18:48:06.561Z"
+          }
+        },
+        {
+          "title": "NEVER ENOUGH",
+          "artist": "Turnstile",
+          "spotifyTrack": {
+            "id": "0kshHISCRGn9MwpkbqafG4",
+            "name": "BIRDS",
+            "uri": "spotify:track:0kshHISCRGn9MwpkbqafG4",
+            "popularity": 67,
+            "albumName": "NEVER ENOUGH",
+            "albumId": "52yD51X7yDinwlg6tbCtpP",
+            "foundAt": "2026-02-05T18:48:08.395Z"
+          }
+        },
+        {
+          "title": "Letters to Ordinary Outsiders",
+          "artist": "Comet Gain",
+          "spotifyTrack": {
+            "id": "2zNmCYah0gysftCyjshfMb",
+            "name": "If They Can't Find the Way Then There's No Way Out",
+            "uri": "spotify:track:2zNmCYah0gysftCyjshfMb",
+            "popularity": 11,
+            "albumName": "Letters to Ordinary Outsiders",
+            "albumId": "6tHJF6PCQ4IEETEy4t7oqX",
+            "foundAt": "2026-02-05T18:48:10.145Z"
+          }
+        },
+        {
+          "title": "Ripped and Torn",
+          "artist": "Lifeguard",
+          "spotifyTrack": {
+            "id": "6BHZGzza22cxWzNj4zbrh3",
+            "name": "It Will Get Worse",
+            "uri": "spotify:track:6BHZGzza22cxWzNj4zbrh3",
+            "popularity": 33,
+            "albumName": "Ripped and Torn",
+            "albumId": "3B22vFtjNRkF1ZBnCYEDa9",
+            "foundAt": "2026-02-05T18:48:11.884Z"
+          }
+        },
+        {
+          "title": "Salt",
+          "artist": "Salem 66",
+          "spotifyTrack": {
+            "id": "2OXQZpW7p7rAfvq0pgxeQp",
+            "name": "Across The Sea",
+            "uri": "spotify:track:2OXQZpW7p7rAfvq0pgxeQp",
+            "popularity": 8,
+            "albumName": "SALT",
+            "albumId": "4eqnbuNHnzb6ZAO9cU32C8",
+            "foundAt": "2026-02-05T18:48:13.623Z"
+          }
+        },
+        {
+          "title": "Marca Passo",
+          "artist": "Azymuth",
+          "spotifyTrack": {
+            "id": "2J8Wc1tjG7Ko83dnEndO97",
+            "name": "Belenzinho",
+            "uri": "spotify:track:2J8Wc1tjG7Ko83dnEndO97",
+            "popularity": 29,
+            "albumName": "Marca Passo",
+            "albumId": "5gPnlRYkxpQLIYMy5hEpR6",
+            "foundAt": "2026-02-05T18:48:15.875Z"
+          }
+        },
+        {
+          "title": "Death Mask",
+          "artist": "Death in Vegas",
+          "spotifyTrack": {
+            "id": "0DKOyxboO1gkI9aMZ6qQGS",
+            "name": "Chingola",
+            "uri": "spotify:track:0DKOyxboO1gkI9aMZ6qQGS",
+            "popularity": 20,
+            "albumName": "Death Mask",
+            "albumId": "45azRNsBbvHxolRgXMBr1G",
+            "foundAt": "2026-02-05T18:48:17.721Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-05-30",
+      "albums": [
+        {
+          "title": "Something Beautiful",
+          "artist": "Miley Cyrus",
+          "spotifyTrack": {
+            "id": "2rDMtmPctM67hICAZTKAjx",
+            "name": "End of the World",
+            "uri": "spotify:track:2rDMtmPctM67hICAZTKAjx",
+            "popularity": 67,
+            "albumName": "Something Beautiful",
+            "albumId": "7h7smPzBYx8LOLI3ncM3vQ",
+            "foundAt": "2026-02-05T18:48:19.360Z"
+          }
+        },
+        {
+          "title": "Let All That We Imagine Be the Light",
+          "artist": "Garbage",
+          "spotifyTrack": {
+            "id": "6lKZIy0vqA2J4skj7SC9DT",
+            "name": "There's No Future In Optimism",
+            "uri": "spotify:track:6lKZIy0vqA2J4skj7SC9DT",
+            "popularity": 37,
+            "albumName": "Let All That We Imagine Be The Light",
+            "albumId": "3SVwtqCeeVLPdnxipKxgIj",
+            "foundAt": "2026-02-05T18:48:20.995Z"
+          }
+        },
+        {
+          "title": "Possession",
+          "artist": "Ty Segall",
+          "spotifyTrack": {
+            "id": "76OFo5N9D8SHaHzGnISea5",
+            "name": "Buildings",
+            "uri": "spotify:track:76OFo5N9D8SHaHzGnISea5",
+            "popularity": 38,
+            "albumName": "Possession",
+            "albumId": "3ZxMlJq7ztw1jd5mDEaNkl",
+            "foundAt": "2026-02-05T18:48:22.718Z"
+          }
+        },
+        {
+          "title": "Evangelic Girl Is a Gun",
+          "artist": "yeule",
+          "spotifyTrack": {
+            "id": "2jjLiYXjmDzfyul2IJ6EVa",
+            "name": "Evangelic Girl is a Gun",
+            "uri": "spotify:track:2jjLiYXjmDzfyul2IJ6EVa",
+            "popularity": 49,
+            "albumName": "Evangelic Girl is a Gun",
+            "albumId": "0YYPOxN7WrWD3ygAP5KB50",
+            "foundAt": "2026-02-05T18:48:24.578Z"
+          }
+        },
+        {
+          "title": "caroline 2",
+          "artist": "caroline",
+          "spotifyTrack": {
+            "id": "0p6WXZoqJ3eoV6G9WtL0o3",
+            "name": "Tell me I never knew that",
+            "uri": "spotify:track:0p6WXZoqJ3eoV6G9WtL0o3",
+            "popularity": 45,
+            "albumName": "caroline 2",
+            "albumId": "1CmdanwOGnV5QevtJQL6bN",
+            "foundAt": "2026-02-05T18:48:26.216Z"
+          }
+        },
+        {
+          "title": "The Complete Virgin Years",
+          "artist": "Pale Fountains",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:48:26.871Z"
+          }
+        },
+        {
+          "title": "VII",
+          "artist": "The Budos Band",
+          "spotifyTrack": {
+            "id": "0Z44YaZDDQrZueFQTnP4BV",
+            "name": "Overlander",
+            "uri": "spotify:track:0Z44YaZDDQrZueFQTnP4BV",
+            "popularity": 31,
+            "albumName": "VII",
+            "albumId": "5i5lH85pBKllXbeTa9lxAT",
+            "foundAt": "2026-02-05T18:48:28.612Z"
+          }
+        },
+        {
+          "title": "Counterclockwise",
+          "artist": "Faun Fables",
+          "spotifyTrack": {
+            "id": "5jbZB7AHySxwQox3liE9X5",
+            "name": "Ember Bell",
+            "uri": "spotify:track:5jbZB7AHySxwQox3liE9X5",
+            "popularity": 4,
+            "albumName": "Counterclockwise",
+            "albumId": "5ds515lK00De4qniY0nvtP",
+            "foundAt": "2026-02-05T18:48:30.314Z"
+          }
+        },
+        {
+          "title": "Ravel: Complete Works for Solo Piano",
+          "artist": "Jean-Efflam Bavouzet",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:48:31.057Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-05-23",
+      "albums": [
+        {
+          "title": "Instant Holograms on Metal Film",
+          "artist": "Stereolab",
+          "spotifyTrack": {
+            "id": "4Qnub0myMdKdCdymx5cS3d",
+            "name": "Aerial Troubles",
+            "uri": "spotify:track:4Qnub0myMdKdCdymx5cS3d",
+            "popularity": 42,
+            "albumName": "Instant Holograms On Metal Film",
+            "albumId": "5nS7jRCPubnZF0OsXEM0D7",
+            "foundAt": "2026-02-05T18:48:32.570Z"
+          }
+        },
+        {
+          "title": "Room on the Porch",
+          "artist": "Keb' Mo'Taj MahalTajMo",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:48:33.282Z"
+          }
+        },
+        {
+          "title": "Quit to Play Chess",
+          "artist": "Cola Boyy",
+          "spotifyTrack": {
+            "id": "4KnEBw94WkGhtdcZ5tTXwC",
+            "name": "Babylon",
+            "uri": "spotify:track:4KnEBw94WkGhtdcZ5tTXwC",
+            "popularity": 19,
+            "albumName": "Quit to Play Chess",
+            "albumId": "255ea4BNBkMKULxcVZICeO",
+            "foundAt": "2026-02-05T18:48:35.051Z"
+          }
+        },
+        {
+          "title": "LUSHLAND",
+          "artist": "Silas Short",
+          "spotifyTrack": {
+            "id": "60fstLKudJAiQjmscYVMmk",
+            "name": "ILIKEU",
+            "uri": "spotify:track:60fstLKudJAiQjmscYVMmk",
+            "popularity": 32,
+            "albumName": "LUSHLAND",
+            "albumId": "4kwd06vMjFOn5g5n3D2ntn",
+            "foundAt": "2026-02-05T18:48:36.966Z"
+          }
+        },
+        {
+          "title": "Nuits de la Fondation Maeght",
+          "artist": "Sun Ra",
+          "spotifyTrack": {
+            "id": "00cD1nMZL7QKyIHFB6WVwH",
+            "name": "Sun Interlude - Live at Fondation Maeght, 3 Aug. 1970",
+            "uri": "spotify:track:00cD1nMZL7QKyIHFB6WVwH",
+            "popularity": 5,
+            "albumName": "Nuits de la Fondation Maeght",
+            "albumId": "1t2U13vi52oORneNAeVRrc",
+            "foundAt": "2026-02-05T18:48:38.690Z"
+          }
+        },
+        {
+          "title": "Music for People Who Believe in Love",
+          "artist": "Joe Jonas",
+          "spotifyTrack": {
+            "id": "5wGrodae5bpzjDStJQieMn",
+            "name": "Heart By Heart",
+            "uri": "spotify:track:5wGrodae5bpzjDStJQieMn",
+            "popularity": 57,
+            "albumName": "Music For People Who Believe In Love",
+            "albumId": "3ZuXKlQ48SrFaJU9KDrIkE",
+            "foundAt": "2026-02-05T18:48:40.729Z"
+          }
+        },
+        {
+          "title": "Todos los Fuegos",
+          "artist": "Roxana Amed",
+          "spotifyTrack": {
+            "id": "6uCKchovg2HsquTNZUMSUT",
+            "name": "Salir de la melancolía",
+            "uri": "spotify:track:6uCKchovg2HsquTNZUMSUT",
+            "popularity": 9,
+            "albumName": "Todos los Fuegos",
+            "albumId": "35ss7NvF9reOX403sEwtsg",
+            "foundAt": "2026-02-05T18:48:42.292Z"
+          }
+        },
+        {
+          "title": "Shostakovich: Symphony No. 11 'The Year 1905'",
+          "artist": "Gianandrea NosedaLondon Symphony Orchestra",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:48:42.903Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-05-16",
+      "albums": [
+        {
+          "title": "Better Dreaming",
+          "artist": "tUnE-yArDs",
+          "spotifyTrack": {
+            "id": "2DACCH3WlvR77DxBTBRkS0",
+            "name": "Heartbreak",
+            "uri": "spotify:track:2DACCH3WlvR77DxBTBRkS0",
+            "popularity": 29,
+            "albumName": "Better Dreaming",
+            "albumId": "0TmYypxPNSZe9UqAlQv8F3",
+            "foundAt": "2026-02-05T18:48:44.651Z"
+          }
+        },
+        {
+          "title": "Chuck D Presents Enemy Radio: Radio Armageddon",
+          "artist": "Chuck D",
+          "spotifyTrack": {
+            "id": "7qw4SwqI8n01TOo73Yf0ed",
+            "name": "Black Don't Dead (with Dj Too Tuff)",
+            "uri": "spotify:track:7qw4SwqI8n01TOo73Yf0ed",
+            "popularity": 11,
+            "albumName": "Chuck D Presents Enemy Radio: Radio Armageddon",
+            "albumId": "4rYaQjzVVVH5h1ZdwLHjZP",
+            "foundAt": "2026-02-05T18:48:46.285Z"
+          }
+        },
+        {
+          "title": "1978: Revenge of the Dragon",
+          "artist": "José James",
+          "spotifyTrack": {
+            "id": "64CRXUYkRYOE2VF6IU4jzY",
+            "name": "Rock With You",
+            "uri": "spotify:track:64CRXUYkRYOE2VF6IU4jzY",
+            "popularity": 39,
+            "albumName": "1978: Revenge of The Dragon",
+            "albumId": "485R0lCUZRApYWXnH2PAeh",
+            "foundAt": "2026-02-05T18:48:47.824Z"
+          }
+        },
+        {
+          "title": "Metalhorse",
+          "artist": "Billy Nomates",
+          "spotifyTrack": {
+            "id": "3ISMRtx1ajwYQlVbAs53dF",
+            "name": "The Test",
+            "uri": "spotify:track:3ISMRtx1ajwYQlVbAs53dF",
+            "popularity": 35,
+            "albumName": "Metalhorse",
+            "albumId": "5Z0r8TIEhBByMpQXwpaG5H",
+            "foundAt": "2026-02-05T18:48:49.278Z"
+          }
+        },
+        {
+          "title": "Flowers for the Living",
+          "artist": "Mourning [A] BLKstar",
+          "spotifyTrack": {
+            "id": "32vT2iuWKXun7QQ7BbS4r7",
+            "name": "Stop Lion 2",
+            "uri": "spotify:track:32vT2iuWKXun7QQ7BbS4r7",
+            "popularity": 14,
+            "albumName": "Flowers For The Living",
+            "albumId": "7zYC1f4LjyMVhzBOKtijFN",
+            "foundAt": "2026-02-05T18:48:51.002Z"
+          }
+        },
+        {
+          "title": "Caveman Wakes Up",
+          "artist": "Friendship",
+          "spotifyTrack": {
+            "id": "2SDt9c9f3roakTt6iO715k",
+            "name": "Free Association",
+            "uri": "spotify:track:2SDt9c9f3roakTt6iO715k",
+            "popularity": 46,
+            "albumName": "Caveman Wakes Up",
+            "albumId": "56BMarRYFHZ51ZVTyamBHk",
+            "foundAt": "2026-02-05T18:48:52.633Z"
+          }
+        },
+        {
+          "title": "Truth Is",
+          "artist": "Carolyn Wonderland",
+          "spotifyTrack": {
+            "id": "7b3PpkkxulPnCRidyktINg",
+            "name": "Truth Is",
+            "uri": "spotify:track:7b3PpkkxulPnCRidyktINg",
+            "popularity": 27,
+            "albumName": "Truth Is",
+            "albumId": "611yxBCQhq0G6ZkJHgmioi",
+            "foundAt": "2026-02-05T18:48:54.484Z"
+          }
+        },
+        {
+          "title": "Paper Can't Wrap Fire",
+          "artist": "Don Glori",
+          "spotifyTrack": {
+            "id": "4dPy2gfhjPh2ISbrjUWOmD",
+            "name": "Disaster",
+            "uri": "spotify:track:4dPy2gfhjPh2ISbrjUWOmD",
+            "popularity": 32,
+            "albumName": "Paper Can't Wrap Fire",
+            "albumId": "22sHzBwbtdw2SRXQGNfpvc",
+            "foundAt": "2026-02-05T18:48:56.323Z"
+          }
+        },
+        {
+          "title": "Bach: Keyboard Concertos BWV 1052, 1053, 1054, 1056",
+          "artist": "Beatrice RanaAmsterdam Sinfonietta",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:48:57.139Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-05-09",
+      "albums": [
+        {
+          "title": "Pink Elephant",
+          "artist": "Arcade Fire",
+          "spotifyTrack": {
+            "id": "270dccP5Z3Lvb6Q02BjDcY",
+            "name": "Year of the Snake",
+            "uri": "spotify:track:270dccP5Z3Lvb6Q02BjDcY",
+            "popularity": 45,
+            "albumName": "Pink Elephant",
+            "albumId": "5qLTlCTZvN24Fm1nqd7XCV",
+            "foundAt": "2026-02-05T18:48:58.909Z"
+          }
+        },
+        {
+          "title": "Dreamsicle",
+          "artist": "Maren Morris",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:48:59.699Z"
+          }
+        },
+        {
+          "title": "Tall Tales",
+          "artist": "Mark PritchardThom Yorke",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:00.421Z"
+          }
+        },
+        {
+          "title": "Ill at Ease",
+          "artist": "Preoccupations",
+          "spotifyTrack": {
+            "id": "4bT5wkmbWCTzW5rMKCONYt",
+            "name": "Focus",
+            "uri": "spotify:track:4bT5wkmbWCTzW5rMKCONYt",
+            "popularity": 30,
+            "albumName": "Ill at ease",
+            "albumId": "7mXTfaEWYEkD7QlevZQvaQ",
+            "foundAt": "2026-02-05T18:49:02.670Z"
+          }
+        },
+        {
+          "title": "SLY LIVES! (aka The Burden of Black Genius) [Original Motion Picture Soundtrack]",
+          "artist": "Sly & the Family Stone",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:03.386Z"
+          }
+        },
+        {
+          "title": "GOLLIWOG",
+          "artist": "billy woods",
+          "spotifyTrack": {
+            "id": "77VBQKutkIrMfr7PPvZWdA",
+            "name": "Misery",
+            "uri": "spotify:track:77VBQKutkIrMfr7PPvZWdA",
+            "popularity": 44,
+            "albumName": "GOLLIWOG",
+            "albumId": "6YjoANrjcsf17p1OmWESfo",
+            "foundAt": "2026-02-05T18:49:04.993Z"
+          }
+        },
+        {
+          "title": "For the Love of It All",
+          "artist": "Brandon Woody",
+          "spotifyTrack": {
+            "id": "3hx6insLLZ8cU7gIs4xp5F",
+            "name": "Real Love Pt. 1",
+            "uri": "spotify:track:3hx6insLLZ8cU7gIs4xp5F",
+            "popularity": 32,
+            "albumName": "For The Love Of It All",
+            "albumId": "6Ug4LyNXrVc7W1B4qZlKG4",
+            "foundAt": "2026-02-05T18:49:06.663Z"
+          }
+        },
+        {
+          "title": "Bees in the Bonnet",
+          "artist": "Hedvig Mollestad Trio",
+          "spotifyTrack": {
+            "id": "73lWqW8cC2dQaJZdKxVzIK",
+            "name": "See See Bop",
+            "uri": "spotify:track:73lWqW8cC2dQaJZdKxVzIK",
+            "popularity": 21,
+            "albumName": "Bees In The Bonnet",
+            "albumId": "6y3hX8stL3jdbZyVqV0GMq",
+            "foundAt": "2026-02-05T18:49:08.389Z"
+          }
+        },
+        {
+          "title": "The World Is Still Here and So Are We",
+          "artist": "Mclusky",
+          "spotifyTrack": {
+            "id": "1ZIpnX9keX8JVXMk1074QV",
+            "name": "unpopular parts of a pig",
+            "uri": "spotify:track:1ZIpnX9keX8JVXMk1074QV",
+            "popularity": 23,
+            "albumName": "the world is still here and so are we",
+            "albumId": "7cXHybOyEtMJysB5nM5ovj",
+            "foundAt": "2026-02-05T18:49:09.997Z"
+          }
+        },
+        {
+          "title": "Even in Arcadia",
+          "artist": "Sleep Token",
+          "spotifyTrack": {
+            "id": "1QrbZhFYlViXd60g130vw1",
+            "name": "Caramel",
+            "uri": "spotify:track:1QrbZhFYlViXd60g130vw1",
+            "popularity": 77,
+            "albumName": "Even In Arcadia",
+            "albumId": "1lS7FeRcSUuIGqyg99UGpj",
+            "foundAt": "2026-02-05T18:49:11.680Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-05-02",
+      "albums": [
+        {
+          "title": "Evangeline vs. The Machine",
+          "artist": "Eric Church",
+          "spotifyTrack": {
+            "id": "0aJHZeX4rMCOXpo1LXXfBl",
+            "name": "Hands Of Time",
+            "uri": "spotify:track:0aJHZeX4rMCOXpo1LXXfBl",
+            "popularity": 50,
+            "albumName": "Evangeline vs. The Machine",
+            "albumId": "4wJxbo5ycw2j1cDM0LOiMl",
+            "foundAt": "2026-02-05T18:49:13.422Z"
+          }
+        },
+        {
+          "title": "The Scholars",
+          "artist": "Car Seat Headrest",
+          "spotifyTrack": {
+            "id": "2HKHccmnwpsx0FDGiehYoi",
+            "name": "The Catastrophe (Good Luck With That, Man)",
+            "uri": "spotify:track:2HKHccmnwpsx0FDGiehYoi",
+            "popularity": 44,
+            "albumName": "The Scholars",
+            "albumId": "3EuXbeOZZukUbq4ZdreJzV",
+            "foundAt": "2026-02-05T18:49:14.960Z"
+          }
+        },
+        {
+          "title": "Animaru",
+          "artist": "Mei Semones",
+          "spotifyTrack": {
+            "id": "4HPd9WMnQqp3xXAOYeGexw",
+            "name": "Dumb Feeling",
+            "uri": "spotify:track:4HPd9WMnQqp3xXAOYeGexw",
+            "popularity": 49,
+            "albumName": "Animaru",
+            "albumId": "6giorr9WTWilWHmD0Ox4ow",
+            "foundAt": "2026-02-05T18:49:16.699Z"
+          }
+        },
+        {
+          "title": "Lucius",
+          "artist": "Lucius",
+          "spotifyTrack": {
+            "id": "3eczqzv8ScyR9VjHjD3kjl",
+            "name": "Old Tape (feat. Adam Granduciel)",
+            "uri": "spotify:track:3eczqzv8ScyR9VjHjD3kjl",
+            "popularity": 40,
+            "albumName": "Lucius",
+            "albumId": "06JimjqlVKRMI05IhQt2kN",
+            "foundAt": "2026-02-05T18:49:18.339Z"
+          }
+        },
+        {
+          "title": "Iris Silver Mist",
+          "artist": "Jenny Hval",
+          "spotifyTrack": {
+            "id": "3iFjxzGbPZZwJ6yD0Jbr3y",
+            "name": "To be a rose",
+            "uri": "spotify:track:3iFjxzGbPZZwJ6yD0Jbr3y",
+            "popularity": 31,
+            "albumName": "Iris Silver Mist",
+            "albumId": "2eMQz1VNYCVSJ8amR0AgQX",
+            "foundAt": "2026-02-05T18:49:19.977Z"
+          }
+        },
+        {
+          "title": "Lake Fire",
+          "artist": "Loscil",
+          "spotifyTrack": {
+            "id": "4ZZvjhKMFvkzrc8cNFaNnK",
+            "name": "Bell Flame",
+            "uri": "spotify:track:4ZZvjhKMFvkzrc8cNFaNnK",
+            "popularity": 21,
+            "albumName": "Lake Fire",
+            "albumId": "0mix5UIlqNljJn6HXcRD5E",
+            "foundAt": "2026-02-05T18:49:21.817Z"
+          }
+        },
+        {
+          "title": "The Road to the Sea",
+          "artist": "The Night MailLouis Philippe",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:22.435Z"
+          }
+        },
+        {
+          "title": "Cuentas Pendientes",
+          "artist": "BunburyEnrique Bunbury",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:23.151Z"
+          }
+        },
+        {
+          "title": "Hawalat",
+          "artist": "Charif Megarbane",
+          "spotifyTrack": {
+            "id": "3QR6IaoxtJLKzZXvwtFxwV",
+            "name": "East of What",
+            "uri": "spotify:track:3QR6IaoxtJLKzZXvwtFxwV",
+            "popularity": 41,
+            "albumName": "Hawalat (Habibi Funk 030)",
+            "albumId": "0J8KN0S6F1HnOIMRWrLjdv",
+            "foundAt": "2026-02-05T18:49:24.996Z"
+          }
+        },
+        {
+          "title": "Love & Light",
+          "artist": "Maddie & Tae",
+          "spotifyTrack": {
+            "id": "2Of9MIQxBMKUYeioINcSoV",
+            "name": "Heart They Didn't Break",
+            "uri": "spotify:track:2Of9MIQxBMKUYeioINcSoV",
+            "popularity": 45,
+            "albumName": "Love & Light",
+            "albumId": "6HX6IOpNWjIVoctAFCe1CW",
+            "foundAt": "2026-02-05T18:49:26.631Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-04-25",
+      "albums": [
+        {
+          "title": "Skeletá",
+          "artist": "Ghost",
+          "spotifyTrack": {
+            "id": "4TjCaQsPQhGZUk0Hls4O3Y",
+            "name": "Lachryma",
+            "uri": "spotify:track:4TjCaQsPQhGZUk0Hls4O3Y",
+            "popularity": 65,
+            "albumName": "Skeletá",
+            "albumId": "2PFJKjBqXpYrRcdClhfcnX",
+            "foundAt": "2026-02-05T18:49:28.273Z"
+          }
+        },
+        {
+          "title": "Mortal Primetime",
+          "artist": "Sunflower Bean",
+          "spotifyTrack": {
+            "id": "1pTxigkaY7ofOZOOLZinj4",
+            "name": "Nothing Romantic",
+            "uri": "spotify:track:1pTxigkaY7ofOZOOLZinj4",
+            "popularity": 27,
+            "albumName": "Mortal Primetime",
+            "albumId": "0DGyOzikFKNk5Zzib44KGv",
+            "foundAt": "2026-02-05T18:49:29.807Z"
+          }
+        },
+        {
+          "title": "The Film",
+          "artist": "Moor MotherSumac",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:30.468Z"
+          }
+        },
+        {
+          "title": "Noble and Godlike in Ruin",
+          "artist": "Deerhoof",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:31.138Z"
+          }
+        },
+        {
+          "title": "Time Indefinite",
+          "artist": "William Tyler",
+          "spotifyTrack": {
+            "id": "4bhj3AAh7CN4t1CE3Lgy1d",
+            "name": "Howling at the Second Moon",
+            "uri": "spotify:track:4bhj3AAh7CN4t1CE3Lgy1d",
+            "popularity": 23,
+            "albumName": "Time Indefinite",
+            "albumId": "4EtYy5q77reAmSNvLkuyYq",
+            "foundAt": "2026-02-05T18:49:32.702Z"
+          }
+        },
+        {
+          "title": "Totality",
+          "artist": "Bitchin BajasNatural Information Society",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:33.312Z"
+          }
+        },
+        {
+          "title": "Family",
+          "artist": "Southern Avenue",
+          "spotifyTrack": {
+            "id": "7fArKeQ64ounmvV2dDkR1g",
+            "name": "So Much Love",
+            "uri": "spotify:track:7fArKeQ64ounmvV2dDkR1g",
+            "popularity": 31,
+            "albumName": "Family",
+            "albumId": "0IMJyZewJS5Lj2WHBG23J3",
+            "foundAt": "2026-02-05T18:49:34.941Z"
+          }
+        },
+        {
+          "title": "Luster",
+          "artist": "Maria Somerville",
+          "spotifyTrack": {
+            "id": "5Pr0dZZjoGqnWzlASF1ESU",
+            "name": "Garden",
+            "uri": "spotify:track:5Pr0dZZjoGqnWzlASF1ESU",
+            "popularity": 40,
+            "albumName": "Luster",
+            "albumId": "6vRCwr31pNFnURP8mj53KP",
+            "foundAt": "2026-02-05T18:49:36.664Z"
+          }
+        },
+        {
+          "title": "Gloria",
+          "artist": "Dustin Wong",
+          "spotifyTrack": {
+            "id": "1tuACERJlgIdePK1sN7Zi5",
+            "name": "Morning Roses",
+            "uri": "spotify:track:1tuACERJlgIdePK1sN7Zi5",
+            "popularity": 7,
+            "albumName": "Gloria",
+            "albumId": "2q91LApKEy9WNV0dAWZNZS",
+            "foundAt": "2026-02-05T18:49:38.279Z"
+          }
+        },
+        {
+          "title": "Paper Doll",
+          "artist": "Samantha Fish",
+          "spotifyTrack": {
+            "id": "3v8ExUN1GwEWVAJIZdEIFA",
+            "name": "Sweet Southern Sounds",
+            "uri": "spotify:track:3v8ExUN1GwEWVAJIZdEIFA",
+            "popularity": 38,
+            "albumName": "Paper Doll",
+            "albumId": "0Gp2WizYQ34bXTL5vA85Fq",
+            "foundAt": "2026-02-05T18:49:40.061Z"
+          }
+        },
+        {
+          "title": "Khachaturian",
+          "artist": "Jean-Yves ThibaudetGustavo DudamelLos Angeles Philharmonic Orchestra",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:40.704Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-04-18",
+      "albums": [
+        {
+          "title": "Send a Prayer My Way",
+          "artist": "Julien BakerTorres",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:41.376Z"
+          }
+        },
+        {
+          "title": "What Did the Blackbird Say to the Crow",
+          "artist": "Rhiannon GiddensJustin Robinson",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:41.984Z"
+          }
+        },
+        {
+          "title": "Electric War",
+          "artist": "Malcolm CattoLittle Barrie",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:49:42.601Z"
+          }
+        },
+        {
+          "title": "Thee Black Boltz",
+          "artist": "Tunde Adebimpe",
+          "spotifyTrack": {
+            "id": "3ffpAgPusYqOoQJmKWtnbW",
+            "name": "Magnetic",
+            "uri": "spotify:track:3ffpAgPusYqOoQJmKWtnbW",
+            "popularity": 43,
+            "albumName": "Thee Black Boltz",
+            "albumId": "0MuAR8zcmZyGAwJcnkCpV1",
+            "foundAt": "2026-02-05T18:49:44.387Z"
+          }
+        },
+        {
+          "title": "Adrian Younge Presents Something About April III",
+          "artist": "Adrian Younge",
+          "spotifyTrack": {
+            "id": "6UQ26Pjdx5vWBJfG7csg4u",
+            "name": "O Som do Amor",
+            "uri": "spotify:track:6UQ26Pjdx5vWBJfG7csg4u",
+            "popularity": 20,
+            "albumName": "Adrian Younge presents Something About April III",
+            "albumId": "2lbVK9NP3QKqEeA8NrOjbx",
+            "foundAt": "2026-02-05T18:49:45.890Z"
+          }
+        },
+        {
+          "title": "A Study of Losses",
+          "artist": "Beirut",
+          "spotifyTrack": {
+            "id": "2lXcqdC9jF4cuDjmGQNw8m",
+            "name": "Guericke's Unicorn",
+            "uri": "spotify:track:2lXcqdC9jF4cuDjmGQNw8m",
+            "popularity": 44,
+            "albumName": "A Study of Losses",
+            "albumId": "78tXJfTs54x8GO5aq4rbVE",
+            "foundAt": "2026-02-05T18:49:47.726Z"
+          }
+        },
+        {
+          "title": "Insatiable",
+          "artist": "Divide and Dissolve",
+          "spotifyTrack": {
+            "id": "1W5bnwDLHMyEX5htVkYl01",
+            "name": "Monolithic",
+            "uri": "spotify:track:1W5bnwDLHMyEX5htVkYl01",
+            "popularity": 30,
+            "albumName": "Insatiable",
+            "albumId": "5174DaPHbMVAzmnWR1CQ0b",
+            "foundAt": "2026-02-05T18:49:49.262Z"
+          }
+        },
+        {
+          "title": "Dance Music 4 Bad People",
+          "artist": "Hieroglyphic Being",
+          "spotifyTrack": {
+            "id": "1NVaKxXHxHS497lkwsal4G",
+            "name": "U R Not Dying U R Just Waking Up",
+            "uri": "spotify:track:1NVaKxXHxHS497lkwsal4G",
+            "popularity": 11,
+            "albumName": "Dance Music 4 Bad People",
+            "albumId": "6PuN8mmEo3GGOmGkEYwigY",
+            "foundAt": "2026-02-05T18:49:51.087Z"
+          }
+        },
+        {
+          "title": "On Fire: Live from the Blue Morocco",
+          "artist": "Freddie Hubbard",
+          "spotifyTrack": {
+            "id": "4dULWNf6bwn9mLmyl5EKsx",
+            "name": "Crisis (Live at the Blue Morocco in the Bronx, New York ,1967)",
+            "uri": "spotify:track:4dULWNf6bwn9mLmyl5EKsx",
+            "popularity": 10,
+            "albumName": "On Fire: Live from the Blue Morocco",
+            "albumId": "28eFVFplciiCjTp0fl7G9s",
+            "foundAt": "2026-02-05T18:49:52.853Z"
+          }
+        },
+        {
+          "title": "I Heard That Noise",
+          "artist": "Quickly, Quickly",
+          "spotifyTrack": {
+            "id": "49lYeNtjK2w2gErCYz2ljk",
+            "name": "I Punched Through The Wall",
+            "uri": "spotify:track:49lYeNtjK2w2gErCYz2ljk",
+            "popularity": 45,
+            "albumName": "I Heard That Noise",
+            "albumId": "3hXswlXaEoYMiBQ9TZN2wR",
+            "foundAt": "2026-02-05T18:49:54.791Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-04-11",
+      "albums": [
+        {
+          "title": "SABLE, fABLE",
+          "artist": "Bon Iver",
+          "spotifyTrack": {
+            "id": "4FeYX8QKpNA1Nof6XLsMnv",
+            "name": "S P E Y S I D E",
+            "uri": "spotify:track:4FeYX8QKpNA1Nof6XLsMnv",
+            "popularity": 65,
+            "albumName": "SABLE, fABLE",
+            "albumId": "3L3UjpXtom6T0Plt1j6l1T",
+            "foundAt": "2026-02-05T18:49:56.742Z"
+          }
+        },
+        {
+          "title": "Owls, Omens, and Oracles",
+          "artist": "Valerie June",
+          "spotifyTrack": {
+            "id": "58X7WJEPP3SkcvCMAdmkfU",
+            "name": "Joy, Joy!",
+            "uri": "spotify:track:58X7WJEPP3SkcvCMAdmkfU",
+            "popularity": 33,
+            "albumName": "Owls, Omens, and Oracles",
+            "albumId": "5K6SF5pgdnfHRnuC4gaC0Q",
+            "foundAt": "2026-02-05T18:49:58.377Z"
+          }
+        },
+        {
+          "title": "Anxious",
+          "artist": "Nell Smith",
+          "spotifyTrack": {
+            "id": "7xJdWKxJoFjSkX0tkDE6nj",
+            "name": "Billions Of People",
+            "uri": "spotify:track:7xJdWKxJoFjSkX0tkDE6nj",
+            "popularity": 23,
+            "albumName": "Anxious",
+            "albumId": "3TnqVllDL3di6RA2owF0m4",
+            "foundAt": "2026-02-05T18:50:00.225Z"
+          }
+        },
+        {
+          "title": "Light for the Midnight",
+          "artist": "Cold Specks",
+          "spotifyTrack": {
+            "id": "2FVQNaItwjlVi6FwTJMe7u",
+            "name": "How it Feels",
+            "uri": "spotify:track:2FVQNaItwjlVi6FwTJMe7u",
+            "popularity": 7,
+            "albumName": "Light for the Midnight",
+            "albumId": "0t7eL94TWpVkVxVmp6BfLk",
+            "foundAt": "2026-02-05T18:50:01.930Z"
+          }
+        },
+        {
+          "title": "Hex Key",
+          "artist": "Mamalarky",
+          "spotifyTrack": {
+            "id": "3POqTfHky5SIYc4wzgDd8j",
+            "name": "Nothing Lasts Forever",
+            "uri": "spotify:track:3POqTfHky5SIYc4wzgDd8j",
+            "popularity": 35,
+            "albumName": "Hex Key",
+            "albumId": "71gvpd2oNaGwGmbqXOk8zk",
+            "foundAt": "2026-02-05T18:50:03.704Z"
+          }
+        },
+        {
+          "title": "Ones & Twos",
+          "artist": "Gerald Clayton",
+          "spotifyTrack": {
+            "id": "4xqXQ0uxRxluGxOYG7aa9C",
+            "name": "Cinnamon Sugar",
+            "uri": "spotify:track:4xqXQ0uxRxluGxOYG7aa9C",
+            "popularity": 32,
+            "albumName": "Ones & Twos",
+            "albumId": "4nRENY6OH6RHFGrf1RthCW",
+            "foundAt": "2026-02-05T18:50:05.339Z"
+          }
+        },
+        {
+          "title": "Bowerbirds and Blue Things",
+          "artist": "Jetstream Pony",
+          "spotifyTrack": {
+            "id": "38btwhUZ07HCTJojct6b4o",
+            "name": "Bubblegum Nothingness",
+            "uri": "spotify:track:38btwhUZ07HCTJojct6b4o",
+            "popularity": 14,
+            "albumName": "Bowerbirds and Blue Things",
+            "albumId": "0gmeJtYpIV3WnUB7lyqE8V",
+            "foundAt": "2026-02-05T18:50:07.378Z"
+          }
+        },
+        {
+          "title": "Watersong",
+          "artist": "Savina Yannatou",
+          "spotifyTrack": {
+            "id": "0KFEwjKeoXNJlqz7B26F14",
+            "name": "The Song of Klidonas",
+            "uri": "spotify:track:0KFEwjKeoXNJlqz7B26F14",
+            "popularity": 13,
+            "albumName": "Watersong",
+            "albumId": "0duxmOsm8pHKaG9XRptyoC",
+            "foundAt": "2026-02-05T18:50:09.168Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-04-04",
+      "albums": [
+        {
+          "title": "Who Believes in Angels?",
+          "artist": "Brandi CarlileElton John",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:50:09.845Z"
+          }
+        },
+        {
+          "title": "Bunky Becky Birthday Boy",
+          "artist": "Sleigh Bells",
+          "spotifyTrack": {
+            "id": "2aNONqhy4ZNrnhfvWJqmSF",
+            "name": "Wanna Start A Band?",
+            "uri": "spotify:track:2aNONqhy4ZNrnhfvWJqmSF",
+            "popularity": 32,
+            "albumName": "Bunky Becky Birthday Boy",
+            "albumId": "0jFDQr2f0BdbnRZtPX3RbG",
+            "foundAt": "2026-02-05T18:50:11.482Z"
+          }
+        },
+        {
+          "title": "Abyss",
+          "artist": "Anika",
+          "spotifyTrack": {
+            "id": "1u9Uj3oUgYWIH5AaiZvhze",
+            "name": "Abyss",
+            "uri": "spotify:track:1u9Uj3oUgYWIH5AaiZvhze",
+            "popularity": 31,
+            "albumName": "Abyss",
+            "albumId": "0L5Z3YLCTykE0iFt2SX5wi",
+            "foundAt": "2026-02-05T18:50:13.016Z"
+          }
+        },
+        {
+          "title": "The Crux",
+          "artist": "Djo",
+          "spotifyTrack": {
+            "id": "7tFI5cqfAoR7MIvmbw1qd8",
+            "name": "Delete Ya",
+            "uri": "spotify:track:7tFI5cqfAoR7MIvmbw1qd8",
+            "popularity": 82,
+            "albumName": "The Crux",
+            "albumId": "1xQGeKOIMZrPBUlDJuqZGQ",
+            "foundAt": "2026-02-05T18:50:14.632Z"
+          }
+        },
+        {
+          "title": "Rathlin from a Distance/The Liquid Hour",
+          "artist": "Yann Tiersen",
+          "spotifyTrack": {
+            "id": "2UxkfRsjXCKkFH7P6WSNyd",
+            "name": "Ninnog",
+            "uri": "spotify:track:2UxkfRsjXCKkFH7P6WSNyd",
+            "popularity": 16,
+            "albumName": "Rathlin from a Distance l The Liquid Hour",
+            "albumId": "3Uq0jKffAgKPlgMV4abHjd",
+            "foundAt": "2026-02-05T18:50:16.086Z"
+          }
+        },
+        {
+          "title": "Stochastic Drift",
+          "artist": "Barker",
+          "spotifyTrack": {
+            "id": "0gRPbCjHQ3B5R7LnYdxdJg",
+            "name": "Reframing",
+            "uri": "spotify:track:0gRPbCjHQ3B5R7LnYdxdJg",
+            "popularity": 39,
+            "albumName": "Stochastic Drift",
+            "albumId": "3ChV6s15ch9qohd5gZaGOF",
+            "foundAt": "2026-02-05T18:50:17.625Z"
+          }
+        },
+        {
+          "title": "Take Me Out to a Bar/What Am I, Gatsby?",
+          "artist": "Sarah Mary Chadwick",
+          "spotifyTrack": {
+            "id": "1t1SjJgQZyYig3mI3Y8HGQ",
+            "name": "Not Cool Like NY / Not Cool Like LA",
+            "uri": "spotify:track:1t1SjJgQZyYig3mI3Y8HGQ",
+            "popularity": 7,
+            "albumName": "Take Me Out To a Bar / What Am I, Gatsby?",
+            "albumId": "2fEHRMOa8zt8Kq5Uj65zNw",
+            "foundAt": "2026-02-05T18:50:19.403Z"
+          }
+        },
+        {
+          "title": "Te Whare Tiwekaweka",
+          "artist": "Marlon Williams",
+          "spotifyTrack": {
+            "id": "6pcLDsn5Dyp3w6qQutyjMY",
+            "name": "Aua Atu Rā",
+            "uri": "spotify:track:6pcLDsn5Dyp3w6qQutyjMY",
+            "popularity": 36,
+            "albumName": "Te Whare Tīwekaweka",
+            "albumId": "5qMWA3N20b5Qpcak8rbj3b",
+            "foundAt": "2026-02-05T18:50:21.209Z"
+          }
+        },
+        {
+          "title": "Hyldon JID023",
+          "artist": "HyldonAdrian Younge",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:50:21.926Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-03-28",
+      "albums": [
+        {
+          "title": "Forever Is a Feeling",
+          "artist": "Lucy Dacus",
+          "spotifyTrack": {
+            "id": "4VhbsGXRGDncpi79aiX8eE",
+            "name": "Ankles",
+            "uri": "spotify:track:4VhbsGXRGDncpi79aiX8eE",
+            "popularity": 56,
+            "albumName": "Forever Is A Feeling",
+            "albumId": "2PedUC4azy5ywqWp8gVVrs",
+            "foundAt": "2026-02-05T18:50:23.546Z"
+          }
+        },
+        {
+          "title": "Arcadia",
+          "artist": "Alison KraussAlison Krauss & Union Station",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:50:24.164Z"
+          }
+        },
+        {
+          "title": "Glory",
+          "artist": "Perfume Genius",
+          "spotifyTrack": {
+            "id": "2UYuux157cn498H23UfHQf",
+            "name": "It's a Mirror",
+            "uri": "spotify:track:2UYuux157cn498H23UfHQf",
+            "popularity": 45,
+            "albumName": "Glory",
+            "albumId": "2Y5e4etT3wCXoyllnQ0aAD",
+            "foundAt": "2026-02-05T18:50:25.820Z"
+          }
+        },
+        {
+          "title": "Belonging",
+          "artist": "Branford MarsalisBranford Marsalis Quartet",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:50:26.483Z"
+          }
+        },
+        {
+          "title": "Letters from the Atlantic",
+          "artist": "Butcher Brown",
+          "spotifyTrack": {
+            "id": "4bEaFObJgcmZWUd99CntDR",
+            "name": "Ibiza",
+            "uri": "spotify:track:4bEaFObJgcmZWUd99CntDR",
+            "popularity": 33,
+            "albumName": "Letters From The Atlantic",
+            "albumId": "4t7ckccjrCGSqqUFrfQLpX",
+            "foundAt": "2026-02-05T18:50:28.174Z"
+          }
+        },
+        {
+          "title": "Jay Marie, Comfort Me",
+          "artist": "Mess Esque",
+          "spotifyTrack": {
+            "id": "3Dum7WctMuZgE9xnx7Jgqs",
+            "name": "Crow's Ash Tree",
+            "uri": "spotify:track:3Dum7WctMuZgE9xnx7Jgqs",
+            "popularity": 39,
+            "albumName": "Jay Marie, Comfort Me",
+            "albumId": "3eR01UioeLRPdXMXuCNkBg",
+            "foundAt": "2026-02-05T18:50:29.908Z"
+          }
+        },
+        {
+          "title": "Portrait of My Heart",
+          "artist": "Spellling",
+          "spotifyTrack": {
+            "id": "2EDBjvlWHKWNyHHWMWPx1j",
+            "name": "Portrait of My Heart",
+            "uri": "spotify:track:2EDBjvlWHKWNyHHWMWPx1j",
+            "popularity": 34,
+            "albumName": "Portrait of My Heart",
+            "albumId": "3cpbY6YDGJsTPnWTqSG2It",
+            "foundAt": "2026-02-05T18:50:31.656Z"
+          }
+        },
+        {
+          "title": "All the Quiet (Part I)",
+          "artist": "Joe Armon-Jones",
+          "spotifyTrack": {
+            "id": "0gouDswj0R5jne7YUUrlIO",
+            "name": "Lifetones",
+            "uri": "spotify:track:0gouDswj0R5jne7YUUrlIO",
+            "popularity": 31,
+            "albumName": "All The Quiet (Part I)",
+            "albumId": "0efFrXZr98tY3O5qkAGQB7",
+            "foundAt": "2026-02-05T18:50:33.208Z"
+          }
+        },
+        {
+          "title": "John Field: Complete Nocturnes",
+          "artist": "Alice Sara Ott",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:50:33.817Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-03-21",
+      "albums": [
+        {
+          "title": "For Melancholy Brunettes (& Sad Women)",
+          "artist": "Japanese Breakfast",
+          "spotifyTrack": {
+            "id": "02olsPYJypEE0IyuaGS4K4",
+            "name": "Picture Window",
+            "uri": "spotify:track:02olsPYJypEE0IyuaGS4K4",
+            "popularity": 48,
+            "albumName": "For Melancholy Brunettes (& sad women)",
+            "albumId": "4qqdOkr3Ff3kN8GxoxvRES",
+            "foundAt": "2026-02-05T18:50:35.366Z"
+          }
+        },
+        {
+          "title": "The Long Way Round",
+          "artist": "Maya Delilah",
+          "spotifyTrack": {
+            "id": "4zgIOCDE23hczp6120IZ5N",
+            "name": "Actress",
+            "uri": "spotify:track:4zgIOCDE23hczp6120IZ5N",
+            "popularity": 34,
+            "albumName": "The Long Way Round",
+            "albumId": "0wrJiW6NCHWxgc0T9HHYU9",
+            "foundAt": "2026-02-05T18:50:36.892Z"
+          }
+        },
+        {
+          "title": "Can't Lose My (Soul)",
+          "artist": "Annie and the Caldwells",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:50:37.557Z"
+          }
+        },
+        {
+          "title": "The Great Western Road",
+          "artist": "Deacon Blue",
+          "spotifyTrack": {
+            "id": "7GhAbRrRNOiCOFCHyZLTkT",
+            "name": "Late '88",
+            "uri": "spotify:track:7GhAbRrRNOiCOFCHyZLTkT",
+            "popularity": 30,
+            "albumName": "The Great Western Road",
+            "albumId": "0zdes5b3RxZZrqs8U6hTIv",
+            "foundAt": "2026-02-05T18:50:39.439Z"
+          }
+        },
+        {
+          "title": "Dance Therapy",
+          "artist": "Ora the Molecule",
+          "spotifyTrack": {
+            "id": "5Mm9ntWAGyvKWkDrveaAsF",
+            "name": "Intergalactic Dance",
+            "uri": "spotify:track:5Mm9ntWAGyvKWkDrveaAsF",
+            "popularity": 20,
+            "albumName": "Dance Therapy",
+            "albumId": "73mZESqGK6y4c7e2IfShqr",
+            "foundAt": "2026-02-05T18:50:41.039Z"
+          }
+        },
+        {
+          "title": "The EVEN MORE Freewheelin' Jeffrey Lewis",
+          "artist": "Jeffrey Lewis",
+          "spotifyTrack": {
+            "id": "5YWhLSOORWtVzoo4bRgSnp",
+            "name": "Do What Comes Natural",
+            "uri": "spotify:track:5YWhLSOORWtVzoo4bRgSnp",
+            "popularity": 10,
+            "albumName": "The EVEN MORE Freewheelin' Jeffrey Lewis",
+            "albumId": "6klRJARPSluE7zrKpzCsZ0",
+            "foundAt": "2026-02-05T18:50:42.751Z"
+          }
+        },
+        {
+          "title": "Gift Songs",
+          "artist": "Jefre Cantu-Ledesma",
+          "spotifyTrack": {
+            "id": "07cmsKQI2malLBrzF5icAR",
+            "name": "Gift Song II",
+            "uri": "spotify:track:07cmsKQI2malLBrzF5icAR",
+            "popularity": 36,
+            "albumName": "Gift Songs",
+            "albumId": "6iiPfNevxyjC2Gx68MqLIZ",
+            "foundAt": "2026-02-05T18:50:44.575Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-03-14",
+      "albums": [
+        {
+          "title": "Moonlight Concessions",
+          "artist": "Throwing Muses",
+          "spotifyTrack": {
+            "id": "5r56KnVx19cqIpvWRhjjxS",
+            "name": "Summer of Love",
+            "uri": "spotify:track:5r56KnVx19cqIpvWRhjjxS",
+            "popularity": 23,
+            "albumName": "Moonlight Concessions",
+            "albumId": "2ftAcFZMDD89fpNo89ZkG6",
+            "foundAt": "2026-02-05T18:50:46.298Z"
+          }
+        },
+        {
+          "title": "Nation Shall Speak Unto Nation",
+          "artist": "Edwyn Collins",
+          "spotifyTrack": {
+            "id": "2BZIvaIc6EN7QXConrAEXY",
+            "name": "Knowledge",
+            "uri": "spotify:track:2BZIvaIc6EN7QXConrAEXY",
+            "popularity": 23,
+            "albumName": "Nation Shall Speak Unto Nation",
+            "albumId": "2N1pnqJwLvRNjyer5OJv7G",
+            "foundAt": "2026-02-05T18:50:48.250Z"
+          }
+        },
+        {
+          "title": "Halo on the Inside",
+          "artist": "Circuit des Yeux",
+          "spotifyTrack": {
+            "id": "09tK0uxKhPE7HWNz27bYNY",
+            "name": "Megaloner",
+            "uri": "spotify:track:09tK0uxKhPE7HWNz27bYNY",
+            "popularity": 23,
+            "albumName": "Halo On The Inside",
+            "albumId": "1a5FMhDC5UFBhkirhJD72b",
+            "foundAt": "2026-02-05T18:50:50.087Z"
+          }
+        },
+        {
+          "title": "Dead Channel Sky",
+          "artist": "clipping.",
+          "spotifyTrack": {
+            "id": "3ZyfKvS2z4so0qtoudfyI0",
+            "name": "Keep Pushing",
+            "uri": "spotify:track:3ZyfKvS2z4so0qtoudfyI0",
+            "popularity": 41,
+            "albumName": "Dead Channel Sky",
+            "albumId": "2AkszlufP2t2ZHfC8NKKvN",
+            "foundAt": "2026-02-05T18:50:51.936Z"
+          }
+        },
+        {
+          "title": "Chapter III: We Return to Light",
+          "artist": "Anoushka Shankar",
+          "spotifyTrack": {
+            "id": "5yTsposXxnk1rJVETaXS4N",
+            "name": "Daybreak",
+            "uri": "spotify:track:5yTsposXxnk1rJVETaXS4N",
+            "popularity": 37,
+            "albumName": "Chapter III: We Return to Light",
+            "albumId": "10y2phPg1DNcq2YALjzABR",
+            "foundAt": "2026-02-05T18:50:53.535Z"
+          }
+        },
+        {
+          "title": "The Overview",
+          "artist": "Steven Wilson",
+          "spotifyTrack": {
+            "id": "1hiuFbjNa7Q0x41EHUfC80",
+            "name": "Objects Outlive Us",
+            "uri": "spotify:track:1hiuFbjNa7Q0x41EHUfC80",
+            "popularity": 41,
+            "albumName": "The Overview",
+            "albumId": "3xOcExpIWzroZldcdc212q",
+            "foundAt": "2026-02-05T18:50:55.159Z"
+          }
+        },
+        {
+          "title": "Different: The Singles Collection 1977-1981",
+          "artist": "Dennis Bovell",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:50:55.802Z"
+          }
+        },
+        {
+          "title": "Your Lungs and Your Tongues",
+          "artist": "Vazz",
+          "spotifyTrack": {
+            "id": "6OzUQEJo6vvLWDsOuw9k3D",
+            "name": "Breath",
+            "uri": "spotify:track:6OzUQEJo6vvLWDsOuw9k3D",
+            "popularity": 12,
+            "albumName": "Your Lungs And Your Tongues",
+            "albumId": "69BWVXLijRcjz13zFWip31",
+            "foundAt": "2026-02-05T18:50:57.459Z"
+          }
+        },
+        {
+          "title": "Whatever the Weather II",
+          "artist": "Whatever the Weather",
+          "spotifyTrack": {
+            "id": "4G2rofhMyhDKn2eYuNPKpv",
+            "name": "12°C",
+            "uri": "spotify:track:4G2rofhMyhDKn2eYuNPKpv",
+            "popularity": 32,
+            "albumName": "Whatever the Weather II",
+            "albumId": "6c2tadUprT8mxXulNmZ1dc",
+            "foundAt": "2026-02-05T18:50:59.204Z"
+          }
+        },
+        {
+          "title": "Seelentrost",
+          "artist": "Isabel Schicketanz",
+          "spotifyTrack": {
+            "id": "60sOCNLNVf4sxh2Do8EZsd",
+            "name": "Klag- und Trost-Lied: Ich steh in Angst und Pein",
+            "uri": "spotify:track:60sOCNLNVf4sxh2Do8EZsd",
+            "popularity": 1,
+            "albumName": "Seelentrost",
+            "albumId": "1IFKhQPghNvcrQtIMm9vG1",
+            "foundAt": "2026-02-05T18:51:01.150Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-03-07",
+      "albums": [
+        {
+          "title": "MAYHEM",
+          "artist": "Lady Gaga",
+          "spotifyTrack": {
+            "id": "7so0lgd0zP2Sbgs2d7a1SZ",
+            "name": "Die With A Smile",
+            "uri": "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ",
+            "popularity": 88,
+            "albumName": "MAYHEM",
+            "albumId": "2MHUaRi9OCyTN02SoyRRBJ",
+            "foundAt": "2026-02-05T18:51:02.912Z"
+          }
+        },
+        {
+          "title": "Foxes in the Snow",
+          "artist": "Jason Isbell",
+          "spotifyTrack": {
+            "id": "56fy1fC0cxRpoEDMySEGBv",
+            "name": "Bury Me",
+            "uri": "spotify:track:56fy1fC0cxRpoEDMySEGBv",
+            "popularity": 47,
+            "albumName": "Foxes in the Snow",
+            "albumId": "6OgNgnMcqhcDw01qXlw8el",
+            "foundAt": "2026-02-05T18:51:04.923Z"
+          }
+        },
+        {
+          "title": "This Side of the Island",
+          "artist": "Hamilton Leithauser",
+          "spotifyTrack": {
+            "id": "3IFk55tJwqBrdhgsLvrVvn",
+            "name": "Knockin' Heart",
+            "uri": "spotify:track:3IFk55tJwqBrdhgsLvrVvn",
+            "popularity": 31,
+            "albumName": "This Side of the Island",
+            "albumId": "06d60TFUm7t91QHcVKq65T",
+            "foundAt": "2026-02-05T18:51:06.680Z"
+          }
+        },
+        {
+          "title": "ASTROPICAL",
+          "artist": "ASTROPICALBomba EstéreoRawayana",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:51:07.292Z"
+          }
+        },
+        {
+          "title": "All Worlds",
+          "artist": "Croatian AmorLust for Youth",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:51:07.907Z"
+          }
+        },
+        {
+          "title": "Flamingo Tower",
+          "artist": "Monde UFO",
+          "spotifyTrack": {
+            "id": "6gD298fIBCCEGSNcCPwFlt",
+            "name": "Samba 9",
+            "uri": "spotify:track:6gD298fIBCCEGSNcCPwFlt",
+            "popularity": 12,
+            "albumName": "Flamingo Tower",
+            "albumId": "0XlAdNXmPXFPWdonLpsNRl",
+            "foundAt": "2026-02-05T18:51:09.479Z"
+          }
+        },
+        {
+          "title": "Points of Origin",
+          "artist": "Will Stratton",
+          "spotifyTrack": {
+            "id": "5xc2qWp99FMsCTZ0OOD5xI",
+            "name": "I Found You",
+            "uri": "spotify:track:5xc2qWp99FMsCTZ0OOD5xI",
+            "popularity": 13,
+            "albumName": "Points Of Origin",
+            "albumId": "5kjbZokM10OexxRnyJvwK5",
+            "foundAt": "2026-02-05T18:51:11.160Z"
+          }
+        },
+        {
+          "title": "Masaaki Suzuki plays Bach Organ Works, Vol. 6 … leipziger choräle (I) …",
+          "artist": "Masaaki Suzuki",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:51:11.898Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-02-28",
+      "albums": [
+        {
+          "title": "Sinister Grift",
+          "artist": "Panda Bear",
+          "spotifyTrack": {
+            "id": "08aaQA6A7UHvbPGsfPrAFe",
+            "name": "Praise",
+            "uri": "spotify:track:08aaQA6A7UHvbPGsfPrAFe",
+            "popularity": 44,
+            "albumName": "Sinister Grift",
+            "albumId": "7dQ09jOwQBuBcm6qRBQcP9",
+            "foundAt": "2026-02-05T18:51:13.740Z"
+          }
+        },
+        {
+          "title": "A Paradise in the Hold",
+          "artist": "Yazz Ahmed",
+          "spotifyTrack": {
+            "id": "1zNp2WZJ7r0nwbCd2WQVTm",
+            "name": "She Stands On the Shore",
+            "uri": "spotify:track:1zNp2WZJ7r0nwbCd2WQVTm",
+            "popularity": 32,
+            "albumName": "A Paradise In The Hold",
+            "albumId": "3UHpYF4WdoHZkCD4fSz6ig",
+            "foundAt": "2026-02-05T18:51:15.483Z"
+          }
+        },
+        {
+          "title": "Spring Board: The Early Unrecorded Songs",
+          "artist": "The Chills",
+          "spotifyTrack": {
+            "id": "6CJy7OnC2kWzWVPfB8TZu5",
+            "name": "If This World Was Made For Me",
+            "uri": "spotify:track:6CJy7OnC2kWzWVPfB8TZu5",
+            "popularity": 18,
+            "albumName": "Spring Board: The Early Unrecorded Songs",
+            "albumId": "7AKflhK90ck3bjy37oYUeC",
+            "foundAt": "2026-02-05T18:51:17.296Z"
+          }
+        },
+        {
+          "title": "The Moment of Truth: Ella at the Coliseum",
+          "artist": "Ella Fitzgerald",
+          "spotifyTrack": {
+            "id": "6ZfrzVc7zw2mx4qJ10SS29",
+            "name": "The Moment Of Truth - Live At The Coliseum",
+            "uri": "spotify:track:6ZfrzVc7zw2mx4qJ10SS29",
+            "popularity": 16,
+            "albumName": "The Moment Of Truth: Ella At The Coliseum (Live)",
+            "albumId": "39RiB66wg8z2BtkJbf04qt",
+            "foundAt": "2026-02-05T18:51:19.066Z"
+          }
+        },
+        {
+          "title": "Out Here on the Perimeter 1989-1996",
+          "artist": "Dub Syndicate",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:51:19.760Z"
+          }
+        },
+        {
+          "title": "Luminescent Creatures",
+          "artist": "Ichiko Aoba",
+          "spotifyTrack": {
+            "id": "0ur6QHp5cE1a3qz87vRDSA",
+            "name": "COLORATURA",
+            "uri": "spotify:track:0ur6QHp5cE1a3qz87vRDSA",
+            "popularity": 38,
+            "albumName": "Luminescent Creatures",
+            "albumId": "5HT3Ygm47fCCNs9AhqzzvS",
+            "foundAt": "2026-02-05T18:51:21.349Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-02-21",
+      "albums": [
+        {
+          "title": "Exploding Trees & Airplane Screams",
+          "artist": "Patterson Hood",
+          "spotifyTrack": {
+            "id": "7Mmu8cIhnuOOfxT8UXs7sJ",
+            "name": "The Forks of Cypress (feat. Waxahatchee)",
+            "uri": "spotify:track:7Mmu8cIhnuOOfxT8UXs7sJ",
+            "popularity": 23,
+            "albumName": "Exploding Trees & Airplane Screams",
+            "albumId": "1q3rza4WeEyGx1RGhcnsUG",
+            "foundAt": "2026-02-05T18:51:22.958Z"
+          }
+        },
+        {
+          "title": "GNOSIS",
+          "artist": "RAVEN",
+          "spotifyTrack": {
+            "id": "7oLMbkdwvQ6tUo6ag56gPL",
+            "name": "GNOSIS THEME",
+            "uri": "spotify:track:7oLMbkdwvQ6tUo6ag56gPL",
+            "popularity": 14,
+            "albumName": "GNOSIS",
+            "albumId": "7fmwPlVcvQWwGHPoDxCZWD",
+            "foundAt": "2026-02-05T18:51:24.697Z"
+          }
+        },
+        {
+          "title": "Flowers in the Spring",
+          "artist": "Wrekmeister Harmonies",
+          "spotifyTrack": {
+            "id": "2ZWvjscMaGuA4lanETLoqd",
+            "name": "Flowers In The Spring",
+            "uri": "spotify:track:2ZWvjscMaGuA4lanETLoqd",
+            "popularity": 6,
+            "albumName": "Flowers in the Spring",
+            "albumId": "7c481P4ertLg2JC9BhVqvs",
+            "foundAt": "2026-02-05T18:51:26.333Z"
+          }
+        },
+        {
+          "title": "Rise Above It: A Souled American Anthology",
+          "artist": "Souled American",
+          "spotifyTrack": {
+            "id": "5lDfmx08l8321CSXNOeA3R",
+            "name": "Before Tonight",
+            "uri": "spotify:track:5lDfmx08l8321CSXNOeA3R",
+            "popularity": 10,
+            "albumName": "Rise Above It: A Souled American Anthology",
+            "albumId": "60tO4FIZ4m9SRKaSkpwVzl",
+            "foundAt": "2026-02-05T18:51:27.977Z"
+          }
+        },
+        {
+          "title": "Ligeti: String Quartets Nos. 1 & 2; Bartók: String Quartet No. 4",
+          "artist": "Marmen Quartet",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:51:28.691Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-02-14",
+      "albums": [
+        {
+          "title": "Phonetics On and On",
+          "artist": "Horsegirl",
+          "spotifyTrack": {
+            "id": "1SFVei3ZUf3EuJdvKqmGKv",
+            "name": "Switch Over",
+            "uri": "spotify:track:1SFVei3ZUf3EuJdvKqmGKv",
+            "popularity": 43,
+            "albumName": "Phonetics On and On",
+            "albumId": "7C51cbjlLSILLTMVnxbrOc",
+            "foundAt": "2026-02-05T18:51:30.330Z"
+          }
+        },
+        {
+          "title": "Plus One",
+          "artist": "The War and Treaty",
+          "spotifyTrack": {
+            "id": "6opRiNYlpcAzBN5fYlzWfX",
+            "name": "Love Like Whiskey",
+            "uri": "spotify:track:6opRiNYlpcAzBN5fYlzWfX",
+            "popularity": 33,
+            "albumName": "Plus One",
+            "albumId": "5I11qjCOCm0tLcBwX82sMj",
+            "foundAt": "2026-02-05T18:51:32.074Z"
+          }
+        },
+        {
+          "title": "New Dawn",
+          "artist": "Marshall Allen",
+          "spotifyTrack": {
+            "id": "5IYde0rMQ7lZsKWLpHtwYi",
+            "name": "African Sunset",
+            "uri": "spotify:track:5IYde0rMQ7lZsKWLpHtwYi",
+            "popularity": 14,
+            "albumName": "New Dawn",
+            "albumId": "0BOZmnGO69A24yXIJ6lOpd",
+            "foundAt": "2026-02-05T18:51:33.606Z"
+          }
+        },
+        {
+          "title": "Pine",
+          "artist": "Daniel Ögren",
+          "spotifyTrack": {
+            "id": "4RhM1PO6jV3tJaIWqMozcl",
+            "name": "Vänern",
+            "uri": "spotify:track:4RhM1PO6jV3tJaIWqMozcl",
+            "popularity": 30,
+            "albumName": "Pine",
+            "albumId": "58zLFLvUw5I6ezitdYDlWW",
+            "foundAt": "2026-02-05T18:51:35.240Z"
+          }
+        },
+        {
+          "title": "End of the Middle",
+          "artist": "Richard Dawson",
+          "spotifyTrack": {
+            "id": "4zND6NKoMq9ZkjvDAHAgqH",
+            "name": "Gondola",
+            "uri": "spotify:track:4zND6NKoMq9ZkjvDAHAgqH",
+            "popularity": 30,
+            "albumName": "End of the Middle",
+            "albumId": "1JzuX5abMNgLKPw1POeo1r",
+            "foundAt": "2026-02-05T18:51:36.824Z"
+          }
+        },
+        {
+          "title": "The Breeze Grew a Fire",
+          "artist": "Mereba",
+          "spotifyTrack": {
+            "id": "70f8ADxp61RO13yrHXdJoN",
+            "name": "Counterfeit",
+            "uri": "spotify:track:70f8ADxp61RO13yrHXdJoN",
+            "popularity": 36,
+            "albumName": "The Breeze Grew a Fire",
+            "albumId": "27Wwasz4XZHobOHQaB4R0g",
+            "foundAt": "2026-02-05T18:51:38.626Z"
+          }
+        },
+        {
+          "title": "It Will Be Like Now",
+          "artist": "Vulture Feather",
+          "spotifyTrack": {
+            "id": "1f3j5jrBasUOx37mxZLalS",
+            "name": "Blood Knot",
+            "uri": "spotify:track:1f3j5jrBasUOx37mxZLalS",
+            "popularity": 18,
+            "albumName": "It Will Be Like Now",
+            "albumId": "76zr9ZfG0SvNIvPPnzGPht",
+            "foundAt": "2026-02-05T18:51:40.342Z"
+          }
+        },
+        {
+          "title": "Spirit Fall",
+          "artist": "John Patitucci",
+          "spotifyTrack": {
+            "id": "1IemmCwowgqQ4XT8jx0hYl",
+            "name": "Think Fast",
+            "uri": "spotify:track:1IemmCwowgqQ4XT8jx0hYl",
+            "popularity": 16,
+            "albumName": "Spirit Fall",
+            "albumId": "4Ryiyu2772lo1lQIy3xQE1",
+            "foundAt": "2026-02-05T18:51:41.902Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-02-07",
+      "albums": [
+        {
+          "title": "Sharon Van Etten & the Attachment Theory",
+          "artist": "Sharon Van Etten",
+          "spotifyTrack": {
+            "id": "1DO4aHyMKVW66VWnA4pNeV",
+            "name": "Afterlife",
+            "uri": "spotify:track:1DO4aHyMKVW66VWnA4pNeV",
+            "popularity": 47,
+            "albumName": "Sharon Van Etten & The Attachment Theory",
+            "albumId": "5aGKc7OL3d1aJodCG2747F",
+            "foundAt": "2026-02-05T18:51:43.521Z"
+          }
+        },
+        {
+          "title": "Universe Room",
+          "artist": "Guided by Voices",
+          "spotifyTrack": {
+            "id": "1xk31Tw30pX4fGWeuh88hQ",
+            "name": "I Couldn't See the Light",
+            "uri": "spotify:track:1xk31Tw30pX4fGWeuh88hQ",
+            "popularity": 11,
+            "albumName": "Universe Room",
+            "albumId": "2mRe5nNkCHYxM6bG6OLfpc",
+            "foundAt": "2026-02-05T18:51:45.283Z"
+          }
+        },
+        {
+          "title": "Cowards",
+          "artist": "Squid",
+          "spotifyTrack": {
+            "id": "6JrtUQ97SQqVoMW5bWFd7I",
+            "name": "Building 650",
+            "uri": "spotify:track:6JrtUQ97SQqVoMW5bWFd7I",
+            "popularity": 39,
+            "albumName": "Cowards",
+            "albumId": "2PXkyoHGhPBTdumrGSh8Ta",
+            "foundAt": "2026-02-05T18:51:47.021Z"
+          }
+        },
+        {
+          "title": "Apple Cores",
+          "artist": "James Brandon Lewis TrioJames Brandon Lewis",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:51:47.736Z"
+          }
+        },
+        {
+          "title": "Wish Defense",
+          "artist": "Facs",
+          "spotifyTrack": {
+            "id": "0Ve6HY29oJxOOHJd2BihBb",
+            "name": "Wish Defense",
+            "uri": "spotify:track:0Ve6HY29oJxOOHJd2BihBb",
+            "popularity": 19,
+            "albumName": "Wish Defense",
+            "albumId": "1IBEyeJVvxOuamN4ngPtDx",
+            "foundAt": "2026-02-05T18:51:49.687Z"
+          }
+        },
+        {
+          "title": "1991",
+          "artist": "Drop Nineteens",
+          "spotifyTrack": {
+            "id": "5lZY41YI60UVXGUMlkfbXH",
+            "name": "Daymom",
+            "uri": "spotify:track:5lZY41YI60UVXGUMlkfbXH",
+            "popularity": 22,
+            "albumName": "1991",
+            "albumId": "48EZT65hRuvn0flycwxmvb",
+            "foundAt": "2026-02-05T18:51:51.323Z"
+          }
+        },
+        {
+          "title": "Perfect Right Now: A Slumberland Collection 2008-2010",
+          "artist": "The Pains of Being Pure at Heart",
+          "spotifyTrack": {
+            "id": "0sRRjH8LDDnDl60lqXjhIT",
+            "name": "Higher Than the Stars",
+            "uri": "spotify:track:0sRRjH8LDDnDl60lqXjhIT",
+            "popularity": 39,
+            "albumName": "Perfect Right Now: A Slumberland Collection 2008-2010",
+            "albumId": "5RwuDU2JIKS9xQDfQLbPvI",
+            "foundAt": "2026-02-05T18:51:52.972Z"
+          }
+        },
+        {
+          "title": "Deep Below",
+          "artist": "Rats on Rafts",
+          "spotifyTrack": {
+            "id": "43N5onUU1RbSTjNFPVy40N",
+            "name": "Japanese Medicine",
+            "uri": "spotify:track:43N5onUU1RbSTjNFPVy40N",
+            "popularity": 11,
+            "albumName": "Deep Below",
+            "albumId": "6WwS4dujhP1BWGiTJadAta",
+            "foundAt": "2026-02-05T18:51:54.461Z"
+          }
+        },
+        {
+          "title": "Nyron Higor",
+          "artist": "Nyron Higor",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:51:55.090Z"
+          }
+        },
+        {
+          "title": "Folies parisiennes",
+          "artist": "Romain LeleuJulien Gernay",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:51:55.758Z"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-01-31",
+      "albums": [
+        {
+          "title": "Hurry Up Tomorrow",
+          "artist": "The Weeknd",
+          "spotifyTrack": {
+            "id": "0FIDCNYYjNvPVimz5icugS",
+            "name": "Timeless (feat Playboi Carti)",
+            "uri": "spotify:track:0FIDCNYYjNvPVimz5icugS",
+            "popularity": 91,
+            "albumName": "Hurry Up Tomorrow",
+            "albumId": "3OxfaVgvTxUTy7276t7SPU",
+            "foundAt": "2026-02-05T18:51:57.673Z"
+          }
+        },
+        {
+          "title": "The Purple Bird",
+          "artist": "Bonnie \"Prince\" Billy",
+          "spotifyTrack": {
+            "id": "0aiOf1F9G8JS9MP1tXn2r6",
+            "name": "London May",
+            "uri": "spotify:track:0aiOf1F9G8JS9MP1tXn2r6",
+            "popularity": 26,
+            "albumName": "The Purple Bird",
+            "albumId": "6VpdeIfQLH0HhlJVbftwP6",
+            "foundAt": "2026-02-05T18:51:59.400Z"
+          }
+        },
+        {
+          "title": "Honey from a Winter Stone",
+          "artist": "Ambrose Akinmusire",
+          "spotifyTrack": {
+            "id": "6bemf7VsRoh9eI2L2lLWM2",
+            "name": "muffled screams",
+            "uri": "spotify:track:6bemf7VsRoh9eI2L2lLWM2",
+            "popularity": 25,
+            "albumName": "honey from a winter stone",
+            "albumId": "69qmpFumQAb3y3UXgGCIbz",
+            "foundAt": "2026-02-05T18:52:01.048Z"
+          }
+        },
+        {
+          "title": "Ebo Taylor",
+          "artist": "Ali Shaheed MuhammadEbo TaylorAdrian Younge",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:52:01.766Z"
+          }
+        },
+        {
+          "title": "Scuba Divers [Blueprint Edition]",
+          "artist": "Dwight Twilley",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-05T18:52:02.483Z"
+          }
+        },
+        {
+          "title": "List of Demands",
+          "artist": "Damon Locks",
+          "spotifyTrack": {
+            "id": "1ElUlrXyOWo4adfL66tt4d",
+            "name": "Holding the Dawn in Place (Beyond, Pt. 2)",
+            "uri": "spotify:track:1ElUlrXyOWo4adfL66tt4d",
+            "popularity": 8,
+            "albumName": "List of Demands",
+            "albumId": "4FmYOHMOJ6qfY7oqFwzhdz",
+            "foundAt": "2026-02-05T18:52:04.199Z"
+          }
+        },
+        {
+          "title": "Gravity",
+          "artist": "Joona Toivanen Trio",
+          "spotifyTrack": {
+            "id": "6FXibr7oXEtXElSFP8LHES",
+            "name": "Green Model",
+            "uri": "spotify:track:6FXibr7oXEtXElSFP8LHES",
+            "popularity": 18,
+            "albumName": "Gravity",
+            "albumId": "1ZIyFQ6sS5bnZoY60HqkP4",
+            "foundAt": "2026-02-05T18:52:05.794Z"
+          }
+        },
+        {
+          "title": "I Dont Think It Will Hurt if You Smile",
+          "artist": "Norma Tanega",
+          "spotifyTrack": {
+            "id": "124Ufpwu2knrSTW4b5Wyhi",
+            "name": "Now is the Time",
+            "uri": "spotify:track:124Ufpwu2knrSTW4b5Wyhi",
+            "popularity": 28,
+            "albumName": "I Don't Think It Will Hurt If You Smile",
+            "albumId": "4rsVi2ypkpMwTh8UciewU9",
+            "foundAt": "2026-02-05T18:52:07.605Z"
+          }
+        }
+      ]
+    }
+  ],
+  "addedWeeks": []
+}
