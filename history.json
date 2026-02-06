@@ -711,5 +711,13 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-02-05T21:38:31.745Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Joe Cocker",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-06T06:47:10.180Z"
   }
 ]
