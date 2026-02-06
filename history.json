@@ -743,5 +743,13 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-02-06T19:18:57.053Z"
+  },
+  {
+    "action": "add",
+    "artist": "Kool & the Gang",
+    "album": "Music Is the Message (1972)",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-06T21:08:25.288Z"
   }
 ]

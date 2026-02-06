@@ -1911,7 +1911,6 @@
     "Artist": "Kool & the Gang",
     "Group": "🟤 Soul / R&B",
     "Albums": [
-      "Music Is the Message (1972)",
       "Good Times (1972)",
       "Wild and Peaceful (1973)",
       "Light of Worlds (1974)",
@@ -1938,7 +1937,8 @@
       "People Just Wanna Have Fun (2023)"
     ],
     "AddedAlbums": [
-      "Kool and the Gang (1969)"
+      "Kool and the Gang (1969)",
+      "Music Is the Message (1972)"
     ]
   },
   {
