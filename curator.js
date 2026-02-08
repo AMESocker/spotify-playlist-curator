@@ -9,10 +9,10 @@ import { getAlbumTrackCount } from "./albumInfo.js";
 import { initAuthIfNeeded, getSpotify } from "./auth.js";
 import { checkPlaylistSizes } from "./playlistChecker.js";
 import { addTracks } from "./playlist.js";
-import { 
+/* import { 
   processEditorsChoiceWeek, 
   getEditorsChoiceStatus 
-} from "./allMusicIntegration.js";
+} from "./allMusicIntegration.js"; */
 
 /* ==================================================
    DATA SOURCES
@@ -50,11 +50,11 @@ const dataSources = [
     file: "data/rockNRollHallofFame.json",
     strategy: "rockHall"
   },
-  {
+/*   {
     name: "allMusicEditorsChoice",
     file: "data/editorsChoiceAlbums.json",
     strategy: "editorsChoice" // This will be handled as a special case in the code
-  }
+  } */
 ];
 
 const sourceIndexFile = "data/sourceIndex.json";
@@ -274,7 +274,7 @@ async function processRockHallArtist(artistName) {
 export async function addNextAlbum() {
 
     // Handle AllMusic Editors' Choice strategy
-  if (currentSource.strategy === "editorsChoice") {
+ /*  if (currentSource.strategy === "editorsChoice") {
     console.log(`Source: ${currentSource.name}`);
     console.log(`Strategy: ${currentSource.strategy}`);
 
@@ -321,7 +321,7 @@ export async function addNextAlbum() {
     console.log(`✅ Completed: Week ${result.weekDate}`);
     console.log(`🔀 Next data source: ${dataSources[sourceIndex].name}`);
     return;
-  }
+  } */
 
   let pick;
 
