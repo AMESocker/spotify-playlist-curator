@@ -74,9 +74,7 @@ if (!fs.existsSync(sourceIndexFile)) {
 let sourceIndex = JSON.parse(
   fs.readFileSync(sourceIndexFile, "utf-8")
 ).index;
-console.log(`🔀 Current data source: ${dataSources[sourceIndex].name}`);
-const currentSource = dataSources[sourceIndex];
-const dataFile = currentSource.file;
+
 
 /* ==================================================
    LOAD DATA + HISTORY
@@ -272,6 +270,14 @@ async function processRockHallArtist(artistName) {
 ================================================== */
 
 export async function addNextAlbum() {
+
+  // Reload current source at the start of each call
+  sourceIndex = JSON.parse(fs.readFileSync(sourceIndexFile, "utf-8")).index;
+  console.log(`🔀 Current data source: ${dataSources[sourceIndex].name}`);
+
+  const currentSource = dataSources[sourceIndex];
+  const dataFile = currentSource.file;
+  const data = JSON.parse(fs.readFileSync(dataFile, "utf-8"));
 
     // Handle AllMusic Editors' Choice strategy
  /*  if (currentSource.strategy === "editorsChoice") {
