@@ -759,5 +759,13 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-02-07T21:21:54.282Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Bad Company",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-08T00:52:54.408Z"
   }
 ]
