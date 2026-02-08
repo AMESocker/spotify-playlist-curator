@@ -767,5 +767,13 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-02-08T00:52:54.408Z"
+  },
+  {
+    "action": "add",
+    "artist": "Iron & Wine",
+    "album": "The Creek Drank the Cradle",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-08T00:55:29.297Z"
   }
 ]

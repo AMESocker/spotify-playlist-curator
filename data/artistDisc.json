@@ -1398,7 +1398,6 @@
     "Artist": "Iron & Wine",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
-      "The Creek Drank the Cradle",
       "Our Endless Numbered Days",
       "The Shepherd's Dog",
       "Kiss Each Other Clean",
@@ -1407,7 +1406,9 @@
       "Weed Garden",
       "Light Verse"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "The Creek Drank the Cradle"
+    ]
   },
   {
     "Artist": "O.A.R.",
