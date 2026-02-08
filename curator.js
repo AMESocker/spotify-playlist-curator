@@ -369,7 +369,7 @@ export async function addNextAlbum() {
     if (playlistSize && (playlistSize.trackCount + result.trackCount) > 200) {
       console.log(`⚠️ Playlist would exceed 200 tracks (currently ${playlistSize.trackCount}, adding ${result.trackCount} tracks).`);
       console.log(`⏸️  Waiting for space in playlist before adding more tracks.`);
-      return;
+      return false;
     }
 
     // Add tracks to playlist
