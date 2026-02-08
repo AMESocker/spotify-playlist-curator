@@ -775,5 +775,13 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-08T00:55:29.297Z"
+  },
+  {
+    "action": "add",
+    "artist": "Frank Sinatra and Antonio Carlos Jobim",
+    "album": "Francis Albert Sinatra and Antonio Carlos Jobim",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-08T04:58:37.423Z"
   }
 ]
