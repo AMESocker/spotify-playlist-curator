@@ -783,5 +783,13 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-02-08T04:58:37.423Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Cher",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-08T05:55:26.312Z"
   }
 ]
