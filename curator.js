@@ -9,15 +9,31 @@ import { getAlbumTrackCount } from "./albumInfo.js";
 import { initAuthIfNeeded, getSpotify } from "./auth.js";
 import { checkPlaylistSizes } from "./playlistChecker.js";
 import { addTracks } from "./playlist.js";
+import { 
+  processEditorsChoiceWeek, 
+  getEditorsChoiceStatus 
+} from "./allMusicIntegration.js";
 
 /* ==================================================
    DATA SOURCES
 ================================================== */
-// TODO: Add AllMusic Editors Choice source
-// TODO: Add Artist Top 10 source
-// TODO: Label added artists with genres in Artist Top 10 source
-// TODO: Add Disney/Pixar Movie Soundtracks source
-// TODO: Add Classical Composers source
+// Todo - Add AllMusic Editors Choice source
+// Todo - Verify that new albums from AllMusic Editors Choice are added to playlist every week on Thursdays, and that if there are more than 1 week of pending albums it adds the newest week first.
+// Todo - Integrate or import AME-add-to-playlist.js - Claude wrote a new file. Double check variable names.
+// Todo - upload and run AllMusic Editors Choice scraper once a week on Thursdays from Github Actions, saving to data/editorsChoiceNew.json
+
+// Todo - Get new albums from Wikipedia from dates more then 7 days ago. If Artist is from new albums or all music is on Artist disc add full album otherwise add top track.
+
+// Todo - Add Artist Top 10 source
+// Todo - Format Artist Top 10 source data.
+// Todo - Label added artists with genres in Artist Top 10 source.
+
+// Todo - Add Top of the Month data with date and playlist info.
+// Todo - If artist from Top of the Month Playlist is not in Artist Disc or Artist Top 10 source, add artist to Artist Top 10 source.
+
+// Todo - Add Disney/Pixar Movie Soundtracks source
+// Todo - Add Classical Composers source
+// Todo - Create function to add tracks until playlist reaches 200 tracks.
 const dataSources = [
   {
     name: "artistDisc",
@@ -33,6 +49,11 @@ const dataSources = [
     name: "rockNRollHallOfFame",
     file: "data/rockNRollHallofFame.json",
     strategy: "rockHall"
+  },
+  {
+    name: "allMusicEditorsChoice",
+    file: "data/editorsChoiceAlbums.json",
+    strategy: "editorsChoice" // This will be handled as a special case in the code
   }
 ];
 
@@ -77,8 +98,6 @@ function saveData() {
   fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
 }
 
-/*
- // Done: When a source is added, make sure advanceSource handles it correctly */
 
 function advanceSource() {
   sourceIndex = (sourceIndex + 1) % dataSources.length;
@@ -249,11 +268,60 @@ async function processRockHallArtist(artistName) {
 }
 
 /* ==================================================
-   ADD NEXT ALBUM (OR ARTIST FOR ROCK HALL)
+   ADD NEXT ALBUM (OR ARTIST FOR ROCK HALL, OR WEEK FOR EDITORS CHOICE)
 ================================================== */
 
 export async function addNextAlbum() {
 
+    // Handle AllMusic Editors' Choice strategy
+  if (currentSource.strategy === "editorsChoice") {
+    console.log(`Source: ${currentSource.name}`);
+    console.log(`Strategy: ${currentSource.strategy}`);
+
+    const status = getEditorsChoiceStatus();
+    if (!status.available || status.pendingWeeks === 0) {
+      console.log(`🎉 No more weeks in ${currentSource.name}`);
+      advanceSource();
+      return;
+    }
+
+    if (status.nextWeek) {
+      console.log(`Week: ${status.nextWeek.date}`);
+      console.log(`Albums: ${status.nextWeek.enrichedAlbums}/${status.nextWeek.totalAlbums} ready`);
+    }
+
+    const ready = await initAuthIfNeeded();
+    if (!ready) {
+      console.error("❌ Authentication failed!");
+      return;
+    }
+
+    const result = await processEditorsChoiceWeek();
+
+    if (!result.success) {
+      console.log(`⚠️ Failed to process week: ${result.reason}`);
+      advanceSource();
+      return;
+    }
+
+    // Add to history
+    history.push({
+      action: "addEditorsChoice",
+      weekDate: result.weekDate,
+      tracksAdded: result.tracksAdded,
+      tracksSkipped: result.tracksSkipped,
+      sourceFile: dataFile,
+      strategy: currentSource.strategy,
+      timestamp: new Date().toISOString()
+    });
+
+    fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
+
+    advanceSource();
+    console.log(`✅ Completed: Week ${result.weekDate}`);
+    console.log(`🔀 Next data source: ${dataSources[sourceIndex].name}`);
+    return;
+  }
 
   let pick;
 
@@ -414,75 +482,39 @@ export async function addNextAlbum() {
   return true; // Return true on success
 }
 
-
-
 /* ==================================================
-   UNDO LAST ACTION (SOURCE-AWARE)
-================================================== */
-
-function undoLastAction() {
-  if (history.length === 0) {
-    console.log("⚠️ No history to undo.");
-    return;
-  }
-
-  const last = history.pop();
-  const undoData = JSON.parse(fs.readFileSync(last.sourceFile, "utf-8"));
-
-  // Handle Rock Hall format
-  if (last.action === "addRockHall") {
-    const index = undoData.added.indexOf(last.artist);
-    if (index > -1) {
-      undoData.added.splice(index, 1);
-      undoData.artists.unshift(last.artist);
+ Continuously adds albums/artists until playlist reaches 200 tracks
+ ================================================== */
+export async function fillPlaylist() {
+  console.log("🎯 Starting playlist fill process...\n");
+  
+  let continueAdding = true;
+  let addCount = 0;
+  
+  while (continueAdding) {
+    const result = await addNextAlbum();
+    
+    // addNextAlbum returns false when:
+    // - No albums left in current source
+    // - Auth failed
+    // - Album not found
+    // - Playlist would exceed 200 tracks
+    if (result === false) {
+      continueAdding = false;
+      console.log("\n🛑 Stopping: Playlist full or no more content available");
+    } else {
+      addCount++;
+      console.log(`\n✨ Progress: ${addCount} item(s) added so far\n`);
     }
-    fs.writeFileSync(last.sourceFile, JSON.stringify(undoData, null, 2));
-    fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
-    console.log(`↩️ Undid artist "${last.artist}" (${last.tracksAdded} tracks)`);
-    return;
   }
-
-  // Handle sequential format (1080albums)
-  if (last.strategy === "sequential") {
-    const albumString = `${last.artist} - ${last.album}`;
-    const index = undoData.added.indexOf(albumString);
-    if (index > -1) {
-      undoData.added.splice(index, 1);
-      undoData.master.unshift(albumString);
-    }
-    fs.writeFileSync(last.sourceFile, JSON.stringify(undoData, null, 2));
-    fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
-    console.log(`↩️ Undid album "${last.album}" from ${last.artist}`);
-    return;
+  
+  console.log(`\n🎉 Fill complete! Added ${addCount} item(s) total.`);
+  
+  // Show final playlist status
+  const sizes = await checkPlaylistSizes();
+  const targetPlaylistId = process.env.TARGET_PLAYLIST_ID;
+  const finalSize = sizes.find(p => p.playlistId === targetPlaylistId);
+  if (finalSize) {
+    console.log(`📊 Final playlist size: ${finalSize.trackCount}/200 tracks`);
   }
-
-  // Handle fairness format (artistDisc)
-  const artistEntry = undoData.find(a => a.Artist === last.artist);
-  if (!artistEntry) {
-    console.log("⚠️ Artist not found in data file.");
-    return;
-  }
-
-  const index = artistEntry.AddedAlbums.indexOf(last.album);
-  if (index > -1) {
-    artistEntry.AddedAlbums.splice(index, 1);
-    artistEntry.Albums.unshift(last.album);
-  }
-
-  fs.writeFileSync(last.sourceFile, JSON.stringify(undoData, null, 2));
-  fs.writeFileSync(historyFile, JSON.stringify(history, null, 2));
-
-  console.log(`↩️ Undid album "${last.album}" from ${last.artist}`);
 }
-
-/* ==================================================
-   RUN MODE
-================================================== */
-
-// const mode = process.argv[2];
-
-// if (mode === "undo") {
-//   undoLastAction();
-// } else {
-//   addNextAlbum();
-// }
