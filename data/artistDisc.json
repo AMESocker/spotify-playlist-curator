@@ -1433,14 +1433,15 @@
     "Artist": "Third Eye Blind",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
-      "Third Eye Blind",
       "Blue",
       "Out of the Vein",
       "Ursa Major",
       "Dopamine",
       "Screamer"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Third Eye Blind"
+    ]
   },
   {
     "Artist": "Fiona Apple",
