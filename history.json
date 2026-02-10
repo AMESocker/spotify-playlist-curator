@@ -823,5 +823,21 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-09T23:11:49.610Z"
+  },
+  {
+    "action": "add",
+    "artist": "Jimi Hendrix",
+    "album": "Axis- Bold as Love",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-10T10:56:04.584Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Mary J. Blige",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-10T10:56:06.855Z"
   }
 ]
