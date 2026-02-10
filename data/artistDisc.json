@@ -1247,12 +1247,13 @@
     "Artist": "Bon Iver",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
-      "For Emma, Forever Ago",
       "Bon Iver",
       "22, A Million",
       "i,i"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "For Emma, Forever Ago"
+    ]
   },
   {
     "Artist": "Fleet Foxes",

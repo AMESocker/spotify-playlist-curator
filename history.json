@@ -839,5 +839,21 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-02-10T10:56:06.855Z"
+  },
+  {
+    "action": "add",
+    "artist": "Bon Iver",
+    "album": "For Emma, Forever Ago",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-10T17:48:08.996Z"
+  },
+  {
+    "action": "add",
+    "artist": "Loretta Lynn",
+    "album": "Don't Come Home a Drinkin' (With Lovin' on Your Mind)",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-10T17:48:11.250Z"
   }
 ]
