@@ -911,5 +911,13 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-02-11T19:49:08.904Z"
+  },
+  {
+    "action": "add",
+    "artist": "Blind Guardian",
+    "album": "Battalions of Fear (1988)",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-11T21:30:53.708Z"
   }
 ]

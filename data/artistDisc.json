@@ -1674,7 +1674,6 @@
     "Artist": "Blind Guardian",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Battalions of Fear (1988)",
       "Follow the Blind (1989)",
       "Tales from the Twilight World (1990)",
       "Somewhere Far Beyond (1992)",
@@ -1688,7 +1687,9 @@
       "Legacy of the Dark Lands (2019)",
       "The God Machine (2022)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Battalions of Fear (1988)"
+    ]
   },
   {
     "Artist": "DethKlok",
