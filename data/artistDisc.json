@@ -260,11 +260,12 @@
     "Artist": "The Dead Weather",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
-      "Horehound (2009)",
       "Sea of Cowards (2010)",
       "Dodge and Burn (2015)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Horehound (2009)"
+    ]
   },
   {
     "Artist": "The Killers",

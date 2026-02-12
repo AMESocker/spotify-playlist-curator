@@ -935,5 +935,13 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-02-12T10:52:02.189Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Dead Weather",
+    "album": "Horehound (2009)",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-12T19:10:56.508Z"
   }
 ]
