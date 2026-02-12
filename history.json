@@ -927,5 +927,13 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-02-11T22:17:14.152Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "George Michael",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-12T10:52:02.189Z"
   }
 ]
