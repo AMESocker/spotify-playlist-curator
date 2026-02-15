@@ -999,5 +999,13 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-02-15T10:31:04.969Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Willie Nelson",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-15T18:46:01.767Z"
   }
 ]
