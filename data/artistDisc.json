@@ -1596,7 +1596,6 @@
     "Artist": "Godsmack",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Godsmack",
       "Awake",
       "Faceless",
       "IV",
@@ -1605,7 +1604,9 @@
       "When Legends Rise",
       "Lighting Up the Sky"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Godsmack"
+    ]
   },
   {
     "Artist": "Static-X",
