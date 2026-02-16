@@ -5,35 +5,102 @@
       "albums": [
         {
           "title": "To Whom This May Concern",
-          "artist": "Jill Scott"
+          "artist": "Jill Scott",
+          "spotifyTrack": {
+            "id": "4u5BaS3nzHw1RIm1uEl0x7",
+            "name": "To B Honest",
+            "uri": "spotify:track:4u5BaS3nzHw1RIm1uEl0x7",
+            "popularity": 51,
+            "albumName": "To Whom This May Concern",
+            "albumId": "7mwyiTViOEtAtOeoilQ3QG",
+            "foundAt": "2026-02-16T02:30:44.129Z"
+          }
         },
         {
           "title": "Expansions",
-          "artist": "Zo!Tall Black Guy"
+          "artist": "Zo!Tall Black Guy",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-16T02:30:44.761Z"
+          }
         },
         {
           "title": "¡Simpatico! [Remastered and Expanded]",
-          "artist": "Velocity Girl"
+          "artist": "Velocity Girl",
+          "spotifyTrack": {
+            "id": "7IdEEUBqJehcKnfVLC3eg4",
+            "name": "Sorry Again - 2025 Remaster",
+            "uri": "spotify:track:7IdEEUBqJehcKnfVLC3eg4",
+            "popularity": 12,
+            "albumName": "¡Simpatico! (Remastered and Expanded)",
+            "albumId": "6qzIRz6ibQ4hF8YWRGkLoS",
+            "foundAt": "2026-02-16T02:30:46.235Z"
+          }
         },
         {
           "title": "Known Associates",
-          "artist": "The Paranoid Style"
+          "artist": "The Paranoid Style",
+          "spotifyTrack": {
+            "id": "5LmITrJfVNmi5CWn2vFNU5",
+            "name": "Tearing the Ticket",
+            "uri": "spotify:track:5LmITrJfVNmi5CWn2vFNU5",
+            "popularity": 11,
+            "albumName": "Known Associates",
+            "albumId": "69gwFG9iMEWiccQRNGWnU0",
+            "foundAt": "2026-02-16T02:30:47.714Z"
+          }
         },
         {
           "title": "Filin",
-          "artist": "Melissa Aldana"
+          "artist": "Melissa Aldana",
+          "spotifyTrack": {
+            "id": "0K8VCnJbsWEAyq0cW33OkN",
+            "name": "Las Rosas No Hablan (feat. Cécile McLorin Salvant)",
+            "uri": "spotify:track:0K8VCnJbsWEAyq0cW33OkN",
+            "popularity": 27,
+            "albumName": "Filin",
+            "albumId": "6VfLUVPWfuVl3pJFUsZfzt",
+            "foundAt": "2026-02-16T02:30:49.109Z"
+          }
         },
         {
           "title": "Mariachi El Bronx (IV)",
-          "artist": "Mariachi El Bronx"
+          "artist": "Mariachi El Bronx",
+          "spotifyTrack": {
+            "id": "6x4GdWMDYHvZK79aKHZUhZ",
+            "name": "Forgive Or Forget",
+            "uri": "spotify:track:6x4GdWMDYHvZK79aKHZUhZ",
+            "popularity": 21,
+            "albumName": "Mariachi El Bronx (IV)",
+            "albumId": "2T6FXaWvjAMsN2ogsr8VMq",
+            "foundAt": "2026-02-16T02:30:50.438Z"
+          }
         },
         {
           "title": "Dungeon Vision",
-          "artist": "Earth Tongue"
+          "artist": "Earth Tongue",
+          "spotifyTrack": {
+            "id": "0H6IOHJJ0HBRfZDAp4C6e6",
+            "name": "Dungeon Vision",
+            "uri": "spotify:track:0H6IOHJJ0HBRfZDAp4C6e6",
+            "popularity": 20,
+            "albumName": "Dungeon Vision",
+            "albumId": "4S14GEC3WWDIwAw2Pv85S9",
+            "foundAt": "2026-02-16T02:30:51.855Z"
+          }
         },
         {
           "title": "Momoko",
-          "artist": "Momoko Gill"
+          "artist": "Momoko Gill",
+          "spotifyTrack": {
+            "id": "7daDgtNZ7bziHoj8izxqAh",
+            "name": "Shadowboxing",
+            "uri": "spotify:track:7daDgtNZ7bziHoj8izxqAh",
+            "popularity": 23,
+            "albumName": "Momoko",
+            "albumId": "6ZaBxp8UJJ9aNbFQX0Dg95",
+            "foundAt": "2026-02-16T02:30:53.317Z"
+          }
         }
       ]
     },
@@ -42,31 +109,94 @@
       "albums": [
         {
           "title": "BRITPOP",
-          "artist": "Robbie Williams"
+          "artist": "Robbie Williams",
+          "spotifyTrack": {
+            "id": "1cVJFpfNXmMcI0p8h44NBR",
+            "name": "G.E.M.B",
+            "uri": "spotify:track:1cVJFpfNXmMcI0p8h44NBR",
+            "popularity": 52,
+            "albumName": "BRITPOP (Deluxe Edition)",
+            "albumId": "6TvDU5Uh5fe1PaNjPZ4W2u",
+            "foundAt": "2026-02-16T02:30:54.731Z"
+          }
         },
         {
           "title": "Normal Isn't",
-          "artist": "Puscifer"
+          "artist": "Puscifer",
+          "spotifyTrack": {
+            "id": "2QXQk39jiS0zHGVMCMemef",
+            "name": "Bad Wolf",
+            "uri": "spotify:track:2QXQk39jiS0zHGVMCMemef",
+            "popularity": 56,
+            "albumName": "Normal Isn't",
+            "albumId": "4iFytIyjG6Irorn84cgsKa",
+            "foundAt": "2026-02-16T02:30:56.147Z"
+          }
         },
         {
           "title": "Manifeste",
-          "artist": "Tigran Hamasyan"
+          "artist": "Tigran Hamasyan",
+          "spotifyTrack": {
+            "id": "1K9sehA1QUYO5RfbGIRTCP",
+            "name": "Prelude For All Seekers",
+            "uri": "spotify:track:1K9sehA1QUYO5RfbGIRTCP",
+            "popularity": 44,
+            "albumName": "Manifeste",
+            "albumId": "5DksO6hOezz6mTfYOctZ6f",
+            "foundAt": "2026-02-16T02:30:57.717Z"
+          }
         },
         {
           "title": "Singin' to an Empty Chair",
-          "artist": "Ratboys"
+          "artist": "Ratboys",
+          "spotifyTrack": {
+            "id": "0NXJ0NZc4VbNWgCY3V7s2y",
+            "name": "Open Up",
+            "uri": "spotify:track:0NXJ0NZc4VbNWgCY3V7s2y",
+            "popularity": 48,
+            "albumName": "Singin’ to an Empty Chair",
+            "albumId": "74sjx2H7SMLQkZrJscHw8Y",
+            "foundAt": "2026-02-16T02:30:59.237Z"
+          }
         },
         {
           "title": "Människobarn",
-          "artist": "Dina Ögon"
+          "artist": "Dina Ögon",
+          "spotifyTrack": {
+            "id": "2zGO4BqNdOZgC6MrppnS2K",
+            "name": "Där huden är tunnast",
+            "uri": "spotify:track:2zGO4BqNdOZgC6MrppnS2K",
+            "popularity": 47,
+            "albumName": "Människobarn",
+            "albumId": "6dOFVRlMkZ4LWrzudjA9qC",
+            "foundAt": "2026-02-16T02:31:00.667Z"
+          }
         },
         {
           "title": "Railcard",
-          "artist": "Railcard"
+          "artist": "Railcard",
+          "spotifyTrack": {
+            "id": "0B4nl0J12bArcaHNec0zvx",
+            "name": "Narcissus",
+            "uri": "spotify:track:0B4nl0J12bArcaHNec0zvx",
+            "popularity": 7,
+            "albumName": "Railcard",
+            "albumId": "1c44PeLNufuvWWxXdTtFJ8",
+            "foundAt": "2026-02-16T02:31:02.199Z"
+          }
         },
         {
           "title": "Jazz Gone Dub",
-          "artist": "Gaudi"
+          "artist": "Gaudi",
+          "spotifyTrack": {
+            "id": "6c8Stfg8vDXyE2bRj3XAyU",
+            "name": "Fragile Hands",
+            "uri": "spotify:track:6c8Stfg8vDXyE2bRj3XAyU",
+            "popularity": 34,
+            "albumName": "Jazz Gone Dub",
+            "albumId": "7p0i7Tg06wvIs3KjAIoDNB",
+            "foundAt": "2026-02-16T02:31:03.568Z"
+          }
         }
       ]
     },
@@ -117,7 +247,7 @@
           "artist": "Julia HülsmannJulia Hülsmann OctetJulia Husmann",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:26.028Z"
+            "searchedAt": "2026-02-16T02:31:04.186Z"
           }
         },
         {
@@ -156,7 +286,7 @@
           "artist": "Lucinda Williams",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:28.437Z"
+            "searchedAt": "2026-02-16T02:31:04.873Z"
           }
         },
         {
@@ -247,7 +377,7 @@
           "artist": "Julianna BarwickMary Lattimore",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:38.984Z"
+            "searchedAt": "2026-02-16T02:31:05.442Z"
           }
         },
         {
@@ -255,7 +385,7 @@
           "artist": "James HunterThe James Hunter Six",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:39.699Z"
+            "searchedAt": "2026-02-16T02:31:06.012Z"
           }
         },
         {
@@ -263,7 +393,7 @@
           "artist": "Tomeka ReidChes SmithCraig Taborn",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:40.303Z"
+            "searchedAt": "2026-02-16T02:31:06.632Z"
           }
         },
         {
@@ -271,7 +401,7 @@
           "artist": "Jana Horn",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:40.981Z"
+            "searchedAt": "2026-02-16T02:31:07.227Z"
           }
         },
         {
@@ -327,7 +457,7 @@
           "artist": "Pink Floyd",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:45.071Z"
+            "searchedAt": "2026-02-16T02:31:07.856Z"
           }
         },
         {
@@ -387,7 +517,7 @@
           "artist": "Magdalena KoženáAndrew StaplesSimon RattleBavarian Radio Symphony Orchestra",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:52.513Z"
+            "searchedAt": "2026-02-16T02:31:08.552Z"
           }
         },
         {
@@ -395,7 +525,7 @@
           "artist": "Viktoria MullovaAlasdair Beatson",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:53.138Z"
+            "searchedAt": "2026-02-16T02:31:09.150Z"
           }
         }
       ]
@@ -434,7 +564,7 @@
           "artist": "Melody's Echo Chamber",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:42:57.211Z"
+            "searchedAt": "2026-02-16T02:31:09.809Z"
           }
         },
         {
@@ -481,7 +611,7 @@
           "artist": "Ólöf ArnaldsDavíd Pór JónssonSkúli Sverrisson",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:02.799Z"
+            "searchedAt": "2026-02-16T02:31:10.518Z"
           }
         }
       ]
@@ -494,7 +624,7 @@
           "artist": "Neil Young",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:03.453Z"
+            "searchedAt": "2026-02-16T02:31:11.145Z"
           }
         },
         {
@@ -502,7 +632,7 @@
           "artist": "Jimi TenorJimi Tenor Band",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:04.085Z"
+            "searchedAt": "2026-02-16T02:31:11.713Z"
           }
         },
         {
@@ -510,7 +640,7 @@
           "artist": "The O'Jays",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:04.706Z"
+            "searchedAt": "2026-02-16T02:31:12.290Z"
           }
         }
       ]
@@ -549,7 +679,7 @@
           "artist": "Kiss",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:08.889Z"
+            "searchedAt": "2026-02-16T02:31:12.890Z"
           }
         },
         {
@@ -570,7 +700,7 @@
           "artist": "Pacific Jazz OrchestraRufus Wainwright",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:11.234Z"
+            "searchedAt": "2026-02-16T02:31:13.543Z"
           }
         },
         {
@@ -578,7 +708,7 @@
           "artist": "Bill EvansBill Evans Trio",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:11.953Z"
+            "searchedAt": "2026-02-16T02:31:14.218Z"
           }
         },
         {
@@ -599,7 +729,7 @@
           "artist": "Goldfrapp",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:14.205Z"
+            "searchedAt": "2026-02-16T02:31:14.788Z"
           }
         },
         {
@@ -620,7 +750,7 @@
           "artist": "Max García ConoverHaley Heynderickx",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:16.452Z"
+            "searchedAt": "2026-02-16T02:31:15.437Z"
           }
         },
         {
@@ -628,7 +758,7 @@
           "artist": "The BugGhost Dubs",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:17.174Z"
+            "searchedAt": "2026-02-16T02:31:16.030Z"
           }
         }
       ]
@@ -641,7 +771,7 @@
           "artist": "The Rolling Stones",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:17.797Z"
+            "searchedAt": "2026-02-16T02:31:16.603Z"
           }
         },
         {
@@ -714,7 +844,7 @@
           "artist": "The Black Crowes",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:27.208Z"
+            "searchedAt": "2026-02-16T02:31:17.227Z"
           }
         },
         {
@@ -735,7 +865,7 @@
           "artist": "Jeremy DowerTetrphnm",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:29.464Z"
+            "searchedAt": "2026-02-16T02:31:17.845Z"
           }
         }
       ]
@@ -891,7 +1021,7 @@
           "artist": "Finding Ways",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:48.738Z"
+            "searchedAt": "2026-02-16T02:31:18.511Z"
           }
         },
         {
@@ -899,7 +1029,7 @@
           "artist": "Sarah CahillSteven Beck",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:49.389Z"
+            "searchedAt": "2026-02-16T02:31:19.091Z"
           }
         }
       ]
@@ -912,7 +1042,7 @@
           "artist": "Bob Dylan",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:50.149Z"
+            "searchedAt": "2026-02-16T02:31:19.708Z"
           }
         },
         {
@@ -972,7 +1102,7 @@
           "artist": "Nick Heyward",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:43:57.417Z"
+            "searchedAt": "2026-02-16T02:31:20.337Z"
           }
         },
         {
@@ -1006,7 +1136,7 @@
           "artist": "Guitar",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:44:01.719Z"
+            "searchedAt": "2026-02-16T02:31:21.042Z"
           }
         },
         {
@@ -1053,7 +1183,7 @@
           "artist": "Vox ClamantisJaan-Eik Tulve",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:44:07.459Z"
+            "searchedAt": "2026-02-16T02:31:21.612Z"
           }
         }
       ]
@@ -1144,7 +1274,7 @@
           "artist": "Soyuz",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:44:18.410Z"
+            "searchedAt": "2026-02-16T02:31:22.246Z"
           }
         },
         {
@@ -1178,7 +1308,7 @@
           "artist": "Horace SilverHorace Silver Quintet",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:44:22.303Z"
+            "searchedAt": "2026-02-16T02:31:22.946Z"
           }
         },
         {
@@ -1199,7 +1329,7 @@
           "artist": "Georg NiglAlexander Gergelyfi",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:44:24.655Z"
+            "searchedAt": "2026-02-16T02:31:23.527Z"
           }
         }
       ]
@@ -1290,7 +1420,7 @@
           "artist": "Good Flying Birds",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:44:35.407Z"
+            "searchedAt": "2026-02-16T02:31:24.153Z"
           }
         },
         {
@@ -1381,7 +1511,7 @@
           "artist": "Makaya McCraven",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:44:45.855Z"
+            "searchedAt": "2026-02-16T02:31:24.795Z"
           }
         },
         {
@@ -1415,7 +1545,7 @@
           "artist": "Jaime MartínGävle Symphony Orchestra",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:44:49.949Z"
+            "searchedAt": "2026-02-16T02:31:25.409Z"
           }
         }
       ]
@@ -1480,7 +1610,7 @@
           "artist": "Upchuck",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:44:57.584Z"
+            "searchedAt": "2026-02-16T02:31:26.023Z"
           }
         },
         {
@@ -1527,7 +1657,7 @@
           "artist": "Javier Perianes",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:45:03.365Z"
+            "searchedAt": "2026-02-16T02:31:26.638Z"
           }
         }
       ]
@@ -1631,7 +1761,7 @@
           "artist": "The Cords",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:45:16.502Z"
+            "searchedAt": "2026-02-16T02:31:27.272Z"
           }
         },
         {
@@ -1652,7 +1782,7 @@
           "artist": "Purity Ring",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:45:18.924Z"
+            "searchedAt": "2026-02-16T02:31:27.894Z"
           }
         },
         {
@@ -1691,7 +1821,7 @@
           "artist": "Buckingham Nicks",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:45:23.128Z"
+            "searchedAt": "2026-02-16T02:31:28.509Z"
           }
         },
         {
@@ -1738,7 +1868,7 @@
           "artist": "Kieran HebdenWilliam Tyler",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:45:28.964Z"
+            "searchedAt": "2026-02-16T02:31:29.122Z"
           }
         },
         {
@@ -1746,7 +1876,7 @@
           "artist": "The Wedding Present",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:45:29.580Z"
+            "searchedAt": "2026-02-16T02:31:29.700Z"
           }
         },
         {
@@ -1819,7 +1949,7 @@
           "artist": "St. Martin's VoicesAndrew Earis",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:45:38.289Z"
+            "searchedAt": "2026-02-16T02:31:30.269Z"
           }
         }
       ]
@@ -1871,7 +2001,7 @@
           "artist": "Metronomy",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:45:43.841Z"
+            "searchedAt": "2026-02-16T02:31:31.006Z"
           }
         },
         {
@@ -2027,7 +2157,7 @@
           "artist": "Joni Mitchell",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:03.082Z"
+            "searchedAt": "2026-02-16T02:31:31.626Z"
           }
         },
         {
@@ -2035,7 +2165,7 @@
           "artist": "Shrunken Elvis",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:03.974Z"
+            "searchedAt": "2026-02-16T02:31:32.216Z"
           }
         },
         {
@@ -2056,7 +2186,7 @@
           "artist": "Tõnu KaljusteConcerto CopenhagenEstonian Philharmonic Chamber Choir",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:06.732Z"
+            "searchedAt": "2026-02-16T02:31:32.787Z"
           }
         }
       ]
@@ -2121,7 +2251,7 @@
           "artist": "Eiko IshibashiJim O'Rourke",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:14.214Z"
+            "searchedAt": "2026-02-16T02:31:33.390Z"
           }
         },
         {
@@ -2129,7 +2259,7 @@
           "artist": "Led Bib",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:14.833Z"
+            "searchedAt": "2026-02-16T02:31:33.973Z"
           }
         },
         {
@@ -2137,7 +2267,7 @@
           "artist": "Nicholas KrgovichJoseph ShabasonTenniscoats",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:15.452Z"
+            "searchedAt": "2026-02-16T02:31:34.545Z"
           }
         }
       ]
@@ -2298,7 +2428,7 @@
           "artist": "Dino SaluzziJosé Maria SaluzziJacob Young",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:38.331Z"
+            "searchedAt": "2026-02-16T02:31:35.157Z"
           }
         },
         {
@@ -2319,7 +2449,7 @@
           "artist": "Le Miroir de MusiqueBaptiste Romain",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:41.038Z"
+            "searchedAt": "2026-02-16T02:31:35.749Z"
           }
         }
       ]
@@ -2345,7 +2475,7 @@
           "artist": "Osees",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:43.680Z"
+            "searchedAt": "2026-02-16T02:31:36.377Z"
           }
         },
         {
@@ -2379,7 +2509,7 @@
           "artist": "Galaxie 500",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:47.946Z"
+            "searchedAt": "2026-02-16T02:31:37.052Z"
           }
         },
         {
@@ -2400,7 +2530,7 @@
           "artist": "Lee \"Scratch\" Perry",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:50.266Z"
+            "searchedAt": "2026-02-16T02:31:37.646Z"
           }
         },
         {
@@ -2408,7 +2538,7 @@
           "artist": "Daniel Johnston",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:46:51.050Z"
+            "searchedAt": "2026-02-16T02:31:38.246Z"
           }
         }
       ]
@@ -2486,7 +2616,7 @@
           "artist": "Barbara HanniganDavid ChalminKatia LabèqueMarielle Labèque",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:00.620Z"
+            "searchedAt": "2026-02-16T02:31:38.811Z"
           }
         }
       ]
@@ -2577,7 +2707,7 @@
           "artist": "Sviatoslav Richter",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:11.144Z"
+            "searchedAt": "2026-02-16T02:31:39.420Z"
           }
         }
       ]
@@ -2603,7 +2733,7 @@
           "artist": "Glen HansardMarkéta IrglováThe Swell Season",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:13.820Z"
+            "searchedAt": "2026-02-16T02:31:39.993Z"
           }
         },
         {
@@ -2637,7 +2767,7 @@
           "artist": "Swing Out Sister",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:17.814Z"
+            "searchedAt": "2026-02-16T02:31:40.642Z"
           }
         },
         {
@@ -2645,7 +2775,7 @@
           "artist": "Nicholas DanielAmy HarmanAntonio OyarzabalAdam Walker",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:18.532Z"
+            "searchedAt": "2026-02-16T02:31:41.212Z"
           }
         }
       ]
@@ -2684,7 +2814,7 @@
           "artist": "Dionne Warwick",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:22.674Z"
+            "searchedAt": "2026-02-16T02:31:41.780Z"
           }
         },
         {
@@ -2692,7 +2822,7 @@
           "artist": "Ali Shaheed MuhammadDom SalvadorAdrian Younge",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:23.345Z"
+            "searchedAt": "2026-02-16T02:31:42.354Z"
           }
         },
         {
@@ -2827,7 +2957,7 @@
           "artist": "Joey BaronDrew GressFred Hersch",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:39.018Z"
+            "searchedAt": "2026-02-16T02:31:42.930Z"
           }
         },
         {
@@ -2905,7 +3035,7 @@
           "artist": "Hotline TNT",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:47.999Z"
+            "searchedAt": "2026-02-16T02:31:43.502Z"
           }
         },
         {
@@ -2970,7 +3100,7 @@
           "artist": "Neil Young and the Chrome HeartsNeil Young",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:47:55.393Z"
+            "searchedAt": "2026-02-16T02:31:44.124Z"
           }
         },
         {
@@ -3017,7 +3147,7 @@
           "artist": "Dee Dee BridgewaterBill Charlap",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:48:01.007Z"
+            "searchedAt": "2026-02-16T02:31:44.797Z"
           }
         },
         {
@@ -3025,7 +3155,7 @@
           "artist": "Terri Lyne CarringtonChristie Dashiell",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:48:01.619Z"
+            "searchedAt": "2026-02-16T02:31:45.388Z"
           }
         },
         {
@@ -3225,7 +3355,7 @@
           "artist": "Pale Fountains",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:48:26.871Z"
+            "searchedAt": "2026-02-16T02:31:46.037Z"
           }
         },
         {
@@ -3259,7 +3389,7 @@
           "artist": "Jean-Efflam Bavouzet",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:48:31.057Z"
+            "searchedAt": "2026-02-16T02:31:46.701Z"
           }
         }
       ]
@@ -3285,7 +3415,7 @@
           "artist": "Keb' Mo'Taj MahalTajMo",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:48:33.282Z"
+            "searchedAt": "2026-02-16T02:31:47.419Z"
           }
         },
         {
@@ -3358,7 +3488,7 @@
           "artist": "Gianandrea NosedaLondon Symphony Orchestra",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:48:42.903Z"
+            "searchedAt": "2026-02-16T02:31:47.990Z"
           }
         }
       ]
@@ -3475,7 +3605,7 @@
           "artist": "Beatrice RanaAmsterdam Sinfonietta",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:48:57.139Z"
+            "searchedAt": "2026-02-16T02:31:48.563Z"
           }
         }
       ]
@@ -3501,7 +3631,7 @@
           "artist": "Maren Morris",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:48:59.699Z"
+            "searchedAt": "2026-02-16T02:31:49.163Z"
           }
         },
         {
@@ -3509,7 +3639,7 @@
           "artist": "Mark PritchardThom Yorke",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:00.421Z"
+            "searchedAt": "2026-02-16T02:31:49.763Z"
           }
         },
         {
@@ -3530,7 +3660,7 @@
           "artist": "Sly & the Family Stone",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:03.386Z"
+            "searchedAt": "2026-02-16T02:31:50.350Z"
           }
         },
         {
@@ -3686,7 +3816,7 @@
           "artist": "The Night MailLouis Philippe",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:22.435Z"
+            "searchedAt": "2026-02-16T02:31:50.963Z"
           }
         },
         {
@@ -3694,7 +3824,7 @@
           "artist": "BunburyEnrique Bunbury",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:23.151Z"
+            "searchedAt": "2026-02-16T02:31:51.547Z"
           }
         },
         {
@@ -3759,7 +3889,7 @@
           "artist": "Moor MotherSumac",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:30.468Z"
+            "searchedAt": "2026-02-16T02:31:52.122Z"
           }
         },
         {
@@ -3767,7 +3897,7 @@
           "artist": "Deerhoof",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:31.138Z"
+            "searchedAt": "2026-02-16T02:31:52.713Z"
           }
         },
         {
@@ -3788,7 +3918,7 @@
           "artist": "Bitchin BajasNatural Information Society",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:33.312Z"
+            "searchedAt": "2026-02-16T02:31:53.416Z"
           }
         },
         {
@@ -3848,7 +3978,7 @@
           "artist": "Jean-Yves ThibaudetGustavo DudamelLos Angeles Philharmonic Orchestra",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:40.704Z"
+            "searchedAt": "2026-02-16T02:31:54.044Z"
           }
         }
       ]
@@ -3861,7 +3991,7 @@
           "artist": "Julien BakerTorres",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:41.376Z"
+            "searchedAt": "2026-02-16T02:31:54.610Z"
           }
         },
         {
@@ -3869,7 +3999,7 @@
           "artist": "Rhiannon GiddensJustin Robinson",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:41.984Z"
+            "searchedAt": "2026-02-16T02:31:55.206Z"
           }
         },
         {
@@ -3877,7 +4007,7 @@
           "artist": "Malcolm CattoLittle Barrie",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:49:42.601Z"
+            "searchedAt": "2026-02-16T02:31:55.828Z"
           }
         },
         {
@@ -4090,7 +4220,7 @@
           "artist": "Brandi CarlileElton John",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:50:09.845Z"
+            "searchedAt": "2026-02-16T02:31:56.445Z"
           }
         },
         {
@@ -4189,7 +4319,7 @@
           "artist": "HyldonAdrian Younge",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:50:21.926Z"
+            "searchedAt": "2026-02-16T02:31:57.131Z"
           }
         }
       ]
@@ -4215,7 +4345,7 @@
           "artist": "Alison KraussAlison Krauss & Union Station",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:50:24.164Z"
+            "searchedAt": "2026-02-16T02:31:57.775Z"
           }
         },
         {
@@ -4236,7 +4366,7 @@
           "artist": "Branford MarsalisBranford Marsalis Quartet",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:50:26.483Z"
+            "searchedAt": "2026-02-16T02:31:58.566Z"
           }
         },
         {
@@ -4296,7 +4426,7 @@
           "artist": "Alice Sara Ott",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:50:33.817Z"
+            "searchedAt": "2026-02-16T02:31:59.186Z"
           }
         }
       ]
@@ -4335,7 +4465,7 @@
           "artist": "Annie and the Caldwells",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:50:37.557Z"
+            "searchedAt": "2026-02-16T02:31:59.898Z"
           }
         },
         {
@@ -4478,7 +4608,7 @@
           "artist": "Dennis Bovell",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:50:55.802Z"
+            "searchedAt": "2026-02-16T02:32:00.514Z"
           }
         },
         {
@@ -4569,7 +4699,7 @@
           "artist": "ASTROPICALBomba EstéreoRawayana",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:51:07.292Z"
+            "searchedAt": "2026-02-16T02:32:01.092Z"
           }
         },
         {
@@ -4577,7 +4707,7 @@
           "artist": "Croatian AmorLust for Youth",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:51:07.907Z"
+            "searchedAt": "2026-02-16T02:32:01.696Z"
           }
         },
         {
@@ -4611,7 +4741,7 @@
           "artist": "Masaaki Suzuki",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:51:11.898Z"
+            "searchedAt": "2026-02-16T02:32:02.272Z"
           }
         }
       ]
@@ -4676,7 +4806,7 @@
           "artist": "Dub Syndicate",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:51:19.760Z"
+            "searchedAt": "2026-02-16T02:32:02.884Z"
           }
         },
         {
@@ -4754,7 +4884,7 @@
           "artist": "Marmen Quartet",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:51:28.691Z"
+            "searchedAt": "2026-02-16T02:32:03.491Z"
           }
         }
       ]
@@ -4915,7 +5045,7 @@
           "artist": "James Brandon Lewis TrioJames Brandon Lewis",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:51:47.736Z"
+            "searchedAt": "2026-02-16T02:32:04.115Z"
           }
         },
         {
@@ -4975,7 +5105,7 @@
           "artist": "Nyron Higor",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:51:55.090Z"
+            "searchedAt": "2026-02-16T02:32:04.680Z"
           }
         },
         {
@@ -4983,7 +5113,7 @@
           "artist": "Romain LeleuJulien Gernay",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:51:55.758Z"
+            "searchedAt": "2026-02-16T02:32:05.300Z"
           }
         }
       ]
@@ -5035,7 +5165,7 @@
           "artist": "Ali Shaheed MuhammadEbo TaylorAdrian Younge",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:52:01.766Z"
+            "searchedAt": "2026-02-16T02:32:05.874Z"
           }
         },
         {
@@ -5043,7 +5173,7 @@
           "artist": "Dwight Twilley",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-02-05T18:52:02.483Z"
+            "searchedAt": "2026-02-16T02:32:06.483Z"
           }
         },
         {
