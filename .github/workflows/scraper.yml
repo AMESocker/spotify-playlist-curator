@@ -29,6 +29,9 @@ jobs:
       
       - name: Run scraper
         run: node allMusicEditorsChoice.js
+
+      - name: Run Spotify Enricher
+        run: node spotify-enricher.js
       
       - name: Commit and push changes
         run: |
