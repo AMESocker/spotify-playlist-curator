@@ -7,7 +7,10 @@ on:
   
   # Allow manual triggering from GitHub UI
   workflow_dispatch:
-
+  
+permissions:
+  contents: write
+  
 jobs:
   scrape:
     runs-on: ubuntu-latest
