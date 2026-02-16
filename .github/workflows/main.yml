@@ -2,6 +2,7 @@ name: Spotify Playlist Cleanup
 on:
   schedule:
     - cron: "0 10 * * *" # Runs every day at 10:00 UTC (~3 AM Pacific)
+    - cron: "0 18 * * *" # Runs every day at 18:oo UTC (10 AM Pacific)
     - cron: "0 21 * * *" # Runs every day at 21:00 UTC (2 PM PDT / 1 PM PST)
   workflow_dispatch: # Allow manual trigger
 permissions:

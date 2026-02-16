@@ -1,14 +1,5 @@
 {
   "artists": [
-    "Foreigner",
-    "Mary J. Blige",
-    "Kool & The Gang",
-    "A Tribe Called Quest",
-    "Peter Frampton",
-    "George Michael",
-    "Kate Bush",
-    "Rage Against the Machine",
-    "Willie Nelson",
     "Missy Elliott",
     "Sheryl Crow",
     "The Spinners",
@@ -270,6 +261,15 @@
     "Joe Cocker",
     "Chubby Checker",
     "Bad Company",
-    "Cher"
+    "Cher",
+    "Foreigner",
+    "Mary J. Blige",
+    "Kool & The Gang",
+    "A Tribe Called Quest",
+    "Peter Frampton",
+    "George Michael",
+    "Kate Bush",
+    "Rage Against the Machine",
+    "Willie Nelson"
   ]
 }

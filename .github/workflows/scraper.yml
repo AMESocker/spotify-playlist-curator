@@ -1,0 +1,35 @@
+name: AllMusic Scraper
+
+on:
+  schedule:
+    # Run every Thursday at 10:00 AM UTC (adjust time as needed)
+    - cron: '0 10 * * 4'
+  
+  # Allow manual triggering from GitHub UI
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Run scraper
+        run: node allMusicEditorsChoice.js
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/editorsChoiceAlbums.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update AllMusic editors' choice data [automated]" && git push)

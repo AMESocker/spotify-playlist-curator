@@ -799,5 +799,213 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-08T10:31:19.216Z"
+  },
+  {
+    "action": "add",
+    "artist": "Jimi Hendrix",
+    "album": "Are You Experienced?",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-09T18:27:25.684Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Foreigner",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-09T18:27:27.776Z"
+  },
+  {
+    "action": "add",
+    "artist": "Third Eye Blind",
+    "album": "Third Eye Blind",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-09T23:11:49.610Z"
+  },
+  {
+    "action": "add",
+    "artist": "Jimi Hendrix",
+    "album": "Axis- Bold as Love",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-10T10:56:04.584Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Mary J. Blige",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-10T10:56:06.855Z"
+  },
+  {
+    "action": "add",
+    "artist": "Bon Iver",
+    "album": "For Emma, Forever Ago",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-10T17:48:08.996Z"
+  },
+  {
+    "action": "add",
+    "artist": "Loretta Lynn",
+    "album": "Don't Come Home a Drinkin' (With Lovin' on Your Mind)",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-10T17:48:11.250Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Kool & The Gang",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-10T18:36:03.274Z"
+  },
+  {
+    "action": "add",
+    "artist": "Orbital",
+    "album": "Orbital",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-11T00:14:31.189Z"
+  },
+  {
+    "action": "add",
+    "artist": "Love",
+    "album": "Forever Changes",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-11T07:00:01.642Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "A Tribe Called Quest",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-11T07:00:03.603Z"
+  },
+  {
+    "action": "add",
+    "artist": "Overkill",
+    "album": "Feel the Fire (1985)",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-11T18:20:17.944Z"
+  },
+  {
+    "action": "add",
+    "artist": "Moby Grape",
+    "album": "Moby Grape (1967)",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-11T19:49:07.140Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Peter Frampton",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-11T19:49:08.904Z"
+  },
+  {
+    "action": "add",
+    "artist": "Blind Guardian",
+    "album": "Battalions of Fear (1988)",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-11T21:30:53.708Z"
+  },
+  {
+    "action": "add",
+    "artist": "Pink Floyd",
+    "album": "The Piper at the Gates of Dawn",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-11T22:17:14.152Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "George Michael",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-12T10:52:02.189Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Dead Weather",
+    "album": "Horehound (2009)",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-12T19:10:56.508Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Byrds",
+    "album": "Younger Than Yesterday",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-13T10:42:49.246Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Kate Bush",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-13T18:59:12.292Z"
+  },
+  {
+    "action": "add",
+    "artist": "King Crimson",
+    "album": "In the Court of the Crimson King",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-13T21:31:44.896Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Electric Prunes",
+    "album": "I Had Too Much to Dream (Last Night) (1967)",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-13T21:31:47.678Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Rage Against the Machine",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-14T10:31:11.973Z"
+  },
+  {
+    "action": "add",
+    "artist": "Stevie Wonder",
+    "album": "Up-Tight",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-14T21:20:41.872Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Kinks",
+    "album": "Something Else by the Kinks",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-15T10:31:04.969Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Willie Nelson",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-15T18:46:01.767Z"
   }
 ]

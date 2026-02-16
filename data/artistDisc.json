@@ -260,11 +260,12 @@
     "Artist": "The Dead Weather",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
-      "Horehound (2009)",
       "Sea of Cowards (2010)",
       "Dodge and Burn (2015)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Horehound (2009)"
+    ]
   },
   {
     "Artist": "The Killers",
@@ -1189,7 +1190,6 @@
     "Artist": "Stevie Wonder",
     "Group": "🟤 Soul / R&B",
     "Albums": [
-      "Up-Tight",
       "For Once in My Life",
       "My Cherie Amour",
       "Signed, Sealed & Delivered",
@@ -1204,7 +1204,8 @@
       "Characters"
     ],
     "AddedAlbums": [
-      "The Jazz Soul of Little Stevie"
+      "The Jazz Soul of Little Stevie",
+      "Up-Tight"
     ]
   },
   {
@@ -1247,23 +1248,25 @@
     "Artist": "Bon Iver",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
-      "For Emma, Forever Ago",
       "Bon Iver",
       "22, A Million",
       "i,i"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "For Emma, Forever Ago"
+    ]
   },
   {
     "Artist": "Fleet Foxes",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
-      "Fleet Foxes",
       "Helplessness Blues",
       "Crack-Up",
       "Shore"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Fleet Foxes [NOT FOUND]"
+    ]
   },
   {
     "Artist": "AC/DC",
@@ -1324,7 +1327,6 @@
     "Artist": "Orbital",
     "Group": "🟣 Electronic & Experimental",
     "Albums": [
-      "Orbital",
       "Orbital 2",
       "Snivilisation",
       "In Sides",
@@ -1333,7 +1335,9 @@
       "Wonky",
       "Monsters Exist"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Orbital"
+    ]
   },
   {
     "Artist": "Bonobo",
@@ -1433,14 +1437,15 @@
     "Artist": "Third Eye Blind",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
     "Albums": [
-      "Third Eye Blind",
       "Blue",
       "Out of the Vein",
       "Ursa Major",
       "Dopamine",
       "Screamer"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Third Eye Blind"
+    ]
   },
   {
     "Artist": "Fiona Apple",
@@ -1621,7 +1626,6 @@
     "Artist": "King Crimson",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "In the Court of the Crimson King",
       "In the Wake of Poseidon",
       "Lizard",
       "Islands",
@@ -1634,7 +1638,9 @@
       "THRAK",
       "The Power to Believe"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "In the Court of the Crimson King"
+    ]
   },
   {
     "Artist": "Melvins",
@@ -1670,7 +1676,6 @@
     "Artist": "Blind Guardian",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Battalions of Fear (1988)",
       "Follow the Blind (1989)",
       "Tales from the Twilight World (1990)",
       "Somewhere Far Beyond (1992)",
@@ -1684,7 +1689,9 @@
       "Legacy of the Dark Lands (2019)",
       "The God Machine (2022)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Battalions of Fear (1988)"
+    ]
   },
   {
     "Artist": "DethKlok",
@@ -1702,7 +1709,6 @@
     "Artist": "Overkill",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Feel the Fire (1985)",
       "Taking Over (1987)",
       "Under the Influence (1988)",
       "The Years of Decay (1989)",
@@ -1721,7 +1727,9 @@
       "The Wings of War (2019)",
       "Scorched (2023)"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Feel the Fire (1985)"
+    ]
   },
   {
     "Artist": "Rainbow",
