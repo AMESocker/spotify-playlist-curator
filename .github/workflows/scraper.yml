@@ -25,7 +25,7 @@ jobs:
         run: npm install
       
       - name: Run scraper
-        run: node allMusicScraper.mjs
+        run: node allMusicScraper.js
       
       - name: Commit and push changes
         run: |
