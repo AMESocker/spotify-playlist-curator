@@ -1040,5 +1040,21 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-02-17T10:51:13.829Z"
+  },
+  {
+    "action": "add",
+    "artist": "Bonobo",
+    "album": "Animal Magic",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-17T19:05:57.980Z"
+  },
+  {
+    "action": "add",
+    "artist": "Mothers of Invention",
+    "album": "We're Only in It for the Money",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-17T19:06:00.275Z"
   }
 ]

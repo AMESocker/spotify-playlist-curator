@@ -1343,7 +1343,6 @@
     "Artist": "Bonobo",
     "Group": "🟣 Electronic & Experimental",
     "Albums": [
-      "Animal Magic",
       "Dial 'M' for Monkey",
       "Days to Come",
       "Black Sands",
@@ -1351,7 +1350,9 @@
       "Migration",
       "Fragments"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Animal Magic"
+    ]
   },
   {
     "Artist": "Boards of Canada",
