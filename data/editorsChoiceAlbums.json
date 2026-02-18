@@ -1,110 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2026-02-13",
-      "albums": [
-        {
-          "title": "To Whom This May Concern",
-          "artist": "Jill Scott",
-          "spotifyTrack": {
-            "id": "4u5BaS3nzHw1RIm1uEl0x7",
-            "name": "To B Honest",
-            "uri": "spotify:track:4u5BaS3nzHw1RIm1uEl0x7",
-            "popularity": 51,
-            "albumName": "To Whom This May Concern",
-            "albumId": "7mwyiTViOEtAtOeoilQ3QG",
-            "foundAt": "2026-02-16T02:30:44.129Z"
-          }
-        },
-        {
-          "title": "Expansions",
-          "artist": "Zo!Tall Black Guy",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-16T02:30:44.761Z"
-          }
-        },
-        {
-          "title": "¡Simpatico! [Remastered and Expanded]",
-          "artist": "Velocity Girl",
-          "spotifyTrack": {
-            "id": "7IdEEUBqJehcKnfVLC3eg4",
-            "name": "Sorry Again - 2025 Remaster",
-            "uri": "spotify:track:7IdEEUBqJehcKnfVLC3eg4",
-            "popularity": 12,
-            "albumName": "¡Simpatico! (Remastered and Expanded)",
-            "albumId": "6qzIRz6ibQ4hF8YWRGkLoS",
-            "foundAt": "2026-02-16T02:30:46.235Z"
-          }
-        },
-        {
-          "title": "Known Associates",
-          "artist": "The Paranoid Style",
-          "spotifyTrack": {
-            "id": "5LmITrJfVNmi5CWn2vFNU5",
-            "name": "Tearing the Ticket",
-            "uri": "spotify:track:5LmITrJfVNmi5CWn2vFNU5",
-            "popularity": 11,
-            "albumName": "Known Associates",
-            "albumId": "69gwFG9iMEWiccQRNGWnU0",
-            "foundAt": "2026-02-16T02:30:47.714Z"
-          }
-        },
-        {
-          "title": "Filin",
-          "artist": "Melissa Aldana",
-          "spotifyTrack": {
-            "id": "0K8VCnJbsWEAyq0cW33OkN",
-            "name": "Las Rosas No Hablan (feat. Cécile McLorin Salvant)",
-            "uri": "spotify:track:0K8VCnJbsWEAyq0cW33OkN",
-            "popularity": 27,
-            "albumName": "Filin",
-            "albumId": "6VfLUVPWfuVl3pJFUsZfzt",
-            "foundAt": "2026-02-16T02:30:49.109Z"
-          }
-        },
-        {
-          "title": "Mariachi El Bronx (IV)",
-          "artist": "Mariachi El Bronx",
-          "spotifyTrack": {
-            "id": "6x4GdWMDYHvZK79aKHZUhZ",
-            "name": "Forgive Or Forget",
-            "uri": "spotify:track:6x4GdWMDYHvZK79aKHZUhZ",
-            "popularity": 21,
-            "albumName": "Mariachi El Bronx (IV)",
-            "albumId": "2T6FXaWvjAMsN2ogsr8VMq",
-            "foundAt": "2026-02-16T02:30:50.438Z"
-          }
-        },
-        {
-          "title": "Dungeon Vision",
-          "artist": "Earth Tongue",
-          "spotifyTrack": {
-            "id": "0H6IOHJJ0HBRfZDAp4C6e6",
-            "name": "Dungeon Vision",
-            "uri": "spotify:track:0H6IOHJJ0HBRfZDAp4C6e6",
-            "popularity": 20,
-            "albumName": "Dungeon Vision",
-            "albumId": "4S14GEC3WWDIwAw2Pv85S9",
-            "foundAt": "2026-02-16T02:30:51.855Z"
-          }
-        },
-        {
-          "title": "Momoko",
-          "artist": "Momoko Gill",
-          "spotifyTrack": {
-            "id": "7daDgtNZ7bziHoj8izxqAh",
-            "name": "Shadowboxing",
-            "uri": "spotify:track:7daDgtNZ7bziHoj8izxqAh",
-            "popularity": 23,
-            "albumName": "Momoko",
-            "albumId": "6ZaBxp8UJJ9aNbFQX0Dg95",
-            "foundAt": "2026-02-16T02:30:53.317Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2026-02-06",
       "albums": [
         {
@@ -5218,5 +5114,112 @@
       ]
     }
   ],
-  "addedWeeks": []
+  "addedWeeks": [
+    {
+      "date": "2026-02-13",
+      "albums": [
+        {
+          "title": "To Whom This May Concern",
+          "artist": "Jill Scott",
+          "spotifyTrack": {
+            "id": "4u5BaS3nzHw1RIm1uEl0x7",
+            "name": "To B Honest",
+            "uri": "spotify:track:4u5BaS3nzHw1RIm1uEl0x7",
+            "popularity": 51,
+            "albumName": "To Whom This May Concern",
+            "albumId": "7mwyiTViOEtAtOeoilQ3QG",
+            "foundAt": "2026-02-16T02:30:44.129Z"
+          }
+        },
+        {
+          "title": "Expansions",
+          "artist": "Zo!Tall Black Guy",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-16T02:30:44.761Z"
+          }
+        },
+        {
+          "title": "¡Simpatico! [Remastered and Expanded]",
+          "artist": "Velocity Girl",
+          "spotifyTrack": {
+            "id": "7IdEEUBqJehcKnfVLC3eg4",
+            "name": "Sorry Again - 2025 Remaster",
+            "uri": "spotify:track:7IdEEUBqJehcKnfVLC3eg4",
+            "popularity": 12,
+            "albumName": "¡Simpatico! (Remastered and Expanded)",
+            "albumId": "6qzIRz6ibQ4hF8YWRGkLoS",
+            "foundAt": "2026-02-16T02:30:46.235Z"
+          }
+        },
+        {
+          "title": "Known Associates",
+          "artist": "The Paranoid Style",
+          "spotifyTrack": {
+            "id": "5LmITrJfVNmi5CWn2vFNU5",
+            "name": "Tearing the Ticket",
+            "uri": "spotify:track:5LmITrJfVNmi5CWn2vFNU5",
+            "popularity": 11,
+            "albumName": "Known Associates",
+            "albumId": "69gwFG9iMEWiccQRNGWnU0",
+            "foundAt": "2026-02-16T02:30:47.714Z"
+          }
+        },
+        {
+          "title": "Filin",
+          "artist": "Melissa Aldana",
+          "spotifyTrack": {
+            "id": "0K8VCnJbsWEAyq0cW33OkN",
+            "name": "Las Rosas No Hablan (feat. Cécile McLorin Salvant)",
+            "uri": "spotify:track:0K8VCnJbsWEAyq0cW33OkN",
+            "popularity": 27,
+            "albumName": "Filin",
+            "albumId": "6VfLUVPWfuVl3pJFUsZfzt",
+            "foundAt": "2026-02-16T02:30:49.109Z"
+          }
+        },
+        {
+          "title": "Mariachi El Bronx (IV)",
+          "artist": "Mariachi El Bronx",
+          "spotifyTrack": {
+            "id": "6x4GdWMDYHvZK79aKHZUhZ",
+            "name": "Forgive Or Forget",
+            "uri": "spotify:track:6x4GdWMDYHvZK79aKHZUhZ",
+            "popularity": 21,
+            "albumName": "Mariachi El Bronx (IV)",
+            "albumId": "2T6FXaWvjAMsN2ogsr8VMq",
+            "foundAt": "2026-02-16T02:30:50.438Z"
+          }
+        },
+        {
+          "title": "Dungeon Vision",
+          "artist": "Earth Tongue",
+          "spotifyTrack": {
+            "id": "0H6IOHJJ0HBRfZDAp4C6e6",
+            "name": "Dungeon Vision",
+            "uri": "spotify:track:0H6IOHJJ0HBRfZDAp4C6e6",
+            "popularity": 20,
+            "albumName": "Dungeon Vision",
+            "albumId": "4S14GEC3WWDIwAw2Pv85S9",
+            "foundAt": "2026-02-16T02:30:51.855Z"
+          }
+        },
+        {
+          "title": "Momoko",
+          "artist": "Momoko Gill",
+          "spotifyTrack": {
+            "id": "7daDgtNZ7bziHoj8izxqAh",
+            "name": "Shadowboxing",
+            "uri": "spotify:track:7daDgtNZ7bziHoj8izxqAh",
+            "popularity": 23,
+            "albumName": "Momoko",
+            "albumId": "6ZaBxp8UJJ9aNbFQX0Dg95",
+            "foundAt": "2026-02-16T02:30:53.317Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-02-18T21:07:09.199Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    }
+  ]
 }
