@@ -1613,7 +1613,6 @@
     "Artist": "Static-X",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Wisconsin Death Trip",
       "Machine",
       "Shadow Zone",
       "Start a War",
@@ -1622,7 +1621,9 @@
       "Project Regeneration Vol. 1",
       "Project Regeneration Vol. 2"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Wisconsin Death Trip"
+    ]
   },
   {
     "Artist": "King Crimson",
