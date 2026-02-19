@@ -1114,5 +1114,13 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-18T22:07:17.262Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Velvet Underground",
+    "album": "White Light/White Heat",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-19T10:49:38.392Z"
   }
 ]
