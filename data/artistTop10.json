@@ -1,0 +1,2166 @@
+{
+  "Heavy Metal / Thrash / Death": {
+    "not_added": [
+      {
+        "artist": "Mercyful Fate",
+        "listeners": 376530,
+        "spotify_popularity": 40,
+        "spotify_id": "0W8edGiwAsv6HXF0Kyc2V9"
+      },
+      {
+        "artist": "Disturbed",
+        "listeners": 7836325,
+        "spotify_popularity": 73,
+        "spotify_id": "3TOqt5oJwL9BE2NG9MEwDa"
+      },
+      {
+        "artist": "Rammstein",
+        "listeners": 12203075,
+        "spotify_popularity": 77,
+        "spotify_id": "6wWVKhxIU2cEi0K81v7HvP"
+      },
+      {
+        "artist": "Pantera",
+        "listeners": 6561428,
+        "spotify_popularity": 71,
+        "spotify_id": "14pVkFUHDL207LzLHtSA18"
+      },
+      {
+        "artist": "Slayer",
+        "listeners": 4574728,
+        "spotify_popularity": 63,
+        "spotify_id": "1IQ2e1buppatiN1bxUVkrk"
+      },
+      {
+        "artist": "Motorhead",
+        "listeners": 4566506,
+        "spotify_popularity": 63,
+        "spotify_id": "1DFr97A9HnbV3SKTJFu62M"
+      },
+      {
+        "artist": "Gojira",
+        "listeners": 1853958,
+        "spotify_popularity": 63,
+        "spotify_id": "0GDGKpJFhVpcjIGF8N6Ewt"
+      },
+      {
+        "artist": "Sepultura",
+        "listeners": 2421209,
+        "spotify_popularity": 61,
+        "spotify_id": "6JW8wliOEwaDZ231ZY7cf4"
+      },
+      {
+        "artist": "Dream Theater",
+        "listeners": 1823750,
+        "spotify_popularity": 61,
+        "spotify_id": "2aaLAng2L2aWD2FClzwiep"
+      },
+      {
+        "artist": "Anthrax",
+        "listeners": 1920162,
+        "spotify_popularity": 54,
+        "spotify_id": "3JysSUOyfVs1UQ0UaESheP"
+      },
+      {
+        "artist": "Accept",
+        "listeners": 1073453,
+        "spotify_popularity": 53,
+        "spotify_id": "3JDIAtVrJdQ7GFOX26LYpv"
+      },
+      {
+        "artist": "Manowar",
+        "listeners": 1117498,
+        "spotify_popularity": 54,
+        "spotify_id": "4CzUzn54Cp9TQr6a7JIlMZ"
+      },
+      {
+        "artist": "Steel Panther",
+        "listeners": 559139,
+        "spotify_popularity": 47,
+        "spotify_id": "3l02WF362j1oHOurzuseBv"
+      },
+      {
+        "artist": "Exodus",
+        "listeners": 883942,
+        "spotify_popularity": 49,
+        "spotify_id": "76S65NHJHrNy4JTrXHP2BH"
+      },
+      {
+        "artist": "Venom",
+        "listeners": 598799,
+        "spotify_popularity": 43,
+        "spotify_id": "5fwaejlOHVBAw1KhIPPaQe"
+      },
+      {
+        "artist": "Serenity",
+        "listeners": 2970,
+        "spotify_popularity": 23,
+        "spotify_id": "1gA9CpEkmlFiPk4omLpJdE"
+      },
+      {
+        "artist": "Grim Reaper",
+        "listeners": 99218,
+        "spotify_popularity": 29,
+        "spotify_id": "3CSQtK60sg2jNNxnpThSN1"
+      },
+      {
+        "artist": "Cacophony",
+        "listeners": 61903,
+        "spotify_popularity": 23,
+        "spotify_id": "3WNx4M2YbMmDiJqeOBi0Ae"
+      },
+      {
+        "artist": "Iron Maiden",
+        "listeners": 10621428,
+        "recommended": true,
+        "spotify_popularity": 72,
+        "spotify_id": "6mdiAmATAx73kdxrNrnlao"
+      },
+      {
+        "artist": "Megadeth",
+        "listeners": 6361167,
+        "recommended": true,
+        "spotify_popularity": 71,
+        "spotify_id": "1Yox196W7bzVNZI7RBaPnf"
+      },
+      {
+        "artist": "Metallica",
+        "listeners": 33475773,
+        "recommended": true,
+        "spotify_popularity": 82,
+        "spotify_id": "2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      {
+        "artist": "Testament",
+        "listeners": 1258493,
+        "recommended": true,
+        "spotify_popularity": 53,
+        "spotify_id": "28hJdGN1Awf7u3ifk2lVkg"
+      }
+    ],
+    "added": [
+      {
+        "week": "23-02",
+        "artist": "Ozzy Osbourne",
+        "listeners": 8054666,
+        "spotify_popularity": 74,
+        "spotify_id": "6ZLTlhejhndI4Rh53vYhrY"
+      },
+      {
+        "week": "23-04",
+        "artist": "Dio",
+        "listeners": 3039756,
+        "spotify_popularity": 52,
+        "spotify_id": "4CYeVo5iZbtYGBN4Isc3n6"
+      },
+      {
+        "week": "23-04",
+        "artist": "Slayer",
+        "listeners": 4574728,
+        "spotify_popularity": 63,
+        "spotify_id": "1IQ2e1buppatiN1bxUVkrk"
+      },
+      {
+        "week": "23-15",
+        "artist": "Slipknot",
+        "listeners": 14724644,
+        "spotify_popularity": 78,
+        "spotify_id": "05fG473iIaoy82BF1aGhL8"
+      },
+      {
+        "week": "23-26",
+        "artist": "Municipal Waste",
+        "listeners": 352904,
+        "spotify_popularity": 44,
+        "spotify_id": "2Ah9OuOj7B57gPD1cbwiaE"
+      },
+      {
+        "week": "23-40",
+        "artist": "Corrosion of Conformity",
+        "listeners": 346098,
+        "spotify_popularity": 45,
+        "spotify_id": "1BBIIH0h76KN8gYeXFcPjR"
+      },
+      {
+        "week": "23-41",
+        "artist": "Judas Priest",
+        "listeners": 4621588,
+        "spotify_popularity": 64,
+        "spotify_id": "2tRsMl4eGxwoNabM08Dm4I"
+      },
+      {
+        "week": "23-43",
+        "artist": "Five Finger Death Punch",
+        "listeners": 7038495,
+        "spotify_popularity": 70,
+        "spotify_id": "5t28BP42x2axFnqOOMg3CM"
+      },
+      {
+        "week": "24-05",
+        "artist": "Kretor",
+        "listeners": 874448,
+        "spotify_popularity": 54,
+        "spotify_id": "3BM0EaYmkKWuPmmHFUTQHv"
+      },
+      {
+        "week": "24-05",
+        "artist": "Motorhead",
+        "listeners": 4566506,
+        "spotify_popularity": 63,
+        "spotify_id": "1DFr97A9HnbV3SKTJFu62M"
+      },
+      {
+        "week": "24-06",
+        "artist": "Bal-Sagoth",
+        "listeners": 23043,
+        "spotify_popularity": 19,
+        "spotify_id": "4LW3dUNA0zx0gbaeJOuxgX"
+      },
+      {
+        "week": "24-07",
+        "artist": "Blind Guardian",
+        "listeners": 788807,
+        "spotify_popularity": 51,
+        "spotify_id": "7jxJ25p0pPjk0MStloN6o6"
+      },
+      {
+        "week": "24-18",
+        "artist": "Ted Nugent",
+        "listeners": 1293791,
+        "spotify_popularity": 51,
+        "spotify_id": "21ysNsPzHdqYN2fQ75ZswG"
+      },
+      {
+        "week": "24-19",
+        "artist": "Korpiklaani",
+        "listeners": 446383,
+        "spotify_popularity": 47,
+        "spotify_id": "521Yl3LUvD7G9dMRO4fpCy"
+      },
+      {
+        "week": "24-20",
+        "artist": "Of Mice & Men",
+        "listeners": 1373758,
+        "spotify_popularity": 57,
+        "spotify_id": "4tususHNaR68xdgLstlGBA"
+      },
+      {
+        "week": "24-24",
+        "artist": "Helmet",
+        "listeners": 375016,
+        "spotify_popularity": 50,
+        "spotify_id": "0qB0cTENhSUc0feov5qbg0"
+      },
+      {
+        "week": "24-30",
+        "artist": "Judas Priest",
+        "listeners": 4621588,
+        "spotify_popularity": 64,
+        "spotify_id": "2tRsMl4eGxwoNabM08Dm4I"
+      }
+    ]
+  },
+  "Progressive / Experimental Rock & Metal": {
+    "not_added": [
+      {
+        "artist": "Warlock",
+        "listeners": 235569,
+        "spotify_popularity": 39,
+        "spotify_id": "5XDeFQDarnwpR5WAfD6S0d"
+      },
+      {
+        "artist": "Diamond Head",
+        "listeners": 205921,
+        "spotify_popularity": 37,
+        "spotify_id": "3z3KnhKZObj216IgfHYGVf"
+      },
+      {
+        "artist": "Tame Impala",
+        "listeners": 10221291,
+        "spotify_popularity": 84,
+        "spotify_id": "5INjqkS1o8h1imAzPqGZBb"
+      },
+      {
+        "artist": "Yes",
+        "listeners": 2134233,
+        "spotify_popularity": 61,
+        "spotify_id": "7AC976RDJzL2asmZuz7qil"
+      },
+      {
+        "artist": "Sleep Token",
+        "listeners": 3091533,
+        "spotify_popularity": 77,
+        "spotify_id": "2n2RSaZqBuUUukhbLlpnE6"
+      },
+      {
+        "artist": "Mastodon",
+        "listeners": 1062768,
+        "spotify_popularity": 56,
+        "spotify_id": "1Dvfqq39HxvCJ3GvfeIFuT"
+      },
+      {
+        "artist": "Sonic Youth",
+        "listeners": 1338457,
+        "spotify_popularity": 55,
+        "spotify_id": "5UqTO8smerMvxHYA5xsXb6"
+      },
+      {
+        "artist": "King Crimson",
+        "listeners": 1352688,
+        "spotify_popularity": 55,
+        "spotify_id": "7M1FPw29m5FbicYzS2xdpi"
+      },
+      {
+        "artist": "Opeth",
+        "listeners": 1168256,
+        "spotify_popularity": 57,
+        "spotify_id": "0ybFZ2Ab08V8hueghSXm6E"
+      },
+      {
+        "artist": "Puscifer",
+        "listeners": 740933,
+        "spotify_popularity": 57,
+        "spotify_id": "2pAajGWerK3ghwToNWFENS"
+      },
+      {
+        "artist": "Anathema",
+        "listeners": 434092,
+        "spotify_popularity": 49,
+        "spotify_id": "0ZXKT0FCsLWkSLCjoBJgBX"
+      },
+      {
+        "artist": "Can",
+        "listeners": 17230328,
+        "spotify_popularity": 73,
+        "spotify_id": "1wGIhYkKWSq4yACtTkCkSX"
+      },
+      {
+        "artist": "Mogwai",
+        "listeners": 632818,
+        "spotify_popularity": 48,
+        "spotify_id": "34UhPkLbtFKRq3nmfFgejG"
+      },
+      {
+        "artist": "Explosions in the Sky",
+        "listeners": 675331,
+        "spotify_popularity": 47,
+        "spotify_id": "1uQWmt1OhuHGRKmZ2ZcL6p"
+      },
+      {
+        "artist": "Karnivool",
+        "listeners": 254541,
+        "spotify_popularity": 55,
+        "spotify_id": "6rX8AFY10dsJkJsv23Z9Um"
+      },
+      {
+        "artist": "Steven Wilson",
+        "listeners": 503199,
+        "spotify_popularity": 63,
+        "spotify_id": "4DSDa4HvAWqvb3dMHUOAfd"
+      },
+      {
+        "artist": "Soen",
+        "listeners": 326392,
+        "spotify_popularity": 51,
+        "spotify_id": "38uWD5h115pdz278q4rwZW"
+      },
+      {
+        "artist": "Swans",
+        "listeners": 359060,
+        "spotify_popularity": 45,
+        "spotify_id": "79S80ZWgVhIPMCHuvl6SkA"
+      },
+      {
+        "artist": "Symphony X",
+        "listeners": 304965,
+        "spotify_popularity": 45,
+        "spotify_id": "4MnZkh4dpNmTMPxkl4Ev5L"
+      },
+      {
+        "artist": "Riverside",
+        "listeners": 238044,
+        "spotify_popularity": 41,
+        "spotify_id": "5yjbUO1Jocui7RKE30zfLT"
+      },
+      {
+        "artist": "Throbbing Gristle",
+        "listeners": 125795,
+        "spotify_popularity": 30,
+        "spotify_id": "1UYhxPY1oqFUg1HfF8nV3k"
+      },
+      {
+        "artist": "Oceansize",
+        "listeners": 48737,
+        "spotify_popularity": 27,
+        "spotify_id": "0Opj9xi9HHrH0L9uHAKnKm"
+      },
+      {
+        "artist": "Fates Warning",
+        "listeners": 92866,
+        "spotify_popularity": 30,
+        "spotify_id": "4S6URhg3PMKnCv9clR4ejE"
+      },
+      {
+        "artist": "Rush",
+        "listeners": 2613442,
+        "recommended": true,
+        "spotify_popularity": 64,
+        "spotify_id": "2Hkut4rAAyrQxRdof7FVJq"
+      },
+      {
+        "artist": "Genesis",
+        "listeners": 3837312,
+        "recommended": true,
+        "spotify_popularity": 69,
+        "spotify_id": "3CkvROUTQ6nRi9yQOcsB50"
+      },
+      {
+        "artist": "Pink Floyd",
+        "listeners": 23331273,
+        "recommended": true,
+        "spotify_popularity": 80,
+        "spotify_id": "0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      {
+        "artist": "Radiohead",
+        "listeners": 15162882,
+        "recommended": true,
+        "spotify_popularity": 85,
+        "spotify_id": "4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      {
+        "artist": "Tool",
+        "listeners": 4711814,
+        "recommended": true,
+        "spotify_popularity": 71,
+        "spotify_id": "2yEwvVSSSUkcLeSTNyHKh8"
+      },
+      {
+        "artist": "Porcupine Tree",
+        "listeners": 783828,
+        "recommended": true,
+        "spotify_popularity": 52,
+        "spotify_id": "5NXHXK6hOCotCF8lvGM1I0"
+      },
+      {
+        "artist": "Mars Volta",
+        "listeners": 730411,
+        "recommended": true,
+        "spotify_popularity": 48,
+        "spotify_id": "75U40yZLLPglFgXbDVnmVs"
+      },
+      {
+        "artist": "Primus",
+        "listeners": 1377868,
+        "recommended": true,
+        "spotify_popularity": 58,
+        "spotify_id": "64mPnRMMeudAet0E62ypkx"
+      },
+      {
+        "artist": "Devo",
+        "listeners": 649943,
+        "recommended": true,
+        "spotify_popularity": 53,
+        "spotify_id": "0UKfenbZb15sqhfPC6zbt3"
+      }
+    ],
+    "added": [
+      {
+        "week": "23-05",
+        "artist": "Adam Neely",
+        "listeners": 39416,
+        "spotify_popularity": 21,
+        "spotify_id": "3tc5O6Blz62oYIm6cy6nDN"
+      },
+      {
+        "week": "23-21",
+        "artist": "HIM",
+        "listeners": 1204680,
+        "spotify_popularity": 67,
+        "spotify_id": "74aLweE8FHHf4yN5TWv1GM"
+      },
+      {
+        "week": "23-23",
+        "artist": "Jazz Sabbath",
+        "listeners": 31816,
+        "spotify_popularity": 23,
+        "spotify_id": "59dGdCSieplkG6HWFQbyYB"
+      },
+      {
+        "week": "23-45",
+        "artist": "Marty Friedman",
+        "listeners": 151834,
+        "spotify_popularity": 40,
+        "spotify_id": "5czW6bitDSKbNBNDizRT9p"
+      },
+      {
+        "week": "23-48",
+        "artist": "Nightwish",
+        "listeners": 2475494,
+        "spotify_popularity": 64,
+        "spotify_id": "2NPduAUeLVsfIauhRwuft1"
+      },
+      {
+        "week": "24-01",
+        "artist": "Killing Joke",
+        "listeners": 384782,
+        "spotify_popularity": 46,
+        "spotify_id": "0Zy4ncr8h1jd7Nzr9946fD"
+      },
+      {
+        "week": "24-04",
+        "artist": "Volbeat",
+        "listeners": 2787372,
+        "spotify_popularity": 67,
+        "spotify_id": "0L5fC7Ogm2YwgqVCRcF1bT"
+      },
+      {
+        "week": "24-12",
+        "artist": "Big Wreck",
+        "listeners": 134321,
+        "spotify_popularity": 44,
+        "spotify_id": "557SGrCJ59ysjCE1xjVZbS"
+      }
+    ]
+  },
+  "Reggae / World / Ambient / Experimental Electronic": {
+    "not_added": [
+      {
+        "artist": "Bob Marley",
+        "listeners": 13632072,
+        "spotify_popularity": 79,
+        "spotify_id": "2QsynagSdAqZj3U9HgDzjD"
+      },
+      {
+        "artist": "Moby",
+        "listeners": 2146284,
+        "spotify_popularity": 69,
+        "spotify_id": "3OsRAKCvk37zwYcnzRf5XF"
+      },
+      {
+        "artist": "Massive Attack",
+        "listeners": 2777701,
+        "spotify_popularity": 69,
+        "spotify_id": "6FXMGgJwohJLUSr5nVlf9X"
+      },
+      {
+        "artist": "Lee Scratch Perry",
+        "listeners": 225787,
+        "spotify_popularity": 43,
+        "spotify_id": "1TsG4AumsMt1Tcq2nHpov9"
+      },
+      {
+        "artist": "Hammock",
+        "listeners": 191236,
+        "spotify_popularity": 47,
+        "spotify_id": "0VOR7Ie9xUSb45fzIIVJQ1"
+      },
+      {
+        "artist": "Stars of the Lid",
+        "listeners": 101976,
+        "spotify_popularity": 41,
+        "spotify_id": "36pCa1JHc6hlGbfEmLzJQc"
+      },
+      {
+        "artist": "Peter Tosh",
+        "listeners": 1242002,
+        "recommended": true,
+        "spotify_popularity": 56,
+        "spotify_id": "0oea1hwGMfUxZbLxJc1XUN"
+      },
+      {
+        "artist": "Burning Spear",
+        "listeners": 597685,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "6qaKS0nzGP4hfjl4aFZmEU"
+      },
+      {
+        "artist": "Toots and the Maytals",
+        "listeners": 501550,
+        "recommended": true,
+        "spotify_popularity": 54,
+        "spotify_id": "6ZFv3wQwwWPiVDWhv0mjQK"
+      },
+      {
+        "artist": "Augustus Pablo",
+        "listeners": 114950,
+        "recommended": true,
+        "spotify_popularity": 42,
+        "spotify_id": "5WwEQwX3ruZofwDDqtOXwI"
+      },
+      {
+        "artist": "Steel Pulse",
+        "listeners": 717398,
+        "recommended": true,
+        "spotify_popularity": 56,
+        "spotify_id": "6UL7BodGc5iVmQGlMwHR0g"
+      },
+      {
+        "artist": "Culture",
+        "listeners": 113762,
+        "recommended": true,
+        "spotify_popularity": 51,
+        "spotify_id": "0DoNSZa1R1DV69oY1djlbf"
+      },
+      {
+        "artist": "Sizzla",
+        "listeners": 648280,
+        "recommended": true,
+        "spotify_popularity": 53,
+        "spotify_id": "72T7x96EAqN2UWvAgobYfv"
+      },
+      {
+        "artist": "Damian Marley",
+        "listeners": 1938005,
+        "recommended": true,
+        "spotify_popularity": 67,
+        "spotify_id": "3QJzdZJYIAcoET1GcfpNGi"
+      },
+      {
+        "artist": "Burial",
+        "listeners": 527105,
+        "recommended": true,
+        "spotify_popularity": 48,
+        "spotify_id": "0uCCBpmg6MrPb1KY2msceF"
+      },
+      {
+        "artist": "Aphex Twin",
+        "listeners": 1919318,
+        "recommended": true,
+        "spotify_popularity": 65,
+        "spotify_id": "6kBDZFXuLrZgHnvmPu9NsG"
+      },
+      {
+        "artist": "Boards of Canada",
+        "listeners": 762055,
+        "recommended": true,
+        "spotify_popularity": 55,
+        "spotify_id": "2VAvhf61GgLYmC6C8anyX1"
+      },
+      {
+        "artist": "Autechre",
+        "listeners": 273727,
+        "recommended": true,
+        "spotify_popularity": 42,
+        "spotify_id": "6WH1V41LwGDGmlPUhSZLHO"
+      },
+      {
+        "artist": "Amon Tobin",
+        "listeners": 276559,
+        "recommended": true,
+        "spotify_popularity": 42,
+        "spotify_id": "3mvkWMe6swnknwscwvGCHO"
+      },
+      {
+        "artist": "Portishead",
+        "listeners": 2426842,
+        "recommended": true,
+        "spotify_popularity": 65,
+        "spotify_id": "6liAMWkVf5LH7YR9yfFy1Y"
+      },
+      {
+        "artist": "Tricky",
+        "listeners": 575435,
+        "recommended": true,
+        "spotify_popularity": 52,
+        "spotify_id": "6hhA8TKRNryM8FNzqCqdDO"
+      },
+      {
+        "artist": "Royksopp",
+        "listeners": 1010645,
+        "recommended": true,
+        "spotify_popularity": 59,
+        "spotify_id": "5nPOO9iTcrs9k6yFffPxjH"
+      },
+      {
+        "artist": "Caribou",
+        "listeners": 732092,
+        "recommended": true,
+        "spotify_popularity": 54,
+        "spotify_id": "4aEnNH9PuU1HF3TsZTru54"
+      },
+      {
+        "artist": "Jon Hopkins",
+        "listeners": 577616,
+        "recommended": true,
+        "spotify_popularity": 54,
+        "spotify_id": "7yxi31szvlbwvKq9dYOmFI"
+      },
+      {
+        "artist": "Four Tet",
+        "listeners": 814699,
+        "recommended": true,
+        "spotify_popularity": 60,
+        "spotify_id": "7Eu1txygG6nJttLHbZdQOh"
+      },
+      {
+        "artist": "Arca",
+        "listeners": 18524280,
+        "recommended": true,
+        "spotify_popularity": 84,
+        "spotify_id": "4SsVbpTthjScTS7U2hmr1X"
+      },
+      {
+        "artist": "Actress",
+        "listeners": 106124,
+        "recommended": true,
+        "spotify_popularity": 34,
+        "spotify_id": "3bg5rmICvmA8dmYVAdKGYH"
+      },
+      {
+        "artist": "Floating Points",
+        "listeners": 404135,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "2AR42Ur9PcchQDtEdwkv4L"
+      },
+      {
+        "artist": "Nils Frahm",
+        "listeners": 727464,
+        "recommended": true,
+        "spotify_popularity": 57,
+        "spotify_id": "5gqhueRUZEa7VDnQt4HODp"
+      },
+      {
+        "artist": "Bonobo",
+        "listeners": 1485781,
+        "recommended": true,
+        "spotify_popularity": 61,
+        "spotify_id": "0cmWgDlu9CwTgxPhf403hb"
+      },
+      {
+        "artist": "Thievery Corporation",
+        "listeners": 983476,
+        "recommended": true,
+        "spotify_popularity": 61,
+        "spotify_id": "25KNo5GDS6ZpLkjasaecA3"
+      },
+      {
+        "artist": "Mulatu Astatke",
+        "listeners": 309357,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "7HGFXtBhRq3g1Ma3nH4Rgv"
+      },
+      {
+        "artist": "Khruangbin",
+        "listeners": 2252112,
+        "recommended": true,
+        "spotify_popularity": 69,
+        "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
+      },
+      {
+        "artist": "Mdou Moctar",
+        "listeners": 161193,
+        "recommended": true,
+        "spotify_popularity": 33,
+        "spotify_id": "48dgx7iGqLQ3E5KO3pzd94"
+      },
+      {
+        "artist": "Tinariwen",
+        "listeners": 497655,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "2sf2owtFSCvz2MLfxmNdkb"
+      },
+      {
+        "artist": "Bombino",
+        "listeners": 116297,
+        "recommended": true,
+        "spotify_popularity": 36,
+        "spotify_id": "7s4I6rDvTcdBDKElVbtsAN"
+      },
+      {
+        "artist": "Dengue Fever",
+        "listeners": 56435,
+        "recommended": true,
+        "spotify_popularity": 29,
+        "spotify_id": "3wFHDAXLsjvclEtifEV7F5"
+      },
+      {
+        "artist": "The Orb",
+        "listeners": 207477,
+        "recommended": true,
+        "spotify_popularity": 42,
+        "spotify_id": "5HAtRoEPUvGSA7ziTGB1cF"
+      }
+    ],
+    "added": [
+      {
+        "week": "24-03",
+        "artist": "The Orb",
+        "listeners": 207477,
+        "spotify_popularity": 42,
+        "spotify_id": "5HAtRoEPUvGSA7ziTGB1cF"
+      },
+      {
+        "week": "24-11",
+        "artist": "Enya",
+        "listeners": 2726393,
+        "spotify_popularity": 73,
+        "spotify_id": "6uothxMWeLWIhsGeF7cyo4"
+      }
+    ]
+  },
+  "Classic Rock / Hard Rock": {
+    "not_added": [
+      {
+        "artist": "Fleetwood Mac",
+        "listeners": 14670458,
+        "spotify_popularity": 83,
+        "spotify_id": "08GQAI4eElDnROBrJRGE0X"
+      },
+      {
+        "artist": "The Doors",
+        "listeners": 9070963,
+        "spotify_popularity": 71,
+        "spotify_id": "22WZ7M8sxp5THdruNY3gXt"
+      },
+      {
+        "artist": "Jamiroquai",
+        "listeners": 2884981,
+        "spotify_popularity": 70,
+        "spotify_id": "6J7biCazzYhU3gM9j1wfid"
+      },
+      {
+        "artist": "Steely Dan",
+        "listeners": 2597792,
+        "spotify_popularity": 69,
+        "spotify_id": "6P7H3ai06vU1sGvdpBwDmE"
+      },
+      {
+        "artist": "I Dont know how but they found me",
+        "listeners": 1115138,
+        "spotify_popularity": 56,
+        "spotify_id": "0Raaw7kr1Vzat4ZvHzjsJR"
+      },
+      {
+        "artist": "The Avett Brothers",
+        "listeners": 1026032,
+        "spotify_popularity": 56,
+        "spotify_id": "196lKsA13K3keVXMDFK66q"
+      },
+      {
+        "artist": "The Wood Brothers",
+        "listeners": 244072,
+        "spotify_popularity": 46,
+        "spotify_id": "6FxuPrpa8phaP3Xn73emhT"
+      },
+      {
+        "artist": "Tower of Power",
+        "listeners": 342991,
+        "spotify_popularity": 46,
+        "spotify_id": "0JCxGVxsISZzJHJPUOtceB"
+      },
+      {
+        "artist": "Led Zeppelin",
+        "listeners": 16385481,
+        "recommended": true,
+        "spotify_popularity": 75,
+        "spotify_id": "36QJpDe2go2KgaRleHCDTp"
+      },
+      {
+        "artist": "Deep Purple",
+        "listeners": 6102681,
+        "recommended": true,
+        "spotify_popularity": 65,
+        "spotify_id": "568ZhdwyaiCyOGJRtNYhWf"
+      },
+      {
+        "artist": "Black Sabbath",
+        "listeners": 10202083,
+        "recommended": true,
+        "spotify_popularity": 74,
+        "spotify_id": "5M52tdBnJaKSvOpJGz8mfZ"
+      },
+      {
+        "artist": "Jimi Hendrix",
+        "listeners": 7518635,
+        "recommended": true,
+        "spotify_popularity": 66,
+        "spotify_id": "776Uo845nYHJpNaStv1Ds4"
+      },
+      {
+        "artist": "Cream",
+        "listeners": 2705800,
+        "recommended": true,
+        "spotify_popularity": 60,
+        "spotify_id": "74oJ4qxwOZvX6oSsu1DGnw"
+      },
+      {
+        "artist": "Lynyrd Skynyrd",
+        "listeners": 6077737,
+        "recommended": true,
+        "spotify_popularity": 72,
+        "spotify_id": "4MVyzYMgTwdP7Z49wAZHx0"
+      },
+      {
+        "artist": "Tom Petty",
+        "listeners": 3053682,
+        "recommended": true,
+        "spotify_popularity": 67,
+        "spotify_id": "2UZMlIwnkgAEDBsw1Rejkn"
+      },
+      {
+        "artist": "ZZ Top",
+        "listeners": 5053015,
+        "recommended": true,
+        "spotify_popularity": 68,
+        "spotify_id": "2AM4ilv6UzW0uMRuqKtDgN"
+      },
+      {
+        "artist": "Thin Lizzy",
+        "listeners": 1394637,
+        "recommended": true,
+        "spotify_popularity": 58,
+        "spotify_id": "6biWAmrHyiMkX49LkycGqQ"
+      },
+      {
+        "artist": "Foghat",
+        "listeners": 971189,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "6x33CmZWo2Ve4hxYl2Craq"
+      },
+      {
+        "artist": "Status Quo",
+        "listeners": 854835,
+        "recommended": true,
+        "spotify_popularity": 57,
+        "spotify_id": "4gIdjgLlvgEOz7MexDZzpM"
+      },
+      {
+        "artist": "Free",
+        "listeners": 159159,
+        "recommended": true,
+        "spotify_popularity": 52,
+        "spotify_id": "49b68DLRK5eCbtJf7Xx4Cc"
+      },
+      {
+        "artist": "Bad Company",
+        "listeners": 1402286,
+        "recommended": true,
+        "spotify_popularity": 58,
+        "spotify_id": "5AEG63ajney2BoDXi0Vb84"
+      },
+      {
+        "artist": "Heart",
+        "listeners": 3099916,
+        "recommended": true,
+        "spotify_popularity": 67,
+        "spotify_id": "34jw2BbxjoYalTp8cJFCPv"
+      },
+      {
+        "artist": "Whitesnake",
+        "listeners": 3416893,
+        "recommended": true,
+        "spotify_popularity": 64,
+        "spotify_id": "3UbyYnvNIT5DFXU4WgiGpP"
+      },
+      {
+        "artist": "Rainbow",
+        "listeners": 1423534,
+        "recommended": true,
+        "spotify_popularity": 69,
+        "spotify_id": "4hz8tIajF2INpgM0qzPJz2"
+      },
+      {
+        "artist": "Blue Oyster Cult",
+        "listeners": 1761375,
+        "recommended": true,
+        "spotify_popularity": 61,
+        "spotify_id": "00tVTdpEhQQw1bqdu8RCx2"
+      },
+      {
+        "artist": "Uriah Heep",
+        "listeners": 846179,
+        "recommended": true,
+        "spotify_popularity": 48,
+        "spotify_id": "45O9BwPMyywM755SYUK0sP"
+      }
+    ],
+    "added": [
+      {
+        "week": "23-17",
+        "artist": "The Rolling Stones",
+        "listeners": 16092244,
+        "spotify_popularity": 77,
+        "spotify_id": "22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "week": "23-18",
+        "artist": "Royal Republic",
+        "listeners": 265869,
+        "spotify_popularity": 52,
+        "spotify_id": "0DbbnkFMhhDvinDYIiHhGS"
+      },
+      {
+        "week": "23-19",
+        "artist": "Joe Bonamassa",
+        "listeners": 1013999,
+        "spotify_popularity": 57,
+        "spotify_id": "2SNzxY1OsSCHBLVi77mpPQ"
+      },
+      {
+        "week": "23-20",
+        "artist": "The Black Crows",
+        "listeners": 901363,
+        "spotify_popularity": 58,
+        "spotify_id": "5krkohEVJYw0qoB5VWwxaC"
+      },
+      {
+        "week": "23-34",
+        "artist": "Annette Funicello",
+        "listeners": 9903,
+        "spotify_popularity": 27,
+        "spotify_id": "1uHivHZ0fLfvwPL1UgkpMU"
+      },
+      {
+        "week": "23-40",
+        "artist": "Motley Crue",
+        "listeners": 6130781,
+        "spotify_popularity": 70,
+        "spotify_id": "0cc6vw3VN8YlIcvr1v7tBL"
+      },
+      {
+        "week": "23-42",
+        "artist": "UFO",
+        "listeners": 651887,
+        "spotify_popularity": 51,
+        "spotify_id": "2Omy3P5hFZym7FKum1JA1s"
+      },
+      {
+        "week": "23-42",
+        "artist": "Van Halen",
+        "listeners": 7017432,
+        "spotify_popularity": 71,
+        "spotify_id": "2cnMpRsOVqtPMfq7YiFE6K"
+      },
+      {
+        "week": "23-43",
+        "artist": "Winger",
+        "listeners": 567195,
+        "spotify_popularity": 47,
+        "spotify_id": "2qQeKHrQJHLLbvDAOSO874"
+      },
+      {
+        "week": "23-45",
+        "artist": "Hollywood Vampires",
+        "listeners": 216732,
+        "spotify_popularity": 37,
+        "spotify_id": "3k4YA0uPsWc2PuOQlJNpdH"
+      },
+      {
+        "week": "23-51",
+        "artist": "Aerosmith",
+        "listeners": 16506729,
+        "spotify_popularity": 75,
+        "spotify_id": "7Ey4PD4MYsKc5I2dolUwbH"
+      },
+      {
+        "week": "24-13",
+        "artist": "Debbie Reynolds",
+        "listeners": 58222,
+        "spotify_popularity": 36,
+        "spotify_id": "4Zf0pLGYwNB86Y97kisvkn"
+      },
+      {
+        "week": "24-17",
+        "artist": "Gene Kelly",
+        "listeners": 112867,
+        "spotify_popularity": 41,
+        "spotify_id": "1mhlGWeiNrWnhJJc2EufYk"
+      },
+      {
+        "week": "24-26",
+        "artist": "Twisted Sister",
+        "listeners": 3162727,
+        "spotify_popularity": 59,
+        "spotify_id": "7b85ve82Sh36a3UAx74wut"
+      }
+    ]
+  },
+  "Punk / Alternative / Pop-Rock": {
+    "not_added": [
+      {
+        "artist": "The Clash",
+        "listeners": 3338870,
+        "spotify_popularity": 71,
+        "spotify_id": "3RGLhK1IP9jnYFH4BRFJBS"
+      },
+      {
+        "artist": "fun.",
+        "listeners": 3078106,
+        "spotify_popularity": 67,
+        "spotify_id": "5nCi3BB41mBaMH9gfr6Su0"
+      },
+      {
+        "artist": "Pixies",
+        "listeners": 3706900,
+        "spotify_popularity": 68,
+        "spotify_id": "6zvul52xwTWzilBZl6BUbT"
+      },
+      {
+        "artist": "Ramones",
+        "listeners": 2953439,
+        "spotify_popularity": 63,
+        "spotify_id": "1co4F2pPNH8JjTutZkmgSm"
+      },
+      {
+        "artist": "Plain White Ts",
+        "listeners": 1385389,
+        "spotify_popularity": 62,
+        "spotify_id": "1g1yxsNVPhMUl9GrMjEb2o"
+      },
+      {
+        "artist": "We The Kings",
+        "listeners": 1327339,
+        "spotify_popularity": 56,
+        "spotify_id": "3ao3jf5d70Tf4fPh2bnXVl"
+      },
+      {
+        "artist": "Bad Religion",
+        "listeners": 1404624,
+        "spotify_popularity": 59,
+        "spotify_id": "2yJwXpWAQOOl5XFzbCxLs9"
+      },
+      {
+        "artist": "Fugazi",
+        "listeners": 708846,
+        "spotify_popularity": 54,
+        "spotify_id": "62sC6lUEWRjbFqXpMmOk4G"
+      },
+      {
+        "artist": "NOFX",
+        "listeners": 1173280,
+        "spotify_popularity": 58,
+        "spotify_id": "4S2yOnmsWW97dT87yVoaSZ"
+      },
+      {
+        "artist": "Dead Kennedys",
+        "listeners": 973119,
+        "spotify_popularity": 54,
+        "spotify_id": "30U8fYtiNpeA5KH6H87QUV"
+      },
+      {
+        "artist": "The Maine",
+        "listeners": 578066,
+        "spotify_popularity": 54,
+        "spotify_id": "4o0pNHbyj36LPvukNqEug0"
+      },
+      {
+        "artist": "10000 Maniacs",
+        "listeners": 419438,
+        "spotify_popularity": 50,
+        "spotify_id": "0MBIKH9DjtBkv8O3nS6szj"
+      },
+      {
+        "artist": "Minor Threat",
+        "listeners": 446963,
+        "spotify_popularity": 49,
+        "spotify_id": "07PiZYrhllpSXtELkUxlrf"
+      },
+      {
+        "artist": "Every Avenue",
+        "listeners": 166127,
+        "spotify_popularity": 42,
+        "spotify_id": "1IpSmgcN9F3KNa7j9JtAE4"
+      },
+      {
+        "artist": "The Scarred",
+        "listeners": 1440,
+        "spotify_popularity": 5,
+        "spotify_id": "6Rb1jQEx7chTGKqAzCYsFx"
+      },
+      {
+        "artist": "Artist vs Poet",
+        "listeners": 132567,
+        "spotify_popularity": 38,
+        "spotify_id": "3kYFawNQVZ00FQbgs4rVBe"
+      },
+      {
+        "artist": "Royal Bliss",
+        "listeners": 56879,
+        "spotify_popularity": 36,
+        "spotify_id": "2DntubHirEICSdXa23WNpV"
+      },
+      {
+        "artist": "Frenzal Rhomb",
+        "listeners": 64545,
+        "spotify_popularity": 37,
+        "spotify_id": "4cxBQR2C44tnfQ74lpFN7N"
+      },
+      {
+        "artist": "This Prividence",
+        "listeners": 40629,
+        "spotify_popularity": 25,
+        "spotify_id": "5or8HO8aiwjdIWZxURNx1y"
+      },
+      {
+        "artist": "Crocodiles",
+        "listeners": 36493,
+        "spotify_popularity": 22,
+        "spotify_id": "1Z4Erxt5wSXH0gbOsVJUMv"
+      }
+    ],
+    "added": [
+      {
+        "week": "23-02",
+        "artist": "Weezer",
+        "listeners": 4901318,
+        "spotify_popularity": 74,
+        "spotify_id": "3jOstUTkEu2JkjvRdBA5Gu"
+      },
+      {
+        "week": "23-06",
+        "artist": "Everclear",
+        "listeners": 1108484,
+        "spotify_popularity": 60,
+        "spotify_id": "694QW15WkebjcrWgQHzRYF"
+      },
+      {
+        "week": "23-11",
+        "artist": "Coldplay",
+        "listeners": 62624558,
+        "spotify_popularity": 88,
+        "spotify_id": "4gzpq5DPGxSnKTe4SA8HAU"
+      },
+      {
+        "week": "23-11",
+        "artist": "Imagine Dragons",
+        "listeners": 59171827,
+        "spotify_popularity": 84,
+        "spotify_id": "53XhwfbYqKCa1cC15pYq2q"
+      },
+      {
+        "week": "23-18",
+        "artist": "Limp Bizkit",
+        "listeners": 8774370,
+        "spotify_popularity": 78,
+        "spotify_id": "165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      {
+        "week": "23-27",
+        "artist": "Jimmy Eat World",
+        "listeners": 1870846,
+        "spotify_popularity": 66,
+        "spotify_id": "3Ayl7mCk0nScecqOzvNp6s"
+      },
+      {
+        "week": "23-29",
+        "artist": "Waterparks",
+        "listeners": 554524,
+        "spotify_popularity": 55,
+        "spotify_id": "3QaxveoTiMetZCMp1sftiu"
+      },
+      {
+        "week": "23-37",
+        "artist": "Nirvana",
+        "listeners": 24494316,
+        "spotify_popularity": 81,
+        "spotify_id": "6olE6TJLqED3rqDCT0FyPh"
+      },
+      {
+        "week": "23-43",
+        "artist": "The Rentals",
+        "listeners": 36356,
+        "spotify_popularity": 31,
+        "spotify_id": "3NmdKZUM96z7NGvL35g5PC"
+      },
+      {
+        "week": "23-50",
+        "artist": "Guttermouth",
+        "listeners": 130878,
+        "spotify_popularity": 39,
+        "spotify_id": "2zIenWuthqTgWumViRZCZV"
+      },
+      {
+        "week": "23-50",
+        "artist": "Sex Pistols",
+        "listeners": 2038206,
+        "spotify_popularity": 53,
+        "spotify_id": "1u7kkVrr14iBvrpYnZILJR"
+      },
+      {
+        "week": "24-02",
+        "artist": "Valencia",
+        "listeners": 37928,
+        "spotify_popularity": 40,
+        "spotify_id": "5cb5ljWIIrvUxokdf2vl6A"
+      },
+      {
+        "week": "24-03",
+        "artist": "Hit The Lights",
+        "listeners": 89809,
+        "spotify_popularity": 34,
+        "spotify_id": "5fyHpJg1xW8OZqPyzmQv2C"
+      },
+      {
+        "week": "24-04",
+        "artist": "Nickelback",
+        "listeners": 8112832,
+        "spotify_popularity": 78,
+        "spotify_id": "6deZN1bslXzeGvOLaLMOIF"
+      },
+      {
+        "week": "24-10",
+        "artist": "Dashboard Confessional",
+        "listeners": 677596,
+        "spotify_popularity": 54,
+        "spotify_id": "4ERtgeBbWRkFzIz6LaFCeY"
+      },
+      {
+        "week": "24-15",
+        "artist": "Incubus",
+        "listeners": 3742787,
+        "spotify_popularity": 69,
+        "spotify_id": "3YcBF2ttyueytpXtEzn1Za"
+      },
+      {
+        "week": "24-16",
+        "artist": "Vampire Weekend",
+        "listeners": 2050625,
+        "spotify_popularity": 60,
+        "spotify_id": "5BvJzeQpmsdsFp4HGUYUEx"
+      },
+      {
+        "week": "24-25",
+        "artist": "The Format",
+        "listeners": 103506,
+        "spotify_popularity": 47,
+        "spotify_id": "3ZJC8cLts8Q8s8JbNJKsLf"
+      },
+      {
+        "week": "24-28",
+        "artist": "AFI",
+        "listeners": 1021809,
+        "spotify_popularity": 59,
+        "spotify_id": "19I4tYiChJoxEO5EuviXpz"
+      },
+      {
+        "week": "24-39",
+        "artist": "The Morning Light",
+        "listeners": 4666,
+        "spotify_popularity": 5,
+        "spotify_id": "7bg02e2uaumWExxQWrJexx"
+      }
+    ]
+  },
+  "Pop / Contemporary R&B / Hip-Hop": {
+    "not_added": [
+      {
+        "artist": "Travis Scott",
+        "listeners": 42675576,
+        "spotify_popularity": 89,
+        "spotify_id": "0Y5tJX1MQlPlqiwlOH1tJY"
+      },
+      {
+        "artist": "David Guetta",
+        "listeners": 27554334,
+        "spotify_popularity": 87,
+        "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai"
+      },
+      {
+        "artist": "Calvin Harris",
+        "listeners": 23284914,
+        "spotify_popularity": 84,
+        "spotify_id": "7CajNmpbOovFoOoasH2HaY"
+      },
+      {
+        "artist": "The Weeknd",
+        "listeners": 118629516,
+        "spotify_popularity": 93,
+        "spotify_id": "1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "artist": "Taylor Swift",
+        "listeners": 151921624,
+        "spotify_popularity": 96,
+        "spotify_id": "06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "artist": "Mariah Carey",
+        "listeners": 12495563,
+        "spotify_popularity": 79,
+        "spotify_id": "4iHNK0tOyZPYnBU7nGAgpQ"
+      },
+      {
+        "artist": "Ariana Grande",
+        "listeners": 109761872,
+        "spotify_popularity": 90,
+        "spotify_id": "66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "artist": "Rihanna",
+        "listeners": 71596872,
+        "spotify_popularity": 91,
+        "spotify_id": "5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      {
+        "artist": "Justin Bieber",
+        "listeners": 87088403,
+        "spotify_popularity": 91,
+        "spotify_id": "1uNFoZAHBGtllmzznpCI3s"
+      },
+      {
+        "artist": "SZA",
+        "listeners": 34842957,
+        "spotify_popularity": 87,
+        "spotify_id": "7tYKF4w9nC0nq9CsPZTHyP"
+      },
+      {
+        "artist": "Drake",
+        "listeners": 107268562,
+        "spotify_popularity": 95,
+        "spotify_id": "3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "artist": "Eminem",
+        "listeners": 107446874,
+        "spotify_popularity": 88,
+        "spotify_id": "7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      {
+        "artist": "21 Savage",
+        "listeners": 24869369,
+        "spotify_popularity": 84,
+        "spotify_id": "1URnnhqYAYcrqrcwql10ft"
+      },
+      {
+        "artist": "Katy Perry",
+        "listeners": 39487436,
+        "spotify_popularity": 83,
+        "spotify_id": "6jJ0s89eD6GaHleKKya26X"
+      },
+      {
+        "artist": "Lana Del Rey",
+        "listeners": 54927221,
+        "spotify_popularity": 89,
+        "spotify_id": "00FQb4jTyendYWaN8pK0wa"
+      },
+      {
+        "artist": "Peso Pluma",
+        "listeners": 25992593,
+        "spotify_popularity": 90,
+        "spotify_id": "12GqGscKJx3aE4t07u7eVZ"
+      },
+      {
+        "artist": "Karol G",
+        "listeners": 62833585,
+        "spotify_popularity": 86,
+        "spotify_id": "790FomKkXshlbRYZFtlgla"
+      },
+      {
+        "artist": "Sam Smith",
+        "listeners": 26806821,
+        "spotify_popularity": 81,
+        "spotify_id": "2wY79sveU1sp5g7SokKOiI"
+      },
+      {
+        "artist": "Feid",
+        "listeners": 19684657,
+        "spotify_popularity": 85,
+        "spotify_id": "2LRoIwlKmHjgvigdNGBHNo"
+      },
+      {
+        "artist": "Roxette",
+        "listeners": 3029164,
+        "spotify_popularity": 72,
+        "spotify_id": "2SHhfs4BiDxGQ3oxqf0UHY"
+      },
+      {
+        "artist": "Steve Aoki",
+        "listeners": 3808863,
+        "spotify_popularity": 70,
+        "spotify_id": "77AiFEVeAVj2ORpC85QVJs"
+      },
+      {
+        "artist": "Lionel Richie",
+        "listeners": 4722783,
+        "spotify_popularity": 69,
+        "spotify_id": "3gMaNLQm7D9MornNILzdSl"
+      },
+      {
+        "artist": "Emma Bunton",
+        "listeners": 204973,
+        "spotify_popularity": 39,
+        "spotify_id": "2AEEnr6Le5zHzBwpnlZSmq"
+      }
+    ],
+    "added": [
+      {
+        "week": "22-45",
+        "artist": "Miley Cyrus",
+        "listeners": 27121127,
+        "spotify_popularity": 81,
+        "spotify_id": "5YGY8feqx7naU7z4HrwZM6"
+      },
+      {
+        "week": "23-01",
+        "artist": "Selena Gomez",
+        "listeners": 53803637,
+        "spotify_popularity": 80,
+        "spotify_id": "0C8ZW7ezQVs4URX5aX7Kqx"
+      },
+      {
+        "week": "23-03",
+        "artist": "Selena Gomez & the scene",
+        "listeners": 10529501,
+        "spotify_popularity": 68,
+        "spotify_id": "6dJeKm76NjfXBNTpHmOhfO"
+      },
+      {
+        "week": "23-07",
+        "artist": "One Direction",
+        "listeners": 40740410,
+        "spotify_popularity": 83,
+        "spotify_id": "4AK6F7OLvEQ5QYCBNiQWHq"
+      },
+      {
+        "week": "23-08",
+        "artist": "Harry Styles",
+        "listeners": 34890420,
+        "spotify_popularity": 85,
+        "spotify_id": "6KImCVD70vtIoJWnq6nGn3"
+      },
+      {
+        "week": "23-08",
+        "artist": "Shakira",
+        "listeners": 41471161,
+        "spotify_popularity": 86,
+        "spotify_id": "0EmeFodog0BfCgMzAIvKQp"
+      },
+      {
+        "week": "23-09",
+        "artist": "Ed Sheeran",
+        "listeners": 124881886,
+        "spotify_popularity": 87,
+        "spotify_id": "6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      {
+        "week": "23-10",
+        "artist": "Hilary Duff",
+        "listeners": 2442912,
+        "spotify_popularity": 64,
+        "spotify_id": "2S9W9aSAd7e5mp8WqWxN2h"
+      },
+      {
+        "week": "23-13",
+        "artist": "Dua Lipa",
+        "listeners": 47609726,
+        "spotify_popularity": 85,
+        "spotify_id": "6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "week": "23-33",
+        "artist": "Hot Chelle Rae",
+        "listeners": 567925,
+        "spotify_popularity": 51,
+        "spotify_id": "6jTnHxhb6cDCaCu4rdvsQ0"
+      },
+      {
+        "week": "23-49",
+        "artist": "Beyonce",
+        "listeners": 42073830,
+        "spotify_popularity": 84,
+        "spotify_id": "6vWDO969PvNqNYHIOW5v0m"
+      },
+      {
+        "week": "23-52",
+        "artist": "Jacob Whitesides",
+        "listeners": 298709,
+        "spotify_popularity": 29,
+        "spotify_id": "05tyvnDgYMhgagYbUx9td4"
+      },
+      {
+        "week": "23-52",
+        "artist": "The Bigger Lights",
+        "listeners": 15848,
+        "spotify_popularity": 5,
+        "spotify_id": "03TrEWhKFwzyTSk7ojkoku"
+      },
+      {
+        "week": "24-01",
+        "artist": "Dr. Dre",
+        "listeners": 15687732,
+        "spotify_popularity": 78,
+        "spotify_id": "6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      {
+        "week": "24-03",
+        "artist": "Natasha Bedingfield",
+        "listeners": 1958826,
+        "spotify_popularity": 71,
+        "spotify_id": "7o95ZoZt5ZYn31e9z1Hc0a"
+      },
+      {
+        "week": "24-08",
+        "artist": "Snoop Dogg",
+        "listeners": 16488831,
+        "spotify_popularity": 81,
+        "spotify_id": "7hJcb9fa4alzcOq3EaNPoG"
+      },
+      {
+        "week": "24-09",
+        "artist": "Busta Rhymes",
+        "listeners": 3290544,
+        "spotify_popularity": 70,
+        "spotify_id": "1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      {
+        "week": "24-23",
+        "artist": "Sabrina Carpenter",
+        "listeners": 29801077,
+        "spotify_popularity": 89,
+        "spotify_id": "74KM79TiuVKeVCqs8QtB0B"
+      }
+    ]
+  },
+  "Folk / Country / Americana": {
+    "not_added": [
+      {
+        "artist": "Johnny Cash",
+        "listeners": 7038022,
+        "spotify_popularity": 73,
+        "spotify_id": "6kACVPfCOnqzgfEF5ryl0x"
+      },
+      {
+        "artist": "Ray LaMontagne",
+        "listeners": 1114058,
+        "spotify_popularity": 62,
+        "spotify_id": "6DoH7ywD5BcQvjloe9OcIj"
+      },
+      {
+        "artist": "Emmylou Harris",
+        "listeners": 435655,
+        "spotify_popularity": 58,
+        "spotify_id": "5s6TJEuHTr9GR894wc6VfP"
+      },
+      {
+        "artist": "Sturgill Simpson",
+        "listeners": 1039278,
+        "spotify_popularity": 61,
+        "spotify_id": "3vDpQbGnzRbRVirXlfQagB"
+      },
+      {
+        "artist": "Loretta Lynn",
+        "listeners": 849210,
+        "spotify_popularity": 53,
+        "spotify_id": "1FE0rls8gfQT3laAeRYNgl"
+      },
+      {
+        "artist": "John Prine",
+        "listeners": 644386,
+        "spotify_popularity": 57,
+        "spotify_id": "0nJUwPwC9Ti4vvuJ0q3MfT"
+      },
+      {
+        "artist": "Gillian Welch",
+        "listeners": 267599,
+        "spotify_popularity": 49,
+        "spotify_id": "2H5elA2mJKrHmqkN9GSfkz"
+      },
+      {
+        "artist": "The Chieftains",
+        "listeners": 124770,
+        "spotify_popularity": 45,
+        "spotify_id": "6AnrSlk5Gp1YMXgaI3mWCL"
+      },
+      {
+        "artist": "Gnoss",
+        "listeners": 25282,
+        "spotify_popularity": 35,
+        "spotify_id": "4QwjOokQ9W6ZEjk3b9Rplj"
+      },
+      {
+        "artist": "Altan",
+        "listeners": 36192,
+        "spotify_popularity": 30,
+        "spotify_id": "6koEjb4607APXtFtjxvA5T"
+      },
+      {
+        "artist": "Townes Van Zandt",
+        "listeners": 395176,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "3ZWab2LEVkNKiBPIClTwof"
+      },
+      {
+        "artist": "Iris DeMent",
+        "listeners": 99655,
+        "recommended": true,
+        "spotify_popularity": 46,
+        "spotify_id": "3NPZs8XgXtaWslUcnIw6rY"
+      },
+      {
+        "artist": "Nanci Griffith",
+        "listeners": 112720,
+        "recommended": true,
+        "spotify_popularity": 42,
+        "spotify_id": "5CAiy5rDr3LaSoGtJOq6A0"
+      },
+      {
+        "artist": "Lucinda Williams",
+        "listeners": 286858,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "60ht0hWRy1yjUDfNsLuHuP"
+      },
+      {
+        "artist": "Jason Isbell",
+        "listeners": 482065,
+        "recommended": true,
+        "spotify_popularity": 51,
+        "spotify_id": "3Q8wgwyVVv0z4UEh1HB0KY"
+      },
+      {
+        "artist": "Anais Mitchell",
+        "listeners": 81084,
+        "recommended": true,
+        "spotify_popularity": 63,
+        "spotify_id": "7K5Lm5dxoEwEpOS0Fc3l3s"
+      },
+      {
+        "artist": "Rhiannon Giddens",
+        "listeners": 177816,
+        "recommended": true,
+        "spotify_popularity": 46,
+        "spotify_id": "1EI0NtLHoh9KBziYCeN1vM"
+      },
+      {
+        "artist": "Iron & Wine",
+        "listeners": 1173835,
+        "recommended": true,
+        "spotify_popularity": 61,
+        "spotify_id": "4M5nCE77Qaxayuhp3fVn4V"
+      },
+      {
+        "artist": "Fleet Foxes",
+        "listeners": 1474085,
+        "recommended": true,
+        "spotify_popularity": 63,
+        "spotify_id": "4EVpmkEwrLYEg6jIsiPMIb"
+      },
+      {
+        "artist": "Sufjan Stevens",
+        "listeners": 2453974,
+        "recommended": true,
+        "spotify_popularity": 72,
+        "spotify_id": "4MXUO7sVCaFgFjoTI5ox5c"
+      },
+      {
+        "artist": "Bonnie Raitt",
+        "listeners": 825315,
+        "recommended": true,
+        "spotify_popularity": 57,
+        "spotify_id": "4KDyYWR7IpxZ7xrdYbKrqY"
+      },
+      {
+        "artist": "Kris Kristofferson",
+        "listeners": 720708,
+        "recommended": true,
+        "spotify_popularity": 61,
+        "spotify_id": "0vYQRW5LIDeYQOccTviQNX"
+      },
+      {
+        "artist": "Hank Williams",
+        "listeners": 1088229,
+        "recommended": true,
+        "spotify_popularity": 56,
+        "spotify_id": "1FClsNYBUoNFtGgzeG74dW"
+      },
+      {
+        "artist": "Merle Haggard",
+        "listeners": 1551114,
+        "recommended": true,
+        "spotify_popularity": 60,
+        "spotify_id": "2ptmyXoL7poH6Zq62h1QT9"
+      },
+      {
+        "artist": "Patsy Cline",
+        "listeners": 978183,
+        "recommended": true,
+        "spotify_popularity": 57,
+        "spotify_id": "7dNsHhGeGU5MV01r06O8gK"
+      },
+      {
+        "artist": "Dolly Parton",
+        "listeners": 3077601,
+        "recommended": true,
+        "spotify_popularity": 71,
+        "spotify_id": "32vWCbZh0xZ4o9gkz4PsEU"
+      },
+      {
+        "artist": "Willie Nelson",
+        "listeners": 2644932,
+        "recommended": true,
+        "spotify_popularity": 69,
+        "spotify_id": "5W5bDNCqJ1jbCgTxDD0Cb3"
+      },
+      {
+        "artist": "Joni Mitchell",
+        "listeners": 1677360,
+        "recommended": true,
+        "spotify_popularity": 61,
+        "spotify_id": "5hW4L92KnC6dX9t7tYM4Ve"
+      },
+      {
+        "artist": "Nick Drake",
+        "listeners": 985967,
+        "recommended": true,
+        "spotify_popularity": 60,
+        "spotify_id": "5c3GLXai8YOMid29ZEuR9y"
+      },
+      {
+        "artist": "Joanna Newsom",
+        "listeners": 136532,
+        "recommended": true,
+        "spotify_popularity": 37,
+        "spotify_id": "4gn6f5jaOO75s0oF7ozqGG"
+      },
+      {
+        "artist": "Bill Callahan",
+        "listeners": 193713,
+        "recommended": true,
+        "spotify_popularity": 46,
+        "spotify_id": "7gqsi6aBSkRMJoL9psKqMr"
+      },
+      {
+        "artist": "Neutral Milk Hotel",
+        "listeners": 814554,
+        "recommended": true,
+        "spotify_popularity": 55,
+        "spotify_id": "2ooIqOf4X2uz4mMptXCtie"
+      },
+      {
+        "artist": "Devendra Banhart",
+        "listeners": 643737,
+        "recommended": true,
+        "spotify_popularity": 53,
+        "spotify_id": "1YZEoYFXx4AxVv13OiOPvZ"
+      },
+      {
+        "artist": "Phosphorescent",
+        "listeners": 259498,
+        "recommended": true,
+        "spotify_popularity": 48,
+        "spotify_id": "57kIMCLPgkzQlXjblX7XXP"
+      }
+    ],
+    "added": [
+      {
+        "week": "23-49",
+        "artist": "Earlimart",
+        "listeners": 8031,
+        "spotify_popularity": 17,
+        "spotify_id": "4U5dJPiHBoGjq6GGtth4TF"
+      },
+      {
+        "week": "23-49",
+        "artist": "Mary Spender",
+        "listeners": 30999,
+        "spotify_popularity": 25,
+        "spotify_id": "6ENk6p7Q8Gd5bxkjTdVgj6"
+      },
+      {
+        "week": "23-49",
+        "artist": "Natalie Merchant",
+        "listeners": 462335,
+        "spotify_popularity": 52,
+        "spotify_id": "73JEBdDEFeVaOLg3y0HhBD"
+      },
+      {
+        "week": "23-49",
+        "artist": "Parson Red Heads",
+        "listeners": 2278,
+        "spotify_popularity": 4,
+        "spotify_id": "491LAqloXBTJmjhD8UUwoE"
+      },
+      {
+        "week": "24-14",
+        "artist": "Luke Bryan",
+        "listeners": 9528344,
+        "spotify_popularity": 74,
+        "spotify_id": "0BvkDsjIUla7X0k6CSWh1I"
+      },
+      {
+        "week": "24-27",
+        "artist": "Fenne Lily",
+        "listeners": 112252,
+        "spotify_popularity": 41,
+        "spotify_id": "7iPH2BRBF9wKa6ljxvdext"
+      }
+    ]
+  },
+  "Jazz / Blues / Soul / Funk": {
+    "not_added": [
+      {
+        "artist": "Anderson .Paak",
+        "listeners": 2746196,
+        "spotify_popularity": 75,
+        "spotify_id": "3jK9MiCrA42lLAdMGUZpwa"
+      },
+      {
+        "artist": "Frank Sinatra",
+        "listeners": 8695773,
+        "spotify_popularity": 78,
+        "spotify_id": "1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      {
+        "artist": "Celia Cruz",
+        "listeners": 749468,
+        "spotify_popularity": 63,
+        "spotify_id": "2weA6hhVqTIN2gSn9PUB9U"
+      },
+      {
+        "artist": "Ella Fitzgerald",
+        "listeners": 2792082,
+        "spotify_popularity": 68,
+        "spotify_id": "5V0MlUE1Bft0mbLlND7FJz"
+      },
+      {
+        "artist": "Count Basie",
+        "listeners": 417750,
+        "spotify_popularity": 60,
+        "spotify_id": "2jFZlvIea42ZvcCw4OeEdA"
+      },
+      {
+        "artist": "B.B. King",
+        "listeners": 2886325,
+        "spotify_popularity": 60,
+        "spotify_id": "5xLSa7l4IV1gsQfhAMvl0U"
+      },
+      {
+        "artist": "Brian Eno",
+        "listeners": 852011,
+        "spotify_popularity": 60,
+        "spotify_id": "7MSUfLeTdDEoZiJPDSBXgi"
+      },
+      {
+        "artist": "Glenn Miller",
+        "listeners": 589427,
+        "spotify_popularity": 55,
+        "spotify_id": "2aAHdB5HweT3mFcRzm0swc"
+      },
+      {
+        "artist": "John Lee Hooker",
+        "listeners": 932096,
+        "spotify_popularity": 53,
+        "spotify_id": "1yNOfXGQNGjAynk77wv85x"
+      },
+      {
+        "artist": "Muddy Waters",
+        "listeners": 1367330,
+        "spotify_popularity": 52,
+        "spotify_id": "4y6J8jwRAwO4dssiSmN91R"
+      },
+      {
+        "artist": "Buddy Guy",
+        "listeners": 890726,
+        "spotify_popularity": 51,
+        "spotify_id": "2gCsNOpiBaMNh20jQ5prf0"
+      },
+      {
+        "artist": "Tito Puente",
+        "listeners": 208015,
+        "spotify_popularity": 47,
+        "spotify_id": "6SPpCqM8gOzrtICAxN5NuX"
+      },
+      {
+        "artist": "Freddie King",
+        "listeners": 425539,
+        "spotify_popularity": 49,
+        "spotify_id": "5dCuFngSPyOOnTAvrC7v2s"
+      },
+      {
+        "artist": "Cliff Edwards",
+        "listeners": 12389,
+        "spotify_popularity": 41,
+        "spotify_id": "0aeRagbqQCOKkVURrvcMrn"
+      },
+      {
+        "artist": "Fela Kuti",
+        "listeners": 714797,
+        "spotify_popularity": 49,
+        "spotify_id": "5CG9X521RDFWCuAhlo6QoR"
+      },
+      {
+        "artist": "Tony Allen",
+        "listeners": 143100,
+        "spotify_popularity": 46,
+        "spotify_id": "6JpZEemWmunccsrHXFUOgi"
+      },
+      {
+        "artist": "Miles Davis",
+        "listeners": 2795036,
+        "recommended": true,
+        "spotify_popularity": 63,
+        "spotify_id": "0kbYTNQb4Pb1rPbbaF0pT4"
+      },
+      {
+        "artist": "John Coltrane",
+        "listeners": 1874891,
+        "recommended": true,
+        "spotify_popularity": 65,
+        "spotify_id": "2hGh5VOeeqimQFxqXvfCUf"
+      },
+      {
+        "artist": "Thelonious Monk",
+        "listeners": 743275,
+        "recommended": true,
+        "spotify_popularity": 51,
+        "spotify_id": "4PDpGtF16XpqvXxsrFwQnN"
+      },
+      {
+        "artist": "Duke Ellington",
+        "listeners": 985519,
+        "recommended": true,
+        "spotify_popularity": 58,
+        "spotify_id": "4F7Q5NV6h5TSwCainz8S5A"
+      },
+      {
+        "artist": "Louis Armstrong",
+        "listeners": 3314075,
+        "recommended": true,
+        "spotify_popularity": 69,
+        "spotify_id": "19eLuQmk9aCobbVDHc6eek"
+      },
+      {
+        "artist": "Billie Holiday",
+        "listeners": 2109216,
+        "recommended": true,
+        "spotify_popularity": 63,
+        "spotify_id": "1YzCsTRb22dQkh9lghPIrp"
+      },
+      {
+        "artist": "Nina Simone",
+        "listeners": 3319842,
+        "recommended": true,
+        "spotify_popularity": 68,
+        "spotify_id": "7G1GBhoKtEPnP86X2PvEYO"
+      },
+      {
+        "artist": "Herbie Hancock",
+        "listeners": 809733,
+        "recommended": true,
+        "spotify_popularity": 55,
+        "spotify_id": "2ZvrvbQNrHKwjT7qfGFFUW"
+      },
+      {
+        "artist": "Stevie Wonder",
+        "listeners": 7292634,
+        "recommended": true,
+        "spotify_popularity": 75,
+        "spotify_id": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      {
+        "artist": "Aretha Franklin",
+        "listeners": 3903676,
+        "recommended": true,
+        "spotify_popularity": 68,
+        "spotify_id": "7nwUJBm0HE4ZxD3f5cy5ok"
+      },
+      {
+        "artist": "Marvin Gaye",
+        "listeners": 6171509,
+        "recommended": true,
+        "spotify_popularity": 74,
+        "spotify_id": "3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "artist": "Curtis Mayfield",
+        "listeners": 1206124,
+        "recommended": true,
+        "spotify_popularity": 56,
+        "spotify_id": "2AV6XDIs32ofIJhkkDevjm"
+      },
+      {
+        "artist": "James Brown",
+        "listeners": 2370364,
+        "recommended": true,
+        "spotify_popularity": 62,
+        "spotify_id": "7GaxyUddsPok8BuhxN6OUW"
+      },
+      {
+        "artist": "Sly & the Family Stone",
+        "listeners": 1113102,
+        "recommended": true,
+        "spotify_popularity": 54,
+        "spotify_id": "5m8H6zSadhu1j9Yi04VLqD"
+      },
+      {
+        "artist": "Parliament-Funkadelic",
+        "listeners": 44849,
+        "recommended": true,
+        "spotify_popularity": 40,
+        "spotify_id": "6XswoC68grx55in1WQnJ7E"
+      },
+      {
+        "artist": "Gil Scott-Heron",
+        "listeners": 392678,
+        "recommended": true,
+        "spotify_popularity": 47,
+        "spotify_id": "0kEfub5RzlZOB2zGomqVSU"
+      },
+      {
+        "artist": "Robert Johnson",
+        "listeners": 635706,
+        "recommended": true,
+        "spotify_popularity": 43,
+        "spotify_id": "0f8MDDzIc6M4uH1xH0o0gy"
+      }
+    ],
+    "added": [
+      {
+        "week": "23-07",
+        "artist": "Stevie Ray Vaughan",
+        "listeners": 2653496,
+        "spotify_popularity": 60,
+        "spotify_id": "5fsDcuclIe8ZiBD5P787K1"
+      },
+      {
+        "week": "23-13",
+        "artist": "Vulfpeck",
+        "listeners": 1066542,
+        "spotify_popularity": 56,
+        "spotify_id": "7pXu47GoqSYRajmBCjxdD6"
+      },
+      {
+        "week": "23-15",
+        "artist": "Charles Mingus",
+        "listeners": 522917,
+        "spotify_popularity": 47,
+        "spotify_id": "1W8TbFzNS15VwsempfY12H"
+      },
+      {
+        "week": "23-16",
+        "artist": "Charlie Parker",
+        "listeners": 689676,
+        "spotify_popularity": 50,
+        "spotify_id": "4Ww5mwS7BWYjoZTUIrMHfC"
+      },
+      {
+        "week": "23-51",
+        "artist": "Vulfpeck",
+        "listeners": 1066542,
+        "spotify_popularity": 56,
+        "spotify_id": "7pXu47GoqSYRajmBCjxdD6"
+      },
+      {
+        "week": "23-52",
+        "artist": "Fearless Flyers",
+        "listeners": 206553,
+        "spotify_popularity": 43,
+        "spotify_id": "1JyLSGXC3aWzjY6ZdxvIXh"
+      },
+      {
+        "week": "23-52",
+        "artist": "Richie Kotzen",
+        "listeners": 168533,
+        "spotify_popularity": 41,
+        "spotify_id": "6nYo7m5cO64bANRvilwVBb"
+      }
+    ]
+  }
+}
