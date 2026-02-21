@@ -1182,5 +1182,13 @@
     "sourceFile": "data/artistTop10.json",
     "strategy": "artistGenre",
     "timestamp": "2026-02-21T00:58:41.736Z"
+  },
+  {
+    "action": "add",
+    "artist": "Alter Bridge",
+    "album": "One Day Remains",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-21T02:39:59.687Z"
   }
 ]
