@@ -1147,5 +1147,13 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-19T22:14:01.584Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Young Rascals",
+    "album": "Groovin' (1967)",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-21T00:54:49.658Z"
   }
 ]
