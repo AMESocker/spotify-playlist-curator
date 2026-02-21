@@ -526,6 +526,12 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
+        "artist": "Stars of the Lid",
+        "listeners": 101976,
+        "spotify_popularity": 41,
+        "spotify_id": "36pCa1JHc6hlGbfEmLzJQc"
+      },
+      {
         "artist": "Bob Marley",
         "listeners": 13632072,
         "spotify_popularity": 79,
@@ -554,12 +560,6 @@
         "listeners": 191236,
         "spotify_popularity": 47,
         "spotify_id": "0VOR7Ie9xUSb45fzIIVJQ1"
-      },
-      {
-        "artist": "Stars of the Lid",
-        "listeners": 101976,
-        "spotify_popularity": 41,
-        "spotify_id": "36pCa1JHc6hlGbfEmLzJQc"
       },
       {
         "artist": "Peter Tosh",

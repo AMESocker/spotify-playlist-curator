@@ -1155,5 +1155,22 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-02-21T00:54:49.658Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Dolly Parton",
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-21T00:56:37.859Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2026-01-30",
+    "tracksAdded": 4,
+    "tracksSkipped": 1,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-02-21T00:56:38.369Z"
   }
 ]

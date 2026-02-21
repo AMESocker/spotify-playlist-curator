@@ -1,71 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2026-01-30",
-      "albums": [
-        {
-          "title": "Attitude Adjustment",
-          "artist": "Buzzcocks",
-          "spotifyTrack": {
-            "id": "33htjBm6s6M1568XX14jIQ",
-            "name": "Games",
-            "uri": "spotify:track:33htjBm6s6M1568XX14jIQ",
-            "popularity": 33,
-            "albumName": "Attitude Adjustment",
-            "albumId": "1gcAl3qytDpuAMzK2dKNjo",
-            "foundAt": "2026-02-04T20:03:14.628Z"
-          }
-        },
-        {
-          "title": "Nineteen Seventy Seven",
-          "artist": "Grupo Um",
-          "spotifyTrack": {
-            "id": "3uUmXuZ9h5styPpj4Zp8SH",
-            "name": "Absurdo Mudo",
-            "uri": "spotify:track:3uUmXuZ9h5styPpj4Zp8SH",
-            "popularity": 16,
-            "albumName": "Nineteen Seventy Seven",
-            "albumId": "0yTvY5VFKRJgzWgxDGx08I",
-            "foundAt": "2026-02-04T20:03:16.126Z"
-          }
-        },
-        {
-          "title": "Gospel Music",
-          "artist": "Joel Ross",
-          "spotifyTrack": {
-            "id": "0nONfdSjBptV3MtphsdYDc",
-            "name": "Trinity (Father, Son, and Holy Spirit)",
-            "uri": "spotify:track:0nONfdSjBptV3MtphsdYDc",
-            "popularity": 34,
-            "albumName": "Gospel Music",
-            "albumId": "52H41dJZIWXp6SjvXF0Gie",
-            "foundAt": "2026-02-04T20:03:17.965Z"
-          }
-        },
-        {
-          "title": "While I Was Away",
-          "artist": "Julia HülsmannJulia Hülsmann OctetJulia Husmann",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-19T10:54:12.392Z"
-          }
-        },
-        {
-          "title": "Labor of Love",
-          "artist": "Tinsley Ellis",
-          "spotifyTrack": {
-            "id": "4OzazzaU3Jv3Sf2czAp2kr",
-            "name": "Too Broke",
-            "uri": "spotify:track:4OzazzaU3Jv3Sf2czAp2kr",
-            "popularity": 33,
-            "albumName": "Labor Of Love",
-            "albumId": "3tM2BhfXRTk19q2aD2fLhf",
-            "foundAt": "2026-02-04T20:03:20.342Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2026-01-23",
       "albums": [
         {
@@ -5019,6 +4954,73 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2026-01-30",
+      "albums": [
+        {
+          "title": "Attitude Adjustment",
+          "artist": "Buzzcocks",
+          "spotifyTrack": {
+            "id": "33htjBm6s6M1568XX14jIQ",
+            "name": "Games",
+            "uri": "spotify:track:33htjBm6s6M1568XX14jIQ",
+            "popularity": 33,
+            "albumName": "Attitude Adjustment",
+            "albumId": "1gcAl3qytDpuAMzK2dKNjo",
+            "foundAt": "2026-02-04T20:03:14.628Z"
+          }
+        },
+        {
+          "title": "Nineteen Seventy Seven",
+          "artist": "Grupo Um",
+          "spotifyTrack": {
+            "id": "3uUmXuZ9h5styPpj4Zp8SH",
+            "name": "Absurdo Mudo",
+            "uri": "spotify:track:3uUmXuZ9h5styPpj4Zp8SH",
+            "popularity": 16,
+            "albumName": "Nineteen Seventy Seven",
+            "albumId": "0yTvY5VFKRJgzWgxDGx08I",
+            "foundAt": "2026-02-04T20:03:16.126Z"
+          }
+        },
+        {
+          "title": "Gospel Music",
+          "artist": "Joel Ross",
+          "spotifyTrack": {
+            "id": "0nONfdSjBptV3MtphsdYDc",
+            "name": "Trinity (Father, Son, and Holy Spirit)",
+            "uri": "spotify:track:0nONfdSjBptV3MtphsdYDc",
+            "popularity": 34,
+            "albumName": "Gospel Music",
+            "albumId": "52H41dJZIWXp6SjvXF0Gie",
+            "foundAt": "2026-02-04T20:03:17.965Z"
+          }
+        },
+        {
+          "title": "While I Was Away",
+          "artist": "Julia HülsmannJulia Hülsmann OctetJulia Husmann",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-19T10:54:12.392Z"
+          }
+        },
+        {
+          "title": "Labor of Love",
+          "artist": "Tinsley Ellis",
+          "spotifyTrack": {
+            "id": "4OzazzaU3Jv3Sf2czAp2kr",
+            "name": "Too Broke",
+            "uri": "spotify:track:4OzazzaU3Jv3Sf2czAp2kr",
+            "popularity": 33,
+            "albumName": "Labor Of Love",
+            "albumId": "3tM2BhfXRTk19q2aD2fLhf",
+            "foundAt": "2026-02-04T20:03:20.342Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-02-21T00:56:38.367Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2026-02-06",
       "albums": [
