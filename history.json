@@ -1190,5 +1190,13 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-21T02:39:59.687Z"
+  },
+  {
+    "action": "add",
+    "artist": "Alexander Spence",
+    "album": "Oar",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-21T18:44:12.604Z"
   }
 ]
