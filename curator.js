@@ -13,10 +13,11 @@ import { handleArtistGenre } from "./artistGenreStrategy.js";
 //* ─── TODOs ──────────────────────────────────────────────────────────────────────
 
 // Todo - Get new albums from Wikipedia from dates more then 7 days ago. If Artist is from new albums or all music is on Artist disc add full album otherwise add top track.
-// Todo - Add Artist Top 10 source + format data + label genres
-// Todo - Add Top of the Month data with date and playlist info. If artist not in Artist Disc or Top 10, add to Top 10 source.
+
 // Todo - Add Disney/Pixar Movie Soundtracks source
 // Todo - Add Classical Composers source
+// Todo - Add
+
 // Todo - Add non-explicit tracks to a second clean playlist (filter trackItems by explicit flag in addTracks).
 
 //* ─── DATA SOURCES ──────────────────────────────────────────────────────────────────────
