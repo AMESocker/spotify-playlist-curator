@@ -1583,7 +1583,6 @@
     "Artist": "Alter Bridge",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "One Day Remains",
       "Blackbird",
       "AB III",
       "Fortress",
@@ -1591,7 +1590,9 @@
       "Pawns & Kings",
       "Alter Bridge"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "One Day Remains"
+    ]
   },
   {
     "Artist": "Godsmack",
