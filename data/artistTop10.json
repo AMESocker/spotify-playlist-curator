@@ -526,12 +526,6 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
-        "artist": "Lee Scratch Perry",
-        "listeners": 225787,
-        "spotify_popularity": 43,
-        "spotify_id": "1TsG4AumsMt1Tcq2nHpov9"
-      },
-      {
         "artist": "Bob Marley",
         "listeners": 13632072,
         "spotify_popularity": 79,
@@ -800,6 +794,13 @@
         "artist": "Hammock",
         "listeners": 191236,
         "spotify_id": "0VOR7Ie9xUSb45fzIIVJQ1",
+        "recommended": false,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Lee Scratch Perry",
+        "listeners": 225787,
+        "spotify_id": "1TsG4AumsMt1Tcq2nHpov9",
         "recommended": false,
         "tracksAdded": 10
       }
