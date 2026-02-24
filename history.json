@@ -1233,5 +1233,13 @@
     "sourceFile": "data/classicalMusic.json",
     "strategy": "sequential",
     "timestamp": "2026-02-23T19:02:14.811Z"
+  },
+  {
+    "action": "add",
+    "artist": "Radiohead",
+    "album": "The Bends",
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-24T01:42:31.226Z"
   }
 ]
