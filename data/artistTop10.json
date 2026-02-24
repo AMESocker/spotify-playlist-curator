@@ -526,6 +526,12 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
+        "artist": "Lee Scratch Perry",
+        "listeners": 225787,
+        "spotify_popularity": 43,
+        "spotify_id": "1TsG4AumsMt1Tcq2nHpov9"
+      },
+      {
         "artist": "Bob Marley",
         "listeners": 13632072,
         "spotify_popularity": 79,
@@ -542,12 +548,6 @@
         "listeners": 2777701,
         "spotify_popularity": 69,
         "spotify_id": "6FXMGgJwohJLUSr5nVlf9X"
-      },
-      {
-        "artist": "Lee Scratch Perry",
-        "listeners": 225787,
-        "spotify_popularity": 43,
-        "spotify_id": "1TsG4AumsMt1Tcq2nHpov9"
       },
       {
         "artist": "Peter Tosh",

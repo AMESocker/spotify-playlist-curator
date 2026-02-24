@@ -1,97 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2026-02-20",
-      "albums": [
-        {
-          "title": "Light-Years",
-          "artist": "DJ PremierNas",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-22T04:27:08.242Z"
-          }
-        },
-        {
-          "title": "Garip",
-          "artist": "Altin Gün",
-          "spotifyTrack": {
-            "id": "5nmIIOAW6vyOZaC3RFu3p7",
-            "name": "Neredesin Sen",
-            "uri": "spotify:track:5nmIIOAW6vyOZaC3RFu3p7",
-            "popularity": 0,
-            "albumName": "Garip",
-            "albumId": "4vyKfkFjgdgSSIpahq5kDU",
-            "foundAt": "2026-02-22T04:27:09.995Z"
-          }
-        },
-        {
-          "title": "Luck... Or Something",
-          "artist": "Hilary Duff",
-          "spotifyTrack": {
-            "id": "7lPuRK4llInMs7m7lGkDCM",
-            "name": "Weather For Tennis",
-            "uri": "spotify:track:7lPuRK4llInMs7m7lGkDCM",
-            "popularity": 0,
-            "albumName": "luck... or something",
-            "albumId": "71t4M602DGtkhsy1RtNAME",
-            "foundAt": "2026-02-22T04:27:11.406Z"
-          }
-        },
-        {
-          "title": "No Lube So Rude",
-          "artist": "Peaches",
-          "spotifyTrack": {
-            "id": "4YZo3EOSLPaa8HcAuQdOPN",
-            "name": "Hanging Titties",
-            "uri": "spotify:track:4YZo3EOSLPaa8HcAuQdOPN",
-            "popularity": 0,
-            "albumName": "No Lube So Rude",
-            "albumId": "6gCIqW8uTdkgNNnXmDj5rD",
-            "foundAt": "2026-02-22T04:27:12.820Z"
-          }
-        },
-        {
-          "title": "The Patterns Lost to Air",
-          "artist": "Marielle V Jakobsons",
-          "spotifyTrack": {
-            "id": "67aLdmfqVwvDymVpNIJYx1",
-            "name": "Warm Spring",
-            "uri": "spotify:track:67aLdmfqVwvDymVpNIJYx1",
-            "popularity": 0,
-            "albumName": "The Patterns Lost to Air",
-            "albumId": "3M6Vymi9zqeTgZFOAAZQyx",
-            "foundAt": "2026-02-22T04:27:14.408Z"
-          }
-        },
-        {
-          "title": "My World Is the Sun",
-          "artist": "Dominique Fils-Aimé",
-          "spotifyTrack": {
-            "id": "3WW3sxxfey5GongYkhUytD",
-            "name": "Ma Mélodie [intro]",
-            "uri": "spotify:track:3WW3sxxfey5GongYkhUytD",
-            "popularity": 0,
-            "albumName": "My World Is The Sun",
-            "albumId": "2h1iYX66Vxm2DLFZgrdMp4",
-            "foundAt": "2026-02-22T04:27:15.914Z"
-          }
-        },
-        {
-          "title": "Everything Happens to Me 1959  [Live at The Cellar]",
-          "artist": "Art Pepper",
-          "spotifyTrack": {
-            "id": "0FpYTmCDBi5mCpezSObL7P",
-            "name": "When You're Smiling - Incomplete - Live at The Cellar, 1959",
-            "uri": "spotify:track:0FpYTmCDBi5mCpezSObL7P",
-            "popularity": 0,
-            "albumName": "Everything Happens To Me: 1959 - Live At The Cellar",
-            "albumId": "5ypD7gjLXxHPUJIBMxvR4D",
-            "foundAt": "2026-02-22T04:27:17.539Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2026-01-16",
       "albums": [
         {
@@ -4954,6 +4863,99 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2026-02-20",
+      "albums": [
+        {
+          "title": "Light-Years",
+          "artist": "DJ PremierNas",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-22T04:27:08.242Z"
+          }
+        },
+        {
+          "title": "Garip",
+          "artist": "Altin Gün",
+          "spotifyTrack": {
+            "id": "5nmIIOAW6vyOZaC3RFu3p7",
+            "name": "Neredesin Sen",
+            "uri": "spotify:track:5nmIIOAW6vyOZaC3RFu3p7",
+            "popularity": 0,
+            "albumName": "Garip",
+            "albumId": "4vyKfkFjgdgSSIpahq5kDU",
+            "foundAt": "2026-02-22T04:27:09.995Z"
+          }
+        },
+        {
+          "title": "Luck... Or Something",
+          "artist": "Hilary Duff",
+          "spotifyTrack": {
+            "id": "7lPuRK4llInMs7m7lGkDCM",
+            "name": "Weather For Tennis",
+            "uri": "spotify:track:7lPuRK4llInMs7m7lGkDCM",
+            "popularity": 0,
+            "albumName": "luck... or something",
+            "albumId": "71t4M602DGtkhsy1RtNAME",
+            "foundAt": "2026-02-22T04:27:11.406Z"
+          }
+        },
+        {
+          "title": "No Lube So Rude",
+          "artist": "Peaches",
+          "spotifyTrack": {
+            "id": "4YZo3EOSLPaa8HcAuQdOPN",
+            "name": "Hanging Titties",
+            "uri": "spotify:track:4YZo3EOSLPaa8HcAuQdOPN",
+            "popularity": 0,
+            "albumName": "No Lube So Rude",
+            "albumId": "6gCIqW8uTdkgNNnXmDj5rD",
+            "foundAt": "2026-02-22T04:27:12.820Z"
+          }
+        },
+        {
+          "title": "The Patterns Lost to Air",
+          "artist": "Marielle V Jakobsons",
+          "spotifyTrack": {
+            "id": "67aLdmfqVwvDymVpNIJYx1",
+            "name": "Warm Spring",
+            "uri": "spotify:track:67aLdmfqVwvDymVpNIJYx1",
+            "popularity": 0,
+            "albumName": "The Patterns Lost to Air",
+            "albumId": "3M6Vymi9zqeTgZFOAAZQyx",
+            "foundAt": "2026-02-22T04:27:14.408Z"
+          }
+        },
+        {
+          "title": "My World Is the Sun",
+          "artist": "Dominique Fils-Aimé",
+          "spotifyTrack": {
+            "id": "3WW3sxxfey5GongYkhUytD",
+            "name": "Ma Mélodie [intro]",
+            "uri": "spotify:track:3WW3sxxfey5GongYkhUytD",
+            "popularity": 0,
+            "albumName": "My World Is The Sun",
+            "albumId": "2h1iYX66Vxm2DLFZgrdMp4",
+            "foundAt": "2026-02-22T04:27:15.914Z"
+          }
+        },
+        {
+          "title": "Everything Happens to Me 1959  [Live at The Cellar]",
+          "artist": "Art Pepper",
+          "spotifyTrack": {
+            "id": "0FpYTmCDBi5mCpezSObL7P",
+            "name": "When You're Smiling - Incomplete - Live at The Cellar, 1959",
+            "uri": "spotify:track:0FpYTmCDBi5mCpezSObL7P",
+            "popularity": 0,
+            "albumName": "Everything Happens To Me: 1959 - Live At The Cellar",
+            "albumId": "5ypD7gjLXxHPUJIBMxvR4D",
+            "foundAt": "2026-02-22T04:27:17.539Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-02-24T18:29:15.802Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2026-01-23",
       "albums": [
