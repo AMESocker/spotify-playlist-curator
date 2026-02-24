@@ -1241,5 +1241,13 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-02-24T01:42:31.226Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Jesus and Mary Chain",
+    "album": "Darklands (1987)",
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-24T05:48:06.608Z"
   }
 ]
