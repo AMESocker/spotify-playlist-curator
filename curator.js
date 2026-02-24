@@ -15,11 +15,11 @@ import { handleArtistGenre } from "./artistGenreStrategy.js";
 // Todo - Get new albums from Wikipedia from dates more then 7 days ago. If Artist is from new albums or all music is on Artist disc add full album otherwise add top track.
 
 // Todo - Add Disney/Pixar Movie Soundtracks source
-// Todo - Add Classical Composers source ✅ Added: classicalMusic (1001 Pieces of Classical Music)
 // Todo - Add
 
 // Todo - Add non-explicit tracks to a second clean playlist (filter trackItems by explicit flag in addTracks).
 
+// Add Classical Composers source ✅ Added: classicalMusic (1001 Pieces of Classical Music)
 //* ─── DATA SOURCES ─────────────────────────────────────────────────────────
 
 const dataSources = [
@@ -119,9 +119,9 @@ function selectWithFairness(dataset) {
   return candidate ?? null;
 }
 
-//* ─── SEQUENTIAL STRATEGY ───────────────────────────────────
+//* ─── RANDOM STRATEGY ───────────────────────────────────
 
-function selectSequential(dataset) {
+function selectRandom(dataset) {
   if (dataset.master?.length > 0) {
     const randomIndex = Math.floor(Math.random() * dataset.master.length);
     const albumString = dataset.master[randomIndex];
@@ -291,7 +291,7 @@ async function handleRockHall(source, data) {
 async function handleAlbum(source, data) {
   const pick = source.strategy === "fairness"
     ? selectWithFairness(data)
-    : selectSequential(data);
+    : selectRandom(data);
 
   if (!pick) {
     console.log(`🎉 No albums left in ${source.name}`);
