@@ -125,7 +125,7 @@ function selectSequential(dataset) {
   if (dataset.master?.length > 0) {
     const randomIndex = Math.floor(Math.random() * dataset.master.length);
     const albumString = dataset.master[randomIndex];
-    console.log(`📀 Parsing: "${albumString}-${randomIndex}"`);
+    console.log(`📀 Parsing: "${albumString} - ${randomIndex}"`);
     const dashIndex = albumString.indexOf(' - ');
     if (dashIndex === -1) {
       console.log(`⚠️ Invalid format (no ' - ' separator): ${albumString}`);
@@ -258,7 +258,7 @@ async function handleRockHall(source, data) {
 
   const randomIndex = Math.floor(Math.random() * data.artists.length);
   const artistName = data.artists[randomIndex];
-  console.log(`Artist: ${artistName}-${randomIndex}`);
+  console.log(`Artist: ${artistName} - ${randomIndex}`);
 
   const result = await processRockHallArtist(artistName);
 
