@@ -526,12 +526,6 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
-        "artist": "Moby",
-        "listeners": 2146284,
-        "spotify_popularity": 69,
-        "spotify_id": "3OsRAKCvk37zwYcnzRf5XF"
-      },
-      {
         "artist": "Bob Marley",
         "listeners": 13632072,
         "spotify_popularity": 79,
@@ -801,6 +795,13 @@
         "artist": "Lee Scratch Perry",
         "listeners": 225787,
         "spotify_id": "1TsG4AumsMt1Tcq2nHpov9",
+        "recommended": false,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Moby",
+        "listeners": 2146284,
+        "spotify_id": "3OsRAKCvk37zwYcnzRf5XF",
         "recommended": false,
         "tracksAdded": 10
       }
