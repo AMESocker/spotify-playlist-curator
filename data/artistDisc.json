@@ -1486,7 +1486,6 @@
     "Artist": "Yellowcard",
     "Group": "🟢 Pop-Punk / Emo / Ska",
     "Albums": [
-      "Midget Tossing",
       "Where We Stand",
       "One for the Kids",
       "Ocean Avenue",
@@ -1497,7 +1496,9 @@
       "Lift a Sail",
       "Yellowcard"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "Midget Tossing [NOT FOUND]"
+    ]
   },
   {
     "Artist": "Amber Pacific",
@@ -1573,11 +1574,12 @@
     "Artist": "Creed",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "My Own Prison",
       "Human Clay",
       "Weathered"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "My Own Prison"
+    ]
   },
   {
     "Artist": "Alter Bridge",
