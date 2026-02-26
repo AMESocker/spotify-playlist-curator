@@ -526,16 +526,16 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
-        "artist": "Bob Marley",
-        "listeners": 13632072,
-        "spotify_popularity": 79,
-        "spotify_id": "2QsynagSdAqZj3U9HgDzjD"
-      },
-      {
         "artist": "Massive Attack",
         "listeners": 2777701,
         "spotify_popularity": 69,
         "spotify_id": "6FXMGgJwohJLUSr5nVlf9X"
+      },
+      {
+        "artist": "Bob Marley",
+        "listeners": 13632072,
+        "spotify_popularity": 79,
+        "spotify_id": "2QsynagSdAqZj3U9HgDzjD"
       },
       {
         "artist": "Peter Tosh",

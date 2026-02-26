@@ -1362,5 +1362,23 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-02-26T05:57:48.581Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Alice Cooper",
+    "index": 58,
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-26T19:01:09.851Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2026-01-09",
+    "tracksAdded": 1,
+    "tracksSkipped": 0,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-02-26T19:01:10.181Z"
   }
 ]

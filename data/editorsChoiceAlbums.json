@@ -1,24 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2026-01-09",
-      "albums": [
-        {
-          "title": "Secret Love",
-          "artist": "Dry Cleaning",
-          "spotifyTrack": {
-            "id": "0quJpknjZo8gMmwzMhiHb3",
-            "name": "Hit My Head All Day",
-            "uri": "spotify:track:0quJpknjZo8gMmwzMhiHb3",
-            "popularity": 53,
-            "albumName": "Secret Love",
-            "albumId": "79o6ZvFsXaAkL9MHCE6ts4",
-            "foundAt": "2026-02-05T18:42:44.415Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2026-01-02",
       "albums": []
     },
@@ -4800,6 +4782,26 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2026-01-09",
+      "albums": [
+        {
+          "title": "Secret Love",
+          "artist": "Dry Cleaning",
+          "spotifyTrack": {
+            "id": "0quJpknjZo8gMmwzMhiHb3",
+            "name": "Hit My Head All Day",
+            "uri": "spotify:track:0quJpknjZo8gMmwzMhiHb3",
+            "popularity": 53,
+            "albumName": "Secret Love",
+            "albumId": "79o6ZvFsXaAkL9MHCE6ts4",
+            "foundAt": "2026-02-05T18:42:44.415Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-02-26T19:01:10.179Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2026-01-16",
       "albums": [
