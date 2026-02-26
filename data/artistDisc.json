@@ -1380,14 +1380,15 @@
     "Artist": "Flying Lotus",
     "Group": "🟣 Electronic & Experimental",
     "Albums": [
-      "1983",
       "Los Angeles",
       "Cosmogramma",
       "Until the Quiet Comes",
       "You're Dead!",
       "Flamagra"
     ],
-    "AddedAlbums": []
+    "AddedAlbums": [
+      "1983 [NOT FOUND]"
+    ]
   },
   {
     "Artist": "Iron & Wine",

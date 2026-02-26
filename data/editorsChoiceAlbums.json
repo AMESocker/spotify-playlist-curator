@@ -1,69 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2026-01-16",
-      "albums": [
-        {
-          "title": "The Demise of Planet X",
-          "artist": "Sleaford Mods",
-          "spotifyTrack": {
-            "id": "4eE444ihBoqlc7L6xZGFuP",
-            "name": "Elitest G.O.A.T.",
-            "uri": "spotify:track:4eE444ihBoqlc7L6xZGFuP",
-            "popularity": 51,
-            "albumName": "The Demise Of Planet X",
-            "albumId": "4SWvydRBO91rnCEYHsvcK9",
-            "foundAt": "2026-02-05T18:42:38.229Z"
-          }
-        },
-        {
-          "title": "Tragic Magic",
-          "artist": "Julianna BarwickMary Lattimore",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-22T04:27:18.113Z"
-          }
-        },
-        {
-          "title": "Off The Fence",
-          "artist": "James HunterThe James Hunter Six",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-22T04:27:18.767Z"
-          }
-        },
-        {
-          "title": "Dream Archives",
-          "artist": "Tomeka ReidChes SmithCraig Taborn",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-22T04:27:19.386Z"
-          }
-        },
-        {
-          "title": "Jana Horn",
-          "artist": "Jana Horn",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-22T04:27:19.996Z"
-          }
-        },
-        {
-          "title": "Can't Take My Story Away",
-          "artist": "Elles Bailey",
-          "spotifyTrack": {
-            "id": "6lLt2S8KH9BCJtvjrNMeGI",
-            "name": "Tightrope",
-            "uri": "spotify:track:6lLt2S8KH9BCJtvjrNMeGI",
-            "popularity": 38,
-            "albumName": "Can't Take My Story Away",
-            "albumId": "5QpYgpA3RKj2a1MJFRTCTq",
-            "foundAt": "2026-02-05T18:42:42.668Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2026-01-09",
       "albums": [
         {
@@ -4863,6 +4800,71 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2026-01-16",
+      "albums": [
+        {
+          "title": "The Demise of Planet X",
+          "artist": "Sleaford Mods",
+          "spotifyTrack": {
+            "id": "4eE444ihBoqlc7L6xZGFuP",
+            "name": "Elitest G.O.A.T.",
+            "uri": "spotify:track:4eE444ihBoqlc7L6xZGFuP",
+            "popularity": 51,
+            "albumName": "The Demise Of Planet X",
+            "albumId": "4SWvydRBO91rnCEYHsvcK9",
+            "foundAt": "2026-02-05T18:42:38.229Z"
+          }
+        },
+        {
+          "title": "Tragic Magic",
+          "artist": "Julianna BarwickMary Lattimore",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-22T04:27:18.113Z"
+          }
+        },
+        {
+          "title": "Off The Fence",
+          "artist": "James HunterThe James Hunter Six",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-22T04:27:18.767Z"
+          }
+        },
+        {
+          "title": "Dream Archives",
+          "artist": "Tomeka ReidChes SmithCraig Taborn",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-22T04:27:19.386Z"
+          }
+        },
+        {
+          "title": "Jana Horn",
+          "artist": "Jana Horn",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-22T04:27:19.996Z"
+          }
+        },
+        {
+          "title": "Can't Take My Story Away",
+          "artist": "Elles Bailey",
+          "spotifyTrack": {
+            "id": "6lLt2S8KH9BCJtvjrNMeGI",
+            "name": "Tightrope",
+            "uri": "spotify:track:6lLt2S8KH9BCJtvjrNMeGI",
+            "popularity": 38,
+            "albumName": "Can't Take My Story Away",
+            "albumId": "5QpYgpA3RKj2a1MJFRTCTq",
+            "foundAt": "2026-02-05T18:42:42.668Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-02-25T18:20:34.503Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2026-02-20",
       "albums": [
