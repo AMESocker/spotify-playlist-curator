@@ -1344,5 +1344,23 @@
     "sourceFile": "data/spotifyPlaylists.json",
     "strategy": "spotifyPlaylist",
     "timestamp": "2026-02-25T21:29:38.201Z"
+  },
+  {
+    "action": "add",
+    "artist": "Sly and the Family Stone",
+    "album": "Dance to the Music (1968)",
+    "index": null,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-26T05:57:46.748Z"
+  },
+  {
+    "action": "add",
+    "artist": "Fairport Convention",
+    "album": "Liege and Lief",
+    "index": 39,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-26T05:57:48.581Z"
   }
 ]

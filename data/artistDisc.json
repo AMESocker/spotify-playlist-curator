@@ -1819,7 +1819,6 @@
     "Artist": "Sly and the Family Stone",
     "Group": "🟤 Soul / R&B",
     "Albums": [
-      "Dance to the Music (1968)",
       "Life (1968)",
       "Stand! (1969)",
       "There's a Riot Goin' On (1971)",
@@ -1830,7 +1829,8 @@
       "Ain't but the One Way (1982)"
     ],
     "AddedAlbums": [
-      "A Whole New Thing (1967)"
+      "A Whole New Thing (1967)",
+      "Dance to the Music (1968)"
     ]
   },
   {
