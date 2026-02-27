@@ -1401,5 +1401,14 @@
     "sourceFile": "data/spotifyPlaylists.json",
     "strategy": "spotifyPlaylist",
     "timestamp": "2026-02-26T22:10:25.615Z"
+  },
+  {
+    "action": "add",
+    "artist": "Overkill",
+    "album": "Taking Over (1987)",
+    "index": null,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-27T01:14:18.908Z"
   }
 ]

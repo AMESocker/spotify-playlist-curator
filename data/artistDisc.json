@@ -1716,7 +1716,6 @@
     "Artist": "Overkill",
     "Group": "🔴 Metal / Hard Rock",
     "Albums": [
-      "Taking Over (1987)",
       "Under the Influence (1988)",
       "The Years of Decay (1989)",
       "Horrorscope (1991)",
@@ -1735,7 +1734,8 @@
       "Scorched (2023)"
     ],
     "AddedAlbums": [
-      "Feel the Fire (1985)"
+      "Feel the Fire (1985)",
+      "Taking Over (1987)"
     ]
   },
   {
