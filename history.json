@@ -1380,5 +1380,110 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-02-26T19:01:10.181Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Reggae / World / Ambient / Experimental Electronic",
+    "artist": "Massive Attack",
+    "listeners": 2777701,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-02-26T21:29:38.455Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2008-07",
+    "playlistUrl": "https://open.spotify.com/playlist/78dpIw2Os6MILX3T4r2oVn?si=299309c808a44721",
+    "playlistId": "78dpIw2Os6MILX3T4r2oVn",
+    "index": 25,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-02-26T22:10:25.615Z"
+  },
+  {
+    "action": "add",
+    "artist": "Overkill",
+    "album": "Taking Over (1987)",
+    "index": null,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-27T01:14:18.908Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Talking Heads",
+    "index": 94,
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-27T18:22:26.129Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-12-12",
+    "tracksAdded": 4,
+    "tracksSkipped": 3,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-02-27T21:26:16.727Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Folk / Country / Americana",
+    "artist": "Gnoss",
+    "listeners": 25282,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-02-27T21:26:18.541Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2008-09",
+    "playlistUrl": "https://open.spotify.com/playlist/0dIolZK25wExQLAOCZYEPw?si=330f30bc35ea4d12",
+    "playlistId": "0dIolZK25wExQLAOCZYEPw",
+    "index": 27,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-02-28T00:28:56.457Z"
+  },
+  {
+    "action": "add",
+    "artist": "Sufjan Stevens",
+    "album": "Enjoy Your Rabbit",
+    "index": null,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-02-28T10:27:35.890Z"
+  },
+  {
+    "action": "add",
+    "artist": "George Jones",
+    "album": "The Grand Tour (1974)",
+    "index": 188,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-02-28T17:09:45.864Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Steve Miller",
+    "index": 28,
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-02-28T17:09:47.941Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2026-02-27",
+    "tracksAdded": 6,
+    "tracksSkipped": 2,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-02-28T17:09:48.203Z"
   }
 ]
