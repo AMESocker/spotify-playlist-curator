@@ -15,9 +15,18 @@ import { handleArtistGenre } from "./artistGenreStrategy.js";
 // Todo - Get new albums from Wikipedia from dates more then 7 days ago. If Artist is from new albums or all music is on Artist disc add full album otherwise add top track.
 
 // Todo - Add Disney/Pixar Movie Soundtracks source
-// Todo - Add
+
+// Todo - Add Random Index to ArtistDisc strategy to add some variability (currently just picks first album).
 
 // Todo - Add non-explicit tracks to a second clean playlist (filter trackItems by explicit flag in addTracks).
+
+// Todo - Create a dashboard to visualize source queues, history, and playlist growth over time (could be a simple web page reading from history.json).
+
+// Todo - Clean 1080albums.json with entries that don't have " - " format.
+
+// Todo - Remove songs older then one month from playlist and add to a separate playlist called old or stale.
+
+// Todo - Add retry logic for Spotify API calls in case of transient errors (e.g. 429 rate limits or network issues).
 
 //* ─── DATA SOURCES ──────────────────────────────────────────────────────────────────────
 
