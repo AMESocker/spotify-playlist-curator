@@ -1,4 +1,5 @@
-[
+{
+"artists" : [
   {
     "Artist": "Alanis Morissette",
     "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
@@ -478,23 +479,7 @@
       "Homework (1997)"
     ]
   },
-  {
-    "Artist": "Alicia Keys",
-    "Group": "🟤 Soul / R&B",
-    "Albums": [
-      "The Element of Freedom (2009)",
-      "Girl on Fire (2012)",
-      "Here (2016)",
-      "Alicia (2020)",
-      "Keys (2021)",
-      "Santa Baby (2022)"
-    ],
-    "AddedAlbums": [
-      "Songs in A Minor (2001)",
-      "The Diary of Alicia Keys (2003)",
-      "As I Am (2007)"
-    ]
-  },
+
   {
     "Artist": "Jamiroquai",
     "Group": "🟤 Soul / R&B",
@@ -533,18 +518,7 @@
       "I Never Loved a Man the Way I Love You (1967)"
     ]
   },
-  {
-    "Artist": "Anderson .Paak",
-    "Group": "🟤 Soul / R&B",
-    "Albums": [
-      "Oxnard (2018)",
-      "Ventura (2019)"
-    ],
-    "AddedAlbums": [
-      "Venice (2014)",
-      "Malibu (2016)"
-    ]
-  },
+
   {
     "Artist": "Bruno Mars",
     "Group": "🟤 Soul / R&B",
@@ -1208,25 +1182,7 @@
       "Up-Tight"
     ]
   },
-  {
-    "Artist": "Marvin Gaye",
-    "Group": "🟤 Soul / R&B",
-    "Albums": [
-      "In the Groove",
-      "M.P.G.",
-      "That's the Way Love Is",
-      "What's Going On",
-      "Trouble Man",
-      "Let's Get It On",
-      "I Want You",
-      "Here, My Dear",
-      "In Our Lifetime?"
-    ],
-    "AddedAlbums": [
-      "The Soulful Moods of Marvin Gaye",
-      "How Sweet It Is to Be Loved by You"
-    ]
-  },
+
   {
     "Artist": "Radiohead",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
@@ -1293,23 +1249,7 @@
       "Stiff Upper Lip"
     ]
   },
-  {
-    "Artist": "Sufjan Stevens",
-    "Group": "🔵 Alternative / Indie / Folk-Rock",
-    "Albums": [
-      "Michigan",
-      "Seven Swans",
-      "Illinois",
-      "The Age of Adz",
-      "Carrie & Lowell",
-      "The Ascension",
-      "Javelin"
-    ],
-    "AddedAlbums": [
-      "A Sun Came",
-      "Enjoy Your Rabbit"
-    ]
-  },
+
   {
     "Artist": "Vulfpeck",
     "Group": "🟤 Soul / R&B",
@@ -1365,17 +1305,7 @@
     ],
     "AddedAlbums": []
   },
-  {
-    "Artist": "D'Angelo",
-    "Group": "🟤 Soul / R&B",
-    "Albums": [
-      "Voodoo",
-      "Black Messiah"
-    ],
-    "AddedAlbums": [
-      "Brown Sugar [NOT FOUND]"
-    ]
-  },
+
   {
     "Artist": "Flying Lotus",
     "Group": "🟣 Electronic & Experimental",
@@ -1390,22 +1320,7 @@
       "1983 [NOT FOUND]"
     ]
   },
-  {
-    "Artist": "Iron & Wine",
-    "Group": "🔵 Alternative / Indie / Folk-Rock",
-    "Albums": [
-      "Our Endless Numbered Days",
-      "The Shepherd's Dog",
-      "Kiss Each Other Clean",
-      "Ghost on Ghost",
-      "Beast Epic",
-      "Weed Garden",
-      "Light Verse"
-    ],
-    "AddedAlbums": [
-      "The Creek Drank the Cradle"
-    ]
-  },
+
   {
     "Artist": "O.A.R.",
     "Group": "🔵 Alternative / Indie / Folk-Rock",
@@ -1816,24 +1731,6 @@
     ]
   },
   {
-    "Artist": "Sly and the Family Stone",
-    "Group": "🟤 Soul / R&B",
-    "Albums": [
-      "Life (1968)",
-      "Stand! (1969)",
-      "There's a Riot Goin' On (1971)",
-      "Fresh (1973)",
-      "Small Talk (1974)",
-      "Heard Ya Missed Me, Well I'm Back (1976)",
-      "Back on the Right Track (1979)",
-      "Ain't but the One Way (1982)"
-    ],
-    "AddedAlbums": [
-      "A Whole New Thing (1967)",
-      "Dance to the Music (1968)"
-    ]
-  },
-  {
     "Artist": "The Fearless Flyers",
     "Group": "🟤 Soul / R&B",
     "Albums": [
@@ -2006,4 +1903,118 @@
     ],
     "AddedAlbums": []
   }
-]
+],
+  "archived": [
+  {
+    "Artist": "Sly and the Family Stone",
+    "Group": "🟤 Soul / R&B",
+    "Albums": [
+      "Life (1968)",
+      "Stand! (1969)",
+      "There's a Riot Goin' On (1971)",
+      "Fresh (1973)",
+      "Small Talk (1974)",
+      "Heard Ya Missed Me, Well I'm Back (1976)",
+      "Back on the Right Track (1979)",
+      "Ain't but the One Way (1982)"
+    ],
+    "AddedAlbums": [
+      "A Whole New Thing (1967)",
+      "Dance to the Music (1968)"
+    ]
+  },
+        {
+      "Artist": "Alicia Keys",
+      "Group": "🟤 Soul / R&B",
+      "Albums": [
+        "The Element of Freedom (2009)",
+        "Girl on Fire (2012)",
+        "Here (2016)",
+        "Alicia (2020)",
+        "Keys (2021)",
+        "Santa Baby (2022)"
+      ],
+      "AddedAlbums": [
+        "Songs in A Minor (2001)",
+        "The Diary of Alicia Keys (2003)",
+        "As I Am (2007)"
+      ]
+    },
+        {
+      "Artist": "Anderson .Paak",
+      "Group": "🟤 Soul / R&B",
+      "Albums": [
+        "Oxnard (2018)",
+        "Ventura (2019)"
+      ],
+      "AddedAlbums": [
+        "Venice (2014)",
+        "Malibu (2016)"
+      ]
+    },
+
+        {
+      "Artist": "Marvin Gaye",
+      "Group": "🟤 Soul / R&B",
+      "Albums": [
+        "In the Groove",
+        "M.P.G.",
+        "That's the Way Love Is",
+        "What's Going On",
+        "Trouble Man",
+        "Let's Get It On",
+        "I Want You",
+        "Here, My Dear",
+        "In Our Lifetime?"
+      ],
+      "AddedAlbums": [
+        "The Soulful Moods of Marvin Gaye",
+        "How Sweet It Is to Be Loved by You"
+      ]
+    },
+        {
+      "Artist": "Sufjan Stevens",
+      "Group": "🔵 Alternative / Indie / Folk-Rock",
+      "Albums": [
+        "Enjoy Your Rabbit",
+        "Michigan",
+        "Seven Swans",
+        "Illinois",
+        "The Age of Adz",
+        "Carrie & Lowell",
+        "The Ascension",
+        "Javelin"
+      ],
+      "AddedAlbums": [
+        "A Sun Came"
+      ]
+    },
+        {
+      "Artist": "D'Angelo",
+      "Group": "🟤 Soul / R&B",
+      "Albums": [
+        "Voodoo",
+        "Black Messiah"
+      ],
+      "AddedAlbums": [
+        "Brown Sugar [NOT FOUND]"
+      ]
+    },
+       {
+      "Artist": "Iron & Wine",
+      "Group": "🔵 Alternative / Indie / Folk-Rock",
+      "Albums": [
+        "Our Endless Numbered Days",
+        "The Shepherd's Dog",
+        "Kiss Each Other Clean",
+        "Ghost on Ghost",
+        "Beast Epic",
+        "Weed Garden",
+        "Light Verse"
+      ],
+      "AddedAlbums": [
+        "The Creek Drank the Cradle"
+      ]
+    }
+  ]
+}
