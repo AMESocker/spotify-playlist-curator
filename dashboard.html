@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Playlist Curator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:       #0c0c0e;
+      --surface:  #141418;
+      --border:   #222228;
+      --muted:    #444450;
+      --text:     #e8e8f0;
+      --dim:      #888898;
+      --accent:   #7c6ff7;
+      --accent2:  #f76f8e;
+      --accent3:  #6ff7c4;
+      --success:  #6ff7c4;
+      --warn:     #f7c46f;
+      --gap: 20px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Mono', monospace;
+      font-size: 13px;
+      min-height: 100vh;
+      padding: 40px var(--gap);
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    /* ── HEADER ── */
+    header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      margin-bottom: 36px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .logo {
+      font-family: 'Instrument Serif', serif;
+      font-style: italic;
+      font-size: 32px;
+      color: var(--text);
+      line-height: 1;
+    }
+
+    .logo span { color: var(--accent); }
+
+    #last-updated {
+      color: var(--dim);
+      font-size: 11px;
+    }
+
+    /* ── GRID ── */
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: var(--gap);
+      margin-bottom: var(--gap);
+    }
+
+    .grid-wide {
+      display: grid;
+      grid-template-columns: 1.4fr 1fr;
+      gap: var(--gap);
+      margin-bottom: var(--gap);
+    }
+
+    /* ── CARD ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 20px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, rgba(124,111,247,0.03) 0%, transparent 60%);
+      pointer-events: none;
+    }
+
+    .card-label {
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--dim);
+      margin-bottom: 10px;
+    }
+
+    .card-value {
+      font-family: 'Instrument Serif', serif;
+      font-size: 42px;
+      line-height: 1;
+      color: var(--text);
+    }
+
+    .card-sub {
+      color: var(--dim);
+      font-size: 11px;
+      margin-top: 6px;
+    }
+
+    /* ── SECTION TITLE ── */
+    .source-list { display: flex; flex-direction: column; gap: 10px; }
+
+    .source-row {
+      display: grid;
+      grid-template-columns: 18px 1fr auto;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .source-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .source-name { color: var(--text); }
+
+    .source-track {
+      height: 3px;
+      background: var(--border);
+      border-radius: 99px;
+      margin-top: 4px;
+      overflow: hidden;
+      grid-column: 2;
+    }
+
+    .source-fill {
+      height: 100%;
+      border-radius: 99px;
+      transition: width 1.2s cubic-bezier(0.4,0,0.2,1);
+      width: 0%;
+    }
+
+    .source-count {
+      color: var(--dim);
+      font-size: 11px;
+      white-space: nowrap;
+    }
+
+    /* ── HISTORY ── */
+    .history-list {
+      display: flex;
+      flex-direction: column;
+      gap: 1px;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+
+    .history-list::-webkit-scrollbar { width: 4px; }
+    .history-list::-webkit-scrollbar-track { background: transparent; }
+    .history-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+
+    .history-item {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 12px;
+      align-items: start;
+      padding: 10px 12px;
+      border-radius: 6px;
+      transition: background 0.15s;
+      animation: fadeIn 0.3s ease both;
+    }
+
+    .history-item:hover { background: rgba(255,255,255,0.03); }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .history-item:nth-child(1)  { animation-delay: 0.0s; }
+    .history-item:nth-child(2)  { animation-delay: 0.04s; }
+    .history-item:nth-child(3)  { animation-delay: 0.08s; }
+    .history-item:nth-child(4)  { animation-delay: 0.12s; }
+    .history-item:nth-child(5)  { animation-delay: 0.16s; }
+    .history-item:nth-child(6)  { animation-delay: 0.20s; }
+    .history-item:nth-child(7)  { animation-delay: 0.24s; }
+    .history-item:nth-child(8)  { animation-delay: 0.28s; }
+    .history-item:nth-child(9)  { animation-delay: 0.32s; }
+    .history-item:nth-child(10) { animation-delay: 0.36s; }
+
+    .history-icon {
+      font-size: 14px;
+      margin-top: 1px;
+      opacity: 0.8;
+    }
+
+    .history-main { min-width: 0; }
+
+    .history-title {
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-size: 12.5px;
+    }
+
+    .history-title em {
+      font-style: italic;
+      font-family: 'Instrument Serif', serif;
+      font-size: 14px;
+      color: var(--dim);
+    }
+
+    .history-source {
+      font-size: 10px;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    .history-time {
+      color: var(--muted);
+      font-size: 10px;
+      white-space: nowrap;
+      margin-top: 2px;
+    }
+
+    /* ── SECTION TITLE ── */
+    .section-title {
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--dim);
+      margin-bottom: 14px;
+    }
+
+    /* ── LOADING / ERROR ── */
+    .loading {
+      color: var(--muted);
+      font-size: 12px;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    .tag {
+      display: inline-block;
+      font-size: 9px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: rgba(124,111,247,0.15);
+      color: var(--accent);
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+
+    .tag.green {
+      background: rgba(111,247,196,0.12);
+      color: var(--success);
+    }
+
+    /* ── STREAK ── */
+    .streak-val {
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+    }
+
+    .streak-unit {
+      font-size: 14px;
+      color: var(--dim);
+    }
+
+    @media (max-width: 720px) {
+      .grid { grid-template-columns: 1fr 1fr; }
+      .fill-card { grid-column: span 2; }
+      .grid-wide { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">playlist <span>curator</span></div>
+  <div id="last-updated">Loading…</div>
+</header>
+
+<!-- Row 1: stat cards -->
+<div class="grid">
+  <div class="card">
+    <div class="card-label">Tracks Added</div>
+    <div class="card-value" id="stat-tracks">—</div>
+    <div class="card-sub" id="stat-tracks-sub"></div>
+  </div>
+  <div class="card">
+    <div class="card-label">Sources Active</div>
+    <div class="card-value" id="stat-sources">—</div>
+    <div class="card-sub">data sources running</div>
+  </div>
+  <div class="card">
+    <div class="card-label">Today's Runs</div>
+    <div class="card-value" id="stat-today">—</div>
+    <div class="card-sub" id="stat-today-sub"></div>
+  </div>
+
+</div>
+
+<!-- Row 2: history + source breakdown -->
+<div class="grid-wide">
+  <div class="card">
+    <div class="section-title">Recently Added</div>
+    <div class="history-list" id="history-list">
+      <div class="loading">Loading history…</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="section-title">Source Breakdown</div>
+    <div class="source-list" id="source-list">
+      <div class="loading">Loading sources…</div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── CONFIG ──────────────────────────────────────────────────
+const SOURCES = [
+  { key: "artistDisc",          label: "Artist Disc",        color: "#7c6ff7", icon: "🎸" },
+  { key: "1080albums",          label: "1080 Albums",        color: "#f76f8e", icon: "💿" },
+  { key: "rockNRollHallofFame", label: "Rock Hall",          color: "#f7c46f", icon: "🏛️" },
+  { key: "editorsChoice",label: "AllMusic Editors",  color: "#6ff7c4", icon: "📰" },
+  { key: "artistTop10",         label: "Artist Genre",       color: "#f7a06f", icon: "🎵" },
+  { key: "spotifyPlaylists",    label: "TotM Playlists",  color: "#a8f76f", icon: "📋" },
+];
+
+const ACTION_ICONS = {
+  add:               "💿",
+  addRockHall:       "🏛️",
+  addEditorsChoice:  "📰",
+  addSpotifyPlaylist:"📋",
+  addArtistGenre:    "🎵",
+};
+
+// ── HELPERS ─────────────────────────────────────────────────
+function timeAgo(isoString) {
+  const diff = Date.now() - new Date(isoString).getTime();
+  const m = Math.floor(diff / 60000);
+  const h = Math.floor(m / 60);
+  const d = Math.floor(h / 24);
+  if (d > 0)  return `${d}d ago`;
+  if (h > 0)  return `${h}h ago`;
+  if (m > 0)  return `${m}m ago`;
+  return 'just now';
+}
+
+function formatDate(isoString) {
+  return new Date(isoString).toLocaleString(undefined, {
+    month: 'short', day: 'numeric',
+    hour: '2-digit', minute: '2-digit'
+  });
+}
+
+function sourceFromFile(file) {
+  if (!file) return null;
+  return SOURCES.find(s => file.includes(s.key)) ?? null;
+}
+
+// ── FETCH ───────────────────────────────────────────────────
+async function fetchJSON(path) {
+  const res = await fetch(path + '?_=' + Date.now());
+  if (!res.ok) throw new Error(`${path} → ${res.status}`);
+  return res.json();
+}
+
+// ── RENDER ──────────────────────────────────────────────────
+function renderHistory(history) {
+  const list = document.getElementById('history-list');
+  if (!history.length) {
+    list.innerHTML = '<div class="loading">No history yet.</div>';
+    return;
+  }
+
+  // Most recent 40 entries
+  const recent = [...history].reverse().slice(0, 40);
+
+  list.innerHTML = recent.map((entry, i) => {
+    const src = sourceFromFile(entry.sourceFile);
+    const icon = ACTION_ICONS[entry.action] ?? '🎵';
+
+    let title = '';
+    if (entry.action === 'add') {
+      title = `${entry.artist} <em>— ${entry.album}</em>`;
+    } else if (entry.action === 'addRockHall') {
+      title = `${entry.artist}`;
+    } else if (entry.action === 'addSpotifyPlaylist') {
+      title = entry.playlistName ?? 'Spotify Playlist';
+    } else if (entry.action === 'addEditorsChoice') {
+      title = `Week of ${entry.weekDate}`;
+    } else {
+      title = entry.artist ?? entry.album ?? entry.action;
+    }
+
+    const tracksLabel = entry.tracksAdded
+      ? `<span class="tag green">${entry.tracksAdded} tracks</span>`
+      : '';
+
+    const srcLabel = src
+      ? `<span style="color:${src.color}">${src.icon} ${src.label}</span>`
+      : (entry.strategy ?? '');
+
+    return `
+      <div class="history-item" style="animation-delay:${Math.min(i,10)*0.04}s">
+        <div class="history-icon">${icon}</div>
+        <div class="history-main">
+          <div class="history-title">${title}${tracksLabel}</div>
+          <div class="history-source">${srcLabel}</div>
+        </div>
+        <div class="history-time">${timeAgo(entry.timestamp)}</div>
+      </div>`;
+  }).join('');
+}
+
+function renderSources(history) {
+  const list = document.getElementById('source-list');
+  const counts = {};
+  history.forEach(e => {
+    const src = sourceFromFile(e.sourceFile);
+    if (!src) return;
+    counts[src.key] = (counts[src.key] ?? 0) + 1;
+  });
+
+  const total = Object.values(counts).reduce((a, b) => a + b, 0) || 1;
+
+  list.innerHTML = SOURCES.map(src => {
+    const count = counts[src.key] ?? 0;
+    const pct = Math.round((count / total) * 100);
+    return `
+      <div>
+        <div class="source-row">
+          <div class="source-dot" style="background:${src.color}"></div>
+          <div class="source-name">${src.icon} ${src.label}</div>
+          <div class="source-count">${count} runs</div>
+        </div>
+        <div class="source-track" style="margin-left:28px">
+          <div class="source-fill" style="background:${src.color}" data-pct="${pct}"></div>
+        </div>
+      </div>`;
+  }).join('');
+
+  // Animate bars after paint
+  requestAnimationFrame(() => {
+    document.querySelectorAll('.source-fill').forEach(el => {
+      el.style.width = el.dataset.pct + '%';
+    });
+  });
+}
+
+function renderStats(history) {
+  // Total tracks added (sum tracksAdded or count entries)
+  let totalTracks = 0;
+  history.forEach(e => {
+    totalTracks += e.tracksAdded ?? (e.action === 'add' ? 1 : 0);
+  });
+
+  // Today's entries
+  const today = new Date().toDateString();
+  const todayEntries = history.filter(e => new Date(e.timestamp).toDateString() === today);
+  let todayTracks = 0;
+  todayEntries.forEach(e => { todayTracks += e.tracksAdded ?? (e.action === 'add' ? 1 : 0); });
+
+  document.getElementById('stat-tracks').textContent = totalTracks.toLocaleString();
+  document.getElementById('stat-tracks-sub').textContent = 'total tracks ever added';
+  document.getElementById('stat-sources').textContent = SOURCES.length;
+  document.getElementById('stat-today').textContent = todayEntries.length;
+  document.getElementById('stat-today-sub').textContent = `${todayTracks} tracks added today`;
+
+  // Last updated
+  if (history.length) {
+    const last = history[history.length - 1];
+    document.getElementById('last-updated').textContent =
+      'Last run: ' + formatDate(last.timestamp);
+  }
+}
+
+// ── MAIN ────────────────────────────────────────────────────
+async function init() {
+  try {
+    const history = await fetchJSON('./history.json');
+
+    renderStats(history);
+    renderHistory(history);
+    renderSources(history);
+
+  } catch (err) {
+    console.error(err);
+    document.getElementById('history-list').innerHTML =
+      `<div class="loading">Could not load history.json<br><small>${err.message}</small></div>`;
+    document.getElementById('last-updated').textContent = 'Error loading data';
+  }
+}
+
+init();
+</script>
+</body>
+</html>
