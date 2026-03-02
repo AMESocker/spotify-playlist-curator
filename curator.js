@@ -347,7 +347,7 @@ async function handleAlbum(source, data) {
     data.master.shift();
     data.added.push(`${pick.artist} - ${pick.nextAlbum}`);
   } else {
-    const entry = data.find(a => a.Artist === pick.artist);
+    const entry = data.artists.find(a => a.Artist === pick.artist); 
     entry.Albums.shift();
     entry.AddedAlbums.push(pick.nextAlbum);
   }
@@ -357,6 +357,7 @@ async function handleAlbum(source, data) {
     artist: pick.artist,
     album: pick.nextAlbum,
     index: pick.index ?? null,
+    tracksAdded: uris.length,
     sourceFile: source.file,
     strategy: source.strategy
   });
