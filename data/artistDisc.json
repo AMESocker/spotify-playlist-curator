@@ -1593,7 +1593,6 @@
       "Artist": "Blind Guardian",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Follow the Blind (1989)",
         "Tales from the Twilight World (1990)",
         "Somewhere Far Beyond (1992)",
         "Imaginations from the Other Side (1995)",
@@ -1607,7 +1606,8 @@
         "The God Machine (2022)"
       ],
       "AddedAlbums": [
-        "Battalions of Fear (1988)"
+        "Battalions of Fear (1988)",
+        "Follow the Blind (1989)"
       ]
     },
     {
