@@ -263,6 +263,12 @@
   "Progressive / Experimental Rock & Metal": {
     "not_added": [
       {
+        "artist": "Oceansize",
+        "listeners": 48737,
+        "spotify_popularity": 27,
+        "spotify_id": "0Opj9xi9HHrH0L9uHAKnKm"
+      },
+      {
         "artist": "Warlock",
         "listeners": 235569,
         "spotify_popularity": 39,
@@ -387,12 +393,6 @@
         "listeners": 125795,
         "spotify_popularity": 30,
         "spotify_id": "1UYhxPY1oqFUg1HfF8nV3k"
-      },
-      {
-        "artist": "Oceansize",
-        "listeners": 48737,
-        "spotify_popularity": 27,
-        "spotify_id": "0Opj9xi9HHrH0L9uHAKnKm"
       },
       {
         "artist": "Fates Warning",

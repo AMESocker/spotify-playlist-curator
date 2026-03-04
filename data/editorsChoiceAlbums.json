@@ -1,113 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-11-14",
-      "albums": [
-        {
-          "title": "Black and Blue [Super Deluxe 4 CD/Blu-ray]",
-          "artist": "The Rolling Stones",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-28T10:15:26.554Z"
-          }
-        },
-        {
-          "title": "Chin Up Buttercup",
-          "artist": "Austra",
-          "spotifyTrack": {
-            "id": "33IBQKB1tHkVqTNb2SDREd",
-            "name": "Fallen Cloud",
-            "uri": "spotify:track:33IBQKB1tHkVqTNb2SDREd",
-            "popularity": 40,
-            "albumName": "Chin Up Buttercup",
-            "albumId": "6HgcWTOYtsZaLlNOoyjqGL",
-            "foundAt": "2026-02-05T18:43:19.461Z"
-          }
-        },
-        {
-          "title": "Baby",
-          "artist": "Dijon",
-          "spotifyTrack": {
-            "id": "6qR5YGunNSASaabs4kJB9V",
-            "name": "Yamaha",
-            "uri": "spotify:track:6qR5YGunNSASaabs4kJB9V",
-            "popularity": 63,
-            "albumName": "Baby",
-            "albumId": "3hKlec1wgYVJcI0YvwCFJB",
-            "foundAt": "2026-02-05T18:43:21.196Z"
-          }
-        },
-        {
-          "title": "On This Day",
-          "artist": "Tony Molina",
-          "spotifyTrack": {
-            "id": "5NjYjaqeq4dLwFgpu3MDk3",
-            "name": "FC '23",
-            "uri": "spotify:track:5NjYjaqeq4dLwFgpu3MDk3",
-            "popularity": 22,
-            "albumName": "On This Day",
-            "albumId": "0hOYEcoN7Su3cRi9ZbjV3C",
-            "foundAt": "2026-02-05T18:43:23.120Z"
-          }
-        },
-        {
-          "title": "I LOVE LIFE even when I'm hurting",
-          "artist": "Dave McMurray",
-          "spotifyTrack": {
-            "id": "4jGJ5lDRWp9df3xNrxvBRX",
-            "name": "The Jungaleers",
-            "uri": "spotify:track:4jGJ5lDRWp9df3xNrxvBRX",
-            "popularity": 21,
-            "albumName": "I LOVE LIFE even when I'm hurting",
-            "albumId": "7FVjauIggSqzd89M8uBtrZ",
-            "foundAt": "2026-02-05T18:43:24.724Z"
-          }
-        },
-        {
-          "title": "Man-Trap",
-          "artist": "Thee Headcoatees",
-          "spotifyTrack": {
-            "id": "6gUBFOIVhzGeA3empM8nfe",
-            "name": "The KKK Took My Baby Away - Ludella vocal",
-            "uri": "spotify:track:6gUBFOIVhzGeA3empM8nfe",
-            "popularity": 18,
-            "albumName": "Man-Trap",
-            "albumId": "0v6FJKLvPmKCAVL3BPlQTy",
-            "foundAt": "2026-02-05T18:43:26.599Z"
-          }
-        },
-        {
-          "title": "Amorica. [Super Deluxe 3 CD]",
-          "artist": "The Black Crowes",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-28T10:15:27.109Z"
-          }
-        },
-        {
-          "title": "DJ-Kicks",
-          "artist": "Eris Drew",
-          "spotifyTrack": {
-            "id": "5qa6ZfIsqHWkEdD0F1lvxB",
-            "name": "Tribute (DJ Utopia’s Mix) - Mixed",
-            "uri": "spotify:track:5qa6ZfIsqHWkEdD0F1lvxB",
-            "popularity": 23,
-            "albumName": "DJ-Kicks: Eris Drew",
-            "albumId": "1NkbXLDLpC979zCE1OO8dJ",
-            "foundAt": "2026-02-05T18:43:28.749Z"
-          }
-        },
-        {
-          "title": "Personal Computer Music, 1997-2022",
-          "artist": "Jeremy DowerTetrphnm",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-28T10:15:27.685Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-11-07",
       "albums": [
         {
@@ -4456,6 +4349,115 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-11-14",
+      "albums": [
+        {
+          "title": "Black and Blue [Super Deluxe 4 CD/Blu-ray]",
+          "artist": "The Rolling Stones",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-28T10:15:26.554Z"
+          }
+        },
+        {
+          "title": "Chin Up Buttercup",
+          "artist": "Austra",
+          "spotifyTrack": {
+            "id": "33IBQKB1tHkVqTNb2SDREd",
+            "name": "Fallen Cloud",
+            "uri": "spotify:track:33IBQKB1tHkVqTNb2SDREd",
+            "popularity": 40,
+            "albumName": "Chin Up Buttercup",
+            "albumId": "6HgcWTOYtsZaLlNOoyjqGL",
+            "foundAt": "2026-02-05T18:43:19.461Z"
+          }
+        },
+        {
+          "title": "Baby",
+          "artist": "Dijon",
+          "spotifyTrack": {
+            "id": "6qR5YGunNSASaabs4kJB9V",
+            "name": "Yamaha",
+            "uri": "spotify:track:6qR5YGunNSASaabs4kJB9V",
+            "popularity": 63,
+            "albumName": "Baby",
+            "albumId": "3hKlec1wgYVJcI0YvwCFJB",
+            "foundAt": "2026-02-05T18:43:21.196Z"
+          }
+        },
+        {
+          "title": "On This Day",
+          "artist": "Tony Molina",
+          "spotifyTrack": {
+            "id": "5NjYjaqeq4dLwFgpu3MDk3",
+            "name": "FC '23",
+            "uri": "spotify:track:5NjYjaqeq4dLwFgpu3MDk3",
+            "popularity": 22,
+            "albumName": "On This Day",
+            "albumId": "0hOYEcoN7Su3cRi9ZbjV3C",
+            "foundAt": "2026-02-05T18:43:23.120Z"
+          }
+        },
+        {
+          "title": "I LOVE LIFE even when I'm hurting",
+          "artist": "Dave McMurray",
+          "spotifyTrack": {
+            "id": "4jGJ5lDRWp9df3xNrxvBRX",
+            "name": "The Jungaleers",
+            "uri": "spotify:track:4jGJ5lDRWp9df3xNrxvBRX",
+            "popularity": 21,
+            "albumName": "I LOVE LIFE even when I'm hurting",
+            "albumId": "7FVjauIggSqzd89M8uBtrZ",
+            "foundAt": "2026-02-05T18:43:24.724Z"
+          }
+        },
+        {
+          "title": "Man-Trap",
+          "artist": "Thee Headcoatees",
+          "spotifyTrack": {
+            "id": "6gUBFOIVhzGeA3empM8nfe",
+            "name": "The KKK Took My Baby Away - Ludella vocal",
+            "uri": "spotify:track:6gUBFOIVhzGeA3empM8nfe",
+            "popularity": 18,
+            "albumName": "Man-Trap",
+            "albumId": "0v6FJKLvPmKCAVL3BPlQTy",
+            "foundAt": "2026-02-05T18:43:26.599Z"
+          }
+        },
+        {
+          "title": "Amorica. [Super Deluxe 3 CD]",
+          "artist": "The Black Crowes",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-28T10:15:27.109Z"
+          }
+        },
+        {
+          "title": "DJ-Kicks",
+          "artist": "Eris Drew",
+          "spotifyTrack": {
+            "id": "5qa6ZfIsqHWkEdD0F1lvxB",
+            "name": "Tribute (DJ Utopia’s Mix) - Mixed",
+            "uri": "spotify:track:5qa6ZfIsqHWkEdD0F1lvxB",
+            "popularity": 23,
+            "albumName": "DJ-Kicks: Eris Drew",
+            "albumId": "1NkbXLDLpC979zCE1OO8dJ",
+            "foundAt": "2026-02-05T18:43:28.749Z"
+          }
+        },
+        {
+          "title": "Personal Computer Music, 1997-2022",
+          "artist": "Jeremy DowerTetrphnm",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-28T10:15:27.685Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-04T21:31:15.209Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-11-21",
       "albums": [
