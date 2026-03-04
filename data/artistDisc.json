@@ -1868,7 +1868,6 @@
       "Artist": "Elvis Presley",
       "Group": "⚪ Classic Rock",
       "Albums": [
-        "Elvis Presley (1956)",
         "Elvis (1956)",
         "Loving You (1957)",
         "King Creole (1958)",
@@ -1881,7 +1880,9 @@
         "Aloha from Hawaii via Satellite (1973)",
         "Elvis at Sun (1979)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Elvis Presley (1956)"
+      ]
     },
     {
       "Artist": "Frank Sinatra",
