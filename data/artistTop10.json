@@ -263,12 +263,6 @@
   "Progressive / Experimental Rock & Metal": {
     "not_added": [
       {
-        "artist": "Oceansize",
-        "listeners": 48737,
-        "spotify_popularity": 27,
-        "spotify_id": "0Opj9xi9HHrH0L9uHAKnKm"
-      },
-      {
         "artist": "Warlock",
         "listeners": 235569,
         "spotify_popularity": 39,
@@ -520,6 +514,13 @@
         "listeners": 134321,
         "spotify_popularity": 44,
         "spotify_id": "557SGrCJ59ysjCE1xjVZbS"
+      },
+      {
+        "artist": "Oceansize",
+        "listeners": 48737,
+        "spotify_id": "0Opj9xi9HHrH0L9uHAKnKm",
+        "recommended": false,
+        "tracksAdded": 10
       }
     ]
   },
