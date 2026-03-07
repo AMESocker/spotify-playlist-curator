@@ -1,160 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-10-31",
-      "albums": [
-        {
-          "title": "The Bootleg Series, Vol. 18: Through the Open Window 1956-1963",
-          "artist": "Bob Dylan",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-28T10:15:29.478Z"
-          }
-        },
-        {
-          "title": "Thick Rich and Delicious",
-          "artist": "Guided by Voices",
-          "spotifyTrack": {
-            "id": "4XlcUFJy8CHJTlVrPVFeTV",
-            "name": "Lucy's World",
-            "uri": "spotify:track:4XlcUFJy8CHJTlVrPVFeTV",
-            "popularity": 30,
-            "albumName": "Thick Rich And Delicious",
-            "albumId": "57oBeed9LWnLqFJsmolcQ4",
-            "foundAt": "2026-02-05T18:43:51.892Z"
-          }
-        },
-        {
-          "title": "We Are Love",
-          "artist": "The Charlatans",
-          "spotifyTrack": {
-            "id": "5IJXr2quGZlSIH6YSiwOBR",
-            "name": "We Are Love",
-            "uri": "spotify:track:5IJXr2quGZlSIH6YSiwOBR",
-            "popularity": 40,
-            "albumName": "We Are Love",
-            "albumId": "6NfDKhBNBIMR1HeStDZqs7",
-            "foundAt": "2026-02-05T18:43:53.412Z"
-          }
-        },
-        {
-          "title": "Welcome to the Tudor Gate",
-          "artist": "Maps",
-          "spotifyTrack": {
-            "id": "7MQKQmy0Lhkc0UEHjWtjlM",
-            "name": "Chapter One",
-            "uri": "spotify:track:7MQKQmy0Lhkc0UEHjWtjlM",
-            "popularity": 5,
-            "albumName": "Welcome To The Tudor Gate",
-            "albumId": "2t95QKZNx60u9wTJMoRVis",
-            "foundAt": "2026-02-05T18:43:55.166Z"
-          }
-        },
-        {
-          "title": "ICONOCLASTS",
-          "artist": "Anna von Hausswolff",
-          "spotifyTrack": {
-            "id": "0t4bUB3mz9gzBLAQRAx6cK",
-            "name": "Aging Young Women",
-            "uri": "spotify:track:0t4bUB3mz9gzBLAQRAx6cK",
-            "popularity": 51,
-            "albumName": "ICONOCLASTS",
-            "albumId": "20BKSOzIQSHI4kLQIzPslN",
-            "foundAt": "2026-02-05T18:43:56.703Z"
-          }
-        },
-        {
-          "title": "The Epic & Creation Years 1993-1998",
-          "artist": "Nick Heyward",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-28T10:15:30.055Z"
-          }
-        },
-        {
-          "title": "Ex Voto/The Silent Love",
-          "artist": "Christian Kjellvander",
-          "spotifyTrack": {
-            "id": "1JVTJM7Mdv5Kkrjlnf5XIS",
-            "name": "Hole in My Heart",
-            "uri": "spotify:track:1JVTJM7Mdv5Kkrjlnf5XIS",
-            "popularity": 30,
-            "albumName": "Ex Voto / The Silent Love",
-            "albumId": "2SwdpGKxoZwq1Wh5xGr3NG",
-            "foundAt": "2026-02-05T18:43:59.366Z"
-          }
-        },
-        {
-          "title": "A Little Death",
-          "artist": "claire rousay",
-          "spotifyTrack": {
-            "id": "0Dg4nN3hKf3Ml3KV5VRd7W",
-            "name": "a little death",
-            "uri": "spotify:track:0Dg4nN3hKf3Ml3KV5VRd7W",
-            "popularity": 34,
-            "albumName": "a little death",
-            "albumId": "6pnb0vQLp8a9c6u1XAW3Up",
-            "foundAt": "2026-02-05T18:44:00.964Z"
-          }
-        },
-        {
-          "title": "We're Headed to the Lake",
-          "artist": "Guitar",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-28T10:15:30.690Z"
-          }
-        },
-        {
-          "title": "hooke's law",
-          "artist": "Keiyaa",
-          "spotifyTrack": {
-            "id": "4YZXIoOJbus69PEBfP1AF0",
-            "name": "stupid prizes",
-            "uri": "spotify:track:4YZXIoOJbus69PEBfP1AF0",
-            "popularity": 32,
-            "albumName": "hooke’s law",
-            "albumId": "2sTsH9vYQhIi60IYjE3hJp",
-            "foundAt": "2026-02-05T18:44:03.468Z"
-          }
-        },
-        {
-          "title": "Time Won't Bring Me Down",
-          "artist": "Radioactivity",
-          "spotifyTrack": {
-            "id": "0TM4K2XHPWbIJIUcwvDBeS",
-            "name": "Time Won't Bring Me Down",
-            "uri": "spotify:track:0TM4K2XHPWbIJIUcwvDBeS",
-            "popularity": 25,
-            "albumName": "Time Won't Bring Me Down",
-            "albumId": "7KWufDtqqmPXiE8tWeDtRd",
-            "foundAt": "2026-02-05T18:44:05.099Z"
-          }
-        },
-        {
-          "title": "Ruin",
-          "artist": "Ritual Howls",
-          "spotifyTrack": {
-            "id": "2ya3bj6Hb36KWlrjzquuAn",
-            "name": "Follow the Sun",
-            "uri": "spotify:track:2ya3bj6Hb36KWlrjzquuAn",
-            "popularity": 21,
-            "albumName": "Ruin",
-            "albumId": "1Qj2gjomtPoIVGJw0T9WdO",
-            "foundAt": "2026-02-05T18:44:06.740Z"
-          }
-        },
-        {
-          "title": "Arvo Pärt: And I heard a voice",
-          "artist": "Vox ClamantisJaan-Eik Tulve",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-02-28T10:15:31.243Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-10-24",
       "albums": [
         {
@@ -4185,6 +4031,162 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-10-31",
+      "albums": [
+        {
+          "title": "The Bootleg Series, Vol. 18: Through the Open Window 1956-1963",
+          "artist": "Bob Dylan",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-28T10:15:29.478Z"
+          }
+        },
+        {
+          "title": "Thick Rich and Delicious",
+          "artist": "Guided by Voices",
+          "spotifyTrack": {
+            "id": "4XlcUFJy8CHJTlVrPVFeTV",
+            "name": "Lucy's World",
+            "uri": "spotify:track:4XlcUFJy8CHJTlVrPVFeTV",
+            "popularity": 30,
+            "albumName": "Thick Rich And Delicious",
+            "albumId": "57oBeed9LWnLqFJsmolcQ4",
+            "foundAt": "2026-02-05T18:43:51.892Z"
+          }
+        },
+        {
+          "title": "We Are Love",
+          "artist": "The Charlatans",
+          "spotifyTrack": {
+            "id": "5IJXr2quGZlSIH6YSiwOBR",
+            "name": "We Are Love",
+            "uri": "spotify:track:5IJXr2quGZlSIH6YSiwOBR",
+            "popularity": 40,
+            "albumName": "We Are Love",
+            "albumId": "6NfDKhBNBIMR1HeStDZqs7",
+            "foundAt": "2026-02-05T18:43:53.412Z"
+          }
+        },
+        {
+          "title": "Welcome to the Tudor Gate",
+          "artist": "Maps",
+          "spotifyTrack": {
+            "id": "7MQKQmy0Lhkc0UEHjWtjlM",
+            "name": "Chapter One",
+            "uri": "spotify:track:7MQKQmy0Lhkc0UEHjWtjlM",
+            "popularity": 5,
+            "albumName": "Welcome To The Tudor Gate",
+            "albumId": "2t95QKZNx60u9wTJMoRVis",
+            "foundAt": "2026-02-05T18:43:55.166Z"
+          }
+        },
+        {
+          "title": "ICONOCLASTS",
+          "artist": "Anna von Hausswolff",
+          "spotifyTrack": {
+            "id": "0t4bUB3mz9gzBLAQRAx6cK",
+            "name": "Aging Young Women",
+            "uri": "spotify:track:0t4bUB3mz9gzBLAQRAx6cK",
+            "popularity": 51,
+            "albumName": "ICONOCLASTS",
+            "albumId": "20BKSOzIQSHI4kLQIzPslN",
+            "foundAt": "2026-02-05T18:43:56.703Z"
+          }
+        },
+        {
+          "title": "The Epic & Creation Years 1993-1998",
+          "artist": "Nick Heyward",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-28T10:15:30.055Z"
+          }
+        },
+        {
+          "title": "Ex Voto/The Silent Love",
+          "artist": "Christian Kjellvander",
+          "spotifyTrack": {
+            "id": "1JVTJM7Mdv5Kkrjlnf5XIS",
+            "name": "Hole in My Heart",
+            "uri": "spotify:track:1JVTJM7Mdv5Kkrjlnf5XIS",
+            "popularity": 30,
+            "albumName": "Ex Voto / The Silent Love",
+            "albumId": "2SwdpGKxoZwq1Wh5xGr3NG",
+            "foundAt": "2026-02-05T18:43:59.366Z"
+          }
+        },
+        {
+          "title": "A Little Death",
+          "artist": "claire rousay",
+          "spotifyTrack": {
+            "id": "0Dg4nN3hKf3Ml3KV5VRd7W",
+            "name": "a little death",
+            "uri": "spotify:track:0Dg4nN3hKf3Ml3KV5VRd7W",
+            "popularity": 34,
+            "albumName": "a little death",
+            "albumId": "6pnb0vQLp8a9c6u1XAW3Up",
+            "foundAt": "2026-02-05T18:44:00.964Z"
+          }
+        },
+        {
+          "title": "We're Headed to the Lake",
+          "artist": "Guitar",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-28T10:15:30.690Z"
+          }
+        },
+        {
+          "title": "hooke's law",
+          "artist": "Keiyaa",
+          "spotifyTrack": {
+            "id": "4YZXIoOJbus69PEBfP1AF0",
+            "name": "stupid prizes",
+            "uri": "spotify:track:4YZXIoOJbus69PEBfP1AF0",
+            "popularity": 32,
+            "albumName": "hooke’s law",
+            "albumId": "2sTsH9vYQhIi60IYjE3hJp",
+            "foundAt": "2026-02-05T18:44:03.468Z"
+          }
+        },
+        {
+          "title": "Time Won't Bring Me Down",
+          "artist": "Radioactivity",
+          "spotifyTrack": {
+            "id": "0TM4K2XHPWbIJIUcwvDBeS",
+            "name": "Time Won't Bring Me Down",
+            "uri": "spotify:track:0TM4K2XHPWbIJIUcwvDBeS",
+            "popularity": 25,
+            "albumName": "Time Won't Bring Me Down",
+            "albumId": "7KWufDtqqmPXiE8tWeDtRd",
+            "foundAt": "2026-02-05T18:44:05.099Z"
+          }
+        },
+        {
+          "title": "Ruin",
+          "artist": "Ritual Howls",
+          "spotifyTrack": {
+            "id": "2ya3bj6Hb36KWlrjzquuAn",
+            "name": "Follow the Sun",
+            "uri": "spotify:track:2ya3bj6Hb36KWlrjzquuAn",
+            "popularity": 21,
+            "albumName": "Ruin",
+            "albumId": "1Qj2gjomtPoIVGJw0T9WdO",
+            "foundAt": "2026-02-05T18:44:06.740Z"
+          }
+        },
+        {
+          "title": "Arvo Pärt: And I heard a voice",
+          "artist": "Vox ClamantisJaan-Eik Tulve",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-02-28T10:15:31.243Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-07T02:04:48.508Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-11-07",
       "albums": [

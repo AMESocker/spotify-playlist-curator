@@ -1627,6 +1627,12 @@
   "Folk / Country / Americana": {
     "not_added": [
       {
+        "artist": "The Chieftains",
+        "listeners": 124770,
+        "spotify_popularity": 45,
+        "spotify_id": "6AnrSlk5Gp1YMXgaI3mWCL"
+      },
+      {
         "artist": "Johnny Cash",
         "listeners": 7038022,
         "spotify_popularity": 73,
@@ -1667,12 +1673,6 @@
         "listeners": 267599,
         "spotify_popularity": 49,
         "spotify_id": "2H5elA2mJKrHmqkN9GSfkz"
-      },
-      {
-        "artist": "The Chieftains",
-        "listeners": 124770,
-        "spotify_popularity": 45,
-        "spotify_id": "6AnrSlk5Gp1YMXgaI3mWCL"
       },
       {
         "artist": "Townes Van Zandt",
