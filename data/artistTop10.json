@@ -1627,12 +1627,6 @@
   "Folk / Country / Americana": {
     "not_added": [
       {
-        "artist": "The Chieftains",
-        "listeners": 124770,
-        "spotify_popularity": 45,
-        "spotify_id": "6AnrSlk5Gp1YMXgaI3mWCL"
-      },
-      {
         "artist": "Johnny Cash",
         "listeners": 7038022,
         "spotify_popularity": 73,
@@ -1897,6 +1891,13 @@
         "artist": "Altan",
         "listeners": 36192,
         "spotify_id": "6koEjb4607APXtFtjxvA5T",
+        "recommended": false,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "The Chieftains",
+        "listeners": 124770,
+        "spotify_id": "6AnrSlk5Gp1YMXgaI3mWCL",
         "recommended": false,
         "tracksAdded": 10
       }

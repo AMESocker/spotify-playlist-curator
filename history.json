@@ -1750,5 +1750,15 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-03-07T02:04:48.509Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Folk / Country / Americana",
+    "artist": "The Chieftains",
+    "listeners": 124770,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-07T18:39:03.915Z"
   }
 ]
