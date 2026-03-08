@@ -1771,5 +1771,25 @@
     "sourceFile": "data/spotifyPlaylists.json",
     "strategy": "spotifyPlaylist",
     "timestamp": "2026-03-07T21:18:15.092Z"
+  },
+  {
+    "action": "add",
+    "artist": "Boards of Canada",
+    "album": "Music Has the Right to Children",
+    "index": null,
+    "tracksAdded": 18,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-08T15:29:03.994Z"
+  },
+  {
+    "action": "add",
+    "artist": "Rufus Wainwright",
+    "album": "Want Two",
+    "index": 834,
+    "tracksAdded": 12,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-03-08T15:29:05.887Z"
   }
 ]

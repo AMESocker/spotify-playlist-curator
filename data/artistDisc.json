@@ -1294,12 +1294,13 @@
       "Artist": "Boards of Canada",
       "Group": "🟣 Electronic & Experimental",
       "Albums": [
-        "Music Has the Right to Children",
         "Geogaddi",
         "The Campfire Headphase",
         "Tomorrow's Harvest"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Music Has the Right to Children"
+      ]
     },
     {
       "Artist": "Flying Lotus",
