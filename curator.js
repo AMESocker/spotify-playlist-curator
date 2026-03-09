@@ -33,8 +33,8 @@ import { handleArtistGenre } from "./artistGenreStrategy.js";
 const dataSources = [
   { name: "artistDisc", file: "data/artistDisc.json", strategy: "fairness" },
   { name: "1080albums", file: "data/1080albums.json", strategy: "sequential" },
-  { name: "rockNRollHallOfFame", file: "data/rockNRollHallofFame.json", strategy: "rockHall" },
   { name: "allMusicEditorsChoice", file: "data/editorsChoiceAlbums.json", strategy: "editorsChoice" },
+  { name: "rockNRollHallOfFame", file: "data/rockNRollHallofFame.json", strategy: "rockHall" },
   { name: "artistGenre", file: "data/artistTop10.json", strategy: "artistGenre" },
   { name: "spotifyTotmPlaylists", file: "data/spotifyPlaylists.json", strategy: "spotifyPlaylist" }
 ];
