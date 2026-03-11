@@ -1803,7 +1803,6 @@
       "Artist": "Kool & the Gang",
       "Group": "🟤 Soul / R&B",
       "Albums": [
-        "Good Times (1972)",
         "Wild and Peaceful (1973)",
         "Light of Worlds (1974)",
         "Spirit of the Boogie (1975)",
@@ -1823,7 +1822,8 @@
       ],
       "AddedAlbums": [
         "Kool and the Gang (1969)",
-        "Music Is the Message (1972)"
+        "Music Is the Message (1972)",
+        "Good Times (1972)"
       ]
     },
     {
