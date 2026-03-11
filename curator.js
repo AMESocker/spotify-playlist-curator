@@ -494,6 +494,7 @@ export async function fillPlaylist() {
       consecutiveFailures = 0;
       addCount++;
       console.log(`\n✨ Progress: ${addCount} item(s) added so far\n`);
+      await new Promise(resolve => setTimeout(resolve, 3000));
     }
   }
 
