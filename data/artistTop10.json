@@ -528,13 +528,6 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
-        "artist": "Actress",
-        "listeners": 106124,
-        "recommended": true,
-        "spotify_popularity": 34,
-        "spotify_id": "3bg5rmICvmA8dmYVAdKGYH"
-      },
-      {
         "artist": "Peter Tosh",
         "listeners": 1242002,
         "recommended": true,
@@ -806,6 +799,13 @@
         "artist": "Dengue Fever",
         "listeners": 56435,
         "spotify_id": "3wFHDAXLsjvclEtifEV7F5",
+        "recommended": true,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Actress",
+        "listeners": 106124,
+        "spotify_id": "3bg5rmICvmA8dmYVAdKGYH",
         "recommended": true,
         "tracksAdded": 10
       }
