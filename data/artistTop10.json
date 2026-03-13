@@ -1628,12 +1628,6 @@
   "Folk / Country / Americana": {
     "not_added": [
       {
-        "artist": "Gillian Welch",
-        "listeners": 267599,
-        "spotify_popularity": 49,
-        "spotify_id": "2H5elA2mJKrHmqkN9GSfkz"
-      },
-      {
         "artist": "Johnny Cash",
         "listeners": 7038022,
         "spotify_popularity": 73,
@@ -1901,6 +1895,13 @@
         "spotify_id": "6AnrSlk5Gp1YMXgaI3mWCL",
         "recommended": false,
         "tracksAdded": 10
+      },
+      {
+        "artist": "Gillian Welch",
+        "listeners": 267599,
+        "spotify_id": "2H5elA2mJKrHmqkN9GSfkz",
+        "recommended": false,
+        "tracksAdded": 10
       }
     ]
   },
@@ -1971,12 +1972,6 @@
         "listeners": 890726,
         "spotify_popularity": 51,
         "spotify_id": "2gCsNOpiBaMNh20jQ5prf0"
-      },
-      {
-        "artist": "Tito Puente",
-        "listeners": 208015,
-        "spotify_popularity": 47,
-        "spotify_id": "6SPpCqM8gOzrtICAxN5NuX"
       },
       {
         "artist": "Freddie King",
@@ -2171,6 +2166,13 @@
         "artist": "Tony Allen",
         "listeners": 143100,
         "spotify_id": "6JpZEemWmunccsrHXFUOgi",
+        "recommended": false,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Tito Puente",
+        "listeners": 208015,
+        "spotify_id": "6SPpCqM8gOzrtICAxN5NuX",
         "recommended": false,
         "tracksAdded": 10
       }

@@ -1986,5 +1986,64 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-03-13T02:11:54.972Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Folk / Country / Americana",
+    "artist": "Gillian Welch",
+    "listeners": 267599,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-13T18:04:36.366Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2013-10",
+    "playlistUrl": "https://open.spotify.com/playlist/7BCEFDm2ZzLRSkzMfyZBa0?si=db186b192dc740d0",
+    "playlistId": "7BCEFDm2ZzLRSkzMfyZBa0",
+    "index": 88,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-03-13T18:04:41.737Z"
+  },
+  {
+    "action": "add",
+    "artist": "Yellowcard",
+    "album": "Where We Stand",
+    "index": null,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-13T18:04:47.971Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-10-03",
+    "tracksAdded": 7,
+    "tracksSkipped": 2,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-13T18:04:51.887Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Hollies",
+    "index": 51,
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-13T18:04:58.489Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Jazz / Blues / Soul / Funk",
+    "artist": "Tito Puente",
+    "listeners": 208015,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-13T18:05:04.351Z"
   }
 ]
