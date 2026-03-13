@@ -1,118 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-10-03",
-      "albums": [
-        {
-          "title": "The Life of a Showgirl",
-          "artist": "Taylor Swift",
-          "spotifyTrack": {
-            "id": "53iuhJlwXhSER5J2IYYv1W",
-            "name": "The Fate of Ophelia",
-            "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
-            "popularity": 98,
-            "albumName": "The Life of a Showgirl",
-            "albumId": "4a6NzYL1YHRUgx9e3YZI6I",
-            "foundAt": "2026-02-05T18:44:51.798Z"
-          }
-        },
-        {
-          "title": "Cut & Rewind",
-          "artist": "Say She She",
-          "spotifyTrack": {
-            "id": "7Jhq5xJqX9RL3vwig3YR0I",
-            "name": "Disco Life",
-            "uri": "spotify:track:7Jhq5xJqX9RL3vwig3YR0I",
-            "popularity": 45,
-            "albumName": "Cut & Rewind",
-            "albumId": "7hFUCq6uO0DeJg3Ns7ik2T",
-            "foundAt": "2026-02-05T18:44:53.473Z"
-          }
-        },
-        {
-          "title": "Silver Bleeds the Black Sun...",
-          "artist": "AFI",
-          "spotifyTrack": {
-            "id": "5DcTkTG3Z4uoQTxIv4LgPZ",
-            "name": "Holy Visions",
-            "uri": "spotify:track:5DcTkTG3Z4uoQTxIv4LgPZ",
-            "popularity": 44,
-            "albumName": "Silver Bleeds the Black Sun...",
-            "albumId": "5mkdGum4SA8FWcwNMlttf5",
-            "foundAt": "2026-02-05T18:44:55.171Z"
-          }
-        },
-        {
-          "title": "Worldwide",
-          "artist": "Snõõper",
-          "spotifyTrack": {
-            "id": "0e2aRqnNEkLc1NDgVpfSuP",
-            "name": "Star 6 9",
-            "uri": "spotify:track:0e2aRqnNEkLc1NDgVpfSuP",
-            "popularity": 40,
-            "albumName": "Worldwide",
-            "albumId": "1Lej9DPOh2ljmeiyKTFHrz",
-            "foundAt": "2026-02-05T18:44:56.916Z"
-          }
-        },
-        {
-          "title": "I'm Nice Now",
-          "artist": "Upchuck",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-07T10:16:23.051Z"
-          }
-        },
-        {
-          "title": "Not for Lack of Trying",
-          "artist": "Dodie",
-          "spotifyTrack": {
-            "id": "7v4rzwg3HdsV2Nk7soqTgk",
-            "name": "I’M FINE!",
-            "uri": "spotify:track:7v4rzwg3HdsV2Nk7soqTgk",
-            "popularity": 40,
-            "albumName": "Not For Lack Of Trying",
-            "albumId": "6ogKuILl7vFFCahzxHvFOi",
-            "foundAt": "2026-02-05T18:44:59.371Z"
-          }
-        },
-        {
-          "title": "Songbird",
-          "artist": "Waylon Jennings",
-          "spotifyTrack": {
-            "id": "2uZA3PguAb1CXW8we1Dxwo",
-            "name": "The Cowboy (Small Texas Town)",
-            "uri": "spotify:track:2uZA3PguAb1CXW8we1Dxwo",
-            "popularity": 42,
-            "albumName": "Songbird",
-            "albumId": "3U2Nj6eoEgISZWr6t9WFZV",
-            "foundAt": "2026-02-05T18:45:01.114Z"
-          }
-        },
-        {
-          "title": "For Dinah",
-          "artist": "Ledisi",
-          "spotifyTrack": {
-            "id": "4uqMVAe76Y0UBQXn0KCXLh",
-            "name": "If I Never Get To Heaven",
-            "uri": "spotify:track:4uqMVAe76Y0UBQXn0KCXLh",
-            "popularity": 31,
-            "albumName": "For Dinah",
-            "albumId": "7jH6j03bgQIOsVG3Haw5kZ",
-            "foundAt": "2026-02-05T18:45:02.649Z"
-          }
-        },
-        {
-          "title": "Scarlatti",
-          "artist": "Javier Perianes",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-07T10:16:23.742Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-09-26",
       "albums": [
         {
@@ -3669,6 +3557,120 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-10-03",
+      "albums": [
+        {
+          "title": "The Life of a Showgirl",
+          "artist": "Taylor Swift",
+          "spotifyTrack": {
+            "id": "53iuhJlwXhSER5J2IYYv1W",
+            "name": "The Fate of Ophelia",
+            "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
+            "popularity": 98,
+            "albumName": "The Life of a Showgirl",
+            "albumId": "4a6NzYL1YHRUgx9e3YZI6I",
+            "foundAt": "2026-02-05T18:44:51.798Z"
+          }
+        },
+        {
+          "title": "Cut & Rewind",
+          "artist": "Say She She",
+          "spotifyTrack": {
+            "id": "7Jhq5xJqX9RL3vwig3YR0I",
+            "name": "Disco Life",
+            "uri": "spotify:track:7Jhq5xJqX9RL3vwig3YR0I",
+            "popularity": 45,
+            "albumName": "Cut & Rewind",
+            "albumId": "7hFUCq6uO0DeJg3Ns7ik2T",
+            "foundAt": "2026-02-05T18:44:53.473Z"
+          }
+        },
+        {
+          "title": "Silver Bleeds the Black Sun...",
+          "artist": "AFI",
+          "spotifyTrack": {
+            "id": "5DcTkTG3Z4uoQTxIv4LgPZ",
+            "name": "Holy Visions",
+            "uri": "spotify:track:5DcTkTG3Z4uoQTxIv4LgPZ",
+            "popularity": 44,
+            "albumName": "Silver Bleeds the Black Sun...",
+            "albumId": "5mkdGum4SA8FWcwNMlttf5",
+            "foundAt": "2026-02-05T18:44:55.171Z"
+          }
+        },
+        {
+          "title": "Worldwide",
+          "artist": "Snõõper",
+          "spotifyTrack": {
+            "id": "0e2aRqnNEkLc1NDgVpfSuP",
+            "name": "Star 6 9",
+            "uri": "spotify:track:0e2aRqnNEkLc1NDgVpfSuP",
+            "popularity": 40,
+            "albumName": "Worldwide",
+            "albumId": "1Lej9DPOh2ljmeiyKTFHrz",
+            "foundAt": "2026-02-05T18:44:56.916Z"
+          }
+        },
+        {
+          "title": "I'm Nice Now",
+          "artist": "Upchuck",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-07T10:16:23.051Z"
+          }
+        },
+        {
+          "title": "Not for Lack of Trying",
+          "artist": "Dodie",
+          "spotifyTrack": {
+            "id": "7v4rzwg3HdsV2Nk7soqTgk",
+            "name": "I’M FINE!",
+            "uri": "spotify:track:7v4rzwg3HdsV2Nk7soqTgk",
+            "popularity": 40,
+            "albumName": "Not For Lack Of Trying",
+            "albumId": "6ogKuILl7vFFCahzxHvFOi",
+            "foundAt": "2026-02-05T18:44:59.371Z"
+          }
+        },
+        {
+          "title": "Songbird",
+          "artist": "Waylon Jennings",
+          "spotifyTrack": {
+            "id": "2uZA3PguAb1CXW8we1Dxwo",
+            "name": "The Cowboy (Small Texas Town)",
+            "uri": "spotify:track:2uZA3PguAb1CXW8we1Dxwo",
+            "popularity": 42,
+            "albumName": "Songbird",
+            "albumId": "3U2Nj6eoEgISZWr6t9WFZV",
+            "foundAt": "2026-02-05T18:45:01.114Z"
+          }
+        },
+        {
+          "title": "For Dinah",
+          "artist": "Ledisi",
+          "spotifyTrack": {
+            "id": "4uqMVAe76Y0UBQXn0KCXLh",
+            "name": "If I Never Get To Heaven",
+            "uri": "spotify:track:4uqMVAe76Y0UBQXn0KCXLh",
+            "popularity": 31,
+            "albumName": "For Dinah",
+            "albumId": "7jH6j03bgQIOsVG3Haw5kZ",
+            "foundAt": "2026-02-05T18:45:02.649Z"
+          }
+        },
+        {
+          "title": "Scarlatti",
+          "artist": "Javier Perianes",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-07T10:16:23.742Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-13T18:04:51.885Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-10-10",
       "albums": [

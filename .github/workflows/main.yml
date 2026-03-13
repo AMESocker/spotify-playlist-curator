@@ -33,6 +33,7 @@ jobs:
           ARCHIVE_PLAYLISTS: ${{ secrets.ARCHIVE_PLAYLISTS }}
           TARGET_PLAYLIST_ID: ${{ secrets.TARGET_PLAYLIST_ID }}
           CLEAN_PLAYLIST_ID: ${{ secrets.CLEAN_PLAYLIST_ID }}
+          CAR_PLAYLIST_ALL_ID: ${{ secrets.CAR_PLAYLIST_ALL_ID }}
           RUN_MODE: once
         run: node index.js
       - name: Commit and push all changes
