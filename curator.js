@@ -92,9 +92,9 @@ async function getCarPlaylistTrackCount() {
 }
 
 async function wouldExceedLimit(tracksToAdd) {
-  const current = await getCarPlaylistTrackCount();
+  const current = await getPlaylistTrackCount();
   if (current + tracksToAdd > MAX_PLAYLIST_SIZE) {
-    console.log(`⚠️ Car playlist would exceed ${MAX_PLAYLIST_SIZE} tracks (currently ${current}, adding ${tracksToAdd}).`);
+    console.log(`⚠️ Playlist would exceed ${MAX_PLAYLIST_SIZE} tracks (currently ${current}, adding ${tracksToAdd}).`);
     console.log(`⏸️  Waiting for space before adding more.`);
     return true;
   }
