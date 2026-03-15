@@ -2104,5 +2104,16 @@
     "sourceFile": "data/artistTop10.json",
     "strategy": "artistGenre",
     "timestamp": "2026-03-14T18:43:33.616Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2008-11",
+    "playlistUrl": "https://open.spotify.com/playlist/4DWVVxyW0Wy3cT44rCSoql?si=24f89d405b804962",
+    "playlistId": "4DWVVxyW0Wy3cT44rCSoql",
+    "index": 29,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-03-15T10:33:55.216Z"
   }
 ]
