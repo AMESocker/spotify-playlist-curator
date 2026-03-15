@@ -1513,7 +1513,6 @@
       "Artist": "Godsmack",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Awake",
         "Faceless",
         "IV",
         "The Oracle",
@@ -1522,7 +1521,8 @@
         "Lighting Up the Sky"
       ],
       "AddedAlbums": [
-        "Godsmack"
+        "Godsmack",
+        "Awake"
       ]
     },
     {

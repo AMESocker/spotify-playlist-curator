@@ -2115,5 +2115,15 @@
     "sourceFile": "data/spotifyPlaylists.json",
     "strategy": "spotifyPlaylist",
     "timestamp": "2026-03-15T10:33:55.216Z"
+  },
+  {
+    "action": "add",
+    "artist": "Godsmack",
+    "album": "Awake",
+    "index": null,
+    "tracksAdded": 11,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-15T18:19:03.381Z"
   }
 ]
