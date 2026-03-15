@@ -383,12 +383,6 @@
         "spotify_id": "5yjbUO1Jocui7RKE30zfLT"
       },
       {
-        "artist": "Throbbing Gristle",
-        "listeners": 125795,
-        "spotify_popularity": 30,
-        "spotify_id": "1UYhxPY1oqFUg1HfF8nV3k"
-      },
-      {
         "artist": "Rush",
         "listeners": 2613442,
         "recommended": true,
@@ -520,6 +514,13 @@
         "artist": "Fates Warning",
         "listeners": 92866,
         "spotify_id": "4S6URhg3PMKnCv9clR4ejE",
+        "recommended": false,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Throbbing Gristle",
+        "listeners": 125795,
+        "spotify_id": "1UYhxPY1oqFUg1HfF8nV3k",
         "recommended": false,
         "tracksAdded": 10
       }
