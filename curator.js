@@ -121,13 +121,15 @@ function selectWithFairness(data) {
     .filter(a => a.Albums.length > 0)
     .map(a => {
       const totalAlbums = a.Albums.length + a.AddedAlbums.length;
+      const randomIndex = Math.floor(Math.random() * a.Albums.length);
+
       return {
         artist: a.Artist,
         group: a.Group,
         artistPercentage: a.AddedAlbums.length / totalAlbums,
         groupPercentage: groupStats[a.Group].added / groupStats[a.Group].albums,
         totalAlbums,
-        nextAlbum: a.Albums[0]
+        nextAlbum: a.Albums[randomIndex]
       };
     })
     .sort((a, b) =>
