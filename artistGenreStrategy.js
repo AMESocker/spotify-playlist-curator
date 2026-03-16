@@ -69,6 +69,7 @@ function selectNextArtist(data) {
     return aListeners - bListeners;
   });
 
+  console.log(`🎯 Selected genre: ${genre} - Artist: ${candidates[randomIndex].artist}`);
   return { genre, artist: candidates[randomIndex] };
 }
 
