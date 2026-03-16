@@ -2174,5 +2174,23 @@
     "sourceFile": "data/spotifyPlaylists.json",
     "strategy": "spotifyPlaylist",
     "timestamp": "2026-03-16T10:56:36.547Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Sam Ryder",
+    "index": 164,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-16T18:14:20.757Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "FÜLÜ",
+    "index": 154,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-16T18:14:22.935Z"
   }
 ]
