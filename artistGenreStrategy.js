@@ -56,6 +56,7 @@ function selectNextArtist(data) {
 
   const { genre } = eligibleGenres[0];
   const candidates = data[genre].not_added;
+  const randomIndex = Math.floor(Math.random() * candidates.length);
 
   // Sort by: non-recommended first, then lowest listeners
   const sorted = [...candidates].sort((a, b) => {
@@ -68,7 +69,7 @@ function selectNextArtist(data) {
     return aListeners - bListeners;
   });
 
-  return { genre, artist: sorted[0] };
+  return { genre, artist: candidates[randomIndex] };
 }
 
 /* ==================================================
