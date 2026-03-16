@@ -1,123 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2026-03-13",
-      "albums": [
-        {
-          "title": "A Pound of Feathers",
-          "artist": "The Black Crowes",
-          "spotifyTrack": {
-            "id": "5vFajDtOQR7Qx8Gbf36OHO",
-            "name": "Profane Prophecy",
-            "uri": "spotify:track:5vFajDtOQR7Qx8Gbf36OHO",
-            "popularity": 0,
-            "albumName": "A Pound of Feathers",
-            "albumId": "417zi1WN5yAK4u3VOjZh13",
-            "foundAt": "2026-03-14T10:20:32.873Z"
-          }
-        },
-        {
-          "title": "Irreversible",
-          "artist": "Brigitte Calls Me Baby",
-          "spotifyTrack": {
-            "id": "5nIZ6vGUscCAvWNTdl8J04",
-            "name": "There Always",
-            "uri": "spotify:track:5nIZ6vGUscCAvWNTdl8J04",
-            "popularity": 0,
-            "albumName": "Irreversible",
-            "albumId": "2dPFQ6uBf6rfHg2HAoBkFh",
-            "foundAt": "2026-03-14T10:20:34.192Z"
-          }
-        },
-        {
-          "title": "Transmitter",
-          "artist": "Cut Worms",
-          "spotifyTrack": {
-            "id": "10bqWRCPMGjVHGPPT9hIw1",
-            "name": "Worlds Unknown",
-            "uri": "spotify:track:10bqWRCPMGjVHGPPT9hIw1",
-            "popularity": 0,
-            "albumName": "Transmitter",
-            "albumId": "0E0ELU3LQuzcAt5NhrSTh4",
-            "foundAt": "2026-03-14T10:20:35.543Z"
-          }
-        },
-        {
-          "title": "Lotus Bridge",
-          "artist": "The Monochrome Set",
-          "spotifyTrack": {
-            "id": "3QYW8uWh3Sp2vTGPfZpF3U",
-            "name": "Lotus Bridge",
-            "uri": "spotify:track:3QYW8uWh3Sp2vTGPfZpF3U",
-            "popularity": 0,
-            "albumName": "Lotus Bridge",
-            "albumId": "6VczA8HiirX57U5f0ygNUx",
-            "foundAt": "2026-03-14T10:20:36.887Z"
-          }
-        },
-        {
-          "title": "Only You Left",
-          "artist": "The Orielles",
-          "spotifyTrack": {
-            "id": "0F5a0deuWzQhATV6iX500d",
-            "name": "Three Halves",
-            "uri": "spotify:track:0F5a0deuWzQhATV6iX500d",
-            "popularity": 0,
-            "albumName": "Only You Left",
-            "albumId": "1pnhhuzGo51LSBy10BKOkH",
-            "foundAt": "2026-03-14T10:20:38.369Z"
-          }
-        },
-        {
-          "title": "Paris in the Spring",
-          "artist": "Alexis Taylor",
-          "spotifyTrack": {
-            "id": "7EK9aohBkQM7o3RgJufqZ5",
-            "name": "Your Only Life",
-            "uri": "spotify:track:7EK9aohBkQM7o3RgJufqZ5",
-            "popularity": 1,
-            "albumName": "Paris In The Spring",
-            "albumId": "0doGfyxVBHG9nPvQoq9LhT",
-            "foundAt": "2026-03-14T10:20:39.823Z"
-          }
-        },
-        {
-          "title": "GOLDSTAR",
-          "artist": "The Sophs",
-          "spotifyTrack": {
-            "id": "6EpKPPadG3duKlJZWJmws3",
-            "name": "THE DOG DIES IN THE END",
-            "uri": "spotify:track:6EpKPPadG3duKlJZWJmws3",
-            "popularity": 0,
-            "albumName": "GOLDSTAR",
-            "albumId": "7mTtyluyCS8hY97tqZDpoc",
-            "foundAt": "2026-03-14T10:20:41.206Z"
-          }
-        },
-        {
-          "title": "Taracá",
-          "artist": "Jorge Drexler",
-          "spotifyTrack": {
-            "id": "3GnbDZUKF0XiPELXAV4scm",
-            "name": "Toco madera",
-            "uri": "spotify:track:3GnbDZUKF0XiPELXAV4scm",
-            "popularity": 0,
-            "albumName": "Taracá",
-            "albumId": "3x8EqFhf17Rupeyh0k1a0H",
-            "foundAt": "2026-03-14T10:20:42.640Z"
-          }
-        },
-        {
-          "title": "Patternmaster",
-          "artist": "Joe MartinJason PalmerJonathan PinsonMark Turner",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-14T10:20:43.281Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-09-19",
       "albums": [
         {
@@ -3523,6 +3406,125 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2026-03-13",
+      "albums": [
+        {
+          "title": "A Pound of Feathers",
+          "artist": "The Black Crowes",
+          "spotifyTrack": {
+            "id": "5vFajDtOQR7Qx8Gbf36OHO",
+            "name": "Profane Prophecy",
+            "uri": "spotify:track:5vFajDtOQR7Qx8Gbf36OHO",
+            "popularity": 0,
+            "albumName": "A Pound of Feathers",
+            "albumId": "417zi1WN5yAK4u3VOjZh13",
+            "foundAt": "2026-03-14T10:20:32.873Z"
+          }
+        },
+        {
+          "title": "Irreversible",
+          "artist": "Brigitte Calls Me Baby",
+          "spotifyTrack": {
+            "id": "5nIZ6vGUscCAvWNTdl8J04",
+            "name": "There Always",
+            "uri": "spotify:track:5nIZ6vGUscCAvWNTdl8J04",
+            "popularity": 0,
+            "albumName": "Irreversible",
+            "albumId": "2dPFQ6uBf6rfHg2HAoBkFh",
+            "foundAt": "2026-03-14T10:20:34.192Z"
+          }
+        },
+        {
+          "title": "Transmitter",
+          "artist": "Cut Worms",
+          "spotifyTrack": {
+            "id": "10bqWRCPMGjVHGPPT9hIw1",
+            "name": "Worlds Unknown",
+            "uri": "spotify:track:10bqWRCPMGjVHGPPT9hIw1",
+            "popularity": 0,
+            "albumName": "Transmitter",
+            "albumId": "0E0ELU3LQuzcAt5NhrSTh4",
+            "foundAt": "2026-03-14T10:20:35.543Z"
+          }
+        },
+        {
+          "title": "Lotus Bridge",
+          "artist": "The Monochrome Set",
+          "spotifyTrack": {
+            "id": "3QYW8uWh3Sp2vTGPfZpF3U",
+            "name": "Lotus Bridge",
+            "uri": "spotify:track:3QYW8uWh3Sp2vTGPfZpF3U",
+            "popularity": 0,
+            "albumName": "Lotus Bridge",
+            "albumId": "6VczA8HiirX57U5f0ygNUx",
+            "foundAt": "2026-03-14T10:20:36.887Z"
+          }
+        },
+        {
+          "title": "Only You Left",
+          "artist": "The Orielles",
+          "spotifyTrack": {
+            "id": "0F5a0deuWzQhATV6iX500d",
+            "name": "Three Halves",
+            "uri": "spotify:track:0F5a0deuWzQhATV6iX500d",
+            "popularity": 0,
+            "albumName": "Only You Left",
+            "albumId": "1pnhhuzGo51LSBy10BKOkH",
+            "foundAt": "2026-03-14T10:20:38.369Z"
+          }
+        },
+        {
+          "title": "Paris in the Spring",
+          "artist": "Alexis Taylor",
+          "spotifyTrack": {
+            "id": "7EK9aohBkQM7o3RgJufqZ5",
+            "name": "Your Only Life",
+            "uri": "spotify:track:7EK9aohBkQM7o3RgJufqZ5",
+            "popularity": 1,
+            "albumName": "Paris In The Spring",
+            "albumId": "0doGfyxVBHG9nPvQoq9LhT",
+            "foundAt": "2026-03-14T10:20:39.823Z"
+          }
+        },
+        {
+          "title": "GOLDSTAR",
+          "artist": "The Sophs",
+          "spotifyTrack": {
+            "id": "6EpKPPadG3duKlJZWJmws3",
+            "name": "THE DOG DIES IN THE END",
+            "uri": "spotify:track:6EpKPPadG3duKlJZWJmws3",
+            "popularity": 0,
+            "albumName": "GOLDSTAR",
+            "albumId": "7mTtyluyCS8hY97tqZDpoc",
+            "foundAt": "2026-03-14T10:20:41.206Z"
+          }
+        },
+        {
+          "title": "Taracá",
+          "artist": "Jorge Drexler",
+          "spotifyTrack": {
+            "id": "3GnbDZUKF0XiPELXAV4scm",
+            "name": "Toco madera",
+            "uri": "spotify:track:3GnbDZUKF0XiPELXAV4scm",
+            "popularity": 0,
+            "albumName": "Taracá",
+            "albumId": "3x8EqFhf17Rupeyh0k1a0H",
+            "foundAt": "2026-03-14T10:20:42.640Z"
+          }
+        },
+        {
+          "title": "Patternmaster",
+          "artist": "Joe MartinJason PalmerJonathan PinsonMark Turner",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-14T10:20:43.281Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-16T02:35:51.565Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-09-26",
       "albums": [
