@@ -529,6 +529,27 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
+        "artist": "Damian Marley",
+        "listeners": 1938005,
+        "recommended": true,
+        "spotify_popularity": 67,
+        "spotify_id": "3QJzdZJYIAcoET1GcfpNGi"
+      },
+      {
+        "artist": "Bombino",
+        "listeners": 116297,
+        "recommended": true,
+        "spotify_popularity": 36,
+        "spotify_id": "7s4I6rDvTcdBDKElVbtsAN"
+      },
+      {
+        "artist": "Khruangbin",
+        "listeners": 2252112,
+        "recommended": true,
+        "spotify_popularity": 69,
+        "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
+      },
+      {
         "artist": "Bonobo",
         "listeners": 1485781,
         "recommended": true,
@@ -590,13 +611,6 @@
         "recommended": true,
         "spotify_popularity": 53,
         "spotify_id": "72T7x96EAqN2UWvAgobYfv"
-      },
-      {
-        "artist": "Damian Marley",
-        "listeners": 1938005,
-        "recommended": true,
-        "spotify_popularity": 67,
-        "spotify_id": "3QJzdZJYIAcoET1GcfpNGi"
       },
       {
         "artist": "Burial",
@@ -704,13 +718,6 @@
         "spotify_id": "7HGFXtBhRq3g1Ma3nH4Rgv"
       },
       {
-        "artist": "Khruangbin",
-        "listeners": 2252112,
-        "recommended": true,
-        "spotify_popularity": 69,
-        "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
-      },
-      {
         "artist": "Mdou Moctar",
         "listeners": 161193,
         "recommended": true,
@@ -723,13 +730,6 @@
         "recommended": true,
         "spotify_popularity": 50,
         "spotify_id": "2sf2owtFSCvz2MLfxmNdkb"
-      },
-      {
-        "artist": "Bombino",
-        "listeners": 116297,
-        "recommended": true,
-        "spotify_popularity": 36,
-        "spotify_id": "7s4I6rDvTcdBDKElVbtsAN"
       },
       {
         "artist": "The Orb",
