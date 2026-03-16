@@ -529,6 +529,13 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
+        "artist": "Culture",
+        "listeners": 113762,
+        "recommended": true,
+        "spotify_popularity": 51,
+        "spotify_id": "0DoNSZa1R1DV69oY1djlbf"
+      },
+      {
         "artist": "Peter Tosh",
         "listeners": 1242002,
         "recommended": true,
@@ -562,13 +569,6 @@
         "recommended": true,
         "spotify_popularity": 56,
         "spotify_id": "6UL7BodGc5iVmQGlMwHR0g"
-      },
-      {
-        "artist": "Culture",
-        "listeners": 113762,
-        "recommended": true,
-        "spotify_popularity": 51,
-        "spotify_id": "0DoNSZa1R1DV69oY1djlbf"
       },
       {
         "artist": "Sizzla",

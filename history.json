@@ -2144,5 +2144,14 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-03-16T02:35:51.567Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Michael Jackson",
+    "index": 87,
+    "tracksAdded": 10,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-16T04:01:15.257Z"
   }
 ]
