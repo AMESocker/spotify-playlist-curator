@@ -496,28 +496,6 @@
       ]
     },
     {
-      "Artist": "Aretha Franklin",
-      "Group": "🟤 Soul / R&B",
-      "Albums": [
-        "Lady Soul (1968)",
-        "Aretha Now (1968)",
-        "Soul '69 (1969)",
-        "Spirit in the Dark (1970)",
-        "Young, Gifted and Black (1972)",
-        "Sparkle (1976, soundtrack)",
-        "Jump to It (1982)",
-        "Who's Zoomin' Who? (1985)",
-        "Aretha (1986)",
-        "A Rose Is Still a Rose (1998)"
-      ],
-      "AddedAlbums": [
-        "Aretha: With the Ray Bryant Combo (1961)",
-        "The Electrifying Aretha Franklin (1962)",
-        "The Tender, the Moving, the Swinging Aretha Franklin (1962)",
-        "I Never Loved a Man the Way I Love You (1967)"
-      ]
-    },
-    {
       "Artist": "Bruno Mars",
       "Group": "🟤 Soul / R&B",
       "Albums": [
@@ -1422,19 +1400,7 @@
         "The Possibility and the Promise"
       ]
     },
-    {
-      "Artist": "The Ataris",
-      "Group": "🟢 Pop-Punk / Emo / Ska",
-      "Albums": [
-        "Blue Skies, Broken Hearts...Next 12 Exits",
-        "End Is Forever",
-        "So Long, Astoria",
-        "Welcome the Night"
-      ],
-      "AddedAlbums": [
-        "Anywhere but Here"
-      ]
-    },
+
     {
       "Artist": "Bowling for Soup",
       "Group": "🟢 Pop-Punk / Emo / Ska",
@@ -1800,33 +1766,6 @@
       ]
     },
     {
-      "Artist": "Kool & the Gang",
-      "Group": "🟤 Soul / R&B",
-      "Albums": [
-        "Wild and Peaceful (1973)",
-        "Light of Worlds (1974)",
-        "Spirit of the Boogie (1975)",
-        "Love & Understanding (1976)",
-        "Open Sesame (1976)",
-        "The Force (1977)",
-        "Everybody's Dancin' (1978)",
-        "Ladies' Night (1979)",
-        "Celebrate! (1980)",
-        "Something Special (1981)",
-        "As One (1982)",
-        "In the Heart (1983)",
-        "Emergency (1984)",
-        "Forever (1986)",
-        "Sweat (1989)",
-        "Unite (1992)"
-      ],
-      "AddedAlbums": [
-        "Kool and the Gang (1969)",
-        "Music Is the Message (1972)",
-        "Good Times (1972)"
-      ]
-    },
-    {
       "Artist": "Cory Wong",
       "Group": "🟤 Soul / R&B",
       "Albums": [
@@ -1904,6 +1843,68 @@
     }
   ],
   "archived": [
+        {
+      "Artist": "The Ataris",
+      "Group": "🟢 Pop-Punk / Emo / Ska",
+      "Albums": [
+        "Blue Skies, Broken Hearts...Next 12 Exits",
+        "End Is Forever",
+        "So Long, Astoria",
+        "Welcome the Night"
+      ],
+      "AddedAlbums": [
+        "Anywhere but Here"
+      ]
+    },
+    {
+      "Artist": "Kool & the Gang",
+      "Group": "🟤 Soul / R&B",
+      "Albums": [
+        "Wild and Peaceful (1973)",
+        "Light of Worlds (1974)",
+        "Spirit of the Boogie (1975)",
+        "Love & Understanding (1976)",
+        "Open Sesame (1976)",
+        "The Force (1977)",
+        "Everybody's Dancin' (1978)",
+        "Ladies' Night (1979)",
+        "Celebrate! (1980)",
+        "Something Special (1981)",
+        "As One (1982)",
+        "In the Heart (1983)",
+        "Emergency (1984)",
+        "Forever (1986)",
+        "Sweat (1989)",
+        "Unite (1992)"
+      ],
+      "AddedAlbums": [
+        "Kool and the Gang (1969)",
+        "Music Is the Message (1972)",
+        "Good Times (1972)"
+      ]
+    },
+    {
+      "Artist": "Aretha Franklin",
+      "Group": "🟤 Soul / R&B",
+      "Albums": [
+        "Lady Soul (1968)",
+        "Aretha Now (1968)",
+        "Soul '69 (1969)",
+        "Spirit in the Dark (1970)",
+        "Young, Gifted and Black (1972)",
+        "Sparkle (1976, soundtrack)",
+        "Jump to It (1982)",
+        "Who's Zoomin' Who? (1985)",
+        "Aretha (1986)",
+        "A Rose Is Still a Rose (1998)"
+      ],
+      "AddedAlbums": [
+        "Aretha: With the Ray Bryant Combo (1961)",
+        "The Electrifying Aretha Franklin (1962)",
+        "The Tender, the Moving, the Swinging Aretha Franklin (1962)",
+        "I Never Loved a Man the Way I Love You (1967)"
+      ]
+    },
     {
       "Artist": "Sly and the Family Stone",
       "Group": "🟤 Soul / R&B",
