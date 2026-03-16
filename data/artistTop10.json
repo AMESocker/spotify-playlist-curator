@@ -529,6 +529,20 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
+        "artist": "Bonobo",
+        "listeners": 1485781,
+        "recommended": true,
+        "spotify_popularity": 61,
+        "spotify_id": "0cmWgDlu9CwTgxPhf403hb"
+      },
+      {
+        "artist": "Royksopp",
+        "listeners": 1010645,
+        "recommended": true,
+        "spotify_popularity": 59,
+        "spotify_id": "5nPOO9iTcrs9k6yFffPxjH"
+      },
+      {
         "artist": "Culture",
         "listeners": 113762,
         "recommended": true,
@@ -634,13 +648,6 @@
         "spotify_id": "6hhA8TKRNryM8FNzqCqdDO"
       },
       {
-        "artist": "Royksopp",
-        "listeners": 1010645,
-        "recommended": true,
-        "spotify_popularity": 59,
-        "spotify_id": "5nPOO9iTcrs9k6yFffPxjH"
-      },
-      {
         "artist": "Caribou",
         "listeners": 732092,
         "recommended": true,
@@ -681,13 +688,6 @@
         "recommended": true,
         "spotify_popularity": 57,
         "spotify_id": "5gqhueRUZEa7VDnQt4HODp"
-      },
-      {
-        "artist": "Bonobo",
-        "listeners": 1485781,
-        "recommended": true,
-        "spotify_popularity": 61,
-        "spotify_id": "0cmWgDlu9CwTgxPhf403hb"
       },
       {
         "artist": "Thievery Corporation",
