@@ -1,147 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-09-19",
-      "albums": [
-        {
-          "title": "Buckingham Nicks",
-          "artist": "Buckingham Nicks",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-14T10:20:43.876Z"
-          }
-        },
-        {
-          "title": "TRON: Ares [Original Motion Picture Soundtrack]",
-          "artist": "Nine Inch Nails",
-          "spotifyTrack": {
-            "id": "06USX1htQD4LgOgX4FF0ix",
-            "name": "As Alive As You Need Me To Be",
-            "uri": "spotify:track:06USX1htQD4LgOgX4FF0ix",
-            "popularity": 64,
-            "albumName": "TRON: Ares (Original Motion Picture Soundtrack)",
-            "albumId": "47pjW3XDPW99NShtkeewxl",
-            "foundAt": "2026-02-05T18:45:24.783Z"
-          }
-        },
-        {
-          "title": "Better Broken",
-          "artist": "Sarah McLachlan",
-          "spotifyTrack": {
-            "id": "2uG4DKQ59ymjurpfpy0Nbf",
-            "name": "Better Broken",
-            "uri": "spotify:track:2uG4DKQ59ymjurpfpy0Nbf",
-            "popularity": 42,
-            "albumName": "Better Broken",
-            "albumId": "1M6hqzklMlxYCA3nyS43KI",
-            "foundAt": "2026-02-05T18:45:26.387Z"
-          }
-        },
-        {
-          "title": "Dance Called Memory",
-          "artist": "Nation of Language",
-          "spotifyTrack": {
-            "id": "6YE0zn10XApgoCMaFeSj7b",
-            "name": "Inept Apollo",
-            "uri": "spotify:track:6YE0zn10XApgoCMaFeSj7b",
-            "popularity": 54,
-            "albumName": "Dance Called Memory",
-            "albumId": "2fNPTFiU2sCY9m6tv3Ucqa",
-            "foundAt": "2026-02-05T18:45:28.246Z"
-          }
-        },
-        {
-          "title": "41 Longfield Street Late ‘80s",
-          "artist": "Kieran HebdenWilliam Tyler",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-14T10:20:44.503Z"
-          }
-        },
-        {
-          "title": "40",
-          "artist": "The Wedding Present",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-14T10:20:45.176Z"
-          }
-        },
-        {
-          "title": "The Streets Like Beds Still Warm",
-          "artist": "Wilder Maker",
-          "spotifyTrack": {
-            "id": "3N0sNPggL7RNADa8U5UUJ5",
-            "name": "Strange Meeting with Owls",
-            "uri": "spotify:track:3N0sNPggL7RNADa8U5UUJ5",
-            "popularity": 16,
-            "albumName": "The Streets Like Beds Still Warm",
-            "albumId": "19vY5mb3mxaGIAEx8m3y0q",
-            "foundAt": "2026-02-05T18:45:31.218Z"
-          }
-        },
-        {
-          "title": "AFIM",
-          "artist": "Zé Ibarra",
-          "spotifyTrack": {
-            "id": "6k6PhENdLggOmmaXkmucTT",
-            "name": "Infinito em nós",
-            "uri": "spotify:track:6k6PhENdLggOmmaXkmucTT",
-            "popularity": 41,
-            "albumName": "AFIM",
-            "albumId": "1LJrM0eFBcInguPLI28Ui7",
-            "foundAt": "2026-02-05T18:45:32.725Z"
-          }
-        },
-        {
-          "title": "I'm Only F**king Myself",
-          "artist": "Lola Young",
-          "spotifyTrack": {
-            "id": "1n4Y7LSSZ38HgEdpPpivpg",
-            "name": "Post Sex Clarity",
-            "uri": "spotify:track:1n4Y7LSSZ38HgEdpPpivpg",
-            "popularity": 71,
-            "albumName": "I’m Only F**king Myself",
-            "albumId": "5jUCvcrzCNng7N3iNVY4ts",
-            "foundAt": "2026-02-05T18:45:34.496Z"
-          }
-        },
-        {
-          "title": "My Life Matters",
-          "artist": "Johnathan Blake",
-          "spotifyTrack": {
-            "id": "399lk3KeNdL1DUOpGF1Lky",
-            "name": "My Life Matters",
-            "uri": "spotify:track:399lk3KeNdL1DUOpGF1Lky",
-            "popularity": 32,
-            "albumName": "My Life Matters",
-            "albumId": "2xBXyOee7dECjSo657sXeL",
-            "foundAt": "2026-02-05T18:45:36.132Z"
-          }
-        },
-        {
-          "title": "SWEET TOOTH",
-          "artist": "Halima",
-          "spotifyTrack": {
-            "id": "36lnWRJRdHffKxKT5Y0Mfm",
-            "name": "cocoa body",
-            "uri": "spotify:track:36lnWRJRdHffKxKT5Y0Mfm",
-            "popularity": 25,
-            "albumName": "SWEET TOOTH",
-            "albumId": "0LGOZou83JowRUU1hWGOmD",
-            "foundAt": "2026-02-05T18:45:37.632Z"
-          }
-        },
-        {
-          "title": "Ned Rorem: Choral Works",
-          "artist": "St. Martin's VoicesAndrew Earis",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-14T10:20:45.790Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-09-12",
       "albums": [
         {
@@ -3406,6 +3265,149 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-09-19",
+      "albums": [
+        {
+          "title": "Buckingham Nicks",
+          "artist": "Buckingham Nicks",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-14T10:20:43.876Z"
+          }
+        },
+        {
+          "title": "TRON: Ares [Original Motion Picture Soundtrack]",
+          "artist": "Nine Inch Nails",
+          "spotifyTrack": {
+            "id": "06USX1htQD4LgOgX4FF0ix",
+            "name": "As Alive As You Need Me To Be",
+            "uri": "spotify:track:06USX1htQD4LgOgX4FF0ix",
+            "popularity": 64,
+            "albumName": "TRON: Ares (Original Motion Picture Soundtrack)",
+            "albumId": "47pjW3XDPW99NShtkeewxl",
+            "foundAt": "2026-02-05T18:45:24.783Z"
+          }
+        },
+        {
+          "title": "Better Broken",
+          "artist": "Sarah McLachlan",
+          "spotifyTrack": {
+            "id": "2uG4DKQ59ymjurpfpy0Nbf",
+            "name": "Better Broken",
+            "uri": "spotify:track:2uG4DKQ59ymjurpfpy0Nbf",
+            "popularity": 42,
+            "albumName": "Better Broken",
+            "albumId": "1M6hqzklMlxYCA3nyS43KI",
+            "foundAt": "2026-02-05T18:45:26.387Z"
+          }
+        },
+        {
+          "title": "Dance Called Memory",
+          "artist": "Nation of Language",
+          "spotifyTrack": {
+            "id": "6YE0zn10XApgoCMaFeSj7b",
+            "name": "Inept Apollo",
+            "uri": "spotify:track:6YE0zn10XApgoCMaFeSj7b",
+            "popularity": 54,
+            "albumName": "Dance Called Memory",
+            "albumId": "2fNPTFiU2sCY9m6tv3Ucqa",
+            "foundAt": "2026-02-05T18:45:28.246Z"
+          }
+        },
+        {
+          "title": "41 Longfield Street Late ‘80s",
+          "artist": "Kieran HebdenWilliam Tyler",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-14T10:20:44.503Z"
+          }
+        },
+        {
+          "title": "40",
+          "artist": "The Wedding Present",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-14T10:20:45.176Z"
+          }
+        },
+        {
+          "title": "The Streets Like Beds Still Warm",
+          "artist": "Wilder Maker",
+          "spotifyTrack": {
+            "id": "3N0sNPggL7RNADa8U5UUJ5",
+            "name": "Strange Meeting with Owls",
+            "uri": "spotify:track:3N0sNPggL7RNADa8U5UUJ5",
+            "popularity": 16,
+            "albumName": "The Streets Like Beds Still Warm",
+            "albumId": "19vY5mb3mxaGIAEx8m3y0q",
+            "foundAt": "2026-02-05T18:45:31.218Z"
+          }
+        },
+        {
+          "title": "AFIM",
+          "artist": "Zé Ibarra",
+          "spotifyTrack": {
+            "id": "6k6PhENdLggOmmaXkmucTT",
+            "name": "Infinito em nós",
+            "uri": "spotify:track:6k6PhENdLggOmmaXkmucTT",
+            "popularity": 41,
+            "albumName": "AFIM",
+            "albumId": "1LJrM0eFBcInguPLI28Ui7",
+            "foundAt": "2026-02-05T18:45:32.725Z"
+          }
+        },
+        {
+          "title": "I'm Only F**king Myself",
+          "artist": "Lola Young",
+          "spotifyTrack": {
+            "id": "1n4Y7LSSZ38HgEdpPpivpg",
+            "name": "Post Sex Clarity",
+            "uri": "spotify:track:1n4Y7LSSZ38HgEdpPpivpg",
+            "popularity": 71,
+            "albumName": "I’m Only F**king Myself",
+            "albumId": "5jUCvcrzCNng7N3iNVY4ts",
+            "foundAt": "2026-02-05T18:45:34.496Z"
+          }
+        },
+        {
+          "title": "My Life Matters",
+          "artist": "Johnathan Blake",
+          "spotifyTrack": {
+            "id": "399lk3KeNdL1DUOpGF1Lky",
+            "name": "My Life Matters",
+            "uri": "spotify:track:399lk3KeNdL1DUOpGF1Lky",
+            "popularity": 32,
+            "albumName": "My Life Matters",
+            "albumId": "2xBXyOee7dECjSo657sXeL",
+            "foundAt": "2026-02-05T18:45:36.132Z"
+          }
+        },
+        {
+          "title": "SWEET TOOTH",
+          "artist": "Halima",
+          "spotifyTrack": {
+            "id": "36lnWRJRdHffKxKT5Y0Mfm",
+            "name": "cocoa body",
+            "uri": "spotify:track:36lnWRJRdHffKxKT5Y0Mfm",
+            "popularity": 25,
+            "albumName": "SWEET TOOTH",
+            "albumId": "0LGOZou83JowRUU1hWGOmD",
+            "foundAt": "2026-02-05T18:45:37.632Z"
+          }
+        },
+        {
+          "title": "Ned Rorem: Choral Works",
+          "artist": "St. Martin's VoicesAndrew Earis",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-14T10:20:45.790Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-16T21:36:04.678Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2026-03-13",
       "albums": [

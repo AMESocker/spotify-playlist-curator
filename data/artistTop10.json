@@ -571,13 +571,6 @@
         "spotify_id": "0DoNSZa1R1DV69oY1djlbf"
       },
       {
-        "artist": "Peter Tosh",
-        "listeners": 1242002,
-        "recommended": true,
-        "spotify_popularity": 56,
-        "spotify_id": "0oea1hwGMfUxZbLxJc1XUN"
-      },
-      {
         "artist": "Burning Spear",
         "listeners": 597685,
         "recommended": true,
@@ -807,6 +800,13 @@
         "artist": "Actress",
         "listeners": 106124,
         "spotify_id": "3bg5rmICvmA8dmYVAdKGYH",
+        "recommended": true,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Peter Tosh",
+        "listeners": 1242002,
+        "spotify_id": "0oea1hwGMfUxZbLxJc1XUN",
         "recommended": true,
         "tracksAdded": 10
       }
@@ -1629,6 +1629,27 @@
   "Folk / Country / Americana": {
     "not_added": [
       {
+        "artist": "Nick Drake",
+        "listeners": 985967,
+        "recommended": true,
+        "spotify_popularity": 60,
+        "spotify_id": "5c3GLXai8YOMid29ZEuR9y"
+      },
+      {
+        "artist": "Fleet Foxes",
+        "listeners": 1474085,
+        "recommended": true,
+        "spotify_popularity": 63,
+        "spotify_id": "4EVpmkEwrLYEg6jIsiPMIb"
+      },
+      {
+        "artist": "Jason Isbell",
+        "listeners": 482065,
+        "recommended": true,
+        "spotify_popularity": 51,
+        "spotify_id": "3Q8wgwyVVv0z4UEh1HB0KY"
+      },
+      {
         "artist": "Johnny Cash",
         "listeners": 7038022,
         "spotify_popularity": 73,
@@ -1693,13 +1714,6 @@
         "spotify_id": "60ht0hWRy1yjUDfNsLuHuP"
       },
       {
-        "artist": "Jason Isbell",
-        "listeners": 482065,
-        "recommended": true,
-        "spotify_popularity": 51,
-        "spotify_id": "3Q8wgwyVVv0z4UEh1HB0KY"
-      },
-      {
         "artist": "Anais Mitchell",
         "listeners": 81084,
         "recommended": true,
@@ -1719,13 +1733,6 @@
         "recommended": true,
         "spotify_popularity": 61,
         "spotify_id": "4M5nCE77Qaxayuhp3fVn4V"
-      },
-      {
-        "artist": "Fleet Foxes",
-        "listeners": 1474085,
-        "recommended": true,
-        "spotify_popularity": 63,
-        "spotify_id": "4EVpmkEwrLYEg6jIsiPMIb"
       },
       {
         "artist": "Sufjan Stevens",
@@ -1789,13 +1796,6 @@
         "recommended": true,
         "spotify_popularity": 61,
         "spotify_id": "5hW4L92KnC6dX9t7tYM4Ve"
-      },
-      {
-        "artist": "Nick Drake",
-        "listeners": 985967,
-        "recommended": true,
-        "spotify_popularity": 60,
-        "spotify_id": "5c3GLXai8YOMid29ZEuR9y"
       },
       {
         "artist": "Joanna Newsom",

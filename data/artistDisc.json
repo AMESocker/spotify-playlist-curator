@@ -1494,7 +1494,6 @@
       "Artist": "Static-X",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Machine",
         "Shadow Zone",
         "Start a War",
         "Cannibal",
@@ -1503,7 +1502,8 @@
         "Project Regeneration Vol. 2"
       ],
       "AddedAlbums": [
-        "Wisconsin Death Trip"
+        "Wisconsin Death Trip",
+        "Machine"
       ]
     },
     {

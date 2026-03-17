@@ -2153,5 +2153,91 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-03-16T04:01:15.257Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Reggae / World / Ambient / Experimental Electronic",
+    "artist": "Peter Tosh",
+    "listeners": 1242002,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-16T06:22:30.639Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2007-04",
+    "playlistUrl": "https://open.spotify.com/playlist/5Xb3MAlGabKOy5IBkwu5dE?si=d6eb8e0fde884efe",
+    "playlistId": "5Xb3MAlGabKOy5IBkwu5dE",
+    "index": 12,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-03-16T10:56:36.547Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Sam Ryder",
+    "index": 164,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-16T18:14:20.757Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "FÜLÜ",
+    "index": 154,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-16T18:14:22.935Z"
+  },
+  {
+    "action": "add",
+    "artist": "Static-X",
+    "album": "Machine",
+    "index": null,
+    "tracksAdded": 12,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-16T21:35:55.702Z"
+  },
+  {
+    "action": "add",
+    "artist": "Neil Young",
+    "album": "After the Gold Rush (1970)",
+    "index": 62,
+    "tracksAdded": 11,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-03-16T21:36:01.432Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-09-19",
+    "tracksAdded": 8,
+    "tracksSkipped": 4,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-16T21:36:04.724Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The (Young) Rascals",
+    "index": 102,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-17T16:35:19.996Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Kiss",
+    "index": 9,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-17T16:35:22.186Z"
   }
 ]
