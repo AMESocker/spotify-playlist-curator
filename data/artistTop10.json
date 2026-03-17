@@ -1629,13 +1629,6 @@
   "Folk / Country / Americana": {
     "not_added": [
       {
-        "artist": "Nick Drake",
-        "listeners": 985967,
-        "recommended": true,
-        "spotify_popularity": 60,
-        "spotify_id": "5c3GLXai8YOMid29ZEuR9y"
-      },
-      {
         "artist": "Fleet Foxes",
         "listeners": 1474085,
         "recommended": true,
@@ -1902,6 +1895,13 @@
         "listeners": 267599,
         "spotify_id": "2H5elA2mJKrHmqkN9GSfkz",
         "recommended": false,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Nick Drake",
+        "listeners": 985967,
+        "spotify_id": "5c3GLXai8YOMid29ZEuR9y",
+        "recommended": true,
         "tracksAdded": 10
       }
     ]

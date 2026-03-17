@@ -2239,5 +2239,15 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-03-17T16:35:22.186Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Folk / Country / Americana",
+    "artist": "Nick Drake",
+    "listeners": 985967,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-17T19:07:20.739Z"
   }
 ]
