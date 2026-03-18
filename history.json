@@ -2249,5 +2249,34 @@
     "sourceFile": "data/artistTop10.json",
     "strategy": "artistGenre",
     "timestamp": "2026-03-17T19:07:20.739Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2008-07",
+    "playlistUrl": "https://open.spotify.com/playlist/78dpIw2Os6MILX3T4r2oVn?si=299309c808a44721",
+    "playlistId": "78dpIw2Os6MILX3T4r2oVn",
+    "index": 25,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-03-18T02:26:34.028Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Roy Harper",
+    "index": 135,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-18T02:26:39.233Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Yussef Dayes",
+    "index": 47,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-18T02:26:41.469Z"
   }
 ]
