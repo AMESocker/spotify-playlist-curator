@@ -2307,5 +2307,23 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-03-18T04:18:58.570Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Carl Perkins",
+    "index": 155,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-18T18:09:01.347Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Rolling Stones",
+    "index": 136,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-18T18:09:03.909Z"
   }
 ]

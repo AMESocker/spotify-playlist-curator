@@ -1909,6 +1909,18 @@
   "Jazz / Blues / Soul / Funk": {
     "not_added": [
       {
+        "artist": "Glenn Miller",
+        "listeners": 589427,
+        "spotify_popularity": 55,
+        "spotify_id": "2aAHdB5HweT3mFcRzm0swc"
+      },
+      {
+        "artist": "Buddy Guy",
+        "listeners": 890726,
+        "spotify_popularity": 51,
+        "spotify_id": "2gCsNOpiBaMNh20jQ5prf0"
+      },
+      {
         "artist": "Anderson .Paak",
         "listeners": 2746196,
         "spotify_popularity": 75,
@@ -1951,12 +1963,6 @@
         "spotify_id": "7MSUfLeTdDEoZiJPDSBXgi"
       },
       {
-        "artist": "Glenn Miller",
-        "listeners": 589427,
-        "spotify_popularity": 55,
-        "spotify_id": "2aAHdB5HweT3mFcRzm0swc"
-      },
-      {
         "artist": "John Lee Hooker",
         "listeners": 932096,
         "spotify_popularity": 53,
@@ -1967,12 +1973,6 @@
         "listeners": 1367330,
         "spotify_popularity": 52,
         "spotify_id": "4y6J8jwRAwO4dssiSmN91R"
-      },
-      {
-        "artist": "Buddy Guy",
-        "listeners": 890726,
-        "spotify_popularity": 51,
-        "spotify_id": "2gCsNOpiBaMNh20jQ5prf0"
       },
       {
         "artist": "Freddie King",
