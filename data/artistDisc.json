@@ -1844,7 +1844,6 @@
       "Artist": "The Black Crowes",
       "Group": "⚪ Classic Rock",
       "Albums": [
-        "Shake Your Money Maker (1990)",
         "The Southern Harmony and Musical Companion (1992)",
         "Amorica (1994)",
         "Three Snakes and One Charm (1996)",
@@ -1856,24 +1855,26 @@
         "Happiness Bastards (2024)",
         "A Pound of Feathers (2026)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "By Your Side (1999) [NOT FOUND]"
+      ]
     },
     {
       "Artist": "Jimi Hendrix",
       "Group": "⚪ Classic Rock",
       "Albums": [
-        "Are You Experienced (1967)",
         "Axis: Bold as Love (1967)",
         "Electric Ladyland (1968)",
         "Band of Gypsys (1970)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Electric Ladyland (1968)"
+      ]
     },
     {
       "Artist": "The Rolling Stones",
       "Group": "⚪ Classic Rock",
       "Albums": [
-        "The Rolling Stones (1964)",
         "England's Newest Hit Makers (1964)",
         "12 X 5 (1964)",
         "The Rolling Stones No. 2 (1965)",
@@ -1902,7 +1903,9 @@
         "Blue & Lonesome (2016)",
         "Hackney Diamonds (2023)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "England's Newest Hit Makers (1964) [NOT FOUND]"
+      ]
     },
     {
       "Artist": "Silverchair",
@@ -1936,19 +1939,19 @@
       "Artist": "Collective Soul",
       "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
       "Albums": [
-      "Hints Allegations and Things Left Unsaid (1993)",
-      "Collective Soul (1995)",
-      "Disciplined Breakdown (1997)",
-      "Dosage (1999)",
-      "Blender (2000)",
-      "Youth (2004)",
-      "Afterwords (2007)",
-      "Rabbit (2009)",
-      "See What You Started by Continuing (2015)",
-      "Blood (2019)",
-      "Vibrating (2022)",
-      "Here to Eternity (2024)",
-      "Touch and Go (2026)"
+        "Hints Allegations and Things Left Unsaid (1993)",
+        "Collective Soul (1995)",
+        "Disciplined Breakdown (1997)",
+        "Dosage (1999)",
+        "Blender (2000)",
+        "Youth (2004)",
+        "Afterwords (2007)",
+        "Rabbit (2009)",
+        "See What You Started by Continuing (2015)",
+        "Blood (2019)",
+        "Vibrating (2022)",
+        "Here to Eternity (2024)",
+        "Touch and Go (2026)"
       ],
       "AddedAlbums": []
     },

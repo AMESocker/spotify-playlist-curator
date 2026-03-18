@@ -1,149 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-09-12",
-      "albums": [
-        {
-          "title": "Breach",
-          "artist": "Twenty One Pilots",
-          "spotifyTrack": {
-            "id": "0Ji9UonfwC90rbZ4IaQhOb",
-            "name": "City Walls",
-            "uri": "spotify:track:0Ji9UonfwC90rbZ4IaQhOb",
-            "popularity": 73,
-            "albumName": "Breach",
-            "albumId": "1El3k8dU3sKyoGUeuyrolH",
-            "foundAt": "2026-02-05T18:45:39.924Z"
-          }
-        },
-        {
-          "title": "Allbarone",
-          "artist": "Baxter Dury",
-          "spotifyTrack": {
-            "id": "041DJ4hUI6drOqYgLf3QQG",
-            "name": "Allbarone",
-            "uri": "spotify:track:041DJ4hUI6drOqYgLf3QQG",
-            "popularity": 50,
-            "albumName": "Allbarone",
-            "albumId": "53ZQGljMsozLkaUc3mO2FZ",
-            "foundAt": "2026-02-05T18:45:41.541Z"
-          }
-        },
-        {
-          "title": "CREAM (Cash Rules Everything Around Me)",
-          "artist": "Kassa Overall",
-          "spotifyTrack": {
-            "id": "4D8MhjN6X8cHwSZGtLIXw8",
-            "name": "C.R.E.A.M. (CASH RULES EVERYTHING AROUND ME)",
-            "uri": "spotify:track:4D8MhjN6X8cHwSZGtLIXw8",
-            "popularity": 25,
-            "albumName": "C.R.E.A.M. (CASH RULES EVERYTHING AROUND ME)",
-            "albumId": "4Ze0FHhMNSsEGFlxZEF4Tz",
-            "foundAt": "2026-02-05T18:45:43.173Z"
-          }
-        },
-        {
-          "title": "Greatest Hits/BBC Sessions",
-          "artist": "Metronomy",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-14T10:20:46.378Z"
-          }
-        },
-        {
-          "title": "Dark Sky Reserve",
-          "artist": "Robin Kester",
-          "spotifyTrack": {
-            "id": "6ucC8V4w2NqRmZHf9qaGhe",
-            "name": "The Daylight",
-            "uri": "spotify:track:6ucC8V4w2NqRmZHf9qaGhe",
-            "popularity": 13,
-            "albumName": "Dark Sky Reserve",
-            "albumId": "0LlvYFCfQompPoaZ18ld7a",
-            "foundAt": "2026-02-05T18:45:45.662Z"
-          }
-        },
-        {
-          "title": "Mount Crystal",
-          "artist": "Joviale",
-          "spotifyTrack": {
-            "id": "7p4XQTjHv9uSXUxQnPmPSV",
-            "name": "Blu",
-            "uri": "spotify:track:7p4XQTjHv9uSXUxQnPmPSV",
-            "popularity": 34,
-            "albumName": "Mount Crystal",
-            "albumId": "5qiZBMIgAH1lqylwi0FC8h",
-            "foundAt": "2026-02-05T18:45:47.262Z"
-          }
-        },
-        {
-          "title": "Au",
-          "artist": "Peyton",
-          "spotifyTrack": {
-            "id": "0R6uge6tjTqDc1sb9OdHrc",
-            "name": "Get Out Of Your Hair (feat. Sunni Colón)",
-            "uri": "spotify:track:0R6uge6tjTqDc1sb9OdHrc",
-            "popularity": 23,
-            "albumName": "Au",
-            "albumId": "2ddqwkTKxHVWweH5t1y1Ll",
-            "foundAt": "2026-02-05T18:45:48.893Z"
-          }
-        },
-        {
-          "title": "Environments",
-          "artist": "Rafiq Bhatia",
-          "spotifyTrack": {
-            "id": "09GQkSIWQhhz8uWw3eWb6r",
-            "name": "Clearing, Crickets",
-            "uri": "spotify:track:09GQkSIWQhhz8uWw3eWb6r",
-            "popularity": 17,
-            "albumName": "Environments",
-            "albumId": "3qPT9onHusqtFhNIJjEI8k",
-            "foundAt": "2026-02-05T18:45:50.482Z"
-          }
-        },
-        {
-          "title": "Bronto",
-          "artist": "The Hidden Cameras",
-          "spotifyTrack": {
-            "id": "5ntbc0PLiN6X79kO58uptm",
-            "name": "Undertow",
-            "uri": "spotify:track:5ntbc0PLiN6X79kO58uptm",
-            "popularity": 34,
-            "albumName": "BRONTO",
-            "albumId": "0eNvJ2HnYCCTmzW0nA2yzb",
-            "foundAt": "2026-02-05T18:45:52.301Z"
-          }
-        },
-        {
-          "title": "DJ-Kicks",
-          "artist": "Modeselektor",
-          "spotifyTrack": {
-            "id": "5fWI5MJOLLfXFQ4UvAzCbc",
-            "name": "Permit Riddim - Mixed",
-            "uri": "spotify:track:5fWI5MJOLLfXFQ4UvAzCbc",
-            "popularity": 35,
-            "albumName": "DJ-Kicks: Modeselektor",
-            "albumId": "4ApWMQXAEOaNpFWaKG2FtN",
-            "foundAt": "2026-02-05T18:45:53.960Z"
-          }
-        },
-        {
-          "title": "Cicero Nights",
-          "artist": "Blue Earth Sound",
-          "spotifyTrack": {
-            "id": "6nl3jCIB5DTVx3DCtwKngi",
-            "name": "Mariposa",
-            "uri": "spotify:track:6nl3jCIB5DTVx3DCtwKngi",
-            "popularity": 41,
-            "albumName": "Cicero Nights",
-            "albumId": "2kDj2bteVTnOkcCEa8CuTq",
-            "foundAt": "2026-02-05T18:45:55.806Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-09-05",
       "albums": [
         {
@@ -3265,6 +3122,151 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-09-12",
+      "albums": [
+        {
+          "title": "Breach",
+          "artist": "Twenty One Pilots",
+          "spotifyTrack": {
+            "id": "0Ji9UonfwC90rbZ4IaQhOb",
+            "name": "City Walls",
+            "uri": "spotify:track:0Ji9UonfwC90rbZ4IaQhOb",
+            "popularity": 73,
+            "albumName": "Breach",
+            "albumId": "1El3k8dU3sKyoGUeuyrolH",
+            "foundAt": "2026-02-05T18:45:39.924Z"
+          }
+        },
+        {
+          "title": "Allbarone",
+          "artist": "Baxter Dury",
+          "spotifyTrack": {
+            "id": "041DJ4hUI6drOqYgLf3QQG",
+            "name": "Allbarone",
+            "uri": "spotify:track:041DJ4hUI6drOqYgLf3QQG",
+            "popularity": 50,
+            "albumName": "Allbarone",
+            "albumId": "53ZQGljMsozLkaUc3mO2FZ",
+            "foundAt": "2026-02-05T18:45:41.541Z"
+          }
+        },
+        {
+          "title": "CREAM (Cash Rules Everything Around Me)",
+          "artist": "Kassa Overall",
+          "spotifyTrack": {
+            "id": "4D8MhjN6X8cHwSZGtLIXw8",
+            "name": "C.R.E.A.M. (CASH RULES EVERYTHING AROUND ME)",
+            "uri": "spotify:track:4D8MhjN6X8cHwSZGtLIXw8",
+            "popularity": 25,
+            "albumName": "C.R.E.A.M. (CASH RULES EVERYTHING AROUND ME)",
+            "albumId": "4Ze0FHhMNSsEGFlxZEF4Tz",
+            "foundAt": "2026-02-05T18:45:43.173Z"
+          }
+        },
+        {
+          "title": "Greatest Hits/BBC Sessions",
+          "artist": "Metronomy",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-14T10:20:46.378Z"
+          }
+        },
+        {
+          "title": "Dark Sky Reserve",
+          "artist": "Robin Kester",
+          "spotifyTrack": {
+            "id": "6ucC8V4w2NqRmZHf9qaGhe",
+            "name": "The Daylight",
+            "uri": "spotify:track:6ucC8V4w2NqRmZHf9qaGhe",
+            "popularity": 13,
+            "albumName": "Dark Sky Reserve",
+            "albumId": "0LlvYFCfQompPoaZ18ld7a",
+            "foundAt": "2026-02-05T18:45:45.662Z"
+          }
+        },
+        {
+          "title": "Mount Crystal",
+          "artist": "Joviale",
+          "spotifyTrack": {
+            "id": "7p4XQTjHv9uSXUxQnPmPSV",
+            "name": "Blu",
+            "uri": "spotify:track:7p4XQTjHv9uSXUxQnPmPSV",
+            "popularity": 34,
+            "albumName": "Mount Crystal",
+            "albumId": "5qiZBMIgAH1lqylwi0FC8h",
+            "foundAt": "2026-02-05T18:45:47.262Z"
+          }
+        },
+        {
+          "title": "Au",
+          "artist": "Peyton",
+          "spotifyTrack": {
+            "id": "0R6uge6tjTqDc1sb9OdHrc",
+            "name": "Get Out Of Your Hair (feat. Sunni Colón)",
+            "uri": "spotify:track:0R6uge6tjTqDc1sb9OdHrc",
+            "popularity": 23,
+            "albumName": "Au",
+            "albumId": "2ddqwkTKxHVWweH5t1y1Ll",
+            "foundAt": "2026-02-05T18:45:48.893Z"
+          }
+        },
+        {
+          "title": "Environments",
+          "artist": "Rafiq Bhatia",
+          "spotifyTrack": {
+            "id": "09GQkSIWQhhz8uWw3eWb6r",
+            "name": "Clearing, Crickets",
+            "uri": "spotify:track:09GQkSIWQhhz8uWw3eWb6r",
+            "popularity": 17,
+            "albumName": "Environments",
+            "albumId": "3qPT9onHusqtFhNIJjEI8k",
+            "foundAt": "2026-02-05T18:45:50.482Z"
+          }
+        },
+        {
+          "title": "Bronto",
+          "artist": "The Hidden Cameras",
+          "spotifyTrack": {
+            "id": "5ntbc0PLiN6X79kO58uptm",
+            "name": "Undertow",
+            "uri": "spotify:track:5ntbc0PLiN6X79kO58uptm",
+            "popularity": 34,
+            "albumName": "BRONTO",
+            "albumId": "0eNvJ2HnYCCTmzW0nA2yzb",
+            "foundAt": "2026-02-05T18:45:52.301Z"
+          }
+        },
+        {
+          "title": "DJ-Kicks",
+          "artist": "Modeselektor",
+          "spotifyTrack": {
+            "id": "5fWI5MJOLLfXFQ4UvAzCbc",
+            "name": "Permit Riddim - Mixed",
+            "uri": "spotify:track:5fWI5MJOLLfXFQ4UvAzCbc",
+            "popularity": 35,
+            "albumName": "DJ-Kicks: Modeselektor",
+            "albumId": "4ApWMQXAEOaNpFWaKG2FtN",
+            "foundAt": "2026-02-05T18:45:53.960Z"
+          }
+        },
+        {
+          "title": "Cicero Nights",
+          "artist": "Blue Earth Sound",
+          "spotifyTrack": {
+            "id": "6nl3jCIB5DTVx3DCtwKngi",
+            "name": "Mariposa",
+            "uri": "spotify:track:6nl3jCIB5DTVx3DCtwKngi",
+            "popularity": 41,
+            "albumName": "Cicero Nights",
+            "albumId": "2kDj2bteVTnOkcCEa8CuTq",
+            "foundAt": "2026-02-05T18:45:55.806Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-18T04:18:58.568Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-09-19",
       "albums": [
