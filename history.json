@@ -2355,5 +2355,33 @@
     "sourceFile": "data/glastonbury25.json",
     "strategy": "glastonbury",
     "timestamp": "2026-03-18T21:31:11.985Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Roy Harper",
+    "index": 129,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-19T00:18:18.883Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Ezra Collective",
+    "index": 24,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-19T00:18:21.251Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Rolling Stones",
+    "album": "Out of Our Heads (1965)",
+    "index": null,
+    "tracksAdded": 12,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-19T00:18:26.673Z"
   }
 ]
