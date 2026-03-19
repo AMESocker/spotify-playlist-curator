@@ -311,12 +311,6 @@
         "spotify_id": "7M1FPw29m5FbicYzS2xdpi"
       },
       {
-        "artist": "Opeth",
-        "listeners": 1168256,
-        "spotify_popularity": 57,
-        "spotify_id": "0ybFZ2Ab08V8hueghSXm6E"
-      },
-      {
         "artist": "Puscifer",
         "listeners": 740933,
         "spotify_popularity": 57,
@@ -521,6 +515,13 @@
         "artist": "Throbbing Gristle",
         "listeners": 125795,
         "spotify_id": "1UYhxPY1oqFUg1HfF8nV3k",
+        "recommended": false,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Opeth",
+        "listeners": 1168256,
+        "spotify_id": "0ybFZ2Ab08V8hueghSXm6E",
         "recommended": false,
         "tracksAdded": 10
       }
