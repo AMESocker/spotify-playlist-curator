@@ -28,6 +28,30 @@ export async function addTracks(playlistId, uris) {
     const chunk = uris.slice(i, i + chunkSize);
     await withRetry(() => spotify.addTracksToPlaylist(playlistId, chunk));
   }
+
+  const instrumentalId = process.env.CAR_PLAYLIST_ALL_ID;
+  if (instrumentalId) {
+    const instrumentalUris = [];
+
+    for (let i = 0; i < uris.length; i += chunkSize) {
+      const chunk = uris.slice(i, i + chunkSize);
+      const ids = chunk.map(uri => uri.split(':')[2]);
+      const res = await withRetry(() => spotify.getTracks(ids));
+
+      for (const track of res.body.tracks) {
+        if (!track) continue;
+        await new Promise(resolve => setTimeout(resolve, 1100)); // MusicBrainz rate limit
+        const instrumental = await isInstrumental(track.artists[0].name, track.name);
+        if (instrumental) instrumentalUris.push(track.uri);
+      }
+    }
+
+    for (let i = 0; i < instrumentalUris.length; i += chunkSize) {
+      const chunk = instrumentalUris.slice(i, i + chunkSize);
+      await withRetry(() => spotify.addTracksToPlaylist(instrumentalId, chunk));
+    }
+  }
+
 }
 
 const instrumentalId = process.env.CAR_PLAYLIST_ALL_ID;
@@ -71,7 +95,7 @@ export async function getRecentlyPlayedIds() {
 
   let after = twentyFourHoursAgo;
   while (true) {
-    const res = await withRetry(() => 
+    const res = await withRetry(() =>
       spotify.getMyRecentlyPlayedTracks({ limit, after })
     );
 
