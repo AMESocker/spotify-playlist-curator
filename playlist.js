@@ -1,7 +1,6 @@
 // File: playlist.js
-import { withRetry } from './utils.js';
+import { withRetry, isInstrumental } from './utils.js';
 import { getSpotify } from './auth.js';
-import { isInstrumental } from './curator.js';
 import 'dotenv/config';
 
 export async function fetchAllPlaylistItems(playlistId) {
