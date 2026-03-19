@@ -1,100 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-09-05",
-      "albums": [
-        {
-          "title": "Double Infinity",
-          "artist": "Big Thief",
-          "spotifyTrack": {
-            "id": "5TSj6ySt4WqDuljv61Q4D5",
-            "name": "Los Angeles",
-            "uri": "spotify:track:5TSj6ySt4WqDuljv61Q4D5",
-            "popularity": 57,
-            "albumName": "Double Infinity",
-            "albumId": "1yEo1ZJE5ZgIF7LYrDTbMK",
-            "foundAt": "2026-02-05T18:45:57.385Z"
-          }
-        },
-        {
-          "title": "Who Is the Sky?",
-          "artist": "David Byrne",
-          "spotifyTrack": {
-            "id": "7CMAthiXRZvDBC8dbFuqRH",
-            "name": "Everybody Laughs",
-            "uri": "spotify:track:7CMAthiXRZvDBC8dbFuqRH",
-            "popularity": 48,
-            "albumName": "Who Is The Sky?",
-            "albumId": "5xDqZQlSx2gRrAyAgHQ8AB",
-            "foundAt": "2026-02-05T18:45:59.262Z"
-          }
-        },
-        {
-          "title": "International",
-          "artist": "Saint Etienne",
-          "spotifyTrack": {
-            "id": "6UYzOKGh4hXae0reTWKK24",
-            "name": "Brand New Me",
-            "uri": "spotify:track:6UYzOKGh4hXae0reTWKK24",
-            "popularity": 34,
-            "albumName": "International",
-            "albumId": "5CEt8piPRnEk8BAE9gpdAz",
-            "foundAt": "2026-02-05T18:46:00.779Z"
-          }
-        },
-        {
-          "title": "Departures & Arrivals: Adventures of Captain Curt",
-          "artist": "Curtis Harding",
-          "spotifyTrack": {
-            "id": "4difawHT7Gzi9q7l9qUcZi",
-            "name": "The Power",
-            "uri": "spotify:track:4difawHT7Gzi9q7l9qUcZi",
-            "popularity": 52,
-            "albumName": "Departures & Arrivals: Adventures of Captain Curt",
-            "albumId": "6kslXkHCr5rcOpf07Ss37k",
-            "foundAt": "2026-02-05T18:46:02.348Z"
-          }
-        },
-        {
-          "title": "Joni's Jazz",
-          "artist": "Joni Mitchell",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-14T10:20:47.081Z"
-          }
-        },
-        {
-          "title": "Shrunken Elvis",
-          "artist": "Shrunken Elvis",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-14T10:20:47.661Z"
-          }
-        },
-        {
-          "title": "Nueva Timba",
-          "artist": "Harold López-Nussa",
-          "spotifyTrack": {
-            "id": "2I87Boyr1bzuQnQrvTKn7c",
-            "name": "Cerca y Lejos - Live",
-            "uri": "spotify:track:2I87Boyr1bzuQnQrvTKn7c",
-            "popularity": 24,
-            "albumName": "NUEVA TIMBA",
-            "albumId": "1tEFMXDncFNzDKbMSj5vlA",
-            "foundAt": "2026-02-05T18:46:05.730Z"
-          }
-        },
-        {
-          "title": "Arvo Pärt: Lente",
-          "artist": "Tõnu KaljusteConcerto CopenhagenEstonian Philharmonic Chamber Choir",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-14T10:20:48.253Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-08-29",
       "albums": [
         {
@@ -3122,6 +3028,102 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-09-05",
+      "albums": [
+        {
+          "title": "Double Infinity",
+          "artist": "Big Thief",
+          "spotifyTrack": {
+            "id": "5TSj6ySt4WqDuljv61Q4D5",
+            "name": "Los Angeles",
+            "uri": "spotify:track:5TSj6ySt4WqDuljv61Q4D5",
+            "popularity": 57,
+            "albumName": "Double Infinity",
+            "albumId": "1yEo1ZJE5ZgIF7LYrDTbMK",
+            "foundAt": "2026-02-05T18:45:57.385Z"
+          }
+        },
+        {
+          "title": "Who Is the Sky?",
+          "artist": "David Byrne",
+          "spotifyTrack": {
+            "id": "7CMAthiXRZvDBC8dbFuqRH",
+            "name": "Everybody Laughs",
+            "uri": "spotify:track:7CMAthiXRZvDBC8dbFuqRH",
+            "popularity": 48,
+            "albumName": "Who Is The Sky?",
+            "albumId": "5xDqZQlSx2gRrAyAgHQ8AB",
+            "foundAt": "2026-02-05T18:45:59.262Z"
+          }
+        },
+        {
+          "title": "International",
+          "artist": "Saint Etienne",
+          "spotifyTrack": {
+            "id": "6UYzOKGh4hXae0reTWKK24",
+            "name": "Brand New Me",
+            "uri": "spotify:track:6UYzOKGh4hXae0reTWKK24",
+            "popularity": 34,
+            "albumName": "International",
+            "albumId": "5CEt8piPRnEk8BAE9gpdAz",
+            "foundAt": "2026-02-05T18:46:00.779Z"
+          }
+        },
+        {
+          "title": "Departures & Arrivals: Adventures of Captain Curt",
+          "artist": "Curtis Harding",
+          "spotifyTrack": {
+            "id": "4difawHT7Gzi9q7l9qUcZi",
+            "name": "The Power",
+            "uri": "spotify:track:4difawHT7Gzi9q7l9qUcZi",
+            "popularity": 52,
+            "albumName": "Departures & Arrivals: Adventures of Captain Curt",
+            "albumId": "6kslXkHCr5rcOpf07Ss37k",
+            "foundAt": "2026-02-05T18:46:02.348Z"
+          }
+        },
+        {
+          "title": "Joni's Jazz",
+          "artist": "Joni Mitchell",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-14T10:20:47.081Z"
+          }
+        },
+        {
+          "title": "Shrunken Elvis",
+          "artist": "Shrunken Elvis",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-14T10:20:47.661Z"
+          }
+        },
+        {
+          "title": "Nueva Timba",
+          "artist": "Harold López-Nussa",
+          "spotifyTrack": {
+            "id": "2I87Boyr1bzuQnQrvTKn7c",
+            "name": "Cerca y Lejos - Live",
+            "uri": "spotify:track:2I87Boyr1bzuQnQrvTKn7c",
+            "popularity": 24,
+            "albumName": "NUEVA TIMBA",
+            "albumId": "1tEFMXDncFNzDKbMSj5vlA",
+            "foundAt": "2026-02-05T18:46:05.730Z"
+          }
+        },
+        {
+          "title": "Arvo Pärt: Lente",
+          "artist": "Tõnu KaljusteConcerto CopenhagenEstonian Philharmonic Chamber Choir",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-14T10:20:48.253Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-19T04:30:26.002Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-09-12",
       "albums": [

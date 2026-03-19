@@ -2383,5 +2383,24 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-03-19T00:18:26.673Z"
+  },
+  {
+    "action": "add",
+    "artist": "Adele",
+    "album": "25",
+    "index": 893,
+    "tracksAdded": 11,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-03-19T04:30:16.011Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-09-05",
+    "tracksAdded": 5,
+    "tracksSkipped": 3,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-19T04:30:26.004Z"
   }
 ]
