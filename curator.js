@@ -241,6 +241,33 @@ async function getOriginalTrackCount(artist, album) {
   }
 }
 
+export async function isInstrumental(artist, title) {
+  const query = `recording:"${title}" AND artist:"${artist}"`;
+  const url = `https://musicbrainz.org/ws/2/recording/?query=${encodeURIComponent(query)}&fmt=json&limit=5&inc=tags`;
+
+  try {
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'PlaylistCurator/1.0 (your@email.com)' }
+    });
+    const json = await res.json();
+
+    if (!json.recordings?.length) return false;
+
+    // Check top results for instrumental tag
+    for (const recording of json.recordings.slice(0, 3)) {
+      const tags = recording.tags ?? [];
+      if (tags.some(t => t.name === 'instrumental')) {
+        console.log(`🎼 Instrumental confirmed: "${title}" by ${artist}`);
+        return true;
+      }
+    }
+    return false;
+
+  } catch (err) {
+    console.error(`❌ MusicBrainz instrumental check failed:`, err.message);
+    return false;
+  }
+}
 //* ─── STRATEGY HANDLERS ───────────────────────────────────
 
 async function handleEditorsChoice(source) {
