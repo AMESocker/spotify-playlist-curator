@@ -2450,5 +2450,23 @@
     "sourceFile": "data/glastonbury25.json",
     "strategy": "glastonbury",
     "timestamp": "2026-03-19T21:32:05.926Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "The Selecter",
+    "index": 0,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-20T02:13:16.415Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Jade Bird",
+    "index": 139,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-20T02:13:24.778Z"
   }
 ]
