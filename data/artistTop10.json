@@ -572,13 +572,6 @@
         "spotify_id": "0DoNSZa1R1DV69oY1djlbf"
       },
       {
-        "artist": "Burning Spear",
-        "listeners": 597685,
-        "recommended": true,
-        "spotify_popularity": 50,
-        "spotify_id": "6qaKS0nzGP4hfjl4aFZmEU"
-      },
-      {
         "artist": "Toots and the Maytals",
         "listeners": 501550,
         "recommended": true,
@@ -808,6 +801,13 @@
         "artist": "Peter Tosh",
         "listeners": 1242002,
         "spotify_id": "0oea1hwGMfUxZbLxJc1XUN",
+        "recommended": true,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Burning Spear",
+        "listeners": 597685,
+        "spotify_id": "6qaKS0nzGP4hfjl4aFZmEU",
         "recommended": true,
         "tracksAdded": 10
       }
