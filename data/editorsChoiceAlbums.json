@@ -1,102 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-08-22",
-      "albums": [
-        {
-          "title": "Private Music",
-          "artist": "Deftones",
-          "spotifyTrack": {
-            "id": "0M5NH22uVXHSXjSi5SXTXM",
-            "name": "i think about you all the time",
-            "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
-            "popularity": 71,
-            "albumName": "private music",
-            "albumId": "1gmWnG5TeRj91Tdm2lpEvJ",
-            "foundAt": "2026-02-05T18:46:16.991Z"
-          }
-        },
-        {
-          "title": "The Clearing",
-          "artist": "Wolf Alice",
-          "spotifyTrack": {
-            "id": "2piywRQIsqCM9cei6ZYTkl",
-            "name": "Bloom Baby Bloom",
-            "uri": "spotify:track:2piywRQIsqCM9cei6ZYTkl",
-            "popularity": 61,
-            "albumName": "The Clearing",
-            "albumId": "2kKc3Yid0YR3SSbeQ3x5kV",
-            "foundAt": "2026-02-05T18:46:18.528Z"
-          }
-        },
-        {
-          "title": "Songs in the Key of Yikes",
-          "artist": "Superchunk",
-          "spotifyTrack": {
-            "id": "3kW5qLAM1HPamPcovroV0G",
-            "name": "Is It Making You Feel Something",
-            "uri": "spotify:track:3kW5qLAM1HPamPcovroV0G",
-            "popularity": 24,
-            "albumName": "Songs in the Key of Yikes",
-            "albumId": "6tm5zLqlR6gZBptA1dzUkl",
-            "foundAt": "2026-02-05T18:46:20.343Z"
-          }
-        },
-        {
-          "title": "Adult Romantix",
-          "artist": "Winter",
-          "spotifyTrack": {
-            "id": "4vlCL86ZEAPoZWJ4Io03AD",
-            "name": "Misery",
-            "uri": "spotify:track:4vlCL86ZEAPoZWJ4Io03AD",
-            "popularity": 41,
-            "albumName": "Adult Romantix",
-            "albumId": "3QhaKVItgP8GQ5RQiz25FM",
-            "foundAt": "2026-02-05T18:46:22.463Z"
-          }
-        },
-        {
-          "title": "Blue Reminder",
-          "artist": "Hand Habits",
-          "spotifyTrack": {
-            "id": "6hmpvFKplIrMc7sySSl94Q",
-            "name": "More Today",
-            "uri": "spotify:track:6hmpvFKplIrMc7sySSl94Q",
-            "popularity": 22,
-            "albumName": "Blue Reminder",
-            "albumId": "7GeWoOysWD8oI0BdddsMxH",
-            "foundAt": "2026-02-05T18:46:24.727Z"
-          }
-        },
-        {
-          "title": "The Drugboy Tapes",
-          "artist": "Tsar",
-          "spotifyTrack": {
-            "id": "656zQin0rMZgOkBTthLIl9",
-            "name": "Silver Shifter - (Demo)",
-            "uri": "spotify:track:656zQin0rMZgOkBTthLIl9",
-            "popularity": 1,
-            "albumName": "The Drugboy Tapes",
-            "albumId": "6dnpFoOJh8DiLFuEdO05BS",
-            "foundAt": "2026-02-05T18:46:26.817Z"
-          }
-        },
-        {
-          "title": "The Passionate Ones",
-          "artist": "Nourished by Time",
-          "spotifyTrack": {
-            "id": "6TLEg0rUFLH0EF9CYfRJ7B",
-            "name": "Automatic Love",
-            "uri": "spotify:track:6TLEg0rUFLH0EF9CYfRJ7B",
-            "popularity": 51,
-            "albumName": "The Passionate Ones",
-            "albumId": "5Y3SsoA0yibZh5946vXgKS",
-            "foundAt": "2026-02-05T18:46:29.221Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-08-15",
       "albums": [
         {
@@ -2947,6 +2851,104 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-08-22",
+      "albums": [
+        {
+          "title": "Private Music",
+          "artist": "Deftones",
+          "spotifyTrack": {
+            "id": "0M5NH22uVXHSXjSi5SXTXM",
+            "name": "i think about you all the time",
+            "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+            "popularity": 71,
+            "albumName": "private music",
+            "albumId": "1gmWnG5TeRj91Tdm2lpEvJ",
+            "foundAt": "2026-02-05T18:46:16.991Z"
+          }
+        },
+        {
+          "title": "The Clearing",
+          "artist": "Wolf Alice",
+          "spotifyTrack": {
+            "id": "2piywRQIsqCM9cei6ZYTkl",
+            "name": "Bloom Baby Bloom",
+            "uri": "spotify:track:2piywRQIsqCM9cei6ZYTkl",
+            "popularity": 61,
+            "albumName": "The Clearing",
+            "albumId": "2kKc3Yid0YR3SSbeQ3x5kV",
+            "foundAt": "2026-02-05T18:46:18.528Z"
+          }
+        },
+        {
+          "title": "Songs in the Key of Yikes",
+          "artist": "Superchunk",
+          "spotifyTrack": {
+            "id": "3kW5qLAM1HPamPcovroV0G",
+            "name": "Is It Making You Feel Something",
+            "uri": "spotify:track:3kW5qLAM1HPamPcovroV0G",
+            "popularity": 24,
+            "albumName": "Songs in the Key of Yikes",
+            "albumId": "6tm5zLqlR6gZBptA1dzUkl",
+            "foundAt": "2026-02-05T18:46:20.343Z"
+          }
+        },
+        {
+          "title": "Adult Romantix",
+          "artist": "Winter",
+          "spotifyTrack": {
+            "id": "4vlCL86ZEAPoZWJ4Io03AD",
+            "name": "Misery",
+            "uri": "spotify:track:4vlCL86ZEAPoZWJ4Io03AD",
+            "popularity": 41,
+            "albumName": "Adult Romantix",
+            "albumId": "3QhaKVItgP8GQ5RQiz25FM",
+            "foundAt": "2026-02-05T18:46:22.463Z"
+          }
+        },
+        {
+          "title": "Blue Reminder",
+          "artist": "Hand Habits",
+          "spotifyTrack": {
+            "id": "6hmpvFKplIrMc7sySSl94Q",
+            "name": "More Today",
+            "uri": "spotify:track:6hmpvFKplIrMc7sySSl94Q",
+            "popularity": 22,
+            "albumName": "Blue Reminder",
+            "albumId": "7GeWoOysWD8oI0BdddsMxH",
+            "foundAt": "2026-02-05T18:46:24.727Z"
+          }
+        },
+        {
+          "title": "The Drugboy Tapes",
+          "artist": "Tsar",
+          "spotifyTrack": {
+            "id": "656zQin0rMZgOkBTthLIl9",
+            "name": "Silver Shifter - (Demo)",
+            "uri": "spotify:track:656zQin0rMZgOkBTthLIl9",
+            "popularity": 1,
+            "albumName": "The Drugboy Tapes",
+            "albumId": "6dnpFoOJh8DiLFuEdO05BS",
+            "foundAt": "2026-02-05T18:46:26.817Z"
+          }
+        },
+        {
+          "title": "The Passionate Ones",
+          "artist": "Nourished by Time",
+          "spotifyTrack": {
+            "id": "6TLEg0rUFLH0EF9CYfRJ7B",
+            "name": "Automatic Love",
+            "uri": "spotify:track:6TLEg0rUFLH0EF9CYfRJ7B",
+            "popularity": 51,
+            "albumName": "The Passionate Ones",
+            "albumId": "5Y3SsoA0yibZh5946vXgKS",
+            "foundAt": "2026-02-05T18:46:29.221Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-20T21:58:41.812Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-08-29",
       "albums": [

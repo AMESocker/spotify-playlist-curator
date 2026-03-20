@@ -2554,5 +2554,34 @@
     "sourceFile": "data/glastonbury25.json",
     "strategy": "glastonbury",
     "timestamp": "2026-03-20T21:27:43.447Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Rolling Stones",
+    "album": "Emotional Rescue (1980)",
+    "index": null,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-20T21:58:22.848Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Specials",
+    "album": "The Specials",
+    "index": 304,
+    "tracksAdded": 1,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-03-20T21:58:29.538Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-08-22",
+    "tracksAdded": 7,
+    "tracksSkipped": 0,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-20T21:58:41.813Z"
   }
 ]
