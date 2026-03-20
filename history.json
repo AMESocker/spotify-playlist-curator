@@ -2536,5 +2536,23 @@
     "sourceFile": "data/spotifyPlaylists.json",
     "strategy": "spotifyPlaylist",
     "timestamp": "2026-03-20T18:55:50.516Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "FÜLÜ",
+    "index": 133,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-20T21:27:34.302Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Four Tet",
+    "index": 51,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-20T21:27:43.447Z"
   }
 ]
