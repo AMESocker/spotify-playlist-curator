@@ -1844,7 +1844,6 @@
       "Artist": "The Black Crowes",
       "Group": "⚪ Classic Rock",
       "Albums": [
-        "The Southern Harmony and Musical Companion (1992)",
         "Amorica (1994)",
         "Three Snakes and One Charm (1996)",
         "By Your Side",
@@ -1855,7 +1854,9 @@
         "Happiness Bastards (2024)",
         "A Pound of Feathers (2026)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Croweology (2010)"
+      ]
     },
     {
       "Artist": "Jimi Hendrix",
@@ -1873,7 +1874,6 @@
       "Artist": "The Rolling Stones",
       "Group": "⚪ Classic Rock",
       "Albums": [
-        "12 X 5 (1964)",
         "England's Newest Hit Makers",
         "The Rolling Stones No. 2 (1965)",
         "The Rolling Stones, Now! (1965)",
@@ -1902,7 +1902,8 @@
         "Hackney Diamonds (2023)"
       ],
       "AddedAlbums": [
-        "Out of Our Heads (1965)"
+        "Out of Our Heads (1965)",
+        "Emotional Rescue (1980)"
       ]
     },
     {

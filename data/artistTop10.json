@@ -311,12 +311,6 @@
         "spotify_id": "7M1FPw29m5FbicYzS2xdpi"
       },
       {
-        "artist": "Opeth",
-        "listeners": 1168256,
-        "spotify_popularity": 57,
-        "spotify_id": "0ybFZ2Ab08V8hueghSXm6E"
-      },
-      {
         "artist": "Puscifer",
         "listeners": 740933,
         "spotify_popularity": 57,
@@ -523,6 +517,13 @@
         "spotify_id": "1UYhxPY1oqFUg1HfF8nV3k",
         "recommended": false,
         "tracksAdded": 10
+      },
+      {
+        "artist": "Opeth",
+        "listeners": 1168256,
+        "spotify_id": "0ybFZ2Ab08V8hueghSXm6E",
+        "recommended": false,
+        "tracksAdded": 10
       }
     ]
   },
@@ -569,13 +570,6 @@
         "recommended": true,
         "spotify_popularity": 51,
         "spotify_id": "0DoNSZa1R1DV69oY1djlbf"
-      },
-      {
-        "artist": "Burning Spear",
-        "listeners": 597685,
-        "recommended": true,
-        "spotify_popularity": 50,
-        "spotify_id": "6qaKS0nzGP4hfjl4aFZmEU"
       },
       {
         "artist": "Toots and the Maytals",
@@ -807,6 +801,13 @@
         "artist": "Peter Tosh",
         "listeners": 1242002,
         "spotify_id": "0oea1hwGMfUxZbLxJc1XUN",
+        "recommended": true,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Burning Spear",
+        "listeners": 597685,
+        "spotify_id": "6qaKS0nzGP4hfjl4aFZmEU",
         "recommended": true,
         "tracksAdded": 10
       }
@@ -1791,13 +1792,6 @@
         "spotify_id": "5hW4L92KnC6dX9t7tYM4Ve"
       },
       {
-        "artist": "Joanna Newsom",
-        "listeners": 136532,
-        "recommended": true,
-        "spotify_popularity": 37,
-        "spotify_id": "4gn6f5jaOO75s0oF7ozqGG"
-      },
-      {
         "artist": "Bill Callahan",
         "listeners": 193713,
         "recommended": true,
@@ -1903,6 +1897,13 @@
         "spotify_id": "5c3GLXai8YOMid29ZEuR9y",
         "recommended": true,
         "tracksAdded": 10
+      },
+      {
+        "artist": "Joanna Newsom",
+        "listeners": 136532,
+        "spotify_id": "4gn6f5jaOO75s0oF7ozqGG",
+        "recommended": true,
+        "tracksAdded": 1
       }
     ]
   },

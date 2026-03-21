@@ -2383,5 +2383,262 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-03-19T00:18:26.673Z"
+  },
+  {
+    "action": "add",
+    "artist": "Adele",
+    "album": "25",
+    "index": 893,
+    "tracksAdded": 11,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-03-19T04:30:16.011Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-09-05",
+    "tracksAdded": 5,
+    "tracksSkipped": 3,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-19T04:30:26.004Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Patti Smith",
+    "index": 26,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-19T15:41:59.243Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Small Faces",
+    "index": 3,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-19T15:42:08.715Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Progressive / Experimental Rock & Metal",
+    "artist": "Opeth",
+    "listeners": 1168256,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-19T15:42:26.968Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2017-09",
+    "playlistUrl": "https://open.spotify.com/playlist/49GAbos8PlLJJhnTc4hi2X?si=b8b438445f3f4410",
+    "playlistId": "49GAbos8PlLJJhnTc4hi2X",
+    "index": 120,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-03-19T19:31:18.417Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "The Fratellis",
+    "index": 157,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-19T21:32:05.926Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "The Selecter",
+    "index": 0,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-20T02:13:16.415Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Jade Bird",
+    "index": 139,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-20T02:13:24.778Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Black Crowes",
+    "album": "Croweology (2010)",
+    "index": null,
+    "tracksAdded": 20,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-20T03:47:23.219Z"
+  },
+  {
+    "action": "add",
+    "artist": "Leonard Cohen",
+    "album": "Songs From a Room (1969)",
+    "index": 28,
+    "tracksAdded": 10,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-03-20T15:58:31.922Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-08-29",
+    "tracksAdded": 4,
+    "tracksSkipped": 3,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-20T15:58:40.541Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Band",
+    "index": 93,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-20T18:09:32.184Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Sex Pistols",
+    "index": 25,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-20T18:09:41.786Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Reggae / World / Ambient / Experimental Electronic",
+    "artist": "Burning Spear",
+    "listeners": 597685,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-20T18:10:00.294Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2014-06",
+    "playlistUrl": "https://open.spotify.com/playlist/6IBdhLk7RXdzUic0HRxt8E?si=68505c1c6f084830",
+    "playlistId": "6IBdhLk7RXdzUic0HRxt8E",
+    "index": 89,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-03-20T18:55:50.516Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "FÜLÜ",
+    "index": 133,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-20T21:27:34.302Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Four Tet",
+    "index": 51,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-20T21:27:43.447Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Rolling Stones",
+    "album": "Emotional Rescue (1980)",
+    "index": null,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-20T21:58:22.848Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Specials",
+    "album": "The Specials",
+    "index": 304,
+    "tracksAdded": 1,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-03-20T21:58:29.538Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-08-22",
+    "tracksAdded": 7,
+    "tracksSkipped": 0,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-20T21:58:41.813Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Band",
+    "index": 88,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-21T00:17:12.067Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Wilson Pickett",
+    "index": 99,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-21T00:19:18.204Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Supremes",
+    "index": 118,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-21T00:19:27.188Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Folk / Country / Americana",
+    "artist": "Joanna Newsom",
+    "listeners": 136532,
+    "tracksAdded": 1,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-21T00:19:33.192Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2007-05",
+    "playlistUrl": "https://open.spotify.com/playlist/1kD2xXdASvHO28zeaMeN6D?si=9f9bda572e8a4528",
+    "playlistId": "1kD2xXdASvHO28zeaMeN6D",
+    "index": 13,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-03-21T10:31:30.931Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Girl in Red",
+    "index": 76,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-21T10:31:42.292Z"
   }
 ]
