@@ -2640,5 +2640,23 @@
     "sourceFile": "data/glastonbury25.json",
     "strategy": "glastonbury",
     "timestamp": "2026-03-21T10:31:42.292Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Michele Stodart",
+    "index": 101,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-21T17:47:40.884Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Lorde",
+    "index": 50,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-21T17:47:50.229Z"
   }
 ]
