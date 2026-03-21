@@ -1792,13 +1792,6 @@
         "spotify_id": "5hW4L92KnC6dX9t7tYM4Ve"
       },
       {
-        "artist": "Joanna Newsom",
-        "listeners": 136532,
-        "recommended": true,
-        "spotify_popularity": 37,
-        "spotify_id": "4gn6f5jaOO75s0oF7ozqGG"
-      },
-      {
         "artist": "Bill Callahan",
         "listeners": 193713,
         "recommended": true,
@@ -1904,6 +1897,13 @@
         "spotify_id": "5c3GLXai8YOMid29ZEuR9y",
         "recommended": true,
         "tracksAdded": 10
+      },
+      {
+        "artist": "Joanna Newsom",
+        "listeners": 136532,
+        "spotify_id": "4gn6f5jaOO75s0oF7ozqGG",
+        "recommended": true,
+        "tracksAdded": 1
       }
     ]
   },
