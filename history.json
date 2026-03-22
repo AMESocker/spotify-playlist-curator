@@ -2640,5 +2640,33 @@
     "sourceFile": "data/glastonbury25.json",
     "strategy": "glastonbury",
     "timestamp": "2026-03-21T10:31:42.292Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Michele Stodart",
+    "index": 101,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-21T17:47:40.884Z"
+  },
+  {
+    "action": "addGlastonbury",
+    "artist": "Lorde",
+    "index": 50,
+    "tracksAdded": 5,
+    "sourceFile": "data/glastonbury25.json",
+    "strategy": "glastonbury",
+    "timestamp": "2026-03-21T17:47:50.229Z"
+  },
+  {
+    "action": "add",
+    "artist": "Deep Purple",
+    "album": "The House of Blue Light (1987)",
+    "index": null,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-22T10:35:28.761Z"
   }
 ]
