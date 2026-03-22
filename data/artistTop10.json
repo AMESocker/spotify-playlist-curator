@@ -2079,13 +2079,6 @@
         "spotify_id": "5m8H6zSadhu1j9Yi04VLqD"
       },
       {
-        "artist": "Parliament-Funkadelic",
-        "listeners": 44849,
-        "recommended": true,
-        "spotify_popularity": 40,
-        "spotify_id": "6XswoC68grx55in1WQnJ7E"
-      },
-      {
         "artist": "Gil Scott-Heron",
         "listeners": 392678,
         "recommended": true,
@@ -2175,6 +2168,13 @@
         "artist": "James Brown",
         "listeners": 2370364,
         "spotify_id": "7GaxyUddsPok8BuhxN6OUW",
+        "recommended": true,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Parliament-Funkadelic",
+        "listeners": 44849,
+        "spotify_id": "6XswoC68grx55in1WQnJ7E",
         "recommended": true,
         "tracksAdded": 10
       }
