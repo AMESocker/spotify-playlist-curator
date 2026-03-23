@@ -2744,5 +2744,34 @@
     "sourceFile": "data/glastonbury25.json",
     "strategy": "glastonbury",
     "timestamp": "2026-03-22T22:37:08.222Z"
+  },
+  {
+    "action": "add",
+    "artist": "Collective Soul",
+    "album": "Youth (2004)",
+    "index": null,
+    "tracksAdded": 11,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-23T01:50:27.935Z"
+  },
+  {
+    "action": "add",
+    "artist": "Bjork",
+    "album": "Debut",
+    "index": 558,
+    "tracksAdded": 11,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-03-23T01:50:49.609Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-08-15",
+    "tracksAdded": 5,
+    "tracksSkipped": 2,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-23T01:51:03.478Z"
   }
 ]

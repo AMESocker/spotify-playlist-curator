@@ -2045,7 +2045,6 @@
       "Artist": "Collective Soul",
       "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
       "Albums": [
-        "Collective Soul (1995)",
         "Disciplined Breakdown (1997)",
         "Dosage (1999)",
         "Blender (2000)",
@@ -2058,7 +2057,9 @@
         "Here to Eternity (2024)",
         "Touch and Go (2026)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Youth (2004)"
+      ]
     },
     {
       "Artist": "Pantera",

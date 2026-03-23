@@ -1,92 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-08-15",
-      "albums": [
-        {
-          "title": "So Long Little Miss Sunshine",
-          "artist": "Molly Tuttle",
-          "spotifyTrack": {
-            "id": "0lL6aruZNHj9NdWEVni3MX",
-            "name": "Everything Burns",
-            "uri": "spotify:track:0lL6aruZNHj9NdWEVni3MX",
-            "popularity": 37,
-            "albumName": "So Long Little Miss Sunshine",
-            "albumId": "66H97i02fAu4oFUYUGxIhr",
-            "foundAt": "2026-02-05T18:46:32.405Z"
-          }
-        },
-        {
-          "title": "Flux",
-          "artist": "Alison Goldfrapp",
-          "spotifyTrack": {
-            "id": "4sCo5lmrCF8oygoQSGsYnp",
-            "name": "Strange Things Happen",
-            "uri": "spotify:track:4sCo5lmrCF8oygoQSGsYnp",
-            "popularity": 37,
-            "albumName": "Flux",
-            "albumId": "4pN57ynmI7e8JPA6egj1t8",
-            "foundAt": "2026-02-05T18:46:34.114Z"
-          }
-        },
-        {
-          "title": "Wishbone",
-          "artist": "Conan Gray",
-          "spotifyTrack": {
-            "id": "60mJHAb1XIDyk9bTLnyaQU",
-            "name": "Actor",
-            "uri": "spotify:track:60mJHAb1XIDyk9bTLnyaQU",
-            "popularity": 69,
-            "albumName": "Wishbone",
-            "albumId": "1Q0kTJx8DrQd8RJW9L7eIN",
-            "foundAt": "2026-02-05T18:46:36.046Z"
-          }
-        },
-        {
-          "title": "New Radiations",
-          "artist": "Marissa Nadler",
-          "spotifyTrack": {
-            "id": "1dyoc8PNcZQgJsbK7E4BiI",
-            "name": "Hatchet Man",
-            "uri": "spotify:track:1dyoc8PNcZQgJsbK7E4BiI",
-            "popularity": 18,
-            "albumName": "New Radiations",
-            "albumId": "0YHjzYtgYMDhlVd11mDRAY",
-            "foundAt": "2026-02-05T18:46:37.666Z"
-          }
-        },
-        {
-          "title": "El Viejo Caminante",
-          "artist": "Dino SaluzziJosé Maria SaluzziJacob Young",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:34.254Z"
-          }
-        },
-        {
-          "title": "You Can't Hip a Square: The Doc Pomus Songwriting Demos",
-          "artist": "Doc Pomus",
-          "spotifyTrack": {
-            "id": "3WDLBFcu8kJ3jwIJIqznvI",
-            "name": "It's Great To Be Young And In Love - (Demo)",
-            "uri": "spotify:track:3WDLBFcu8kJ3jwIJIqznvI",
-            "popularity": 4,
-            "albumName": "You Can't Hip A Square: The Doc Pomus Songwriting Demos",
-            "albumId": "6Uhfg1v9T7piRoM3TEAAtk",
-            "foundAt": "2026-02-05T18:46:40.345Z"
-          }
-        },
-        {
-          "title": "Gilles Binchois: Loyal Souvenir - Sacred Works, Chansons...",
-          "artist": "Le Miroir de MusiqueBaptiste Romain",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:34.833Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-08-08",
       "albums": [
         {
@@ -2851,6 +2765,94 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-08-15",
+      "albums": [
+        {
+          "title": "So Long Little Miss Sunshine",
+          "artist": "Molly Tuttle",
+          "spotifyTrack": {
+            "id": "0lL6aruZNHj9NdWEVni3MX",
+            "name": "Everything Burns",
+            "uri": "spotify:track:0lL6aruZNHj9NdWEVni3MX",
+            "popularity": 37,
+            "albumName": "So Long Little Miss Sunshine",
+            "albumId": "66H97i02fAu4oFUYUGxIhr",
+            "foundAt": "2026-02-05T18:46:32.405Z"
+          }
+        },
+        {
+          "title": "Flux",
+          "artist": "Alison Goldfrapp",
+          "spotifyTrack": {
+            "id": "4sCo5lmrCF8oygoQSGsYnp",
+            "name": "Strange Things Happen",
+            "uri": "spotify:track:4sCo5lmrCF8oygoQSGsYnp",
+            "popularity": 37,
+            "albumName": "Flux",
+            "albumId": "4pN57ynmI7e8JPA6egj1t8",
+            "foundAt": "2026-02-05T18:46:34.114Z"
+          }
+        },
+        {
+          "title": "Wishbone",
+          "artist": "Conan Gray",
+          "spotifyTrack": {
+            "id": "60mJHAb1XIDyk9bTLnyaQU",
+            "name": "Actor",
+            "uri": "spotify:track:60mJHAb1XIDyk9bTLnyaQU",
+            "popularity": 69,
+            "albumName": "Wishbone",
+            "albumId": "1Q0kTJx8DrQd8RJW9L7eIN",
+            "foundAt": "2026-02-05T18:46:36.046Z"
+          }
+        },
+        {
+          "title": "New Radiations",
+          "artist": "Marissa Nadler",
+          "spotifyTrack": {
+            "id": "1dyoc8PNcZQgJsbK7E4BiI",
+            "name": "Hatchet Man",
+            "uri": "spotify:track:1dyoc8PNcZQgJsbK7E4BiI",
+            "popularity": 18,
+            "albumName": "New Radiations",
+            "albumId": "0YHjzYtgYMDhlVd11mDRAY",
+            "foundAt": "2026-02-05T18:46:37.666Z"
+          }
+        },
+        {
+          "title": "El Viejo Caminante",
+          "artist": "Dino SaluzziJosé Maria SaluzziJacob Young",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:34.254Z"
+          }
+        },
+        {
+          "title": "You Can't Hip a Square: The Doc Pomus Songwriting Demos",
+          "artist": "Doc Pomus",
+          "spotifyTrack": {
+            "id": "3WDLBFcu8kJ3jwIJIqznvI",
+            "name": "It's Great To Be Young And In Love - (Demo)",
+            "uri": "spotify:track:3WDLBFcu8kJ3jwIJIqznvI",
+            "popularity": 4,
+            "albumName": "You Can't Hip A Square: The Doc Pomus Songwriting Demos",
+            "albumId": "6Uhfg1v9T7piRoM3TEAAtk",
+            "foundAt": "2026-02-05T18:46:40.345Z"
+          }
+        },
+        {
+          "title": "Gilles Binchois: Loyal Souvenir - Sacred Works, Chansons...",
+          "artist": "Le Miroir de MusiqueBaptiste Romain",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:34.833Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-23T01:51:03.476Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2026-03-20",
       "albums": [
