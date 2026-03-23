@@ -293,12 +293,6 @@
         "spotify_id": "5INjqkS1o8h1imAzPqGZBb"
       },
       {
-        "artist": "Yes",
-        "listeners": 2134233,
-        "spotify_popularity": 61,
-        "spotify_id": "7AC976RDJzL2asmZuz7qil"
-      },
-      {
         "artist": "Sleep Token",
         "listeners": 3091533,
         "spotify_popularity": 77,
@@ -522,6 +516,13 @@
         "artist": "Opeth",
         "listeners": 1168256,
         "spotify_id": "0ybFZ2Ab08V8hueghSXm6E",
+        "recommended": false,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Yes",
+        "listeners": 2134233,
+        "spotify_id": "7AC976RDJzL2asmZuz7qil",
         "recommended": false,
         "tracksAdded": 10
       }

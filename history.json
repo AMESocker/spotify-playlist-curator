@@ -2791,5 +2791,15 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-03-23T03:39:57.072Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Progressive / Experimental Rock & Metal",
+    "artist": "Yes",
+    "listeners": 2134233,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-23T03:44:04.318Z"
   }
 ]
