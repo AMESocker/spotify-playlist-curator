@@ -234,7 +234,6 @@
       "Artist": "Sepultura",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Morbid Visions (1986)",
         "Schizophrenia (1987)",
         "Beneath the Remains (1989)",
         "Arise (1991)",
@@ -250,7 +249,9 @@
         "Machine Messiah (2017)",
         "Quadra (2020)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Beneath the Remains (1989)"
+      ]
     },
     {
       "Artist": "Corrosion of Conformity",
@@ -309,9 +310,9 @@
       "AddedAlbums": []
     },
     {
-      "Artist":"Young the Giant",
-      "Group":"🔵 Alternative / Indie / Folk-Rock",
-      "Albums":[
+      "Artist": "Young the Giant",
+      "Group": "🔵 Alternative / Indie / Folk-Rock",
+      "Albums": [
         "Young the Giant",
         "Mind Over Matter (2014)",
         "Home of the Strange (2016)",
@@ -319,7 +320,7 @@
         "American Bollywood (2022)",
         "Victory Garden"
       ],
-      "AddedAlbums":[]
+      "AddedAlbums": []
     },
     {
       "Artist": "The White Stripes",

@@ -1,95 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-08-08",
-      "albums": [
-        {
-          "title": "No Rain, No Flowers",
-          "artist": "The Black Keys",
-          "spotifyTrack": {
-            "id": "4ns4t9csFyWBMjyHAzwLl0",
-            "name": "No Rain, No Flowers",
-            "uri": "spotify:track:4ns4t9csFyWBMjyHAzwLl0",
-            "popularity": 51,
-            "albumName": "No Rain, No Flowers",
-            "albumId": "3GP6fZgniD9cydeW0nwEe4",
-            "foundAt": "2026-02-05T18:46:43.000Z"
-          }
-        },
-        {
-          "title": "ABOMINATION REVEALED AT LAST",
-          "artist": "Osees",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:35.600Z"
-          }
-        },
-        {
-          "title": "Pressing Onward",
-          "artist": "Big Freedia",
-          "spotifyTrack": {
-            "id": "723J8TT1MrywSg66aIqZio",
-            "name": "Celebration (feat. Dawn Richard)",
-            "uri": "spotify:track:723J8TT1MrywSg66aIqZio",
-            "popularity": 27,
-            "albumName": "Pressing Onward",
-            "albumId": "6Q4UcPfHz8RnPNn2NlJ71C",
-            "foundAt": "2026-02-05T18:46:45.664Z"
-          }
-        },
-        {
-          "title": "Surrender Instead",
-          "artist": "Field Medic",
-          "spotifyTrack": {
-            "id": "0WL4ZlGFwe6lbf1ghzqrNY",
-            "name": "tricks & illusions",
-            "uri": "spotify:track:0WL4ZlGFwe6lbf1ghzqrNY",
-            "popularity": 27,
-            "albumName": "surrender instead",
-            "albumId": "2TMcraJh8CGP7Ch7oHgX3z",
-            "foundAt": "2026-02-05T18:46:47.300Z"
-          }
-        },
-        {
-          "title": "CBGB 12.13.88",
-          "artist": "Galaxie 500",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:36.212Z"
-          }
-        },
-        {
-          "title": "Bugland",
-          "artist": "No Joy",
-          "spotifyTrack": {
-            "id": "76cifUIaquJRo1utBIenpZ",
-            "name": "Garbage Dream House",
-            "uri": "spotify:track:76cifUIaquJRo1utBIenpZ",
-            "popularity": 25,
-            "albumName": "Bugland",
-            "albumId": "0FjxmPbY1wNex6PaMzjbsk",
-            "foundAt": "2026-02-05T18:46:49.553Z"
-          }
-        },
-        {
-          "title": "Crucial Cuts From the Heart of the Ark [1973-1978]",
-          "artist": "Lee \"Scratch\" Perry",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:36.820Z"
-          }
-        },
-        {
-          "title": "Love Lives Forever [BBC Sessions 2003-2011]",
-          "artist": "Daniel Johnston",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:37.508Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-08-01",
       "albums": [
         {
@@ -2765,6 +2676,97 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-08-08",
+      "albums": [
+        {
+          "title": "No Rain, No Flowers",
+          "artist": "The Black Keys",
+          "spotifyTrack": {
+            "id": "4ns4t9csFyWBMjyHAzwLl0",
+            "name": "No Rain, No Flowers",
+            "uri": "spotify:track:4ns4t9csFyWBMjyHAzwLl0",
+            "popularity": 51,
+            "albumName": "No Rain, No Flowers",
+            "albumId": "3GP6fZgniD9cydeW0nwEe4",
+            "foundAt": "2026-02-05T18:46:43.000Z"
+          }
+        },
+        {
+          "title": "ABOMINATION REVEALED AT LAST",
+          "artist": "Osees",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:35.600Z"
+          }
+        },
+        {
+          "title": "Pressing Onward",
+          "artist": "Big Freedia",
+          "spotifyTrack": {
+            "id": "723J8TT1MrywSg66aIqZio",
+            "name": "Celebration (feat. Dawn Richard)",
+            "uri": "spotify:track:723J8TT1MrywSg66aIqZio",
+            "popularity": 27,
+            "albumName": "Pressing Onward",
+            "albumId": "6Q4UcPfHz8RnPNn2NlJ71C",
+            "foundAt": "2026-02-05T18:46:45.664Z"
+          }
+        },
+        {
+          "title": "Surrender Instead",
+          "artist": "Field Medic",
+          "spotifyTrack": {
+            "id": "0WL4ZlGFwe6lbf1ghzqrNY",
+            "name": "tricks & illusions",
+            "uri": "spotify:track:0WL4ZlGFwe6lbf1ghzqrNY",
+            "popularity": 27,
+            "albumName": "surrender instead",
+            "albumId": "2TMcraJh8CGP7Ch7oHgX3z",
+            "foundAt": "2026-02-05T18:46:47.300Z"
+          }
+        },
+        {
+          "title": "CBGB 12.13.88",
+          "artist": "Galaxie 500",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:36.212Z"
+          }
+        },
+        {
+          "title": "Bugland",
+          "artist": "No Joy",
+          "spotifyTrack": {
+            "id": "76cifUIaquJRo1utBIenpZ",
+            "name": "Garbage Dream House",
+            "uri": "spotify:track:76cifUIaquJRo1utBIenpZ",
+            "popularity": 25,
+            "albumName": "Bugland",
+            "albumId": "0FjxmPbY1wNex6PaMzjbsk",
+            "foundAt": "2026-02-05T18:46:49.553Z"
+          }
+        },
+        {
+          "title": "Crucial Cuts From the Heart of the Ark [1973-1978]",
+          "artist": "Lee \"Scratch\" Perry",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:36.820Z"
+          }
+        },
+        {
+          "title": "Love Lives Forever [BBC Sessions 2003-2011]",
+          "artist": "Daniel Johnston",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:37.508Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-23T13:11:32.283Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-08-15",
       "albums": [
