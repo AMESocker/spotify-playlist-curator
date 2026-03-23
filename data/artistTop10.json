@@ -531,6 +531,27 @@
   "Reggae / World / Ambient / Experimental Electronic": {
     "not_added": [
       {
+        "artist": "Burial",
+        "listeners": 527105,
+        "recommended": true,
+        "spotify_popularity": 48,
+        "spotify_id": "0uCCBpmg6MrPb1KY2msceF"
+      },
+      {
+        "artist": "Damian Marley",
+        "listeners": 1938005,
+        "recommended": true,
+        "spotify_popularity": 67,
+        "spotify_id": "3QJzdZJYIAcoET1GcfpNGi"
+      },
+      {
+        "artist": "Sizzla",
+        "listeners": 648280,
+        "recommended": true,
+        "spotify_popularity": 53,
+        "spotify_id": "72T7x96EAqN2UWvAgobYfv"
+      },
+      {
         "artist": "The Orb",
         "listeners": 207477,
         "recommended": true,
@@ -550,13 +571,6 @@
         "recommended": true,
         "spotify_popularity": 65,
         "spotify_id": "6liAMWkVf5LH7YR9yfFy1Y"
-      },
-      {
-        "artist": "Damian Marley",
-        "listeners": 1938005,
-        "recommended": true,
-        "spotify_popularity": 67,
-        "spotify_id": "3QJzdZJYIAcoET1GcfpNGi"
       },
       {
         "artist": "Bombino",
@@ -613,20 +627,6 @@
         "recommended": true,
         "spotify_popularity": 56,
         "spotify_id": "6UL7BodGc5iVmQGlMwHR0g"
-      },
-      {
-        "artist": "Sizzla",
-        "listeners": 648280,
-        "recommended": true,
-        "spotify_popularity": 53,
-        "spotify_id": "72T7x96EAqN2UWvAgobYfv"
-      },
-      {
-        "artist": "Burial",
-        "listeners": 527105,
-        "recommended": true,
-        "spotify_popularity": 48,
-        "spotify_id": "0uCCBpmg6MrPb1KY2msceF"
       },
       {
         "artist": "Boards of Canada",
