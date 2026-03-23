@@ -23,14 +23,54 @@ import { handleArtistGenre } from "./artistGenreStrategy.js";
 //* ─── DATA SOURCES ───────────────────────────────────────────────────────────────
 
 const dataSources = [
-  { name: "artistDisc", file: "data/artistDisc.json", strategy: "fairness" },
-  { name: "1080albums", file: "data/1080albums.json", strategy: "sequential" },
-  { name: "allMusicEditorsChoice", file: "data/editorsChoiceAlbums.json", strategy: "editorsChoice" },
-  { name: "rockNRollHallOfFame", file: "data/rockNRollHallofFame.json", strategy: "rockHall" },
-  { name: "artistGenre", file: "data/artistTop10.json", strategy: "artistGenre" },
-  { name: "spotifyTotmPlaylists", file: "data/spotifyPlaylists.json", strategy: "spotifyPlaylist" },
-  { name: "festivals", file: "data/festivals.json", strategy: "festival" },
-  { name: "billboardHot100", file: "data/billboardHot100.json", strategy: "singleTrack" }
+  {
+    name: "artistDisc",
+    file: "data/artistDisc.json",
+    strategy: "fairness",
+    originalPosition: 0,
+  },
+  {
+    name: "billboardHot100",
+    file: "data/billboardHot100.json",
+    strategy: "singleTrack",
+    originalPosition: 7,
+  },
+  {
+    name: "1080albums",
+    file: "data/1080albums.json",
+    strategy: "sequential",
+    originalPosition: 1,
+  },
+  {
+    name: "rockNRollHallOfFame",
+    file: "data/rockNRollHallofFame.json",
+    strategy: "rockHall",
+    originalPosition: 3,
+  },
+  {
+    name: "spotifyTotmPlaylists",
+    file: "data/spotifyPlaylists.json",
+    strategy: "spotifyPlaylist",
+    originalPosition: 5,
+  },
+  {
+    name: "artistGenre",
+    file: "data/artistTop10.json",
+    strategy: "artistGenre",
+    originalPosition: 4,
+  },
+  {
+    name: "allMusicEditorsChoice",
+    file: "data/editorsChoiceAlbums.json",
+    strategy: "editorsChoice",
+    originalPosition: 2,
+  },
+  {
+    name: "festivals",
+    file: "data/festivals.json",
+    strategy: "festival",
+    originalPosition: 6,
+  },
 ];
 
 const SOURCE_INDEX_FILE = "data/sourceIndex.json";
