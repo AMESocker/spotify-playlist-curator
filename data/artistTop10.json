@@ -269,6 +269,18 @@
         "spotify_id": "5XDeFQDarnwpR5WAfD6S0d"
       },
       {
+        "artist": "Swans",
+        "listeners": 359060,
+        "spotify_popularity": 45,
+        "spotify_id": "79S80ZWgVhIPMCHuvl6SkA"
+      },
+      {
+        "artist": "Mastodon",
+        "listeners": 1062768,
+        "spotify_popularity": 56,
+        "spotify_id": "1Dvfqq39HxvCJ3GvfeIFuT"
+      },
+      {
         "artist": "Diamond Head",
         "listeners": 205921,
         "spotify_popularity": 37,
@@ -291,12 +303,6 @@
         "listeners": 3091533,
         "spotify_popularity": 77,
         "spotify_id": "2n2RSaZqBuUUukhbLlpnE6"
-      },
-      {
-        "artist": "Mastodon",
-        "listeners": 1062768,
-        "spotify_popularity": 56,
-        "spotify_id": "1Dvfqq39HxvCJ3GvfeIFuT"
       },
       {
         "artist": "Sonic Youth",
@@ -357,12 +363,6 @@
         "listeners": 326392,
         "spotify_popularity": 51,
         "spotify_id": "38uWD5h115pdz278q4rwZW"
-      },
-      {
-        "artist": "Swans",
-        "listeners": 359060,
-        "spotify_popularity": 45,
-        "spotify_id": "79S80ZWgVhIPMCHuvl6SkA"
       },
       {
         "artist": "Symphony X",

@@ -2773,5 +2773,23 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-03-23T01:51:03.478Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Wilson Pickett",
+    "index": 95,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-23T03:39:48.936Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Neil Young",
+    "index": 68,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-23T03:39:57.072Z"
   }
 ]
