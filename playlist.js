@@ -1,5 +1,5 @@
 // File: playlist.js
-import { withRetry, isInstrumental } from './utils.js';
+import { withRetry } from './utils.js';
 import { getSpotify } from './auth.js';
 import 'dotenv/config';
 
@@ -30,7 +30,7 @@ export async function addTracks(playlistId, uris) {
   }
 
   // Add instrumentals to instrumental playlist
-  const instrumentalId = process.env.CAR_PLAYLIST_ALL_ID;
+/*   const instrumentalId = process.env.CAR_PLAYLIST_ALL_ID;
   if (instrumentalId) {
     const instrumentalUris = [];
 
@@ -52,7 +52,8 @@ export async function addTracks(playlistId, uris) {
       await withRetry(() => spotify.addTracksToPlaylist(instrumentalId, chunk));
     }
   }
-}
+  */
+} 
 
 
 export async function removeTracks(playlistId, tracks) {
