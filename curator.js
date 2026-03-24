@@ -371,7 +371,11 @@ async function handleFestival(source, data) {
   if (await wouldExceedLimit(10)) return false;
 
   // Pick a random active festival
-  const festival = active[Math.floor(Math.random() * active.length)];
+    const festival = active.sort((a, b) => {
+    const pctA = a.added.length / (a.artists.length + a.added.length);
+    const pctB = b.added.length / (b.artists.length + b.added.length);
+    return pctA - pctB;
+  })[0];
   console.log(`🎪 Festival: ${festival.name}`);
 
   let anyAdded = false;
