@@ -275,7 +275,6 @@
       "Artist": "Exodus",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Bonded by Blood (1985)",
         "Pleasures of the Flesh (1987)",
         "Fabulous Disaster (1989)",
         "Impact Is Imminent (1990)",
@@ -289,7 +288,9 @@
         "Persona Non Grata (2021)",
         "Goliath (2026)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Exhibit B: The Human Condition (2010)"
+      ]
     },
     {
       "Artist": "Machine Head",
