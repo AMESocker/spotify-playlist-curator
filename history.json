@@ -3021,5 +3021,23 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-03-24T21:34:47.465Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Flamingos",
+    "index": 35,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-24T23:42:44.325Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Pretenders",
+    "index": 10,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-24T23:42:46.240Z"
   }
 ]
