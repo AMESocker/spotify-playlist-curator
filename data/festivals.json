@@ -361,7 +361,6 @@
         "Alison Wonderland",
         "5 Seconds of Summer",
         "Kettama",
-        "Hot Mulligan",
         "Yoasobi",
         "Viagra Boys",
         "Ado",
@@ -419,7 +418,6 @@
         "Kingfishr",
         "Claire Rosinkranz",
         "Goldie Boutilier",
-        "Destin Conrad",
         "Waylon Wyatt",
         "54 Ultra",
         "Finn Wolfhard",
@@ -428,7 +426,6 @@
         "Inji",
         "Die Spitz",
         "Devault",
-        "Marlon Funaki",
         "Water from Your Eyes",
         "Bella Kay",
         "Lucy Bedroque",
@@ -487,7 +484,6 @@
         "Case Oats",
         "The Creekers",
         "Chicago Made",
-        "Next of Kin",
         "Klo",
         "Valencia Grace",
         "Snacktime",
@@ -498,7 +494,12 @@
         "Kim Theory",
         "Whitney Whitney"
       ],
-      "added": []
+      "added": [
+        "Next of Kin",
+        "Hot Mulligan",
+        "Marlon Funaki",
+        "Destin Conrad"
+      ]
     },
     {
       "name": "Download Festival",
