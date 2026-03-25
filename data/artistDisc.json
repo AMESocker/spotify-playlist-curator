@@ -290,7 +290,6 @@
       ],
       "AddedAlbums": [
         "Goliath (2026)",
-      
         "Exhibit B: The Human Condition (2010)"
       ]
     },
@@ -2081,7 +2080,6 @@
       "Artist": "Slayer",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Show No Mercy (1983)",
         "Hell Awaits (1985)",
         "Reign in Blood (1986)",
         "South of Heaven (1988)",
@@ -2094,7 +2092,9 @@
         "World Painted Blood (2009)",
         "Repentless (2015)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "South of Heaven (1988)"
+      ]
     }
   ],
   "archived": [
