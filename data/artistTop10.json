@@ -1675,12 +1675,6 @@
         "spotify_id": "1FE0rls8gfQT3laAeRYNgl"
       },
       {
-        "artist": "John Prine",
-        "listeners": 644386,
-        "spotify_popularity": 57,
-        "spotify_id": "0nJUwPwC9Ti4vvuJ0q3MfT"
-      },
-      {
         "artist": "Townes Van Zandt",
         "listeners": 395176,
         "recommended": true,
@@ -1905,6 +1899,13 @@
         "spotify_id": "4gn6f5jaOO75s0oF7ozqGG",
         "recommended": true,
         "tracksAdded": 1
+      },
+      {
+        "artist": "John Prine",
+        "listeners": 644386,
+        "spotify_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
+        "recommended": false,
+        "tracksAdded": 10
       }
     ]
   },

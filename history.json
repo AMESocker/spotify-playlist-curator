@@ -3004,5 +3004,107 @@
     "sourceFile": "data/artistDisc.json",
     "strategy": "fairness",
     "timestamp": "2026-03-24T17:37:18.293Z"
+  },
+  {
+    "action": "addBillboard",
+    "tracksAdded": 8,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "singleTrack",
+    "timestamp": "2026-03-24T19:08:14.311Z"
+  },
+  {
+    "action": "add",
+    "artist": "Air",
+    "album": "Moon Safari",
+    "index": 683,
+    "tracksAdded": 10,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-03-24T21:34:47.465Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Flamingos",
+    "index": 35,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-24T23:42:44.325Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Pretenders",
+    "index": 10,
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-24T23:42:46.240Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2008-11",
+    "playlistUrl": "https://open.spotify.com/playlist/4DWVVxyW0Wy3cT44rCSoql?si=24f89d405b804962",
+    "playlistId": "4DWVVxyW0Wy3cT44rCSoql",
+    "index": 29,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-03-25T02:25:59.928Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Folk / Country / Americana",
+    "artist": "John Prine",
+    "listeners": 644386,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-25T02:26:04.572Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-08-01",
+    "tracksAdded": 5,
+    "tracksSkipped": 1,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-25T02:26:08.134Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "AZZECCA",
+    "index": 129,
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-03-25T02:26:14.017Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "The Chats",
+    "index": 117,
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-03-25T02:26:15.837Z"
+  },
+  {
+    "action": "add",
+    "artist": "Slayer",
+    "album": "South of Heaven (1988)",
+    "index": null,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-25T19:00:21.380Z"
+  },
+  {
+    "action": "addBillboard",
+    "tracksAdded": 9,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "singleTrack",
+    "timestamp": "2026-03-25T21:35:31.772Z"
   }
 ]

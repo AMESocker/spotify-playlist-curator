@@ -303,7 +303,6 @@
         "Black Flag",
         "Oklou",
         "Röyksopp",
-        "The Chats",
         "DRAIN",
         "Model/Actriz",
         "COBRAH",
@@ -315,12 +314,14 @@
         "Carlita x Josh Baker",
         "MESTIZA",
         "&friends",
-        "AZZECCA",
         "LE YORA",
         "Samia",
         "Tomora"
       ],
-      "added": []
+      "added": [
+        "AZZECCA",
+        "The Chats"
+      ]
     },
     {
       "name": "Lollapalooza",

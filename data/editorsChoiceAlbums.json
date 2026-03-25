@@ -1,84 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-08-01",
-      "albums": [
-        {
-          "title": "The Future Is Here and Everything Needs to Be Destroyed",
-          "artist": "The Armed",
-          "spotifyTrack": {
-            "id": "5eSJ7qh5NFqTwCap9lNz3E",
-            "name": "Sharp Teeth",
-            "uri": "spotify:track:5eSJ7qh5NFqTwCap9lNz3E",
-            "popularity": 31,
-            "albumName": "THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED",
-            "albumId": "4bTc11nxlikKJqEEY8rMqJ",
-            "foundAt": "2026-02-05T18:46:52.642Z"
-          }
-        },
-        {
-          "title": "Sunset Boulevard",
-          "artist": "Elvis Presley",
-          "spotifyTrack": {
-            "id": "22roPr2PQno2tmSXXZ4cvE",
-            "name": "Burning Love",
-            "uri": "spotify:track:22roPr2PQno2tmSXXZ4cvE",
-            "popularity": 40,
-            "albumName": "Sunset Boulevard",
-            "albumId": "4zUZv055gk4daN0VusN3gw",
-            "foundAt": "2026-02-05T18:46:54.219Z"
-          }
-        },
-        {
-          "title": "Ain't Done With the Blues",
-          "artist": "Buddy Guy",
-          "spotifyTrack": {
-            "id": "58fNv64oeBSZdAsYipR5pj",
-            "name": "Been There Done That",
-            "uri": "spotify:track:58fNv64oeBSZdAsYipR5pj",
-            "popularity": 36,
-            "albumName": "Ain't Done With The Blues",
-            "albumId": "2MIp3zMbggiFAgOOLUgU50",
-            "foundAt": "2026-02-05T18:46:56.003Z"
-          }
-        },
-        {
-          "title": "If Not Winter",
-          "artist": "WISP",
-          "spotifyTrack": {
-            "id": "59ledUSDBtJ0f4YEAf8Fxi",
-            "name": "Save me now",
-            "uri": "spotify:track:59ledUSDBtJ0f4YEAf8Fxi",
-            "popularity": 56,
-            "albumName": "If Not Winter",
-            "albumId": "6R21I5E805CLZmDn8vESQM",
-            "foundAt": "2026-02-05T18:46:57.855Z"
-          }
-        },
-        {
-          "title": "West of Broadway",
-          "artist": "Rachael & Vilray",
-          "spotifyTrack": {
-            "id": "1dhHKhItoJoBPe4ewDdTjj",
-            "name": "One Wonders Why - deluxe bonus track",
-            "uri": "spotify:track:1dhHKhItoJoBPe4ewDdTjj",
-            "popularity": 40,
-            "albumName": "West of Broadway (Deluxe Edition)",
-            "albumId": "3Pu7oGvOi4CoTnSUQqLlrZ",
-            "foundAt": "2026-02-05T18:46:59.819Z"
-          }
-        },
-        {
-          "title": "Electric Fields",
-          "artist": "Barbara HanniganDavid ChalminKatia LabèqueMarielle Labèque",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:38.091Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-07-25",
       "albums": [
         {
@@ -2676,6 +2598,86 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-08-01",
+      "albums": [
+        {
+          "title": "The Future Is Here and Everything Needs to Be Destroyed",
+          "artist": "The Armed",
+          "spotifyTrack": {
+            "id": "5eSJ7qh5NFqTwCap9lNz3E",
+            "name": "Sharp Teeth",
+            "uri": "spotify:track:5eSJ7qh5NFqTwCap9lNz3E",
+            "popularity": 31,
+            "albumName": "THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED",
+            "albumId": "4bTc11nxlikKJqEEY8rMqJ",
+            "foundAt": "2026-02-05T18:46:52.642Z"
+          }
+        },
+        {
+          "title": "Sunset Boulevard",
+          "artist": "Elvis Presley",
+          "spotifyTrack": {
+            "id": "22roPr2PQno2tmSXXZ4cvE",
+            "name": "Burning Love",
+            "uri": "spotify:track:22roPr2PQno2tmSXXZ4cvE",
+            "popularity": 40,
+            "albumName": "Sunset Boulevard",
+            "albumId": "4zUZv055gk4daN0VusN3gw",
+            "foundAt": "2026-02-05T18:46:54.219Z"
+          }
+        },
+        {
+          "title": "Ain't Done With the Blues",
+          "artist": "Buddy Guy",
+          "spotifyTrack": {
+            "id": "58fNv64oeBSZdAsYipR5pj",
+            "name": "Been There Done That",
+            "uri": "spotify:track:58fNv64oeBSZdAsYipR5pj",
+            "popularity": 36,
+            "albumName": "Ain't Done With The Blues",
+            "albumId": "2MIp3zMbggiFAgOOLUgU50",
+            "foundAt": "2026-02-05T18:46:56.003Z"
+          }
+        },
+        {
+          "title": "If Not Winter",
+          "artist": "WISP",
+          "spotifyTrack": {
+            "id": "59ledUSDBtJ0f4YEAf8Fxi",
+            "name": "Save me now",
+            "uri": "spotify:track:59ledUSDBtJ0f4YEAf8Fxi",
+            "popularity": 56,
+            "albumName": "If Not Winter",
+            "albumId": "6R21I5E805CLZmDn8vESQM",
+            "foundAt": "2026-02-05T18:46:57.855Z"
+          }
+        },
+        {
+          "title": "West of Broadway",
+          "artist": "Rachael & Vilray",
+          "spotifyTrack": {
+            "id": "1dhHKhItoJoBPe4ewDdTjj",
+            "name": "One Wonders Why - deluxe bonus track",
+            "uri": "spotify:track:1dhHKhItoJoBPe4ewDdTjj",
+            "popularity": 40,
+            "albumName": "West of Broadway (Deluxe Edition)",
+            "albumId": "3Pu7oGvOi4CoTnSUQqLlrZ",
+            "foundAt": "2026-02-05T18:46:59.819Z"
+          }
+        },
+        {
+          "title": "Electric Fields",
+          "artist": "Barbara HanniganDavid ChalminKatia LabèqueMarielle Labèque",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:38.091Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-25T02:26:08.132Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-08-08",
       "albums": [
