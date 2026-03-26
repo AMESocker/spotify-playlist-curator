@@ -506,6 +506,7 @@
       "name": "Download Festival",
       "year": 2026,
       "artists": [
+        "Story of the Year",
         "Limp Bizkit",
         "Cypress Hill",
         "Electric Callboy",
@@ -520,7 +521,6 @@
         "Paleface Swiss",
         "Silent Planet",
         "Feeder",
-        "Story of the Year",
         "Sleep Theory",
         "Rain City Drive",
         "Drain",
@@ -551,7 +551,6 @@
         "Bush",
         "Set It Off",
         "Those Damn Crows",
-        "We Came as Romans",
         "Drowning Pool",
         "Snot",
         "The All-American Rejects",
@@ -615,7 +614,9 @@
         "Private School",
         "Spitting Glass"
       ],
-      "added": []
+      "added": [
+        "We Came as Romans"
+      ]
     }
   ]
 }
