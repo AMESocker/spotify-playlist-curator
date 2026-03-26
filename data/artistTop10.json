@@ -263,6 +263,18 @@
   "Progressive / Experimental Rock & Metal": {
     "not_added": [
       {
+        "artist": "Karnivool",
+        "listeners": 254541,
+        "spotify_popularity": 55,
+        "spotify_id": "6rX8AFY10dsJkJsv23Z9Um"
+      },
+      {
+        "artist": "Sonic Youth",
+        "listeners": 1338457,
+        "spotify_popularity": 55,
+        "spotify_id": "5UqTO8smerMvxHYA5xsXb6"
+      },
+      {
         "artist": "Warlock",
         "listeners": 235569,
         "spotify_popularity": 39,
@@ -299,12 +311,6 @@
         "spotify_id": "2n2RSaZqBuUUukhbLlpnE6"
       },
       {
-        "artist": "Sonic Youth",
-        "listeners": 1338457,
-        "spotify_popularity": 55,
-        "spotify_id": "5UqTO8smerMvxHYA5xsXb6"
-      },
-      {
         "artist": "King Crimson",
         "listeners": 1352688,
         "spotify_popularity": 55,
@@ -339,12 +345,6 @@
         "listeners": 675331,
         "spotify_popularity": 47,
         "spotify_id": "1uQWmt1OhuHGRKmZ2ZcL6p"
-      },
-      {
-        "artist": "Karnivool",
-        "listeners": 254541,
-        "spotify_popularity": 55,
-        "spotify_id": "6rX8AFY10dsJkJsv23Z9Um"
       },
       {
         "artist": "Steven Wilson",
