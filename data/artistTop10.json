@@ -299,12 +299,6 @@
         "spotify_id": "3z3KnhKZObj216IgfHYGVf"
       },
       {
-        "artist": "Tame Impala",
-        "listeners": 10221291,
-        "spotify_popularity": 84,
-        "spotify_id": "5INjqkS1o8h1imAzPqGZBb"
-      },
-      {
         "artist": "Sleep Token",
         "listeners": 3091533,
         "spotify_popularity": 77,
@@ -525,6 +519,13 @@
         "spotify_id": "7AC976RDJzL2asmZuz7qil",
         "recommended": false,
         "tracksAdded": 10
+      },
+      {
+        "artist": "Tame Impala",
+        "listeners": 10221291,
+        "spotify_id": "5INjqkS1o8h1imAzPqGZBb",
+        "recommended": false,
+        "tracksAdded": 5
       }
     ]
   },

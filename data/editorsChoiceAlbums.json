@@ -1,74 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-07-18",
-      "albums": [
-        {
-          "title": "The Cosmic Selector, Vol. 1",
-          "artist": "Lord Huron",
-          "spotifyTrack": {
-            "id": "0TPS1dKI4m27xCxm7jF7SU",
-            "name": "Nothing I Need",
-            "uri": "spotify:track:0TPS1dKI4m27xCxm7jF7SU",
-            "popularity": 59,
-            "albumName": "The Cosmic Selector Vol. 1",
-            "albumId": "6lpG635tVIMn2WAN2QG9Sp",
-            "foundAt": "2026-02-05T18:47:13.156Z"
-          }
-        },
-        {
-          "title": "Forward",
-          "artist": "Glen HansardMarkéta IrglováThe Swell Season",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:39.363Z"
-          }
-        },
-        {
-          "title": "Desire: The Carl Craig Story",
-          "artist": "Carl Craig",
-          "spotifyTrack": {
-            "id": "2ugBKRsUJ8ooqxAEI4Bx4H",
-            "name": "Azure - Carl Craig C2 Remix",
-            "uri": "spotify:track:2ugBKRsUJ8ooqxAEI4Bx4H",
-            "popularity": 15,
-            "albumName": "Desire: The Carl Craig Story",
-            "albumId": "6RtLpopFitxjRgeqfy0Xn0",
-            "foundAt": "2026-02-05T18:47:15.476Z"
-          }
-        },
-        {
-          "title": "The Longer This Goes On",
-          "artist": "Forth Wanderers",
-          "spotifyTrack": {
-            "id": "6osTRNeb7J1ObM9Msn0cY5",
-            "name": "Bluff",
-            "uri": "spotify:track:6osTRNeb7J1ObM9Msn0cY5",
-            "popularity": 39,
-            "albumName": "The Longer This Goes On",
-            "albumId": "5IWKBOaYZM9sX3kr6SCB27",
-            "foundAt": "2026-02-05T18:47:17.101Z"
-          }
-        },
-        {
-          "title": "Certain Shades of Limelight",
-          "artist": "Swing Out Sister",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:39.988Z"
-          }
-        },
-        {
-          "title": "Madeleine Dring: Complete Works for Oboe",
-          "artist": "Nicholas DanielAmy HarmanAntonio OyarzabalAdam Walker",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:40.566Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-07-11",
       "albums": [
         {
@@ -2507,6 +2439,76 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-07-18",
+      "albums": [
+        {
+          "title": "The Cosmic Selector, Vol. 1",
+          "artist": "Lord Huron",
+          "spotifyTrack": {
+            "id": "0TPS1dKI4m27xCxm7jF7SU",
+            "name": "Nothing I Need",
+            "uri": "spotify:track:0TPS1dKI4m27xCxm7jF7SU",
+            "popularity": 59,
+            "albumName": "The Cosmic Selector Vol. 1",
+            "albumId": "6lpG635tVIMn2WAN2QG9Sp",
+            "foundAt": "2026-02-05T18:47:13.156Z"
+          }
+        },
+        {
+          "title": "Forward",
+          "artist": "Glen HansardMarkéta IrglováThe Swell Season",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:39.363Z"
+          }
+        },
+        {
+          "title": "Desire: The Carl Craig Story",
+          "artist": "Carl Craig",
+          "spotifyTrack": {
+            "id": "2ugBKRsUJ8ooqxAEI4Bx4H",
+            "name": "Azure - Carl Craig C2 Remix",
+            "uri": "spotify:track:2ugBKRsUJ8ooqxAEI4Bx4H",
+            "popularity": 15,
+            "albumName": "Desire: The Carl Craig Story",
+            "albumId": "6RtLpopFitxjRgeqfy0Xn0",
+            "foundAt": "2026-02-05T18:47:15.476Z"
+          }
+        },
+        {
+          "title": "The Longer This Goes On",
+          "artist": "Forth Wanderers",
+          "spotifyTrack": {
+            "id": "6osTRNeb7J1ObM9Msn0cY5",
+            "name": "Bluff",
+            "uri": "spotify:track:6osTRNeb7J1ObM9Msn0cY5",
+            "popularity": 39,
+            "albumName": "The Longer This Goes On",
+            "albumId": "5IWKBOaYZM9sX3kr6SCB27",
+            "foundAt": "2026-02-05T18:47:17.101Z"
+          }
+        },
+        {
+          "title": "Certain Shades of Limelight",
+          "artist": "Swing Out Sister",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:39.988Z"
+          }
+        },
+        {
+          "title": "Madeleine Dring: Complete Works for Oboe",
+          "artist": "Nicholas DanielAmy HarmanAntonio OyarzabalAdam Walker",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:40.566Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-26T23:56:40.214Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-07-25",
       "albums": [
