@@ -257,7 +257,6 @@
       "Artist": "Corrosion of Conformity",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Eye for an Eye",
         "Animosity",
         "Blind (1990)",
         "Deliverance (1994)",
@@ -269,7 +268,9 @@
         "No Cross No Crown (2018)",
         "Good God / Baad Man"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Good God / Baad Man [NOT FOUND]"
+      ]
     },
     {
       "Artist": "Exodus",
@@ -297,7 +298,6 @@
       "Artist": "Machine Head",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Burn My Eyes (1994)",
         "The More Things Change... (1997)",
         "The Burning Red (1999)",
         "Supercharger (2001)",
@@ -309,7 +309,9 @@
         "Of Kingdom and Crown (2022)",
         "Unatoned (2025)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Of Kingdom and Crown (2022)"
+      ]
     },
     {
       "Artist": "Young the Giant",

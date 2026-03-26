@@ -3189,5 +3189,22 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-03-26T15:41:13.016Z"
+  },
+  {
+    "action": "add",
+    "artist": "Machine Head",
+    "album": "Of Kingdom and Crown (2022)",
+    "index": null,
+    "tracksAdded": 13,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-26T18:38:22.574Z"
+  },
+  {
+    "action": "addBillboard",
+    "tracksAdded": 9,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "singleTrack",
+    "timestamp": "2026-03-26T18:38:31.093Z"
   }
 ]
