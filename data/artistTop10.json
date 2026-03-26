@@ -2074,13 +2074,6 @@
         "spotify_id": "2AV6XDIs32ofIJhkkDevjm"
       },
       {
-        "artist": "Sly & the Family Stone",
-        "listeners": 1113102,
-        "recommended": true,
-        "spotify_popularity": 54,
-        "spotify_id": "5m8H6zSadhu1j9Yi04VLqD"
-      },
-      {
         "artist": "Gil Scott-Heron",
         "listeners": 392678,
         "recommended": true,
@@ -2179,6 +2172,13 @@
         "spotify_id": "6XswoC68grx55in1WQnJ7E",
         "recommended": true,
         "tracksAdded": 10
+      },
+      {
+        "artist": "Sly & the Family Stone",
+        "listeners": 1113102,
+        "spotify_id": "5m8H6zSadhu1j9Yi04VLqD",
+        "recommended": true,
+        "tracksAdded": 5
       }
     ]
   }

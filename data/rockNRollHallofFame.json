@@ -54,7 +54,6 @@
     "Bee Gees",
     "Parliament-Funkadelic",
     "The Jackson 5",
-    "Buffalo Springfield",
     "Joni Mitchell",
     "The (Young) Rascals",
     "Pink Floyd",
@@ -129,7 +128,6 @@
     "Jerry Lee Lewis",
     "The Everly Brothers",
     "Little Richard",
-    "Buddy Holly",
     "Fats Domino"
   ],
   "added": [
@@ -231,6 +229,8 @@
     "Ritchie Valens",
     "Patti Smith",
     "The Flamingos",
-    "The Pretenders"
+    "The Pretenders",
+    "Buffalo Springfield",
+    "Buddy Holly"
   ]
 }

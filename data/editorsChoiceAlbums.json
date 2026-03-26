@@ -1,97 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-07-25",
-      "albums": [
-        {
-          "title": "The Revenge of Alice Cooper",
-          "artist": "Alice Cooper",
-          "spotifyTrack": {
-            "id": "11D9VatIWVMUt5rsnMxPnr",
-            "name": "Wild Ones",
-            "uri": "spotify:track:11D9VatIWVMUt5rsnMxPnr",
-            "popularity": 24,
-            "albumName": "The Revenge of Alice Cooper",
-            "albumId": "1UZ19qQUfDVRm9Odj7Yvjg",
-            "foundAt": "2026-02-05T18:47:02.084Z"
-          }
-        },
-        {
-          "title": "The Year of the Radical Romantics",
-          "artist": "Fever Ray",
-          "spotifyTrack": {
-            "id": "4zom2FE4blvWHUboKPmN6G",
-            "name": "I'm Not Done - Therapy Session",
-            "uri": "spotify:track:4zom2FE4blvWHUboKPmN6G",
-            "popularity": 20,
-            "albumName": "The Year of The Radical Romantics",
-            "albumId": "2xtssnWpxj0BsytyyrX2jE",
-            "foundAt": "2026-02-05T18:47:03.648Z"
-          }
-        },
-        {
-          "title": "Double Life",
-          "artist": "Night Moves",
-          "spotifyTrack": {
-            "id": "4O0PeP51kTgkrHAvUJu4wZ",
-            "name": "Trying To Steal A Smile",
-            "uri": "spotify:track:4O0PeP51kTgkrHAvUJu4wZ",
-            "popularity": 39,
-            "albumName": "Double Life",
-            "albumId": "7o0wr8KDp8DRX7scKNB04Z",
-            "foundAt": "2026-02-05T18:47:05.323Z"
-          }
-        },
-        {
-          "title": "Now Would Be a Good Time",
-          "artist": "Folk Bitch Trio",
-          "spotifyTrack": {
-            "id": "6HnF46ePB8hypcS0q1x9Tn",
-            "name": "God's A Different Sword",
-            "uri": "spotify:track:6HnF46ePB8hypcS0q1x9Tn",
-            "popularity": 56,
-            "albumName": "Now Would Be A Good Time",
-            "albumId": "6SSsPPOxMvAiDA6B8AWH3y",
-            "foundAt": "2026-02-05T18:47:07.280Z"
-          }
-        },
-        {
-          "title": "Crushed",
-          "artist": "Highspire",
-          "spotifyTrack": {
-            "id": "4e02SNsV38ujIywr5trYDJ",
-            "name": "Crushed",
-            "uri": "spotify:track:4e02SNsV38ujIywr5trYDJ",
-            "popularity": 4,
-            "albumName": "Crushed",
-            "albumId": "2UsVUZ5od3bgfVKVNQXgM2",
-            "foundAt": "2026-02-05T18:47:08.805Z"
-          }
-        },
-        {
-          "title": "Live at the Montreal International Jazz Festival",
-          "artist": "Dominique Fils-Aimé",
-          "spotifyTrack": {
-            "id": "1V39Rzh7hm0eqT3g7BR5QE",
-            "name": "Introduction - Live",
-            "uri": "spotify:track:1V39Rzh7hm0eqT3g7BR5QE",
-            "popularity": 20,
-            "albumName": "Live At The Montreal International Jazz Festival",
-            "albumId": "5kJaHkoqAOL6Phw7lFpc6p",
-            "foundAt": "2026-02-05T18:47:10.445Z"
-          }
-        },
-        {
-          "title": "The Lost Tapes: Beethoven – Sonatas Nos. 18, 27, 28 & 31",
-          "artist": "Sviatoslav Richter",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-21T10:18:38.769Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-07-18",
       "albums": [
         {
@@ -2598,6 +2507,99 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-07-25",
+      "albums": [
+        {
+          "title": "The Revenge of Alice Cooper",
+          "artist": "Alice Cooper",
+          "spotifyTrack": {
+            "id": "11D9VatIWVMUt5rsnMxPnr",
+            "name": "Wild Ones",
+            "uri": "spotify:track:11D9VatIWVMUt5rsnMxPnr",
+            "popularity": 24,
+            "albumName": "The Revenge of Alice Cooper",
+            "albumId": "1UZ19qQUfDVRm9Odj7Yvjg",
+            "foundAt": "2026-02-05T18:47:02.084Z"
+          }
+        },
+        {
+          "title": "The Year of the Radical Romantics",
+          "artist": "Fever Ray",
+          "spotifyTrack": {
+            "id": "4zom2FE4blvWHUboKPmN6G",
+            "name": "I'm Not Done - Therapy Session",
+            "uri": "spotify:track:4zom2FE4blvWHUboKPmN6G",
+            "popularity": 20,
+            "albumName": "The Year of The Radical Romantics",
+            "albumId": "2xtssnWpxj0BsytyyrX2jE",
+            "foundAt": "2026-02-05T18:47:03.648Z"
+          }
+        },
+        {
+          "title": "Double Life",
+          "artist": "Night Moves",
+          "spotifyTrack": {
+            "id": "4O0PeP51kTgkrHAvUJu4wZ",
+            "name": "Trying To Steal A Smile",
+            "uri": "spotify:track:4O0PeP51kTgkrHAvUJu4wZ",
+            "popularity": 39,
+            "albumName": "Double Life",
+            "albumId": "7o0wr8KDp8DRX7scKNB04Z",
+            "foundAt": "2026-02-05T18:47:05.323Z"
+          }
+        },
+        {
+          "title": "Now Would Be a Good Time",
+          "artist": "Folk Bitch Trio",
+          "spotifyTrack": {
+            "id": "6HnF46ePB8hypcS0q1x9Tn",
+            "name": "God's A Different Sword",
+            "uri": "spotify:track:6HnF46ePB8hypcS0q1x9Tn",
+            "popularity": 56,
+            "albumName": "Now Would Be A Good Time",
+            "albumId": "6SSsPPOxMvAiDA6B8AWH3y",
+            "foundAt": "2026-02-05T18:47:07.280Z"
+          }
+        },
+        {
+          "title": "Crushed",
+          "artist": "Highspire",
+          "spotifyTrack": {
+            "id": "4e02SNsV38ujIywr5trYDJ",
+            "name": "Crushed",
+            "uri": "spotify:track:4e02SNsV38ujIywr5trYDJ",
+            "popularity": 4,
+            "albumName": "Crushed",
+            "albumId": "2UsVUZ5od3bgfVKVNQXgM2",
+            "foundAt": "2026-02-05T18:47:08.805Z"
+          }
+        },
+        {
+          "title": "Live at the Montreal International Jazz Festival",
+          "artist": "Dominique Fils-Aimé",
+          "spotifyTrack": {
+            "id": "1V39Rzh7hm0eqT3g7BR5QE",
+            "name": "Introduction - Live",
+            "uri": "spotify:track:1V39Rzh7hm0eqT3g7BR5QE",
+            "popularity": 20,
+            "albumName": "Live At The Montreal International Jazz Festival",
+            "albumId": "5kJaHkoqAOL6Phw7lFpc6p",
+            "foundAt": "2026-02-05T18:47:10.445Z"
+          }
+        },
+        {
+          "title": "The Lost Tapes: Beethoven – Sonatas Nos. 18, 27, 28 & 31",
+          "artist": "Sviatoslav Richter",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-21T10:18:38.769Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-26T02:32:23.777Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-08-01",
       "albums": [
