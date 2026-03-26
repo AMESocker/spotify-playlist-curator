@@ -97,7 +97,7 @@ export async function runArtistBatch({
   onResult,
 }) {
   // Pre-flight: ensure room for at least one full artist before we start
-  if (await wouldExceedLimit(tracksPerArtist)) return false;
+  if (await wouldExceedLimit(10)) return false;
 
   let anyAdded = false;
   let firstPick = true;
