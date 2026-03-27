@@ -277,6 +277,8 @@ async function handleRockHall(source, data) {
     return null;
   }
 
+  if (await wouldExceedLimit(10)) return false;
+
   // Build a working copy so we can requeue on REQUEUE signal
   let pendingRequeue = null;
 
