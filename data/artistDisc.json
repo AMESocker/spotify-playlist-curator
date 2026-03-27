@@ -2070,13 +2070,14 @@
       "Artist": "Pantera",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Cowboys from Hell (1990)",
         "Vulgar Display of Power (1992)",
         "Far Beyond Driven (1994)",
         "The Great Southern Trendkill (1996)",
         "Reinventing the Steel (2000)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "The Great Southern Trendkill (1996)"
+      ]
     },
     {
       "Artist": "Slayer",
