@@ -2101,9 +2101,8 @@
     },
     {
       "Artist": "Rush",
-      "Group":"⚪ Classic Rock",
+      "Group": "⚪ Classic Rock",
       "Albums": [
-        "Rush (1974)",
         "Fly by Night (1975)",
         "Caress of Steel (1975)",
         "2112 (1976)",
@@ -2123,7 +2122,9 @@
         "Snakes & Arrows (2007)",
         "Clockwork Angels (2012)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Rush (1974)"
+      ]
     }
   ],
   "archived": [

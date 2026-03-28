@@ -513,7 +513,6 @@
         "Pendulum",
         "Hollywood Undead",
         "P.O.D.",
-        "Scene Queen",
         "Halestorm",
         "Daughtry",
         "Periphery",
@@ -583,7 +582,6 @@
         "A Day to Remember",
         "Mastodon",
         "Tom Morello",
-        "Social Distortion",
         "The Plot in You",
         "Thrown",
         "Dogstar",
@@ -615,7 +613,9 @@
       "added": [
         "We Came as Romans",
         "Die Spitz",
-        "Thornhill"
+        "Thornhill",
+        "Social Distortion",
+        "Scene Queen"
       ]
     }
   ]
