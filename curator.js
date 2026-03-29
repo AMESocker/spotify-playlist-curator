@@ -55,6 +55,12 @@ const dataSources = [
     originalPosition: 5,
   },
   {
+    name: "smoothJazz",
+    file: "data/smoothJazz.json",
+    strategy: "smoothJazz",
+    originalPosition: 8,
+  },
+  {
     name: "artistGenre",
     file: "data/artistTop10.json",
     strategy: "artistGenre",
@@ -491,16 +497,26 @@ async function handleSingleTrack(source, data) {
 
     const randomIndex = Math.floor(Math.random() * data.master.length);
     const entry = data.master[randomIndex];
-    const dashIndex = entry.indexOf(' - ');
-    if (dashIndex === -1) {
-      data.master.splice(randomIndex, 1);
-      data.added.push(`${entry} [INVALID FORMAT]`);
-      continue;
+
+    // Support both object format { song, artist, year } and legacy string "Artist - Title"
+    let artist, title, year, entryKey;
+    if (typeof entry === 'object') {
+      artist = entry.artist;
+      title = entry.song;
+      year = entry.year ?? '';
+      entryKey = `${artist} - ${title}`;
+    } else {
+      const dashIndex = entry.indexOf(' - ');
+      if (dashIndex === -1) {
+        data.master.splice(randomIndex, 1);
+        data.added.push(`${entry} [INVALID FORMAT]`);
+        continue;
+      }
+      artist = entry.substring(0, dashIndex).trim();
+      title = entry.substring(dashIndex + 3).trim();
+      entryKey = entry;
     }
-
-    const artist = entry.substring(0, dashIndex).trim();
-    const title  = entry.substring(dashIndex + 3).trim();
-
+    // ------------------------------
     console.log(`🎵 Searching: "${title}" by ${artist}`);
 
     try {
@@ -653,6 +669,7 @@ export async function addNextAlbum() {
   else if (source.strategy === "artistGenre") result = await handleArtistGenre(source, wouldExceedLimit, pushHistory, saveData);
   else if (source.strategy === "spotifyPlaylist") result = await handleSpotifyPlaylist(source, data);
   else if (source.strategy === "singleTrack") result = await handleSingleTrack(source, data);
+  else if (source.strategy === "smoothJazz") result = await handleSingleTrack(source, data);
   else result = await handleAlbum(source, data);
 
   // null means "this source is exhausted, skip it"
