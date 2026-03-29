@@ -3398,5 +3398,21 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-03-29T02:36:23.976Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Clash",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-29T10:38:25.030Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Pink Floyd",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-03-29T10:38:27.015Z"
   }
 ]

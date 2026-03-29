@@ -19,7 +19,6 @@
     "Traffic",
     "The Dells",
     "The Police",
-    "The Clash",
     "The Righteous Brothers",
     "Elvis Costello & the Attractions",
     "Talking Heads",
@@ -56,7 +55,6 @@
     "The Jackson 5",
     "Joni Mitchell",
     "The (Young) Rascals",
-    "Pink Floyd",
     "David Bowie",
     "The Velvet Underground",
     "Gladys Knight & the Pips",
@@ -231,6 +229,8 @@
     "Etta James",
     "The Temptations",
     "Janis Joplin",
-    "The Byrds"
+    "The Byrds",
+    "The Clash",
+    "Pink Floyd"
   ]
 }
