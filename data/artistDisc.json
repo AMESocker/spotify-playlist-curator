@@ -2103,7 +2103,6 @@
       "Artist": "Rush",
       "Group": "⚪ Classic Rock",
       "Albums": [
-        "Fly by Night (1975)",
         "Caress of Steel (1975)",
         "2112 (1976)",
         "A Farewell to Kings (1977)",
@@ -2123,7 +2122,8 @@
         "Clockwork Angels (2012)"
       ],
       "AddedAlbums": [
-        "Rush (1974)"
+        "Rush (1974)",
+        "Clockwork Angels (2012)"
       ]
     }
   ],

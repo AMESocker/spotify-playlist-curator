@@ -31,7 +31,6 @@
     "Paul Simon",
     "Steely Dan",
     "Ritchie Valens",
-    "Solomon Burke",
     "The Flamingos",
     "Earth, Wind & Fire",
     "Eric Clapton",
@@ -87,7 +86,6 @@
     "Wilson Pickett",
     "John Lee Hooker",
     "Ike & Tina Turner",
-    "The Impressions",
     "Jimmy Reed",
     "LaVern Baker",
     "Simon & Garfunkel",
@@ -231,6 +229,8 @@
     "Janis Joplin",
     "The Byrds",
     "The Clash",
-    "Pink Floyd"
+    "Pink Floyd",
+    "Solomon Burke",
+    "The Impressions"
   ]
 }

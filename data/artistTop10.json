@@ -1802,13 +1802,6 @@
         "spotify_id": "7gqsi6aBSkRMJoL9psKqMr"
       },
       {
-        "artist": "Neutral Milk Hotel",
-        "listeners": 814554,
-        "recommended": true,
-        "spotify_popularity": 55,
-        "spotify_id": "2ooIqOf4X2uz4mMptXCtie"
-      },
-      {
         "artist": "Devendra Banhart",
         "listeners": 643737,
         "recommended": true,
@@ -1907,6 +1900,13 @@
         "spotify_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
         "recommended": false,
         "tracksAdded": 10
+      },
+      {
+        "artist": "Neutral Milk Hotel",
+        "listeners": 814554,
+        "spotify_id": "2ooIqOf4X2uz4mMptXCtie",
+        "recommended": true,
+        "tracksAdded": 5
       }
     ]
   },
