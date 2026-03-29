@@ -1,92 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-07-11",
-      "albums": [
-        {
-          "title": "moisturizer",
-          "artist": "Wet Leg",
-          "spotifyTrack": {
-            "id": "5UW4tA4j23YL6kDfRw3rWT",
-            "name": "mangetout",
-            "uri": "spotify:track:5UW4tA4j23YL6kDfRw3rWT",
-            "popularity": 78,
-            "albumName": "moisturizer",
-            "albumId": "3YVnHpyms4rLr3fXS0ROQy",
-            "foundAt": "2026-02-05T18:47:20.379Z"
-          }
-        },
-        {
-          "title": "Loner",
-          "artist": "Barry Can't Swim",
-          "spotifyTrack": {
-            "id": "3efypTRurdVvf2kCuUWr2Q",
-            "name": "Childhood",
-            "uri": "spotify:track:3efypTRurdVvf2kCuUWr2Q",
-            "popularity": 62,
-            "albumName": "Loner",
-            "albumId": "6aE10Kz82jIDkcOM2hRhR5",
-            "foundAt": "2026-02-05T18:47:22.017Z"
-          }
-        },
-        {
-          "title": "Make It Easy on Yourself: The Scepter Recordings 1962-1971",
-          "artist": "Dionne Warwick",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-28T10:24:25.160Z"
-          }
-        },
-        {
-          "title": "Dom Salvador JID024",
-          "artist": "Ali Shaheed MuhammadDom SalvadorAdrian Younge",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-28T10:24:25.828Z"
-          }
-        },
-        {
-          "title": "Bright Nights",
-          "artist": "Allo Darlin'",
-          "spotifyTrack": {
-            "id": "4fI6OM8MqVmuFhrhHH46r1",
-            "name": "Northern Waters",
-            "uri": "spotify:track:4fI6OM8MqVmuFhrhHH46r1",
-            "popularity": 13,
-            "albumName": "Bright Nights",
-            "albumId": "1DMul8xYtwYNedwrQQOglU",
-            "foundAt": "2026-02-05T18:47:24.944Z"
-          }
-        },
-        {
-          "title": "Around Sound",
-          "artist": "Mike Polizze",
-          "spotifyTrack": {
-            "id": "6pQb3HMskL8iNkd7oie0vJ",
-            "name": "Everybody I Know",
-            "uri": "spotify:track:6pQb3HMskL8iNkd7oie0vJ",
-            "popularity": 10,
-            "albumName": "Around Sound",
-            "albumId": "2uI9BSQIZAAys7FxEp0IOu",
-            "foundAt": "2026-02-05T18:47:26.625Z"
-          }
-        },
-        {
-          "title": "Affirmations: Live at Blue Note New York",
-          "artist": "Theon Cross",
-          "spotifyTrack": {
-            "id": "2ePKwwvvvJfO5FCE6IBJ0F",
-            "name": "We Go Again - Live At Blue Note New York",
-            "uri": "spotify:track:2ePKwwvvvJfO5FCE6IBJ0F",
-            "popularity": 16,
-            "albumName": "Affirmations (Live At Blue Note New York)",
-            "albumId": "3AIswqp7h2S2X0bdXuG9CD",
-            "foundAt": "2026-02-05T18:47:28.241Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-07-04",
       "albums": [
         {
@@ -2439,6 +2353,94 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-07-11",
+      "albums": [
+        {
+          "title": "moisturizer",
+          "artist": "Wet Leg",
+          "spotifyTrack": {
+            "id": "5UW4tA4j23YL6kDfRw3rWT",
+            "name": "mangetout",
+            "uri": "spotify:track:5UW4tA4j23YL6kDfRw3rWT",
+            "popularity": 78,
+            "albumName": "moisturizer",
+            "albumId": "3YVnHpyms4rLr3fXS0ROQy",
+            "foundAt": "2026-02-05T18:47:20.379Z"
+          }
+        },
+        {
+          "title": "Loner",
+          "artist": "Barry Can't Swim",
+          "spotifyTrack": {
+            "id": "3efypTRurdVvf2kCuUWr2Q",
+            "name": "Childhood",
+            "uri": "spotify:track:3efypTRurdVvf2kCuUWr2Q",
+            "popularity": 62,
+            "albumName": "Loner",
+            "albumId": "6aE10Kz82jIDkcOM2hRhR5",
+            "foundAt": "2026-02-05T18:47:22.017Z"
+          }
+        },
+        {
+          "title": "Make It Easy on Yourself: The Scepter Recordings 1962-1971",
+          "artist": "Dionne Warwick",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-28T10:24:25.160Z"
+          }
+        },
+        {
+          "title": "Dom Salvador JID024",
+          "artist": "Ali Shaheed MuhammadDom SalvadorAdrian Younge",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-28T10:24:25.828Z"
+          }
+        },
+        {
+          "title": "Bright Nights",
+          "artist": "Allo Darlin'",
+          "spotifyTrack": {
+            "id": "4fI6OM8MqVmuFhrhHH46r1",
+            "name": "Northern Waters",
+            "uri": "spotify:track:4fI6OM8MqVmuFhrhHH46r1",
+            "popularity": 13,
+            "albumName": "Bright Nights",
+            "albumId": "1DMul8xYtwYNedwrQQOglU",
+            "foundAt": "2026-02-05T18:47:24.944Z"
+          }
+        },
+        {
+          "title": "Around Sound",
+          "artist": "Mike Polizze",
+          "spotifyTrack": {
+            "id": "6pQb3HMskL8iNkd7oie0vJ",
+            "name": "Everybody I Know",
+            "uri": "spotify:track:6pQb3HMskL8iNkd7oie0vJ",
+            "popularity": 10,
+            "albumName": "Around Sound",
+            "albumId": "2uI9BSQIZAAys7FxEp0IOu",
+            "foundAt": "2026-02-05T18:47:26.625Z"
+          }
+        },
+        {
+          "title": "Affirmations: Live at Blue Note New York",
+          "artist": "Theon Cross",
+          "spotifyTrack": {
+            "id": "2ePKwwvvvJfO5FCE6IBJ0F",
+            "name": "We Go Again - Live At Blue Note New York",
+            "uri": "spotify:track:2ePKwwvvvJfO5FCE6IBJ0F",
+            "popularity": 16,
+            "albumName": "Affirmations (Live At Blue Note New York)",
+            "albumId": "3AIswqp7h2S2X0bdXuG9CD",
+            "foundAt": "2026-02-05T18:47:28.241Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-29T20:59:49.850Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2026-03-27",
       "albums": [
