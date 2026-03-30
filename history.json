@@ -3567,5 +3567,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-03-30T17:53:23.305Z"
+  },
+  {
+    "action": "add",
+    "artist": "Disturbed",
+    "album": "Believe (2002)",
+    "index": null,
+    "tracksAdded": 12,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-03-30T19:04:37.474Z"
   }
 ]

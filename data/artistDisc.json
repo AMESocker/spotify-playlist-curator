@@ -2139,8 +2139,7 @@
         "We Are Not Your Kind (2019)",
         "The End, So Far (2022)"
       ],
-      "AddedAlbums": [
-      ]
+      "AddedAlbums": []
     },
     {
       "Artist": "Stone Sour",
@@ -2156,10 +2155,9 @@
       "AddedAlbums": []
     },
     {
-      "Artist":"Disturbed",
+      "Artist": "Disturbed",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "The Sickness (2000)",
         "Believe (2002)",
         "Ten Thousand Fists (2005)",
         "Indestructible (2008)",
@@ -2168,7 +2166,9 @@
         "Evolution (2018)",
         "Divisive (2022)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Believe (2002)"
+      ]
     },
     {
       "Artist": "Breaking Benjamin",
