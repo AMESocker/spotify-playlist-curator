@@ -1913,6 +1913,25 @@
   "Jazz / Blues / Soul / Funk": {
     "not_added": [
       {
+        "artist": "Duke Ellington",
+        "listeners": 985519,
+        "recommended": true,
+        "spotify_popularity": 58,
+        "spotify_id": "4F7Q5NV6h5TSwCainz8S5A"
+      },
+      {
+        "artist": "John Lee Hooker",
+        "listeners": 932096,
+        "spotify_popularity": 53,
+        "spotify_id": "1yNOfXGQNGjAynk77wv85x"
+      },
+      {
+        "artist": "Brian Eno",
+        "listeners": 852011,
+        "spotify_popularity": 60,
+        "spotify_id": "7MSUfLeTdDEoZiJPDSBXgi"
+      },
+      {
         "artist": "Glenn Miller",
         "listeners": 589427,
         "spotify_popularity": 55,
@@ -1961,18 +1980,6 @@
         "spotify_id": "5xLSa7l4IV1gsQfhAMvl0U"
       },
       {
-        "artist": "Brian Eno",
-        "listeners": 852011,
-        "spotify_popularity": 60,
-        "spotify_id": "7MSUfLeTdDEoZiJPDSBXgi"
-      },
-      {
-        "artist": "John Lee Hooker",
-        "listeners": 932096,
-        "spotify_popularity": 53,
-        "spotify_id": "1yNOfXGQNGjAynk77wv85x"
-      },
-      {
         "artist": "Muddy Waters",
         "listeners": 1367330,
         "spotify_popularity": 52,
@@ -2010,13 +2017,6 @@
         "recommended": true,
         "spotify_popularity": 51,
         "spotify_id": "4PDpGtF16XpqvXxsrFwQnN"
-      },
-      {
-        "artist": "Duke Ellington",
-        "listeners": 985519,
-        "recommended": true,
-        "spotify_popularity": 58,
-        "spotify_id": "4F7Q5NV6h5TSwCainz8S5A"
       },
       {
         "artist": "Louis Armstrong",
