@@ -1,110 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-06-27",
-      "albums": [
-        {
-          "title": "Tracks II: The Lost Albums",
-          "artist": "Bruce Springsteen",
-          "spotifyTrack": {
-            "id": "05bNV0j3tWX008cxkJA8YT",
-            "name": "Follow That Dream",
-            "uri": "spotify:track:05bNV0j3tWX008cxkJA8YT",
-            "popularity": 36,
-            "albumName": "Tracks II: The Lost Albums",
-            "albumId": "4MWHAwGK4x0tMyghx1sB37",
-            "foundAt": "2026-02-05T18:47:33.384Z"
-          }
-        },
-        {
-          "title": "Virgin",
-          "artist": "Lorde",
-          "spotifyTrack": {
-            "id": "6ghDayhHeBXAP4OOnnrFW9",
-            "name": "David",
-            "uri": "spotify:track:6ghDayhHeBXAP4OOnnrFW9",
-            "popularity": 75,
-            "albumName": "Virgin",
-            "albumId": "28bHj2enHkHVFLwuWmkwlQ",
-            "foundAt": "2026-02-05T18:47:35.124Z"
-          }
-        },
-        {
-          "title": "Boleros Psicodélicos II",
-          "artist": "Adrian Quesada",
-          "spotifyTrack": {
-            "id": "0wmTtuuIIj3acWY4IwY8KR",
-            "name": "Primos (with Hermanos Gutiérrez)",
-            "uri": "spotify:track:0wmTtuuIIj3acWY4IwY8KR",
-            "popularity": 41,
-            "albumName": "Boleros Psicodélicos II",
-            "albumId": "6BVuy3MrwlGHN4z1kimJ6c",
-            "foundAt": "2026-02-05T18:47:36.656Z"
-          }
-        },
-        {
-          "title": "Flowers",
-          "artist": "Durand Jones & the Indications",
-          "spotifyTrack": {
-            "id": "16fiL1QD7x9FeoGu8ktxrz",
-            "name": "Flower Moon",
-            "uri": "spotify:track:16fiL1QD7x9FeoGu8ktxrz",
-            "popularity": 68,
-            "albumName": "Flowers",
-            "albumId": "7zyILGPU1W58PNTgEgRNvO",
-            "foundAt": "2026-02-05T18:47:38.398Z"
-          }
-        },
-        {
-          "title": "The Surrounding Green",
-          "artist": "Joey BaronDrew GressFred Hersch",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-28T10:24:26.461Z"
-          }
-        },
-        {
-          "title": "How Long Can It Last",
-          "artist": "Jeanines",
-          "spotifyTrack": {
-            "id": "5ISLzpotOGtUdESx6UXUz7",
-            "name": "To Fail",
-            "uri": "spotify:track:5ISLzpotOGtUdESx6UXUz7",
-            "popularity": 13,
-            "albumName": "How Long Can It Last",
-            "albumId": "0anrs2vlGqCSTheDV7Irgi",
-            "foundAt": "2026-02-05T18:47:40.858Z"
-          }
-        },
-        {
-          "title": "This Material Moment",
-          "artist": "Me Lost Me",
-          "spotifyTrack": {
-            "id": "060QiKrDPx5x6TrgRToGG4",
-            "name": "Compromise!",
-            "uri": "spotify:track:060QiKrDPx5x6TrgRToGG4",
-            "popularity": 4,
-            "albumName": "This Material Moment",
-            "albumId": "4uwkuZ2E6kypgmaAtS9Zu7",
-            "foundAt": "2026-02-05T18:47:42.598Z"
-          }
-        },
-        {
-          "title": "Late Great",
-          "artist": "Laura Stevenson",
-          "spotifyTrack": {
-            "id": "37I7tE6VD7RfJO2WVYoWHd",
-            "name": "Honey",
-            "uri": "spotify:track:37I7tE6VD7RfJO2WVYoWHd",
-            "popularity": 23,
-            "albumName": "Late Great",
-            "albumId": "637RjNPlB66TysQ9cn577L",
-            "foundAt": "2026-02-05T18:47:44.184Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-06-20",
       "albums": [
         {
@@ -2322,6 +2218,112 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-06-27",
+      "albums": [
+        {
+          "title": "Tracks II: The Lost Albums",
+          "artist": "Bruce Springsteen",
+          "spotifyTrack": {
+            "id": "05bNV0j3tWX008cxkJA8YT",
+            "name": "Follow That Dream",
+            "uri": "spotify:track:05bNV0j3tWX008cxkJA8YT",
+            "popularity": 36,
+            "albumName": "Tracks II: The Lost Albums",
+            "albumId": "4MWHAwGK4x0tMyghx1sB37",
+            "foundAt": "2026-02-05T18:47:33.384Z"
+          }
+        },
+        {
+          "title": "Virgin",
+          "artist": "Lorde",
+          "spotifyTrack": {
+            "id": "6ghDayhHeBXAP4OOnnrFW9",
+            "name": "David",
+            "uri": "spotify:track:6ghDayhHeBXAP4OOnnrFW9",
+            "popularity": 75,
+            "albumName": "Virgin",
+            "albumId": "28bHj2enHkHVFLwuWmkwlQ",
+            "foundAt": "2026-02-05T18:47:35.124Z"
+          }
+        },
+        {
+          "title": "Boleros Psicodélicos II",
+          "artist": "Adrian Quesada",
+          "spotifyTrack": {
+            "id": "0wmTtuuIIj3acWY4IwY8KR",
+            "name": "Primos (with Hermanos Gutiérrez)",
+            "uri": "spotify:track:0wmTtuuIIj3acWY4IwY8KR",
+            "popularity": 41,
+            "albumName": "Boleros Psicodélicos II",
+            "albumId": "6BVuy3MrwlGHN4z1kimJ6c",
+            "foundAt": "2026-02-05T18:47:36.656Z"
+          }
+        },
+        {
+          "title": "Flowers",
+          "artist": "Durand Jones & the Indications",
+          "spotifyTrack": {
+            "id": "16fiL1QD7x9FeoGu8ktxrz",
+            "name": "Flower Moon",
+            "uri": "spotify:track:16fiL1QD7x9FeoGu8ktxrz",
+            "popularity": 68,
+            "albumName": "Flowers",
+            "albumId": "7zyILGPU1W58PNTgEgRNvO",
+            "foundAt": "2026-02-05T18:47:38.398Z"
+          }
+        },
+        {
+          "title": "The Surrounding Green",
+          "artist": "Joey BaronDrew GressFred Hersch",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-28T10:24:26.461Z"
+          }
+        },
+        {
+          "title": "How Long Can It Last",
+          "artist": "Jeanines",
+          "spotifyTrack": {
+            "id": "5ISLzpotOGtUdESx6UXUz7",
+            "name": "To Fail",
+            "uri": "spotify:track:5ISLzpotOGtUdESx6UXUz7",
+            "popularity": 13,
+            "albumName": "How Long Can It Last",
+            "albumId": "0anrs2vlGqCSTheDV7Irgi",
+            "foundAt": "2026-02-05T18:47:40.858Z"
+          }
+        },
+        {
+          "title": "This Material Moment",
+          "artist": "Me Lost Me",
+          "spotifyTrack": {
+            "id": "060QiKrDPx5x6TrgRToGG4",
+            "name": "Compromise!",
+            "uri": "spotify:track:060QiKrDPx5x6TrgRToGG4",
+            "popularity": 4,
+            "albumName": "This Material Moment",
+            "albumId": "4uwkuZ2E6kypgmaAtS9Zu7",
+            "foundAt": "2026-02-05T18:47:42.598Z"
+          }
+        },
+        {
+          "title": "Late Great",
+          "artist": "Laura Stevenson",
+          "spotifyTrack": {
+            "id": "37I7tE6VD7RfJO2WVYoWHd",
+            "name": "Honey",
+            "uri": "spotify:track:37I7tE6VD7RfJO2WVYoWHd",
+            "popularity": 23,
+            "albumName": "Late Great",
+            "albumId": "637RjNPlB66TysQ9cn577L",
+            "foundAt": "2026-02-05T18:47:44.184Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-03-31T19:01:34.113Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-07-04",
       "albums": [

@@ -269,13 +269,6 @@
         "spotify_id": "2n2RSaZqBuUUukhbLlpnE6"
       },
       {
-        "artist": "Rush",
-        "listeners": 2613442,
-        "recommended": true,
-        "spotify_popularity": 64,
-        "spotify_id": "2Hkut4rAAyrQxRdof7FVJq"
-      },
-      {
         "artist": "Explosions in the Sky",
         "listeners": 675331,
         "spotify_popularity": 47,
@@ -329,12 +322,6 @@
         "listeners": 205921,
         "spotify_popularity": 37,
         "spotify_id": "3z3KnhKZObj216IgfHYGVf"
-      },
-      {
-        "artist": "King Crimson",
-        "listeners": 1352688,
-        "spotify_popularity": 55,
-        "spotify_id": "7M1FPw29m5FbicYzS2xdpi"
       },
       {
         "artist": "Puscifer",
@@ -524,6 +511,20 @@
         "artist": "Tame Impala",
         "listeners": 10221291,
         "spotify_id": "5INjqkS1o8h1imAzPqGZBb",
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Rush",
+        "listeners": 2613442,
+        "spotify_id": "2Hkut4rAAyrQxRdof7FVJq",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "King Crimson",
+        "listeners": 1352688,
+        "spotify_id": "7M1FPw29m5FbicYzS2xdpi",
         "recommended": false,
         "tracksAdded": 5
       }

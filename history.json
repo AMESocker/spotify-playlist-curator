@@ -3628,5 +3628,34 @@
     "sourceFile": "data/smoothJazz.json",
     "strategy": "smoothJazz",
     "timestamp": "2026-03-31T16:36:05.148Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Progressive / Experimental Rock & Metal",
+    "artist": "Rush",
+    "listeners": 2613442,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-31T19:01:30.377Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Progressive / Experimental Rock & Metal",
+    "artist": "King Crimson",
+    "listeners": 1352688,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-03-31T19:01:30.784Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-06-27",
+    "tracksAdded": 7,
+    "tracksSkipped": 1,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-03-31T19:01:34.115Z"
   }
 ]
