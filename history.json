@@ -3657,5 +3657,23 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-03-31T19:01:34.115Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "MESTIZA",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-03-31T19:04:47.988Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Suicidal Tendencies",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-03-31T19:04:49.643Z"
   }
 ]
