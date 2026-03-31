@@ -263,6 +263,44 @@
   "Progressive / Experimental Rock & Metal": {
     "not_added": [
       {
+        "artist": "Sleep Token",
+        "listeners": 3091533,
+        "spotify_popularity": 77,
+        "spotify_id": "2n2RSaZqBuUUukhbLlpnE6"
+      },
+      {
+        "artist": "Rush",
+        "listeners": 2613442,
+        "recommended": true,
+        "spotify_popularity": 64,
+        "spotify_id": "2Hkut4rAAyrQxRdof7FVJq"
+      },
+      {
+        "artist": "Explosions in the Sky",
+        "listeners": 675331,
+        "spotify_popularity": 47,
+        "spotify_id": "1uQWmt1OhuHGRKmZ2ZcL6p"
+      },
+      {
+        "artist": "Mogwai",
+        "listeners": 632818,
+        "spotify_popularity": 48,
+        "spotify_id": "34UhPkLbtFKRq3nmfFgejG"
+      },
+      {
+        "artist": "Swans",
+        "listeners": 359060,
+        "spotify_popularity": 45,
+        "spotify_id": "79S80ZWgVhIPMCHuvl6SkA"
+      },
+      {
+        "artist": "Pink Floyd",
+        "listeners": 23331273,
+        "recommended": true,
+        "spotify_popularity": 80,
+        "spotify_id": "0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      {
         "artist": "Karnivool",
         "listeners": 254541,
         "spotify_popularity": 55,
@@ -281,12 +319,6 @@
         "spotify_id": "5XDeFQDarnwpR5WAfD6S0d"
       },
       {
-        "artist": "Swans",
-        "listeners": 359060,
-        "spotify_popularity": 45,
-        "spotify_id": "79S80ZWgVhIPMCHuvl6SkA"
-      },
-      {
         "artist": "Mastodon",
         "listeners": 1062768,
         "spotify_popularity": 56,
@@ -297,12 +329,6 @@
         "listeners": 205921,
         "spotify_popularity": 37,
         "spotify_id": "3z3KnhKZObj216IgfHYGVf"
-      },
-      {
-        "artist": "Sleep Token",
-        "listeners": 3091533,
-        "spotify_popularity": 77,
-        "spotify_id": "2n2RSaZqBuUUukhbLlpnE6"
       },
       {
         "artist": "King Crimson",
@@ -329,18 +355,6 @@
         "spotify_id": "1wGIhYkKWSq4yACtTkCkSX"
       },
       {
-        "artist": "Mogwai",
-        "listeners": 632818,
-        "spotify_popularity": 48,
-        "spotify_id": "34UhPkLbtFKRq3nmfFgejG"
-      },
-      {
-        "artist": "Explosions in the Sky",
-        "listeners": 675331,
-        "spotify_popularity": 47,
-        "spotify_id": "1uQWmt1OhuHGRKmZ2ZcL6p"
-      },
-      {
         "artist": "Steven Wilson",
         "listeners": 503199,
         "spotify_popularity": 63,
@@ -365,25 +379,11 @@
         "spotify_id": "5yjbUO1Jocui7RKE30zfLT"
       },
       {
-        "artist": "Rush",
-        "listeners": 2613442,
-        "recommended": true,
-        "spotify_popularity": 64,
-        "spotify_id": "2Hkut4rAAyrQxRdof7FVJq"
-      },
-      {
         "artist": "Genesis",
         "listeners": 3837312,
         "recommended": true,
         "spotify_popularity": 69,
         "spotify_id": "3CkvROUTQ6nRi9yQOcsB50"
-      },
-      {
-        "artist": "Pink Floyd",
-        "listeners": 23331273,
-        "recommended": true,
-        "spotify_popularity": 80,
-        "spotify_id": "0k17h0D3J5VfsdmQ1iZtE9"
       },
       {
         "artist": "Radiohead",
