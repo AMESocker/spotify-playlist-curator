@@ -2131,7 +2131,6 @@
       "Artist": "Slipknot",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "Slipknot (1999)",
         "Iowa (2001)",
         "Vol. 3: The Subliminal Verses (2004)",
         "All Hope Is Gone (2008)",
@@ -2139,7 +2138,9 @@
         "We Are Not Your Kind (2019)",
         "The End, So Far (2022)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "The End, So Far (2022)"
+      ]
     },
     {
       "Artist": "Stone Sour",

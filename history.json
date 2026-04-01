@@ -3675,5 +3675,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-03-31T19:04:49.643Z"
+  },
+  {
+    "action": "add",
+    "artist": "Slipknot",
+    "album": "The End, So Far (2022)",
+    "index": null,
+    "tracksAdded": 12,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-01T11:01:12.247Z"
   }
 ]
