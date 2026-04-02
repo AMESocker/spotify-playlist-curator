@@ -1,6 +1,33 @@
 # Spotify Playlist Curator
 
-An automated system that builds and maintains a Spotify playlist by intelligently sourcing music from multiple curated data sources. Runs on a schedule via GitHub Actions, rotating through sources and adding albums, artists, and tracks while keeping the playlist fresh.
+Automatically refreshes a Spotify playlist by removing recently played tracks and adding new ones based on listening patterns and artist diversity.
+
+---
+## 🚀 Features
+- Removes tracks played within the last 24 hours
+- Adds new tracks from curated artist sources
+- Prioritizes underrepresented artists and genres
+- Runs automatically via GitHub Actions
+
+## 🧩 Why I Built This
+I wanted a playlist that didn’t become repetitive. Manually curating music took too long, so I built a system that keeps playlists fresh automatically.
+
+## 🛠 Tech Stack
+- Node.js
+- Spotify Web API
+- GitHub Actions (automation)
+- JSON data processing
+
+## 🤖 Use of AI
+I used generative AI to accelerate development, particularly for:
+- Setting up GitHub Actions workflows
+- Structuring authentication flows
+- Parsing and organizing JSON data
+
+## 🔮 Future Improvements
+- Web UI for user customization
+- Multiple playlist sources
+- Dashboard for tracking added tracks
 
 ---
 
