@@ -3765,5 +3765,23 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-04-02T00:45:27.660Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Download Festival",
+    "artist": "Ice Nine Kills",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-02T21:00:09.356Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Download Festival",
+    "artist": "Pussyliquor",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-02T21:00:11.358Z"
   }
 ]
