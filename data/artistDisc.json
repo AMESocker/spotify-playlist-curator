@@ -2186,7 +2186,6 @@
       "Artist": "Dream Theater",
       "Group": "🔴 Metal / Hard Rock",
       "Albums": [
-        "When Dream and Day Unite (1989)",
         "Images and Words (1992)",
         "Awake (1994)",
         "Falling into Infinity (1997)",
@@ -2203,7 +2202,9 @@
         "A View from the Top of the World (2021)",
         "Parasomnia (2025)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "A View from the Top of the World (2021)"
+      ]
     },
     {
       "Artist": "Anthrax",
