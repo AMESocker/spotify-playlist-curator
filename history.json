@@ -3800,5 +3800,15 @@
     "sourceFile": "data/billboardHot100.json",
     "strategy": "singleTrack",
     "timestamp": "2026-04-02T22:34:17.825Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Darkness",
+    "album": "Permission to Land",
+    "index": 784,
+    "tracksAdded": 11,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-04-03T02:31:16.436Z"
   }
 ]
