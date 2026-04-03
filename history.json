@@ -3810,5 +3810,21 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-04-03T02:31:16.436Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Otis Redding",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-03T17:34:49.862Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Everly Brothers",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-03T17:34:51.788Z"
   }
 ]
