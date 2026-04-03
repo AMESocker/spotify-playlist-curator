@@ -2282,6 +2282,58 @@
         "Young Modern (2007)"
       ],
       "AddedAlbums": []
+    },
+    {
+      "Artist":"Aerosmith",
+      "Group":"⚪ Classic Rock",
+      "Albums": [
+        "Aerosmith (1973)",
+        "Get Your Wings (1974)",
+        "Toys in the Attic (1975)",
+        "Rocks (1976)",
+        "Draw the Line (1977)",
+        "Night in the Ruts (1979)",
+        "Rock in a Hard Place (1982)",
+        "Done with Mirrors (1985)",
+        "Permanent Vacation (1987)",
+        "Pump (1989)",
+        "Get a Grip (1993)",
+        "Nine Lives (1997)",
+        "Just Push Play (2001)",
+        "Honkin' on Bobo (2004)",
+        "Music from Another Dimension! (2012)"
+      ],
+      "AddedAlbums": []
+    },
+    {
+      "Artist":"The Cranberries",
+      "Group":"🟠 Grunge / Alt Rock / Post-Grunge",
+      "Albums": [
+        "Everybody Else Is Doing It, So Why Can't We? (1993)",
+        "No Need to Argue (1994)",
+        "To the Faithful Departed (1996)",
+        "Bury the Hatchet (1999)",
+        "Wake Up and Smell the Coffee (2001)",
+        "Roses (2012)",
+        "Something Else (2017)",
+        "In the End (2019)"
+      ],
+      "AddedAlbums": []
+    },
+    {
+      "Artist":"Candlebox",
+      "Group":"🟠 Grunge / Alt Rock / Post-Grunge",
+      "Albums": [
+        "Candlebox (1993)",
+        "Lucy (1995)",
+        "Happy Pills (1998)",
+        "Into the Sun (2008)",
+        "Love Stories & Other Musings (2012)",
+        "Disappearing in Airports (2016)",
+        "Wolves (2021)",
+        "The Long Goodbye (2023)"
+      ],
+      "AddedAlbums": []
     }
   ],
   "archived": [
