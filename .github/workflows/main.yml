@@ -1,14 +1,12 @@
 name: Spotify Playlist Cleanup and Curator
 on:
   schedule:
-    - cron: "0 14-23/2 * * *"  
-    - cron: "0 0-5/2 * * *"  
     # Defined timed cron workflows
-    # - cron: "0 18 * * *" # 10 AM PST
-    # - cron: "0 21 * * *" # 01 PM PST
-    # - cron: "0 00 * * *" # 04 PM PST
-    # - cron: "0 03 * * *" # 07 PM PST
-    # - cron: "0 10 * * *" # 02 AM PST
+    - cron: "0 18 * * *" # 10 AM PST
+    - cron: "0 21 * * *" # 01 PM PST
+    - cron: "0 00 * * *" # 04 PM PST
+    - cron: "0 03 * * *" # 07 PM PST
+    - cron: "0 10 * * *" # 02 AM PST
   workflow_dispatch: # Allow manual trigger
 permissions:
   contents: write 
