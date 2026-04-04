@@ -48,12 +48,7 @@ const dataSources = [
     strategy: "rockHall",
     originalPosition: 3,
   },
-  /*{
-    name: "spotifyTotmPlaylists",
-    file: "data/spotifyPlaylists.json",
-    strategy: "spotifyPlaylist",
-    originalPosition: 5,
-  },*/
+
   {
     name: "smoothJazz",
     file: "data/smoothJazz.json",
@@ -79,7 +74,12 @@ const dataSources = [
     originalPosition: 6,
   },
 ];
-
+  /*{
+    name: "spotifyTotmPlaylists",
+    file: "data/spotifyPlaylists.json",
+    strategy: "spotifyPlaylist",
+    originalPosition: 5,
+  },*/
 const SOURCE_INDEX_FILE = "data/sourceIndex.json";
 const HISTORY_FILE = "history.json";
 const MAX_PLAYLIST_SIZE = 200;
