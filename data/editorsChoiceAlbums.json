@@ -1,87 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-06-13",
-      "albums": [
-        {
-          "title": "Talkin to the Trees",
-          "artist": "Neil Young and the Chrome HeartsNeil Young",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-28T10:24:27.686Z"
-          }
-        },
-        {
-          "title": "Gadabout Season",
-          "artist": "Brandee Younger",
-          "spotifyTrack": {
-            "id": "5Z4YeqJLy2Ik0NYr0xlfh7",
-            "name": "Gadabout Season",
-            "uri": "spotify:track:5Z4YeqJLy2Ik0NYr0xlfh7",
-            "popularity": 36,
-            "albumName": "Gadabout Season",
-            "albumId": "372tUB50Rip4brrZdUELBQ",
-            "foundAt": "2026-02-05T18:47:56.930Z"
-          }
-        },
-        {
-          "title": "Black Thunder",
-          "artist": "Brittany Davis",
-          "spotifyTrack": {
-            "id": "4H1p6xuWwT3kVtCvMVGZp6",
-            "name": "Amid the Blackout of the NIght",
-            "uri": "spotify:track:4H1p6xuWwT3kVtCvMVGZp6",
-            "popularity": 19,
-            "albumName": "Black Thunder",
-            "albumId": "1Hho9EeM6w6oHVIrg21FxR",
-            "foundAt": "2026-02-05T18:47:58.673Z"
-          }
-        },
-        {
-          "title": "Very Human Features",
-          "artist": "Bug Club",
-          "spotifyTrack": {
-            "id": "6n0NZmREI4EC0W8Mdnq6P7",
-            "name": "Jealous Boy",
-            "uri": "spotify:track:6n0NZmREI4EC0W8Mdnq6P7",
-            "popularity": 34,
-            "albumName": "Very Human Features",
-            "albumId": "2YQIflzFSMojRZXfDexMtQ",
-            "foundAt": "2026-02-05T18:48:00.333Z"
-          }
-        },
-        {
-          "title": "Elemental",
-          "artist": "Dee Dee BridgewaterBill Charlap",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-28T10:24:28.259Z"
-          }
-        },
-        {
-          "title": "We Insist 2025!",
-          "artist": "Terri Lyne CarringtonChristie Dashiell",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-03-28T10:24:28.876Z"
-          }
-        },
-        {
-          "title": "SOGOLO",
-          "artist": "Witch",
-          "spotifyTrack": {
-            "id": "0Bewhclwe6S4wALHhNSDBH",
-            "name": "Queenless King",
-            "uri": "spotify:track:0Bewhclwe6S4wALHhNSDBH",
-            "popularity": 29,
-            "albumName": "SOGOLO",
-            "albumId": "4yadH5nbxiSPG2Bo4121Qp",
-            "foundAt": "2026-02-05T18:48:03.283Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-06-06",
       "albums": [
         {
@@ -2127,6 +2046,89 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-06-13",
+      "albums": [
+        {
+          "title": "Talkin to the Trees",
+          "artist": "Neil Young and the Chrome HeartsNeil Young",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-28T10:24:27.686Z"
+          }
+        },
+        {
+          "title": "Gadabout Season",
+          "artist": "Brandee Younger",
+          "spotifyTrack": {
+            "id": "5Z4YeqJLy2Ik0NYr0xlfh7",
+            "name": "Gadabout Season",
+            "uri": "spotify:track:5Z4YeqJLy2Ik0NYr0xlfh7",
+            "popularity": 36,
+            "albumName": "Gadabout Season",
+            "albumId": "372tUB50Rip4brrZdUELBQ",
+            "foundAt": "2026-02-05T18:47:56.930Z"
+          }
+        },
+        {
+          "title": "Black Thunder",
+          "artist": "Brittany Davis",
+          "spotifyTrack": {
+            "id": "4H1p6xuWwT3kVtCvMVGZp6",
+            "name": "Amid the Blackout of the NIght",
+            "uri": "spotify:track:4H1p6xuWwT3kVtCvMVGZp6",
+            "popularity": 19,
+            "albumName": "Black Thunder",
+            "albumId": "1Hho9EeM6w6oHVIrg21FxR",
+            "foundAt": "2026-02-05T18:47:58.673Z"
+          }
+        },
+        {
+          "title": "Very Human Features",
+          "artist": "Bug Club",
+          "spotifyTrack": {
+            "id": "6n0NZmREI4EC0W8Mdnq6P7",
+            "name": "Jealous Boy",
+            "uri": "spotify:track:6n0NZmREI4EC0W8Mdnq6P7",
+            "popularity": 34,
+            "albumName": "Very Human Features",
+            "albumId": "2YQIflzFSMojRZXfDexMtQ",
+            "foundAt": "2026-02-05T18:48:00.333Z"
+          }
+        },
+        {
+          "title": "Elemental",
+          "artist": "Dee Dee BridgewaterBill Charlap",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-28T10:24:28.259Z"
+          }
+        },
+        {
+          "title": "We Insist 2025!",
+          "artist": "Terri Lyne CarringtonChristie Dashiell",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-03-28T10:24:28.876Z"
+          }
+        },
+        {
+          "title": "SOGOLO",
+          "artist": "Witch",
+          "spotifyTrack": {
+            "id": "0Bewhclwe6S4wALHhNSDBH",
+            "name": "Queenless King",
+            "uri": "spotify:track:0Bewhclwe6S4wALHhNSDBH",
+            "popularity": 29,
+            "albumName": "SOGOLO",
+            "albumId": "4yadH5nbxiSPG2Bo4121Qp",
+            "foundAt": "2026-02-05T18:48:03.283Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-04T01:16:50.174Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-06-20",
       "albums": [

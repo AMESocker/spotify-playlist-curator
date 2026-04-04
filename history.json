@@ -3844,5 +3844,34 @@
     "sourceFile": "data/smoothJazz.json",
     "strategy": "smoothJazz",
     "timestamp": "2026-04-03T22:38:21.408Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Classic Rock / Hard Rock",
+    "artist": "Status Quo",
+    "listeners": 854835,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-04T01:16:46.622Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Classic Rock / Hard Rock",
+    "artist": "The Wood Brothers",
+    "listeners": 244072,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-04T01:16:46.909Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-06-13",
+    "tracksAdded": 4,
+    "tracksSkipped": 3,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-04-04T01:16:50.176Z"
   }
 ]

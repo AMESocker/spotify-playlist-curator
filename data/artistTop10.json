@@ -833,12 +833,6 @@
         "spotify_id": "776Uo845nYHJpNaStv1Ds4"
       },
       {
-        "artist": "The Wood Brothers",
-        "listeners": 244072,
-        "spotify_popularity": 46,
-        "spotify_id": "6FxuPrpa8phaP3Xn73emhT"
-      },
-      {
         "artist": "Jamiroquai",
         "listeners": 2884981,
         "spotify_popularity": 70,
@@ -942,13 +936,6 @@
         "recommended": true,
         "spotify_popularity": 50,
         "spotify_id": "6x33CmZWo2Ve4hxYl2Craq"
-      },
-      {
-        "artist": "Status Quo",
-        "listeners": 854835,
-        "recommended": true,
-        "spotify_popularity": 57,
-        "spotify_id": "4gIdjgLlvgEOz7MexDZzpM"
       },
       {
         "artist": "Free",
@@ -1098,6 +1085,20 @@
         "listeners": 3162727,
         "spotify_popularity": 59,
         "spotify_id": "7b85ve82Sh36a3UAx74wut"
+      },
+      {
+        "artist": "Status Quo",
+        "listeners": 854835,
+        "spotify_id": "4gIdjgLlvgEOz7MexDZzpM",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "The Wood Brothers",
+        "listeners": 244072,
+        "spotify_id": "6FxuPrpa8phaP3Xn73emhT",
+        "recommended": false,
+        "tracksAdded": 5
       }
     ]
   },
