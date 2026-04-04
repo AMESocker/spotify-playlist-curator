@@ -48,12 +48,12 @@ const dataSources = [
     strategy: "rockHall",
     originalPosition: 3,
   },
-  {
+  /*{
     name: "spotifyTotmPlaylists",
     file: "data/spotifyPlaylists.json",
     strategy: "spotifyPlaylist",
     originalPosition: 5,
-  },
+  },*/
   {
     name: "smoothJazz",
     file: "data/smoothJazz.json",
@@ -553,7 +553,7 @@ async function handleSingleTrack(source, data) {
   console.log(`🎶 Added ${uris.length} tracks`);
 
   pushHistory({
-    action: "addBillboard",
+    action: source.name,
     tracksAdded: uris.length,
     sourceFile: source.file,
     strategy: source.strategy

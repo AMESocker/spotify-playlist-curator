@@ -938,22 +938,43 @@
   "Classic Rock / Hard Rock": {
     "not_added": [
       {
-        "artist": "Fleetwood Mac",
-        "listeners": 14670458,
-        "spotify_popularity": 83,
-        "spotify_id": "08GQAI4eElDnROBrJRGE0X"
+        "artist": "Jimi Hendrix",
+        "listeners": 7518635,
+        "recommended": true,
+        "spotify_popularity": 66,
+        "spotify_id": "776Uo845nYHJpNaStv1Ds4"
       },
       {
-        "artist": "The Doors",
-        "listeners": 9070963,
-        "spotify_popularity": 71,
-        "spotify_id": "22WZ7M8sxp5THdruNY3gXt"
+        "artist": "Jimi Hendrix",
+        "listeners": 7518635,
+        "recommended": true,
+        "spotify_popularity": 66,
+        "spotify_id": "776Uo845nYHJpNaStv1Ds4"
       },
       {
         "artist": "Jamiroquai",
         "listeners": 2884981,
         "spotify_popularity": 70,
         "spotify_id": "6J7biCazzYhU3gM9j1wfid"
+      },
+      {
+        "artist": "Fleetwood Mac",
+        "listeners": 14670458,
+        "spotify_popularity": 83,
+        "spotify_id": "08GQAI4eElDnROBrJRGE0X"
+      },
+      {
+        "artist": "Tom Petty",
+        "listeners": 3053682,
+        "recommended": true,
+        "spotify_popularity": 67,
+        "spotify_id": "2UZMlIwnkgAEDBsw1Rejkn"
+      },
+      {
+        "artist": "The Doors",
+        "listeners": 9070963,
+        "spotify_popularity": 71,
+        "spotify_id": "22WZ7M8sxp5THdruNY3gXt"
       },
       {
         "artist": "Steely Dan",
@@ -972,12 +993,6 @@
         "listeners": 1026032,
         "spotify_popularity": 56,
         "spotify_id": "196lKsA13K3keVXMDFK66q"
-      },
-      {
-        "artist": "The Wood Brothers",
-        "listeners": 244072,
-        "spotify_popularity": 46,
-        "spotify_id": "6FxuPrpa8phaP3Xn73emhT"
       },
       {
         "artist": "Tower of Power",
@@ -1007,13 +1022,6 @@
         "spotify_id": "5M52tdBnJaKSvOpJGz8mfZ"
       },
       {
-        "artist": "Jimi Hendrix",
-        "listeners": 7518635,
-        "recommended": true,
-        "spotify_popularity": 66,
-        "spotify_id": "776Uo845nYHJpNaStv1Ds4"
-      },
-      {
         "artist": "Cream",
         "listeners": 2705800,
         "recommended": true,
@@ -1026,13 +1034,6 @@
         "recommended": true,
         "spotify_popularity": 72,
         "spotify_id": "4MVyzYMgTwdP7Z49wAZHx0"
-      },
-      {
-        "artist": "Tom Petty",
-        "listeners": 3053682,
-        "recommended": true,
-        "spotify_popularity": 67,
-        "spotify_id": "2UZMlIwnkgAEDBsw1Rejkn"
       },
       {
         "artist": "ZZ Top",
@@ -1054,13 +1055,6 @@
         "recommended": true,
         "spotify_popularity": 50,
         "spotify_id": "6x33CmZWo2Ve4hxYl2Craq"
-      },
-      {
-        "artist": "Status Quo",
-        "listeners": 854835,
-        "recommended": true,
-        "spotify_popularity": 57,
-        "spotify_id": "4gIdjgLlvgEOz7MexDZzpM"
       },
       {
         "artist": "Free",
@@ -1210,6 +1204,20 @@
         "listeners": 3162727,
         "spotify_popularity": 59,
         "spotify_id": "7b85ve82Sh36a3UAx74wut"
+      },
+      {
+        "artist": "Status Quo",
+        "listeners": 854835,
+        "spotify_id": "4gIdjgLlvgEOz7MexDZzpM",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "The Wood Brothers",
+        "listeners": 244072,
+        "spotify_id": "6FxuPrpa8phaP3Xn73emhT",
+        "recommended": false,
+        "tracksAdded": 5
       }
     ]
   },

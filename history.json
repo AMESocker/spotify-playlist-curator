@@ -3800,5 +3800,78 @@
     "sourceFile": "data/billboardHot100.json",
     "strategy": "singleTrack",
     "timestamp": "2026-04-02T22:34:17.825Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Darkness",
+    "album": "Permission to Land",
+    "index": 784,
+    "tracksAdded": 11,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-04-03T02:31:16.436Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Otis Redding",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-03T17:34:49.862Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Everly Brothers",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-03T17:34:51.788Z"
+  },
+  {
+    "action": "addSpotifyPlaylist",
+    "playlistName": "2006-10",
+    "playlistUrl": "https://open.spotify.com/playlist/3mdjopaD081gdLncU5AF3i?si=8d1965582d8f46fc",
+    "playlistId": "3mdjopaD081gdLncU5AF3i",
+    "index": 7,
+    "tracksAdded": 10,
+    "sourceFile": "data/spotifyPlaylists.json",
+    "strategy": "spotifyPlaylist",
+    "timestamp": "2026-04-03T21:27:13.856Z"
+  },
+  {
+    "action": "addBillboard",
+    "tracksAdded": 9,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-03T22:38:21.408Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Classic Rock / Hard Rock",
+    "artist": "Status Quo",
+    "listeners": 854835,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-04T01:16:46.622Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Classic Rock / Hard Rock",
+    "artist": "The Wood Brothers",
+    "listeners": 244072,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-04T01:16:46.909Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-06-13",
+    "tracksAdded": 4,
+    "tracksSkipped": 3,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-04-04T01:16:50.176Z"
   }
 ]
