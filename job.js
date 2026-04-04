@@ -24,7 +24,7 @@ async function getStaleWindowDays() {
 
   // Target: tracks stay long enough to be heard but playlist keeps turning over
   // Aim for ~2x playlist size worth of content per stale window
-  const days = Math.round((MAX_PLAYLIST_SIZE * 8) / tracksPerDay);
+  const days = Math.round((MAX_PLAYLIST_SIZE * 4) / tracksPerDay);
   const clamped = Math.max(7, Math.min(31, days)); // floor 7 days, ceiling 31 days
 
   console.log(`📊 Add rate: ${tracksPerDay.toFixed(1)} tracks/day → stale window: ${clamped} days`);
