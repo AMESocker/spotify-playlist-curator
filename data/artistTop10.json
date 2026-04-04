@@ -2038,7 +2038,7 @@
       }
     ]
   },
-  "Jazz / Blues / Soul / Funk": {
+  "Jazz / Blues": {
     "not_added": [
       {
         "artist": "Duke Ellington",
@@ -2064,24 +2064,6 @@
         "listeners": 589427,
         "spotify_popularity": 55,
         "spotify_id": "2aAHdB5HweT3mFcRzm0swc"
-      },
-      {
-        "artist": "Anderson .Paak",
-        "listeners": 2746196,
-        "spotify_popularity": 75,
-        "spotify_id": "3jK9MiCrA42lLAdMGUZpwa"
-      },
-      {
-        "artist": "Frank Sinatra",
-        "listeners": 8695773,
-        "spotify_popularity": 78,
-        "spotify_id": "1Mxqyy3pSjf8kZZL4QVxS0"
-      },
-      {
-        "artist": "Celia Cruz",
-        "listeners": 749468,
-        "spotify_popularity": 63,
-        "spotify_id": "2weA6hhVqTIN2gSn9PUB9U"
       },
       {
         "artist": "Ella Fitzgerald",
@@ -2112,12 +2094,6 @@
         "listeners": 425539,
         "spotify_popularity": 49,
         "spotify_id": "5dCuFngSPyOOnTAvrC7v2s"
-      },
-      {
-        "artist": "Fela Kuti",
-        "listeners": 714797,
-        "spotify_popularity": 49,
-        "spotify_id": "5CG9X521RDFWCuAhlo6QoR"
       },
       {
         "artist": "Miles Davis",
@@ -2155,18 +2131,154 @@
         "spotify_id": "1YzCsTRb22dQkh9lghPIrp"
       },
       {
-        "artist": "Nina Simone",
-        "listeners": 3319842,
-        "recommended": true,
-        "spotify_popularity": 68,
-        "spotify_id": "7G1GBhoKtEPnP86X2PvEYO"
-      },
-      {
         "artist": "Herbie Hancock",
         "listeners": 809733,
         "recommended": true,
         "spotify_popularity": 55,
         "spotify_id": "2ZvrvbQNrHKwjT7qfGFFUW"
+      },
+      {
+        "artist": "Robert Johnson",
+        "listeners": 635706,
+        "recommended": true,
+        "spotify_popularity": 43,
+        "spotify_id": "0f8MDDzIc6M4uH1xH0o0gy"
+      },
+      {
+        "artist": "Art Blakey "
+      },
+      {
+        "artist": "Cannonball Adderley "
+      },
+      {
+        "artist": "Wayne Shorter "
+      },
+      {
+        "artist": "Sonny Rollins "
+      },
+      {
+        "artist": "Bill Evans "
+      },
+      {
+        "artist": "Oscar Peterson"
+      },
+      {
+        "artist": "Wes Montgomery "
+      },
+      {
+        "artist": "Stan Getz "
+      },
+      {
+        "artist": "Dizzy Gillespie "
+      },
+      {
+        "artist": "Sarah Vaughan "
+      },
+      {
+        "artist": "Kamasi Washington"
+      },
+      {
+        "artist": "Robert Glasper"
+      },
+      {
+        "artist": "Esperanza Spalding"
+      },
+      {
+        "artist": "Howlin' Wolf"
+      },
+      {
+        "artist": "Albert King"
+      },
+      {
+        "artist": "T-Bone Walker"
+      },
+      {
+        "artist": "Etta James "
+      },
+      {
+        "artist": "Koko Taylor"
+      },
+      {
+        "artist": "Elmore James"
+      }
+    ],
+    "added": [
+      {
+        "week": "23-07",
+        "artist": "Stevie Ray Vaughan",
+        "listeners": 2653496,
+        "spotify_popularity": 60,
+        "spotify_id": "5fsDcuclIe8ZiBD5P787K1"
+      },
+      {
+        "week": "23-15",
+        "artist": "Charles Mingus",
+        "listeners": 522917,
+        "spotify_popularity": 47,
+        "spotify_id": "1W8TbFzNS15VwsempfY12H"
+      },
+      {
+        "week": "23-16",
+        "artist": "Charlie Parker",
+        "listeners": 689676,
+        "spotify_popularity": 50,
+        "spotify_id": "4Ww5mwS7BWYjoZTUIrMHfC"
+      },
+      {
+        "week": "23-52",
+        "artist": "Richie Kotzen",
+        "listeners": 168533,
+        "spotify_popularity": 41,
+        "spotify_id": "6nYo7m5cO64bANRvilwVBb"
+      },
+      {
+        "artist": "Cliff Edwards",
+        "listeners": 12389,
+        "spotify_id": "0aeRagbqQCOKkVURrvcMrn",
+        "recommended": false,
+        "tracksAdded": 10
+      },
+      {
+        "artist": "Buddy Guy",
+        "listeners": 890726,
+        "spotify_id": "2gCsNOpiBaMNh20jQ5prf0",
+        "recommended": false,
+        "tracksAdded": 5
+      }
+    ]
+  },
+  "Soul / Funk": {
+    "not_added": [
+      {
+        "artist": "Anderson .Paak",
+        "listeners": 2746196,
+        "spotify_popularity": 75,
+        "spotify_id": "3jK9MiCrA42lLAdMGUZpwa"
+      },
+      {
+        "artist": "Frank Sinatra",
+        "listeners": 8695773,
+        "spotify_popularity": 78,
+        "spotify_id": "1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      {
+        "artist": "Celia Cruz",
+        "listeners": 749468,
+        "spotify_popularity": 63,
+        "spotify_id": "2weA6hhVqTIN2gSn9PUB9U"
+      },
+      {
+        "artist": "Fela Kuti",
+        "listeners": 714797,
+        "spotify_popularity": 49,
+        "spotify_id": "5CG9X521RDFWCuAhlo6QoR"
+      },
+      {
+        "artist": "Nina Simone",
+        "listeners": 3319842,
+        "recommended": true,
+        "spotify_popularity": 68,
+        "spotify_id": "7G1GBhoKtEPnP86X2PvEYO"
       },
       {
         "artist": "Stevie Wonder",
@@ -2204,41 +2316,70 @@
         "spotify_id": "0kEfub5RzlZOB2zGomqVSU"
       },
       {
-        "artist": "Robert Johnson",
-        "listeners": 635706,
-        "recommended": true,
-        "spotify_popularity": 43,
-        "spotify_id": "0f8MDDzIc6M4uH1xH0o0gy"
+        "artist": "Otis Redding"
+      },
+      {
+        "artist": "Al Green"
+      },
+      {
+        "artist": "Sam Cooke"
+      },
+      {
+        "artist": "Wilson Pickett"
+      },
+      {
+        "artist": "Donny Hathaway"
+      },
+      {
+        "artist": "Bootsy Collins"
+      },
+      {
+        "artist": "The Meters"
+      },
+      {
+        "artist": "Ohio Players"
+      },
+      {
+        "artist": "Kool & the Gang"
+      },
+      {
+        "artist": "D'Angelo"
+      },
+      {
+        "artist": "Erykah Badu"
+      },
+      {
+        "artist": "Jill Scott"
+      },
+      {
+        "artist": "Maxwell"
+      },
+      {
+        "artist": "Leon Bridges"
+      },
+      {
+        "artist": "Cory Wong"
+      },
+      {
+        "artist": "Snarky Puppy"
+      },
+      {
+        "artist": "Thundercat"
+      },
+      {
+        "artist": "Antibalas"
+      },
+      {
+        "artist": "Orchestra Baobab"
       }
     ],
     "added": [
-      {
-        "week": "23-07",
-        "artist": "Stevie Ray Vaughan",
-        "listeners": 2653496,
-        "spotify_popularity": 60,
-        "spotify_id": "5fsDcuclIe8ZiBD5P787K1"
-      },
       {
         "week": "23-13",
         "artist": "Vulfpeck",
         "listeners": 1066542,
         "spotify_popularity": 56,
         "spotify_id": "7pXu47GoqSYRajmBCjxdD6"
-      },
-      {
-        "week": "23-15",
-        "artist": "Charles Mingus",
-        "listeners": 522917,
-        "spotify_popularity": 47,
-        "spotify_id": "1W8TbFzNS15VwsempfY12H"
-      },
-      {
-        "week": "23-16",
-        "artist": "Charlie Parker",
-        "listeners": 689676,
-        "spotify_popularity": 50,
-        "spotify_id": "4Ww5mwS7BWYjoZTUIrMHfC"
       },
       {
         "week": "23-51",
@@ -2253,20 +2394,6 @@
         "listeners": 206553,
         "spotify_popularity": 43,
         "spotify_id": "1JyLSGXC3aWzjY6ZdxvIXh"
-      },
-      {
-        "week": "23-52",
-        "artist": "Richie Kotzen",
-        "listeners": 168533,
-        "spotify_popularity": 41,
-        "spotify_id": "6nYo7m5cO64bANRvilwVBb"
-      },
-      {
-        "artist": "Cliff Edwards",
-        "listeners": 12389,
-        "spotify_id": "0aeRagbqQCOKkVURrvcMrn",
-        "recommended": false,
-        "tracksAdded": 10
       },
       {
         "artist": "Tony Allen",
@@ -2301,13 +2428,6 @@
         "listeners": 1113102,
         "spotify_id": "5m8H6zSadhu1j9Yi04VLqD",
         "recommended": true,
-        "tracksAdded": 5
-      },
-      {
-        "artist": "Buddy Guy",
-        "listeners": 890726,
-        "spotify_id": "2gCsNOpiBaMNh20jQ5prf0",
-        "recommended": false,
         "tracksAdded": 5
       }
     ]
