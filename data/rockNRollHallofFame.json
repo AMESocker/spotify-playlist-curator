@@ -25,7 +25,6 @@
     "Isaac Hayes",
     "Gene Pitney",
     "Michael Jackson",
-    "Paul Simon",
     "Steely Dan",
     "Ritchie Valens",
     "The Flamingos",
@@ -35,7 +34,6 @@
     "Bonnie Raitt",
     "The Moonglows",
     "Billy Joel",
-    "Bruce Springsteen",
     "Dusty Springfield",
     "Curtis Mayfield",
     "The Staple Singers",
@@ -231,6 +229,8 @@
     "The (Young) Rascals",
     "B.B. King",
     "Elvis Presley",
-    "Carl Perkins"
+    "Carl Perkins",
+    "Paul Simon",
+    "Bruce Springsteen"
   ]
 }

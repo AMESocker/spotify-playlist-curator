@@ -4209,5 +4209,21 @@
     "sourceFile": "data/1080albums.json",
     "strategy": "sequential",
     "timestamp": "2026-04-06T05:18:47.381Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Paul Simon",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-06T18:50:52.397Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Bruce Springsteen",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-06T18:50:54.100Z"
   }
 ]
