@@ -577,13 +577,6 @@
         "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
       },
       {
-        "artist": "Culture",
-        "listeners": 113762,
-        "recommended": true,
-        "spotify_popularity": 51,
-        "spotify_id": "0DoNSZa1R1DV69oY1djlbf"
-      },
-      {
         "artist": "Toots and the Maytals",
         "listeners": 501550,
         "recommended": true,
@@ -724,6 +717,20 @@
         "listeners": null,
         "spotify_id": null,
         "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Culture",
+        "listeners": 113762,
+        "spotify_id": "0DoNSZa1R1DV69oY1djlbf",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Culture",
+        "listeners": 113762,
+        "spotify_id": "0DoNSZa1R1DV69oY1djlbf",
+        "recommended": true,
         "tracksAdded": 5
       }
     ]

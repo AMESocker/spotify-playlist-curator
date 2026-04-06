@@ -1,105 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-05-23",
-      "albums": [
-        {
-          "title": "Instant Holograms on Metal Film",
-          "artist": "Stereolab",
-          "spotifyTrack": {
-            "id": "4Qnub0myMdKdCdymx5cS3d",
-            "name": "Aerial Troubles",
-            "uri": "spotify:track:4Qnub0myMdKdCdymx5cS3d",
-            "popularity": 42,
-            "albumName": "Instant Holograms On Metal Film",
-            "albumId": "5nS7jRCPubnZF0OsXEM0D7",
-            "foundAt": "2026-02-05T18:48:32.570Z"
-          }
-        },
-        {
-          "title": "Room on the Porch",
-          "artist": "Keb' Mo'Taj MahalTajMo",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:47.394Z"
-          }
-        },
-        {
-          "title": "Quit to Play Chess",
-          "artist": "Cola Boyy",
-          "spotifyTrack": {
-            "id": "4KnEBw94WkGhtdcZ5tTXwC",
-            "name": "Babylon",
-            "uri": "spotify:track:4KnEBw94WkGhtdcZ5tTXwC",
-            "popularity": 19,
-            "albumName": "Quit to Play Chess",
-            "albumId": "255ea4BNBkMKULxcVZICeO",
-            "foundAt": "2026-02-05T18:48:35.051Z"
-          }
-        },
-        {
-          "title": "LUSHLAND",
-          "artist": "Silas Short",
-          "spotifyTrack": {
-            "id": "60fstLKudJAiQjmscYVMmk",
-            "name": "ILIKEU",
-            "uri": "spotify:track:60fstLKudJAiQjmscYVMmk",
-            "popularity": 32,
-            "albumName": "LUSHLAND",
-            "albumId": "4kwd06vMjFOn5g5n3D2ntn",
-            "foundAt": "2026-02-05T18:48:36.966Z"
-          }
-        },
-        {
-          "title": "Nuits de la Fondation Maeght",
-          "artist": "Sun Ra",
-          "spotifyTrack": {
-            "id": "00cD1nMZL7QKyIHFB6WVwH",
-            "name": "Sun Interlude - Live at Fondation Maeght, 3 Aug. 1970",
-            "uri": "spotify:track:00cD1nMZL7QKyIHFB6WVwH",
-            "popularity": 5,
-            "albumName": "Nuits de la Fondation Maeght",
-            "albumId": "1t2U13vi52oORneNAeVRrc",
-            "foundAt": "2026-02-05T18:48:38.690Z"
-          }
-        },
-        {
-          "title": "Music for People Who Believe in Love",
-          "artist": "Joe Jonas",
-          "spotifyTrack": {
-            "id": "5wGrodae5bpzjDStJQieMn",
-            "name": "Heart By Heart",
-            "uri": "spotify:track:5wGrodae5bpzjDStJQieMn",
-            "popularity": 57,
-            "albumName": "Music For People Who Believe In Love",
-            "albumId": "3ZuXKlQ48SrFaJU9KDrIkE",
-            "foundAt": "2026-02-05T18:48:40.729Z"
-          }
-        },
-        {
-          "title": "Todos los Fuegos",
-          "artist": "Roxana Amed",
-          "spotifyTrack": {
-            "id": "6uCKchovg2HsquTNZUMSUT",
-            "name": "Salir de la melancolía",
-            "uri": "spotify:track:6uCKchovg2HsquTNZUMSUT",
-            "popularity": 9,
-            "albumName": "Todos los Fuegos",
-            "albumId": "35ss7NvF9reOX403sEwtsg",
-            "foundAt": "2026-02-05T18:48:42.292Z"
-          }
-        },
-        {
-          "title": "Shostakovich: Symphony No. 11 'The Year 1905'",
-          "artist": "Gianandrea NosedaLondon Symphony Orchestra",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:48.021Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-05-16",
       "albums": [
         {
@@ -1825,6 +1726,107 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-05-23",
+      "albums": [
+        {
+          "title": "Instant Holograms on Metal Film",
+          "artist": "Stereolab",
+          "spotifyTrack": {
+            "id": "4Qnub0myMdKdCdymx5cS3d",
+            "name": "Aerial Troubles",
+            "uri": "spotify:track:4Qnub0myMdKdCdymx5cS3d",
+            "popularity": 42,
+            "albumName": "Instant Holograms On Metal Film",
+            "albumId": "5nS7jRCPubnZF0OsXEM0D7",
+            "foundAt": "2026-02-05T18:48:32.570Z"
+          }
+        },
+        {
+          "title": "Room on the Porch",
+          "artist": "Keb' Mo'Taj MahalTajMo",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:47.394Z"
+          }
+        },
+        {
+          "title": "Quit to Play Chess",
+          "artist": "Cola Boyy",
+          "spotifyTrack": {
+            "id": "4KnEBw94WkGhtdcZ5tTXwC",
+            "name": "Babylon",
+            "uri": "spotify:track:4KnEBw94WkGhtdcZ5tTXwC",
+            "popularity": 19,
+            "albumName": "Quit to Play Chess",
+            "albumId": "255ea4BNBkMKULxcVZICeO",
+            "foundAt": "2026-02-05T18:48:35.051Z"
+          }
+        },
+        {
+          "title": "LUSHLAND",
+          "artist": "Silas Short",
+          "spotifyTrack": {
+            "id": "60fstLKudJAiQjmscYVMmk",
+            "name": "ILIKEU",
+            "uri": "spotify:track:60fstLKudJAiQjmscYVMmk",
+            "popularity": 32,
+            "albumName": "LUSHLAND",
+            "albumId": "4kwd06vMjFOn5g5n3D2ntn",
+            "foundAt": "2026-02-05T18:48:36.966Z"
+          }
+        },
+        {
+          "title": "Nuits de la Fondation Maeght",
+          "artist": "Sun Ra",
+          "spotifyTrack": {
+            "id": "00cD1nMZL7QKyIHFB6WVwH",
+            "name": "Sun Interlude - Live at Fondation Maeght, 3 Aug. 1970",
+            "uri": "spotify:track:00cD1nMZL7QKyIHFB6WVwH",
+            "popularity": 5,
+            "albumName": "Nuits de la Fondation Maeght",
+            "albumId": "1t2U13vi52oORneNAeVRrc",
+            "foundAt": "2026-02-05T18:48:38.690Z"
+          }
+        },
+        {
+          "title": "Music for People Who Believe in Love",
+          "artist": "Joe Jonas",
+          "spotifyTrack": {
+            "id": "5wGrodae5bpzjDStJQieMn",
+            "name": "Heart By Heart",
+            "uri": "spotify:track:5wGrodae5bpzjDStJQieMn",
+            "popularity": 57,
+            "albumName": "Music For People Who Believe In Love",
+            "albumId": "3ZuXKlQ48SrFaJU9KDrIkE",
+            "foundAt": "2026-02-05T18:48:40.729Z"
+          }
+        },
+        {
+          "title": "Todos los Fuegos",
+          "artist": "Roxana Amed",
+          "spotifyTrack": {
+            "id": "6uCKchovg2HsquTNZUMSUT",
+            "name": "Salir de la melancolía",
+            "uri": "spotify:track:6uCKchovg2HsquTNZUMSUT",
+            "popularity": 9,
+            "albumName": "Todos los Fuegos",
+            "albumId": "35ss7NvF9reOX403sEwtsg",
+            "foundAt": "2026-02-05T18:48:42.292Z"
+          }
+        },
+        {
+          "title": "Shostakovich: Symphony No. 11 'The Year 1905'",
+          "artist": "Gianandrea NosedaLondon Symphony Orchestra",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:48.021Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-06T22:34:33.792Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-05-30",
       "albums": [
