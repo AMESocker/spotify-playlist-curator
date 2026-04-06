@@ -2033,7 +2033,6 @@
       "Artist": "Live",
       "Group": "🟠 Grunge / Alt Rock / Post-Grunge",
       "Albums": [
-        "The Death of a Dictionary (1989)[a]",
         "Mental Jewelry (1991)",
         "Throwing Copper (1994)",
         "Secret Samadhi (1997)",
@@ -2043,7 +2042,9 @@
         "Songs from Black Mountain (2006)",
         "The Turn (2014)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "The Turn (2014)"
+      ]
     },
     {
       "Artist": "Collective Soul",

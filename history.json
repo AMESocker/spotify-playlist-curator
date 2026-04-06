@@ -4182,5 +4182,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-04-05T18:35:41.119Z"
+  },
+  {
+    "action": "add",
+    "artist": "Live",
+    "album": "The Turn (2014)",
+    "index": null,
+    "tracksAdded": 15,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-06T01:50:59.175Z"
   }
 ]
