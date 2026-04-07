@@ -5,7 +5,6 @@
     "Patti Smith",
     "Grandmaster Flash and the Furious Five",
     "Lynyrd Skynyrd",
-    "Blondie",
     "Miles Davis",
     "Sex Pistols",
     "The Pretenders",
@@ -103,7 +102,6 @@
     "Clyde McPhatter",
     "Ray Charles",
     "Sam Cooke",
-    "James Brown",
     "Jerry Lee Lewis",
     "Little Richard",
     "Fats Domino"
@@ -231,6 +229,8 @@
     "Elvis Presley",
     "Carl Perkins",
     "Paul Simon",
-    "Bruce Springsteen"
+    "Bruce Springsteen",
+    "Blondie",
+    "James Brown"
   ]
 }

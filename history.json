@@ -4296,5 +4296,31 @@
     "sourceFile": "data/billboardHot100.json",
     "strategy": "singleTrack",
     "timestamp": "2026-04-07T16:37:09.046Z"
+  },
+  {
+    "action": "add",
+    "artist": "Simply Red",
+    "album": "Picture Book",
+    "index": 377,
+    "tracksAdded": 15,
+    "sourceFile": "data/1080albums.json",
+    "strategy": "sequential",
+    "timestamp": "2026-04-07T18:56:34.464Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Blondie",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-07T18:56:41.941Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "James Brown",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-07T18:56:44.348Z"
   }
 ]
