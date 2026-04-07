@@ -4322,5 +4322,34 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-04-07T18:56:44.348Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Soul / Funk",
+    "artist": "Antibalas",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-07T20:56:16.449Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Soul / Funk",
+    "artist": "Celia Cruz",
+    "listeners": 749468,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-07T20:56:16.723Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-05-16",
+    "tracksAdded": 8,
+    "tracksSkipped": 1,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-04-07T20:56:20.170Z"
   }
 ]

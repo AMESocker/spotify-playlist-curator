@@ -1,123 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-05-16",
-      "albums": [
-        {
-          "title": "Better Dreaming",
-          "artist": "tUnE-yArDs",
-          "spotifyTrack": {
-            "id": "2DACCH3WlvR77DxBTBRkS0",
-            "name": "Heartbreak",
-            "uri": "spotify:track:2DACCH3WlvR77DxBTBRkS0",
-            "popularity": 29,
-            "albumName": "Better Dreaming",
-            "albumId": "0TmYypxPNSZe9UqAlQv8F3",
-            "foundAt": "2026-02-05T18:48:44.651Z"
-          }
-        },
-        {
-          "title": "Chuck D Presents Enemy Radio: Radio Armageddon",
-          "artist": "Chuck D",
-          "spotifyTrack": {
-            "id": "7qw4SwqI8n01TOo73Yf0ed",
-            "name": "Black Don't Dead (with Dj Too Tuff)",
-            "uri": "spotify:track:7qw4SwqI8n01TOo73Yf0ed",
-            "popularity": 11,
-            "albumName": "Chuck D Presents Enemy Radio: Radio Armageddon",
-            "albumId": "4rYaQjzVVVH5h1ZdwLHjZP",
-            "foundAt": "2026-02-05T18:48:46.285Z"
-          }
-        },
-        {
-          "title": "1978: Revenge of the Dragon",
-          "artist": "José James",
-          "spotifyTrack": {
-            "id": "64CRXUYkRYOE2VF6IU4jzY",
-            "name": "Rock With You",
-            "uri": "spotify:track:64CRXUYkRYOE2VF6IU4jzY",
-            "popularity": 39,
-            "albumName": "1978: Revenge of The Dragon",
-            "albumId": "485R0lCUZRApYWXnH2PAeh",
-            "foundAt": "2026-02-05T18:48:47.824Z"
-          }
-        },
-        {
-          "title": "Metalhorse",
-          "artist": "Billy Nomates",
-          "spotifyTrack": {
-            "id": "3ISMRtx1ajwYQlVbAs53dF",
-            "name": "The Test",
-            "uri": "spotify:track:3ISMRtx1ajwYQlVbAs53dF",
-            "popularity": 35,
-            "albumName": "Metalhorse",
-            "albumId": "5Z0r8TIEhBByMpQXwpaG5H",
-            "foundAt": "2026-02-05T18:48:49.278Z"
-          }
-        },
-        {
-          "title": "Flowers for the Living",
-          "artist": "Mourning [A] BLKstar",
-          "spotifyTrack": {
-            "id": "32vT2iuWKXun7QQ7BbS4r7",
-            "name": "Stop Lion 2",
-            "uri": "spotify:track:32vT2iuWKXun7QQ7BbS4r7",
-            "popularity": 14,
-            "albumName": "Flowers For The Living",
-            "albumId": "7zYC1f4LjyMVhzBOKtijFN",
-            "foundAt": "2026-02-05T18:48:51.002Z"
-          }
-        },
-        {
-          "title": "Caveman Wakes Up",
-          "artist": "Friendship",
-          "spotifyTrack": {
-            "id": "2SDt9c9f3roakTt6iO715k",
-            "name": "Free Association",
-            "uri": "spotify:track:2SDt9c9f3roakTt6iO715k",
-            "popularity": 46,
-            "albumName": "Caveman Wakes Up",
-            "albumId": "56BMarRYFHZ51ZVTyamBHk",
-            "foundAt": "2026-02-05T18:48:52.633Z"
-          }
-        },
-        {
-          "title": "Truth Is",
-          "artist": "Carolyn Wonderland",
-          "spotifyTrack": {
-            "id": "7b3PpkkxulPnCRidyktINg",
-            "name": "Truth Is",
-            "uri": "spotify:track:7b3PpkkxulPnCRidyktINg",
-            "popularity": 27,
-            "albumName": "Truth Is",
-            "albumId": "611yxBCQhq0G6ZkJHgmioi",
-            "foundAt": "2026-02-05T18:48:54.484Z"
-          }
-        },
-        {
-          "title": "Paper Can't Wrap Fire",
-          "artist": "Don Glori",
-          "spotifyTrack": {
-            "id": "4dPy2gfhjPh2ISbrjUWOmD",
-            "name": "Disaster",
-            "uri": "spotify:track:4dPy2gfhjPh2ISbrjUWOmD",
-            "popularity": 32,
-            "albumName": "Paper Can't Wrap Fire",
-            "albumId": "22sHzBwbtdw2SRXQGNfpvc",
-            "foundAt": "2026-02-05T18:48:56.323Z"
-          }
-        },
-        {
-          "title": "Bach: Keyboard Concertos BWV 1052, 1053, 1054, 1056",
-          "artist": "Beatrice RanaAmsterdam Sinfonietta",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:48.645Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-05-09",
       "albums": [
         {
@@ -1726,6 +1609,125 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-05-16",
+      "albums": [
+        {
+          "title": "Better Dreaming",
+          "artist": "tUnE-yArDs",
+          "spotifyTrack": {
+            "id": "2DACCH3WlvR77DxBTBRkS0",
+            "name": "Heartbreak",
+            "uri": "spotify:track:2DACCH3WlvR77DxBTBRkS0",
+            "popularity": 29,
+            "albumName": "Better Dreaming",
+            "albumId": "0TmYypxPNSZe9UqAlQv8F3",
+            "foundAt": "2026-02-05T18:48:44.651Z"
+          }
+        },
+        {
+          "title": "Chuck D Presents Enemy Radio: Radio Armageddon",
+          "artist": "Chuck D",
+          "spotifyTrack": {
+            "id": "7qw4SwqI8n01TOo73Yf0ed",
+            "name": "Black Don't Dead (with Dj Too Tuff)",
+            "uri": "spotify:track:7qw4SwqI8n01TOo73Yf0ed",
+            "popularity": 11,
+            "albumName": "Chuck D Presents Enemy Radio: Radio Armageddon",
+            "albumId": "4rYaQjzVVVH5h1ZdwLHjZP",
+            "foundAt": "2026-02-05T18:48:46.285Z"
+          }
+        },
+        {
+          "title": "1978: Revenge of the Dragon",
+          "artist": "José James",
+          "spotifyTrack": {
+            "id": "64CRXUYkRYOE2VF6IU4jzY",
+            "name": "Rock With You",
+            "uri": "spotify:track:64CRXUYkRYOE2VF6IU4jzY",
+            "popularity": 39,
+            "albumName": "1978: Revenge of The Dragon",
+            "albumId": "485R0lCUZRApYWXnH2PAeh",
+            "foundAt": "2026-02-05T18:48:47.824Z"
+          }
+        },
+        {
+          "title": "Metalhorse",
+          "artist": "Billy Nomates",
+          "spotifyTrack": {
+            "id": "3ISMRtx1ajwYQlVbAs53dF",
+            "name": "The Test",
+            "uri": "spotify:track:3ISMRtx1ajwYQlVbAs53dF",
+            "popularity": 35,
+            "albumName": "Metalhorse",
+            "albumId": "5Z0r8TIEhBByMpQXwpaG5H",
+            "foundAt": "2026-02-05T18:48:49.278Z"
+          }
+        },
+        {
+          "title": "Flowers for the Living",
+          "artist": "Mourning [A] BLKstar",
+          "spotifyTrack": {
+            "id": "32vT2iuWKXun7QQ7BbS4r7",
+            "name": "Stop Lion 2",
+            "uri": "spotify:track:32vT2iuWKXun7QQ7BbS4r7",
+            "popularity": 14,
+            "albumName": "Flowers For The Living",
+            "albumId": "7zYC1f4LjyMVhzBOKtijFN",
+            "foundAt": "2026-02-05T18:48:51.002Z"
+          }
+        },
+        {
+          "title": "Caveman Wakes Up",
+          "artist": "Friendship",
+          "spotifyTrack": {
+            "id": "2SDt9c9f3roakTt6iO715k",
+            "name": "Free Association",
+            "uri": "spotify:track:2SDt9c9f3roakTt6iO715k",
+            "popularity": 46,
+            "albumName": "Caveman Wakes Up",
+            "albumId": "56BMarRYFHZ51ZVTyamBHk",
+            "foundAt": "2026-02-05T18:48:52.633Z"
+          }
+        },
+        {
+          "title": "Truth Is",
+          "artist": "Carolyn Wonderland",
+          "spotifyTrack": {
+            "id": "7b3PpkkxulPnCRidyktINg",
+            "name": "Truth Is",
+            "uri": "spotify:track:7b3PpkkxulPnCRidyktINg",
+            "popularity": 27,
+            "albumName": "Truth Is",
+            "albumId": "611yxBCQhq0G6ZkJHgmioi",
+            "foundAt": "2026-02-05T18:48:54.484Z"
+          }
+        },
+        {
+          "title": "Paper Can't Wrap Fire",
+          "artist": "Don Glori",
+          "spotifyTrack": {
+            "id": "4dPy2gfhjPh2ISbrjUWOmD",
+            "name": "Disaster",
+            "uri": "spotify:track:4dPy2gfhjPh2ISbrjUWOmD",
+            "popularity": 32,
+            "albumName": "Paper Can't Wrap Fire",
+            "albumId": "22sHzBwbtdw2SRXQGNfpvc",
+            "foundAt": "2026-02-05T18:48:56.323Z"
+          }
+        },
+        {
+          "title": "Bach: Keyboard Concertos BWV 1052, 1053, 1054, 1056",
+          "artist": "Beatrice RanaAmsterdam Sinfonietta",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:48.645Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-07T20:56:20.168Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-05-23",
       "albums": [

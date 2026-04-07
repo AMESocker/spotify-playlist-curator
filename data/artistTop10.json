@@ -2281,12 +2281,6 @@
         "spotify_id": "1Mxqyy3pSjf8kZZL4QVxS0"
       },
       {
-        "artist": "Celia Cruz",
-        "listeners": 749468,
-        "spotify_popularity": 63,
-        "spotify_id": "2weA6hhVqTIN2gSn9PUB9U"
-      },
-      {
         "artist": "Fela Kuti",
         "listeners": 714797,
         "spotify_popularity": 49,
@@ -2386,9 +2380,6 @@
         "artist": "Thundercat"
       },
       {
-        "artist": "Antibalas"
-      },
-      {
         "artist": "Orchestra Baobab"
       }
     ],
@@ -2447,6 +2438,20 @@
         "listeners": 1113102,
         "spotify_id": "5m8H6zSadhu1j9Yi04VLqD",
         "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Antibalas",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Celia Cruz",
+        "listeners": 749468,
+        "spotify_id": "2weA6hhVqTIN2gSn9PUB9U",
+        "recommended": false,
         "tracksAdded": 5
       }
     ]
