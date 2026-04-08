@@ -4351,5 +4351,23 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-04-07T20:56:20.170Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Sabrina Carpenter",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-08T01:48:14.670Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Laufey",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-08T01:48:16.111Z"
   }
 ]
