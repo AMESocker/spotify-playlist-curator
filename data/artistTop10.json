@@ -794,13 +794,6 @@
         "spotify_id": "7Eu1txygG6nJttLHbZdQOh"
       },
       {
-        "artist": "Arca",
-        "listeners": 18524280,
-        "recommended": true,
-        "spotify_popularity": 84,
-        "spotify_id": "4SsVbpTthjScTS7U2hmr1X"
-      },
-      {
         "artist": "Floating Points",
         "listeners": 404135,
         "recommended": true,
@@ -871,9 +864,6 @@
         "artist": "Oval"
       },
       {
-        "artist": "Labradford"
-      },
-      {
         "artist": "Loscil"
       },
       {
@@ -941,6 +931,20 @@
         "artist": "Jon Hopkins",
         "listeners": 577616,
         "spotify_id": "7yxi31szvlbwvKq9dYOmFI",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Labradford",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Arca",
+        "listeners": 18524280,
+        "spotify_id": "4SsVbpTthjScTS7U2hmr1X",
         "recommended": true,
         "tracksAdded": 5
       }

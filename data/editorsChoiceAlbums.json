@@ -1,126 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-05-09",
-      "albums": [
-        {
-          "title": "Pink Elephant",
-          "artist": "Arcade Fire",
-          "spotifyTrack": {
-            "id": "270dccP5Z3Lvb6Q02BjDcY",
-            "name": "Year of the Snake",
-            "uri": "spotify:track:270dccP5Z3Lvb6Q02BjDcY",
-            "popularity": 45,
-            "albumName": "Pink Elephant",
-            "albumId": "5qLTlCTZvN24Fm1nqd7XCV",
-            "foundAt": "2026-02-05T18:48:58.909Z"
-          }
-        },
-        {
-          "title": "Dreamsicle",
-          "artist": "Maren Morris",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:49.234Z"
-          }
-        },
-        {
-          "title": "Tall Tales",
-          "artist": "Mark PritchardThom Yorke",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:49.859Z"
-          }
-        },
-        {
-          "title": "Ill at Ease",
-          "artist": "Preoccupations",
-          "spotifyTrack": {
-            "id": "4bT5wkmbWCTzW5rMKCONYt",
-            "name": "Focus",
-            "uri": "spotify:track:4bT5wkmbWCTzW5rMKCONYt",
-            "popularity": 30,
-            "albumName": "Ill at ease",
-            "albumId": "7mXTfaEWYEkD7QlevZQvaQ",
-            "foundAt": "2026-02-05T18:49:02.670Z"
-          }
-        },
-        {
-          "title": "SLY LIVES! (aka The Burden of Black Genius) [Original Motion Picture Soundtrack]",
-          "artist": "Sly & the Family Stone",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:50.481Z"
-          }
-        },
-        {
-          "title": "GOLLIWOG",
-          "artist": "billy woods",
-          "spotifyTrack": {
-            "id": "77VBQKutkIrMfr7PPvZWdA",
-            "name": "Misery",
-            "uri": "spotify:track:77VBQKutkIrMfr7PPvZWdA",
-            "popularity": 44,
-            "albumName": "GOLLIWOG",
-            "albumId": "6YjoANrjcsf17p1OmWESfo",
-            "foundAt": "2026-02-05T18:49:04.993Z"
-          }
-        },
-        {
-          "title": "For the Love of It All",
-          "artist": "Brandon Woody",
-          "spotifyTrack": {
-            "id": "3hx6insLLZ8cU7gIs4xp5F",
-            "name": "Real Love Pt. 1",
-            "uri": "spotify:track:3hx6insLLZ8cU7gIs4xp5F",
-            "popularity": 32,
-            "albumName": "For The Love Of It All",
-            "albumId": "6Ug4LyNXrVc7W1B4qZlKG4",
-            "foundAt": "2026-02-05T18:49:06.663Z"
-          }
-        },
-        {
-          "title": "Bees in the Bonnet",
-          "artist": "Hedvig Mollestad Trio",
-          "spotifyTrack": {
-            "id": "73lWqW8cC2dQaJZdKxVzIK",
-            "name": "See See Bop",
-            "uri": "spotify:track:73lWqW8cC2dQaJZdKxVzIK",
-            "popularity": 21,
-            "albumName": "Bees In The Bonnet",
-            "albumId": "6y3hX8stL3jdbZyVqV0GMq",
-            "foundAt": "2026-02-05T18:49:08.389Z"
-          }
-        },
-        {
-          "title": "The World Is Still Here and So Are We",
-          "artist": "Mclusky",
-          "spotifyTrack": {
-            "id": "1ZIpnX9keX8JVXMk1074QV",
-            "name": "unpopular parts of a pig",
-            "uri": "spotify:track:1ZIpnX9keX8JVXMk1074QV",
-            "popularity": 23,
-            "albumName": "the world is still here and so are we",
-            "albumId": "7cXHybOyEtMJysB5nM5ovj",
-            "foundAt": "2026-02-05T18:49:09.997Z"
-          }
-        },
-        {
-          "title": "Even in Arcadia",
-          "artist": "Sleep Token",
-          "spotifyTrack": {
-            "id": "1QrbZhFYlViXd60g130vw1",
-            "name": "Caramel",
-            "uri": "spotify:track:1QrbZhFYlViXd60g130vw1",
-            "popularity": 77,
-            "albumName": "Even In Arcadia",
-            "albumId": "1lS7FeRcSUuIGqyg99UGpj",
-            "foundAt": "2026-02-05T18:49:11.680Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-05-02",
       "albums": [
         {
@@ -1609,6 +1489,128 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-05-09",
+      "albums": [
+        {
+          "title": "Pink Elephant",
+          "artist": "Arcade Fire",
+          "spotifyTrack": {
+            "id": "270dccP5Z3Lvb6Q02BjDcY",
+            "name": "Year of the Snake",
+            "uri": "spotify:track:270dccP5Z3Lvb6Q02BjDcY",
+            "popularity": 45,
+            "albumName": "Pink Elephant",
+            "albumId": "5qLTlCTZvN24Fm1nqd7XCV",
+            "foundAt": "2026-02-05T18:48:58.909Z"
+          }
+        },
+        {
+          "title": "Dreamsicle",
+          "artist": "Maren Morris",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:49.234Z"
+          }
+        },
+        {
+          "title": "Tall Tales",
+          "artist": "Mark PritchardThom Yorke",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:49.859Z"
+          }
+        },
+        {
+          "title": "Ill at Ease",
+          "artist": "Preoccupations",
+          "spotifyTrack": {
+            "id": "4bT5wkmbWCTzW5rMKCONYt",
+            "name": "Focus",
+            "uri": "spotify:track:4bT5wkmbWCTzW5rMKCONYt",
+            "popularity": 30,
+            "albumName": "Ill at ease",
+            "albumId": "7mXTfaEWYEkD7QlevZQvaQ",
+            "foundAt": "2026-02-05T18:49:02.670Z"
+          }
+        },
+        {
+          "title": "SLY LIVES! (aka The Burden of Black Genius) [Original Motion Picture Soundtrack]",
+          "artist": "Sly & the Family Stone",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:50.481Z"
+          }
+        },
+        {
+          "title": "GOLLIWOG",
+          "artist": "billy woods",
+          "spotifyTrack": {
+            "id": "77VBQKutkIrMfr7PPvZWdA",
+            "name": "Misery",
+            "uri": "spotify:track:77VBQKutkIrMfr7PPvZWdA",
+            "popularity": 44,
+            "albumName": "GOLLIWOG",
+            "albumId": "6YjoANrjcsf17p1OmWESfo",
+            "foundAt": "2026-02-05T18:49:04.993Z"
+          }
+        },
+        {
+          "title": "For the Love of It All",
+          "artist": "Brandon Woody",
+          "spotifyTrack": {
+            "id": "3hx6insLLZ8cU7gIs4xp5F",
+            "name": "Real Love Pt. 1",
+            "uri": "spotify:track:3hx6insLLZ8cU7gIs4xp5F",
+            "popularity": 32,
+            "albumName": "For The Love Of It All",
+            "albumId": "6Ug4LyNXrVc7W1B4qZlKG4",
+            "foundAt": "2026-02-05T18:49:06.663Z"
+          }
+        },
+        {
+          "title": "Bees in the Bonnet",
+          "artist": "Hedvig Mollestad Trio",
+          "spotifyTrack": {
+            "id": "73lWqW8cC2dQaJZdKxVzIK",
+            "name": "See See Bop",
+            "uri": "spotify:track:73lWqW8cC2dQaJZdKxVzIK",
+            "popularity": 21,
+            "albumName": "Bees In The Bonnet",
+            "albumId": "6y3hX8stL3jdbZyVqV0GMq",
+            "foundAt": "2026-02-05T18:49:08.389Z"
+          }
+        },
+        {
+          "title": "The World Is Still Here and So Are We",
+          "artist": "Mclusky",
+          "spotifyTrack": {
+            "id": "1ZIpnX9keX8JVXMk1074QV",
+            "name": "unpopular parts of a pig",
+            "uri": "spotify:track:1ZIpnX9keX8JVXMk1074QV",
+            "popularity": 23,
+            "albumName": "the world is still here and so are we",
+            "albumId": "7cXHybOyEtMJysB5nM5ovj",
+            "foundAt": "2026-02-05T18:49:09.997Z"
+          }
+        },
+        {
+          "title": "Even in Arcadia",
+          "artist": "Sleep Token",
+          "spotifyTrack": {
+            "id": "1QrbZhFYlViXd60g130vw1",
+            "name": "Caramel",
+            "uri": "spotify:track:1QrbZhFYlViXd60g130vw1",
+            "popularity": 77,
+            "albumName": "Even In Arcadia",
+            "albumId": "1lS7FeRcSUuIGqyg99UGpj",
+            "foundAt": "2026-02-05T18:49:11.680Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-08T19:08:46.231Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-05-16",
       "albums": [
