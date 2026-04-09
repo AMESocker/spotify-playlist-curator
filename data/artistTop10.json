@@ -533,6 +533,24 @@
   "Reggae / World ": {
     "not_added": [
       {
+        "artist": "William Onyeabor"
+      },
+      {
+        "artist": "Orchestra Baobab"
+      },
+      {
+        "artist": "Prince Far I"
+      },
+      {
+        "artist": "Prince Far I"
+      },
+      {
+        "artist": "Ali Farka Touré"
+      },
+      {
+        "artist": "Ebo Taylor"
+      },
+      {
         "artist": "Mdou Moctar",
         "listeners": 161193,
         "recommended": true,
@@ -545,9 +563,6 @@
         "recommended": true,
         "spotify_popularity": 50,
         "spotify_id": "7HGFXtBhRq3g1Ma3nH4Rgv"
-      },
-      {
-        "artist": "Ebo Taylor"
       },
       {
         "artist": "Max Romeo"
@@ -632,22 +647,10 @@
         "artist": "Miriam Makeba"
       },
       {
-        "artist": "Ali Farka Touré"
-      },
-      {
-        "artist": "Orchestra Baobab"
-      },
-      {
         "artist": "Toumani Diabaté"
       },
       {
         "artist": "Cedric Myton"
-      },
-      {
-        "artist": "William Onyeabor"
-      },
-      {
-        "artist": "Prince Far I"
       },
       {
         "artist": "Bunny Wailer"
