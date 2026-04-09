@@ -4525,5 +4525,23 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-04-09T02:15:30.874Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Download Festival",
+    "artist": "Ankor",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-09T11:08:22.790Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Download Festival",
+    "artist": "Stampin' Ground",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-09T11:08:24.904Z"
   }
 ]
