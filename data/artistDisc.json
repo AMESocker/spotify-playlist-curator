@@ -1420,11 +1420,12 @@
         "To the Faithful Departed (1996)",
         "Bury the Hatchet (1999)",
         "Wake Up and Smell the Coffee (2001)",
-        "Roses (2012)",
         "Something Else (2017)",
         "In the End (2019)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Roses (2012)"
+      ]
     },
     {
       "Artist": "Bon Iver",
