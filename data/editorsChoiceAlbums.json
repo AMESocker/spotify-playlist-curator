@@ -1,131 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-05-02",
-      "albums": [
-        {
-          "title": "Evangeline vs. The Machine",
-          "artist": "Eric Church",
-          "spotifyTrack": {
-            "id": "0aJHZeX4rMCOXpo1LXXfBl",
-            "name": "Hands Of Time",
-            "uri": "spotify:track:0aJHZeX4rMCOXpo1LXXfBl",
-            "popularity": 50,
-            "albumName": "Evangeline vs. The Machine",
-            "albumId": "4wJxbo5ycw2j1cDM0LOiMl",
-            "foundAt": "2026-02-05T18:49:13.422Z"
-          }
-        },
-        {
-          "title": "The Scholars",
-          "artist": "Car Seat Headrest",
-          "spotifyTrack": {
-            "id": "2HKHccmnwpsx0FDGiehYoi",
-            "name": "The Catastrophe (Good Luck With That, Man)",
-            "uri": "spotify:track:2HKHccmnwpsx0FDGiehYoi",
-            "popularity": 44,
-            "albumName": "The Scholars",
-            "albumId": "3EuXbeOZZukUbq4ZdreJzV",
-            "foundAt": "2026-02-05T18:49:14.960Z"
-          }
-        },
-        {
-          "title": "Animaru",
-          "artist": "Mei Semones",
-          "spotifyTrack": {
-            "id": "4HPd9WMnQqp3xXAOYeGexw",
-            "name": "Dumb Feeling",
-            "uri": "spotify:track:4HPd9WMnQqp3xXAOYeGexw",
-            "popularity": 49,
-            "albumName": "Animaru",
-            "albumId": "6giorr9WTWilWHmD0Ox4ow",
-            "foundAt": "2026-02-05T18:49:16.699Z"
-          }
-        },
-        {
-          "title": "Lucius",
-          "artist": "Lucius",
-          "spotifyTrack": {
-            "id": "3eczqzv8ScyR9VjHjD3kjl",
-            "name": "Old Tape (feat. Adam Granduciel)",
-            "uri": "spotify:track:3eczqzv8ScyR9VjHjD3kjl",
-            "popularity": 40,
-            "albumName": "Lucius",
-            "albumId": "06JimjqlVKRMI05IhQt2kN",
-            "foundAt": "2026-02-05T18:49:18.339Z"
-          }
-        },
-        {
-          "title": "Iris Silver Mist",
-          "artist": "Jenny Hval",
-          "spotifyTrack": {
-            "id": "3iFjxzGbPZZwJ6yD0Jbr3y",
-            "name": "To be a rose",
-            "uri": "spotify:track:3iFjxzGbPZZwJ6yD0Jbr3y",
-            "popularity": 31,
-            "albumName": "Iris Silver Mist",
-            "albumId": "2eMQz1VNYCVSJ8amR0AgQX",
-            "foundAt": "2026-02-05T18:49:19.977Z"
-          }
-        },
-        {
-          "title": "Lake Fire",
-          "artist": "Loscil",
-          "spotifyTrack": {
-            "id": "4ZZvjhKMFvkzrc8cNFaNnK",
-            "name": "Bell Flame",
-            "uri": "spotify:track:4ZZvjhKMFvkzrc8cNFaNnK",
-            "popularity": 21,
-            "albumName": "Lake Fire",
-            "albumId": "0mix5UIlqNljJn6HXcRD5E",
-            "foundAt": "2026-02-05T18:49:21.817Z"
-          }
-        },
-        {
-          "title": "The Road to the Sea",
-          "artist": "The Night MailLouis Philippe",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:51.060Z"
-          }
-        },
-        {
-          "title": "Cuentas Pendientes",
-          "artist": "BunburyEnrique Bunbury",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:51.637Z"
-          }
-        },
-        {
-          "title": "Hawalat",
-          "artist": "Charif Megarbane",
-          "spotifyTrack": {
-            "id": "3QR6IaoxtJLKzZXvwtFxwV",
-            "name": "East of What",
-            "uri": "spotify:track:3QR6IaoxtJLKzZXvwtFxwV",
-            "popularity": 41,
-            "albumName": "Hawalat (Habibi Funk 030)",
-            "albumId": "0J8KN0S6F1HnOIMRWrLjdv",
-            "foundAt": "2026-02-05T18:49:24.996Z"
-          }
-        },
-        {
-          "title": "Love & Light",
-          "artist": "Maddie & Tae",
-          "spotifyTrack": {
-            "id": "2Of9MIQxBMKUYeioINcSoV",
-            "name": "Heart They Didn't Break",
-            "uri": "spotify:track:2Of9MIQxBMKUYeioINcSoV",
-            "popularity": 45,
-            "albumName": "Love & Light",
-            "albumId": "6HX6IOpNWjIVoctAFCe1CW",
-            "foundAt": "2026-02-05T18:49:26.631Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-04-25",
       "albums": [
         {
@@ -1489,6 +1364,133 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-05-02",
+      "albums": [
+        {
+          "title": "Evangeline vs. The Machine",
+          "artist": "Eric Church",
+          "spotifyTrack": {
+            "id": "0aJHZeX4rMCOXpo1LXXfBl",
+            "name": "Hands Of Time",
+            "uri": "spotify:track:0aJHZeX4rMCOXpo1LXXfBl",
+            "popularity": 50,
+            "albumName": "Evangeline vs. The Machine",
+            "albumId": "4wJxbo5ycw2j1cDM0LOiMl",
+            "foundAt": "2026-02-05T18:49:13.422Z"
+          }
+        },
+        {
+          "title": "The Scholars",
+          "artist": "Car Seat Headrest",
+          "spotifyTrack": {
+            "id": "2HKHccmnwpsx0FDGiehYoi",
+            "name": "The Catastrophe (Good Luck With That, Man)",
+            "uri": "spotify:track:2HKHccmnwpsx0FDGiehYoi",
+            "popularity": 44,
+            "albumName": "The Scholars",
+            "albumId": "3EuXbeOZZukUbq4ZdreJzV",
+            "foundAt": "2026-02-05T18:49:14.960Z"
+          }
+        },
+        {
+          "title": "Animaru",
+          "artist": "Mei Semones",
+          "spotifyTrack": {
+            "id": "4HPd9WMnQqp3xXAOYeGexw",
+            "name": "Dumb Feeling",
+            "uri": "spotify:track:4HPd9WMnQqp3xXAOYeGexw",
+            "popularity": 49,
+            "albumName": "Animaru",
+            "albumId": "6giorr9WTWilWHmD0Ox4ow",
+            "foundAt": "2026-02-05T18:49:16.699Z"
+          }
+        },
+        {
+          "title": "Lucius",
+          "artist": "Lucius",
+          "spotifyTrack": {
+            "id": "3eczqzv8ScyR9VjHjD3kjl",
+            "name": "Old Tape (feat. Adam Granduciel)",
+            "uri": "spotify:track:3eczqzv8ScyR9VjHjD3kjl",
+            "popularity": 40,
+            "albumName": "Lucius",
+            "albumId": "06JimjqlVKRMI05IhQt2kN",
+            "foundAt": "2026-02-05T18:49:18.339Z"
+          }
+        },
+        {
+          "title": "Iris Silver Mist",
+          "artist": "Jenny Hval",
+          "spotifyTrack": {
+            "id": "3iFjxzGbPZZwJ6yD0Jbr3y",
+            "name": "To be a rose",
+            "uri": "spotify:track:3iFjxzGbPZZwJ6yD0Jbr3y",
+            "popularity": 31,
+            "albumName": "Iris Silver Mist",
+            "albumId": "2eMQz1VNYCVSJ8amR0AgQX",
+            "foundAt": "2026-02-05T18:49:19.977Z"
+          }
+        },
+        {
+          "title": "Lake Fire",
+          "artist": "Loscil",
+          "spotifyTrack": {
+            "id": "4ZZvjhKMFvkzrc8cNFaNnK",
+            "name": "Bell Flame",
+            "uri": "spotify:track:4ZZvjhKMFvkzrc8cNFaNnK",
+            "popularity": 21,
+            "albumName": "Lake Fire",
+            "albumId": "0mix5UIlqNljJn6HXcRD5E",
+            "foundAt": "2026-02-05T18:49:21.817Z"
+          }
+        },
+        {
+          "title": "The Road to the Sea",
+          "artist": "The Night MailLouis Philippe",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:51.060Z"
+          }
+        },
+        {
+          "title": "Cuentas Pendientes",
+          "artist": "BunburyEnrique Bunbury",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:51.637Z"
+          }
+        },
+        {
+          "title": "Hawalat",
+          "artist": "Charif Megarbane",
+          "spotifyTrack": {
+            "id": "3QR6IaoxtJLKzZXvwtFxwV",
+            "name": "East of What",
+            "uri": "spotify:track:3QR6IaoxtJLKzZXvwtFxwV",
+            "popularity": 41,
+            "albumName": "Hawalat (Habibi Funk 030)",
+            "albumId": "0J8KN0S6F1HnOIMRWrLjdv",
+            "foundAt": "2026-02-05T18:49:24.996Z"
+          }
+        },
+        {
+          "title": "Love & Light",
+          "artist": "Maddie & Tae",
+          "spotifyTrack": {
+            "id": "2Of9MIQxBMKUYeioINcSoV",
+            "name": "Heart They Didn't Break",
+            "uri": "spotify:track:2Of9MIQxBMKUYeioINcSoV",
+            "popularity": 45,
+            "albumName": "Love & Light",
+            "albumId": "6HX6IOpNWjIVoctAFCe1CW",
+            "foundAt": "2026-02-05T18:49:26.631Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-09T02:15:30.872Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-05-09",
       "albums": [

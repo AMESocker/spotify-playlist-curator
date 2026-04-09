@@ -536,9 +536,6 @@
         "artist": "William Onyeabor"
       },
       {
-        "artist": "Miriam Makeba"
-      },
-      {
         "artist": "Toots and the Maytals",
         "listeners": 501550,
         "recommended": true,
@@ -633,9 +630,6 @@
       },
       {
         "artist": "Barrington Levy"
-      },
-      {
-        "artist": "Junior Murvin"
       },
       {
         "artist": "Black Uhuru"
@@ -734,6 +728,20 @@
         "listeners": 113762,
         "spotify_id": "0DoNSZa1R1DV69oY1djlbf",
         "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Junior Murvin",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Miriam Makeba",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
         "tracksAdded": 5
       }
     ]

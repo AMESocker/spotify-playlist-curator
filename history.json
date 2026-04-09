@@ -4496,5 +4496,34 @@
     "sourceFile": "data/smoothJazz.json",
     "strategy": "smoothJazz",
     "timestamp": "2026-04-09T00:25:09.324Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Reggae / World ",
+    "artist": "Junior Murvin",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-09T02:15:27.220Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Reggae / World ",
+    "artist": "Miriam Makeba",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-09T02:15:27.537Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-05-02",
+    "tracksAdded": 8,
+    "tracksSkipped": 2,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-04-09T02:15:30.874Z"
   }
 ]
