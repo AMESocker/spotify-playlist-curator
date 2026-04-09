@@ -17,7 +17,6 @@ import { runArtistBatch } from "./topTracksUtil.js";
 
 // Todo - Get new albums from Wikipedia from dates more then 7 days ago. If Artist is from new albums or all music is on Artist disc add full album otherwise add top track.
 // Todo - Add Disney/Pixar Movie Soundtracks source
-// Todo - Add Random Index to ArtistDisc strategy to add some variability (currently just picks first album).
 // Todo - Add non-explicit tracks to a second clean playlist (filter trackItems by explicit flag in addTracks).
 // Todo - Add retry logic for Spotify API calls in case of transient errors (e.g. 429 rate limits or network issues).
 
@@ -74,12 +73,12 @@ const dataSources = [
     originalPosition: 6,
   },
 ];
-  /*{
-    name: "spotifyTotmPlaylists",
-    file: "data/spotifyPlaylists.json",
-    strategy: "spotifyPlaylist",
-    originalPosition: 5,
-  },*/
+/*{
+  name: "spotifyTotmPlaylists",
+  file: "data/spotifyPlaylists.json",
+  strategy: "spotifyPlaylist",
+  originalPosition: 5,
+},*/
 const SOURCE_INDEX_FILE = "data/sourceIndex.json";
 const HISTORY_FILE = "history.json";
 const MAX_PLAYLIST_SIZE = 400;
@@ -138,6 +137,19 @@ async function wouldExceedLimit(tracksToAdd) {
     return true;
   }
   return false;
+}
+
+function parseAlbumAndDisc(input) {
+  const match = input.match(/(.+?)\s+Disc\s+(\d+)/i);
+
+  if (!match) {
+    return { album: input, disc: null };
+  }
+
+  return {
+    album: match[1].trim(),
+    disc: parseInt(match[2], 10)
+  };
 }
 
 //* ─── FAIRNESS STRATEGY ───────────────────────────────────
@@ -424,7 +436,11 @@ async function handleAlbum(source, data) {
 
   console.log(`Artist: ${pick.artist}\nAlbum: ${pick.nextAlbum}`);
 
-  const albumInfo = await getAlbumTrackCount(pick.artist, pick.nextAlbum);
+  // const albumInfo = await getAlbumTrackCount(pick.artist, pick.nextAlbum);
+  const { album, disc } = parseAlbumAndDisc(pick.nextAlbum);
+
+  const albumInfo = await getAlbumTrackCount(pick.artist, album);
+
   if (!albumInfo) {
     console.log("⚠️ Album not found on Spotify.");
     if (source.strategy === "sequential") {
@@ -440,14 +456,34 @@ async function handleAlbum(source, data) {
 
 
   const spotify = getSpotify();
-  const tracks = await spotify.getAlbumTracks(albumInfo.id, { limit: 50 });
-  let uris = tracks.body.items.map(t => t.uri);
+
+  // const tracks = await spotify.getAlbumTracks(albumInfo.id, { limit: 50 });
+  // let uris = tracks.body.items.map(t => t.uri);
+
+  let allTracks = [];
+  let offset = 0;
+
+  while (true) {
+    const res = await spotify.getAlbumTracks(albumInfo.id, { limit: 50, offset });
+    allTracks.push(...res.body.items);
+
+    if (res.body.items.length < 50) break;
+    offset += 50;
+  }
+
+  let selectedTracks = allTracks;
+
+  if (disc !== null) {
+    selectedTracks = allTracks.filter(t => t.disc_number === disc);
+
+    console.log(`💿 Adding Disc ${disc} (${selectedTracks.length} tracks)`);
+  }
 
   const originalCount = albumInfo.totalTracks > 30
     ? await getOriginalTrackCount(pick.artist, pick.nextAlbum)
     : null;
 
-  if (originalCount && originalCount < uris.length) {
+  if (originalCount && disc === null && originalCount < uris.length) {
     console.log(`✂️  Trimming to ${originalCount} original tracks (Spotify has ${uris.length})`);
     uris = uris.slice(0, originalCount);
   }
