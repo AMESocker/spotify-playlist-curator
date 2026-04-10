@@ -1,134 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-04-25",
-      "albums": [
-        {
-          "title": "Skeletá",
-          "artist": "Ghost",
-          "spotifyTrack": {
-            "id": "4TjCaQsPQhGZUk0Hls4O3Y",
-            "name": "Lachryma",
-            "uri": "spotify:track:4TjCaQsPQhGZUk0Hls4O3Y",
-            "popularity": 65,
-            "albumName": "Skeletá",
-            "albumId": "2PFJKjBqXpYrRcdClhfcnX",
-            "foundAt": "2026-02-05T18:49:28.273Z"
-          }
-        },
-        {
-          "title": "Mortal Primetime",
-          "artist": "Sunflower Bean",
-          "spotifyTrack": {
-            "id": "1pTxigkaY7ofOZOOLZinj4",
-            "name": "Nothing Romantic",
-            "uri": "spotify:track:1pTxigkaY7ofOZOOLZinj4",
-            "popularity": 27,
-            "albumName": "Mortal Primetime",
-            "albumId": "0DGyOzikFKNk5Zzib44KGv",
-            "foundAt": "2026-02-05T18:49:29.807Z"
-          }
-        },
-        {
-          "title": "The Film",
-          "artist": "Moor MotherSumac",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:52.253Z"
-          }
-        },
-        {
-          "title": "Noble and Godlike in Ruin",
-          "artist": "Deerhoof",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:52.873Z"
-          }
-        },
-        {
-          "title": "Time Indefinite",
-          "artist": "William Tyler",
-          "spotifyTrack": {
-            "id": "4bhj3AAh7CN4t1CE3Lgy1d",
-            "name": "Howling at the Second Moon",
-            "uri": "spotify:track:4bhj3AAh7CN4t1CE3Lgy1d",
-            "popularity": 23,
-            "albumName": "Time Indefinite",
-            "albumId": "4EtYy5q77reAmSNvLkuyYq",
-            "foundAt": "2026-02-05T18:49:32.702Z"
-          }
-        },
-        {
-          "title": "Totality",
-          "artist": "Bitchin BajasNatural Information Society",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:53.470Z"
-          }
-        },
-        {
-          "title": "Family",
-          "artist": "Southern Avenue",
-          "spotifyTrack": {
-            "id": "7fArKeQ64ounmvV2dDkR1g",
-            "name": "So Much Love",
-            "uri": "spotify:track:7fArKeQ64ounmvV2dDkR1g",
-            "popularity": 31,
-            "albumName": "Family",
-            "albumId": "0IMJyZewJS5Lj2WHBG23J3",
-            "foundAt": "2026-02-05T18:49:34.941Z"
-          }
-        },
-        {
-          "title": "Luster",
-          "artist": "Maria Somerville",
-          "spotifyTrack": {
-            "id": "5Pr0dZZjoGqnWzlASF1ESU",
-            "name": "Garden",
-            "uri": "spotify:track:5Pr0dZZjoGqnWzlASF1ESU",
-            "popularity": 40,
-            "albumName": "Luster",
-            "albumId": "6vRCwr31pNFnURP8mj53KP",
-            "foundAt": "2026-02-05T18:49:36.664Z"
-          }
-        },
-        {
-          "title": "Gloria",
-          "artist": "Dustin Wong",
-          "spotifyTrack": {
-            "id": "1tuACERJlgIdePK1sN7Zi5",
-            "name": "Morning Roses",
-            "uri": "spotify:track:1tuACERJlgIdePK1sN7Zi5",
-            "popularity": 7,
-            "albumName": "Gloria",
-            "albumId": "2q91LApKEy9WNV0dAWZNZS",
-            "foundAt": "2026-02-05T18:49:38.279Z"
-          }
-        },
-        {
-          "title": "Paper Doll",
-          "artist": "Samantha Fish",
-          "spotifyTrack": {
-            "id": "3v8ExUN1GwEWVAJIZdEIFA",
-            "name": "Sweet Southern Sounds",
-            "uri": "spotify:track:3v8ExUN1GwEWVAJIZdEIFA",
-            "popularity": 38,
-            "albumName": "Paper Doll",
-            "albumId": "0Gp2WizYQ34bXTL5vA85Fq",
-            "foundAt": "2026-02-05T18:49:40.061Z"
-          }
-        },
-        {
-          "title": "Khachaturian",
-          "artist": "Jean-Yves ThibaudetGustavo DudamelLos Angeles Philharmonic Orchestra",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-04T10:24:54.084Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-04-18",
       "albums": [
         {
@@ -1364,6 +1236,136 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-04-25",
+      "albums": [
+        {
+          "title": "Skeletá",
+          "artist": "Ghost",
+          "spotifyTrack": {
+            "id": "4TjCaQsPQhGZUk0Hls4O3Y",
+            "name": "Lachryma",
+            "uri": "spotify:track:4TjCaQsPQhGZUk0Hls4O3Y",
+            "popularity": 65,
+            "albumName": "Skeletá",
+            "albumId": "2PFJKjBqXpYrRcdClhfcnX",
+            "foundAt": "2026-02-05T18:49:28.273Z"
+          }
+        },
+        {
+          "title": "Mortal Primetime",
+          "artist": "Sunflower Bean",
+          "spotifyTrack": {
+            "id": "1pTxigkaY7ofOZOOLZinj4",
+            "name": "Nothing Romantic",
+            "uri": "spotify:track:1pTxigkaY7ofOZOOLZinj4",
+            "popularity": 27,
+            "albumName": "Mortal Primetime",
+            "albumId": "0DGyOzikFKNk5Zzib44KGv",
+            "foundAt": "2026-02-05T18:49:29.807Z"
+          }
+        },
+        {
+          "title": "The Film",
+          "artist": "Moor MotherSumac",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:52.253Z"
+          }
+        },
+        {
+          "title": "Noble and Godlike in Ruin",
+          "artist": "Deerhoof",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:52.873Z"
+          }
+        },
+        {
+          "title": "Time Indefinite",
+          "artist": "William Tyler",
+          "spotifyTrack": {
+            "id": "4bhj3AAh7CN4t1CE3Lgy1d",
+            "name": "Howling at the Second Moon",
+            "uri": "spotify:track:4bhj3AAh7CN4t1CE3Lgy1d",
+            "popularity": 23,
+            "albumName": "Time Indefinite",
+            "albumId": "4EtYy5q77reAmSNvLkuyYq",
+            "foundAt": "2026-02-05T18:49:32.702Z"
+          }
+        },
+        {
+          "title": "Totality",
+          "artist": "Bitchin BajasNatural Information Society",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:53.470Z"
+          }
+        },
+        {
+          "title": "Family",
+          "artist": "Southern Avenue",
+          "spotifyTrack": {
+            "id": "7fArKeQ64ounmvV2dDkR1g",
+            "name": "So Much Love",
+            "uri": "spotify:track:7fArKeQ64ounmvV2dDkR1g",
+            "popularity": 31,
+            "albumName": "Family",
+            "albumId": "0IMJyZewJS5Lj2WHBG23J3",
+            "foundAt": "2026-02-05T18:49:34.941Z"
+          }
+        },
+        {
+          "title": "Luster",
+          "artist": "Maria Somerville",
+          "spotifyTrack": {
+            "id": "5Pr0dZZjoGqnWzlASF1ESU",
+            "name": "Garden",
+            "uri": "spotify:track:5Pr0dZZjoGqnWzlASF1ESU",
+            "popularity": 40,
+            "albumName": "Luster",
+            "albumId": "6vRCwr31pNFnURP8mj53KP",
+            "foundAt": "2026-02-05T18:49:36.664Z"
+          }
+        },
+        {
+          "title": "Gloria",
+          "artist": "Dustin Wong",
+          "spotifyTrack": {
+            "id": "1tuACERJlgIdePK1sN7Zi5",
+            "name": "Morning Roses",
+            "uri": "spotify:track:1tuACERJlgIdePK1sN7Zi5",
+            "popularity": 7,
+            "albumName": "Gloria",
+            "albumId": "2q91LApKEy9WNV0dAWZNZS",
+            "foundAt": "2026-02-05T18:49:38.279Z"
+          }
+        },
+        {
+          "title": "Paper Doll",
+          "artist": "Samantha Fish",
+          "spotifyTrack": {
+            "id": "3v8ExUN1GwEWVAJIZdEIFA",
+            "name": "Sweet Southern Sounds",
+            "uri": "spotify:track:3v8ExUN1GwEWVAJIZdEIFA",
+            "popularity": 38,
+            "albumName": "Paper Doll",
+            "albumId": "0Gp2WizYQ34bXTL5vA85Fq",
+            "foundAt": "2026-02-05T18:49:40.061Z"
+          }
+        },
+        {
+          "title": "Khachaturian",
+          "artist": "Jean-Yves ThibaudetGustavo DudamelLos Angeles Philharmonic Orchestra",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-04T10:24:54.084Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-10T11:04:27.642Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-05-02",
       "albums": [

@@ -2115,9 +2115,6 @@
         "artist": "Dizzy Gillespie "
       },
       {
-        "artist": "Robert Glasper"
-      },
-      {
         "artist": "Miles Davis",
         "listeners": 2795036,
         "recommended": true,
@@ -2176,9 +2173,6 @@
         "recommended": true,
         "spotify_popularity": 63,
         "spotify_id": "1YzCsTRb22dQkh9lghPIrp"
-      },
-      {
-        "artist": "Art Blakey "
       },
       {
         "artist": "Cannonball Adderley "
@@ -2277,6 +2271,20 @@
         "listeners": 809733,
         "spotify_id": "2ZvrvbQNrHKwjT7qfGFFUW",
         "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Robert Glasper",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Art Blakey ",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
         "tracksAdded": 5
       }
     ]
