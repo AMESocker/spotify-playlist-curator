@@ -458,7 +458,7 @@ async function handleAlbum(source, data) {
   const spotify = getSpotify();
 
   // const tracks = await spotify.getAlbumTracks(albumInfo.id, { limit: 50 });
-  // let uris = tracks.body.items.map(t => t.uri);
+  let uris = tracks.body.items.map(t => t.uri);
 
   let allTracks = [];
   let offset = 0;
