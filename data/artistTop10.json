@@ -2067,13 +2067,31 @@
   "Jazz / Blues": {
     "not_added": [
       {
+        "artist": "Wes Montgomery "
+      },
+      {
+        "artist": "Bill Evans "
+      },
+      {
+        "artist": "Ella Fitzgerald",
+        "listeners": 2792082,
+        "spotify_popularity": 68,
+        "spotify_id": "5V0MlUE1Bft0mbLlND7FJz"
+      },
+      {
+        "artist": "Count Basie",
+        "listeners": 417750,
+        "spotify_popularity": 60,
+        "spotify_id": "2jFZlvIea42ZvcCw4OeEdA"
+      },
+      {
+        "artist": "Sarah Vaughan "
+      },
+      {
         "artist": "John Lee Hooker",
         "listeners": 932096,
         "spotify_popularity": 53,
         "spotify_id": "1yNOfXGQNGjAynk77wv85x"
-      },
-      {
-        "artist": "Bill Evans "
       },
       {
         "artist": "Brian Eno",
@@ -2100,9 +2118,6 @@
         "artist": "Robert Glasper"
       },
       {
-        "artist": "Wes Montgomery "
-      },
-      {
         "artist": "Miles Davis",
         "listeners": 2795036,
         "recommended": true,
@@ -2121,18 +2136,6 @@
         "listeners": 589427,
         "spotify_popularity": 55,
         "spotify_id": "2aAHdB5HweT3mFcRzm0swc"
-      },
-      {
-        "artist": "Ella Fitzgerald",
-        "listeners": 2792082,
-        "spotify_popularity": 68,
-        "spotify_id": "5V0MlUE1Bft0mbLlND7FJz"
-      },
-      {
-        "artist": "Count Basie",
-        "listeners": 417750,
-        "spotify_popularity": 60,
-        "spotify_id": "2jFZlvIea42ZvcCw4OeEdA"
       },
       {
         "artist": "Muddy Waters",
@@ -2188,9 +2191,6 @@
       },
       {
         "artist": "Oscar Peterson"
-      },
-      {
-        "artist": "Sarah Vaughan "
       },
       {
         "artist": "Kamasi Washington"
