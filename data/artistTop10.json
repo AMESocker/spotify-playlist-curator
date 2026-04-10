@@ -2067,7 +2067,31 @@
   "Jazz / Blues": {
     "not_added": [
       {
+        "artist": "John Lee Hooker",
+        "listeners": 932096,
+        "spotify_popularity": 53,
+        "spotify_id": "1yNOfXGQNGjAynk77wv85x"
+      },
+      {
+        "artist": "Bill Evans "
+      },
+      {
+        "artist": "Brian Eno",
+        "listeners": 852011,
+        "spotify_popularity": 60,
+        "spotify_id": "7MSUfLeTdDEoZiJPDSBXgi"
+      },
+      {
+        "artist": "B.B. King",
+        "listeners": 2886325,
+        "spotify_popularity": 60,
+        "spotify_id": "5xLSa7l4IV1gsQfhAMvl0U"
+      },
+      {
         "artist": "Stan Getz "
+      },
+      {
+        "artist": "Koko Taylor"
       },
       {
         "artist": "Dizzy Gillespie "
@@ -2093,18 +2117,6 @@
         "spotify_id": "4F7Q5NV6h5TSwCainz8S5A"
       },
       {
-        "artist": "John Lee Hooker",
-        "listeners": 932096,
-        "spotify_popularity": 53,
-        "spotify_id": "1yNOfXGQNGjAynk77wv85x"
-      },
-      {
-        "artist": "Brian Eno",
-        "listeners": 852011,
-        "spotify_popularity": 60,
-        "spotify_id": "7MSUfLeTdDEoZiJPDSBXgi"
-      },
-      {
         "artist": "Glenn Miller",
         "listeners": 589427,
         "spotify_popularity": 55,
@@ -2121,12 +2133,6 @@
         "listeners": 417750,
         "spotify_popularity": 60,
         "spotify_id": "2jFZlvIea42ZvcCw4OeEdA"
-      },
-      {
-        "artist": "B.B. King",
-        "listeners": 2886325,
-        "spotify_popularity": 60,
-        "spotify_id": "5xLSa7l4IV1gsQfhAMvl0U"
       },
       {
         "artist": "Muddy Waters",
@@ -2181,9 +2187,6 @@
         "artist": "Sonny Rollins "
       },
       {
-        "artist": "Bill Evans "
-      },
-      {
         "artist": "Oscar Peterson"
       },
       {
@@ -2200,9 +2203,6 @@
       },
       {
         "artist": "T-Bone Walker"
-      },
-      {
-        "artist": "Koko Taylor"
       },
       {
         "artist": "Elmore James"
