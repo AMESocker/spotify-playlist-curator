@@ -2067,6 +2067,25 @@
   "Jazz / Blues": {
     "not_added": [
       {
+        "artist": "Stan Getz "
+      },
+      {
+        "artist": "Dizzy Gillespie "
+      },
+      {
+        "artist": "Robert Glasper"
+      },
+      {
+        "artist": "Wes Montgomery "
+      },
+      {
+        "artist": "Miles Davis",
+        "listeners": 2795036,
+        "recommended": true,
+        "spotify_popularity": 63,
+        "spotify_id": "0kbYTNQb4Pb1rPbbaF0pT4"
+      },
+      {
         "artist": "Duke Ellington",
         "listeners": 985519,
         "recommended": true,
@@ -2122,13 +2141,6 @@
         "spotify_id": "5dCuFngSPyOOnTAvrC7v2s"
       },
       {
-        "artist": "Miles Davis",
-        "listeners": 2795036,
-        "recommended": true,
-        "spotify_popularity": 63,
-        "spotify_id": "0kbYTNQb4Pb1rPbbaF0pT4"
-      },
-      {
         "artist": "John Coltrane",
         "listeners": 1874891,
         "recommended": true,
@@ -2175,22 +2187,10 @@
         "artist": "Oscar Peterson"
       },
       {
-        "artist": "Wes Montgomery "
-      },
-      {
-        "artist": "Stan Getz "
-      },
-      {
-        "artist": "Dizzy Gillespie "
-      },
-      {
         "artist": "Sarah Vaughan "
       },
       {
         "artist": "Kamasi Washington"
-      },
-      {
-        "artist": "Robert Glasper"
       },
       {
         "artist": "Howlin' Wolf"

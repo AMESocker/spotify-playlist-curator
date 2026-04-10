@@ -131,11 +131,6 @@
       "year": 2008
     },
     {
-      "song": "Let It Go",
-      "artist": "Boney James",
-      "year": 2008
-    },
-    {
       "song": "Blue Water",
       "artist": "Eric Marienthal",
       "year": 2008
@@ -358,11 +353,6 @@
     {
       "song": "Boom Town",
       "artist": "Richard Elliot",
-      "year": 2011
-    },
-    {
-      "song": "Boom Town",
-      "artist": "Richard Elliot",
       "year": 2012
     },
     {
@@ -423,11 +413,6 @@
     {
       "song": "In the Moment",
       "artist": "Gerald Albright / Norman Brown",
-      "year": 2012
-    },
-    {
-      "song": "City",
-      "artist": "Jeff Lorber Fusion",
       "year": 2012
     },
     {
@@ -511,11 +496,6 @@
       "year": 2013
     },
     {
-      "song": "Seaside Drive",
-      "artist": "Tim Bowman",
-      "year": 2013
-    },
-    {
       "song": "Powerhouse",
       "artist": "Boney James",
       "year": 2013
@@ -528,11 +508,6 @@
     {
       "song": "Hacienda",
       "artist": "Jeff Lorber Fusion",
-      "year": 2014
-    },
-    {
-      "song": "Stepper's D Lite",
-      "artist": "Pieces of a Dream",
       "year": 2014
     },
     {
@@ -786,11 +761,6 @@
       "year": 2016
     },
     {
-      "song": "Taking Control",
-      "artist": "Gerald Albright",
-      "year": 2016
-    },
-    {
       "song": "Put It Where You Want It",
       "artist": "Paul Brown",
       "year": 2016
@@ -981,11 +951,6 @@
       "year": 2018
     },
     {
-      "song": "Switch Up",
-      "artist": "Phil Denny",
-      "year": 2018
-    },
-    {
       "song": "Up All Night",
       "artist": "Boney James",
       "year": 2018
@@ -1138,11 +1103,6 @@
     {
       "song": "It's So Amazing",
       "artist": "Joyce Cooling",
-      "year": 2019
-    },
-    {
-      "song": "Wind Chill Factor",
-      "artist": "Cindy Bradley",
       "year": 2019
     },
     {
@@ -1451,11 +1411,6 @@
       "year": 2021
     },
     {
-      "song": "Tropicool",
-      "artist": "Paul Hardcastle",
-      "year": 2021
-    },
-    {
       "song": "Risin' Up",
       "artist": "Adam Hawley",
       "year": 2021
@@ -1613,11 +1568,6 @@
     {
       "song": "Drive",
       "artist": "Cindy Bradley",
-      "year": 2022
-    },
-    {
-      "song": "Jazz Party",
-      "artist": "Jeffery Smith",
       "year": 2022
     },
     {
@@ -2071,5 +2021,52 @@
       "year": 2025
     }
   ],
-  "added":[]
+  "added": [
+    {
+      "song": "Jazz Party",
+      "artist": "Jeffery Smith",
+      "year": 2022
+    },
+    {
+      "song": "City",
+      "artist": "Jeff Lorber Fusion",
+      "year": 2012
+    },
+    {
+      "song": "Wind Chill Factor",
+      "artist": "Cindy Bradley",
+      "year": 2019
+    },
+    {
+      "song": "Let It Go",
+      "artist": "Boney James",
+      "year": 2008
+    },
+    {
+      "song": "Taking Control",
+      "artist": "Gerald Albright",
+      "year": 2016
+    },
+    {
+      "song": "Tropicool",
+      "artist": "Paul Hardcastle",
+      "year": 2021
+    },
+    {
+      "song": "Boom Town",
+      "artist": "Richard Elliot",
+      "year": 2011
+    },
+    "[object Object] [NOT FOUND]",
+    {
+      "song": "Seaside Drive",
+      "artist": "Tim Bowman",
+      "year": 2013
+    },
+    {
+      "song": "Switch Up",
+      "artist": "Phil Denny",
+      "year": 2018
+    }
+  ]
 }
