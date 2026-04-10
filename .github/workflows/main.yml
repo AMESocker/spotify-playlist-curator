@@ -44,6 +44,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add history.json data/artistDisc.json data/billboardHot100.json data/sourceIndex.json data/1080albums.json data/rockNRollHallofFame.json data/editorsChoiceAlbums.json data/festivals.json data/artistTop10.json data/spotifyPlaylists.json
+          git add history.json data/artistDisc.json data/smoothJazz.json data/billboardHot100.json data/sourceIndex.json data/1080albums.json data/rockNRollHallofFame.json data/editorsChoiceAlbums.json data/festivals.json data/artistTop10.json data/spotifyPlaylists.json
           git diff --staged --quiet || git commit -m "Update playlist state and data [skip ci]"
           git push

@@ -201,7 +201,6 @@
         "Blood Orange",
         "Moby",
         "Marlon Hoffstadt",
-        "Lykke Li",
         "fakemink",
         "Gordo",
         "Creepy Nuts",
@@ -212,7 +211,6 @@
         "Joost",
         "HUGEL",
         "CMAT",
-        "Slayyyter",
         "Prospa",
         "Hot Mulligan",
         "Hamdi",
@@ -320,7 +318,9 @@
         "Jessica Brankka",
         "Young Thug",
         "Sabrina Carpenter",
-        "Laufey"
+        "Laufey",
+        "Lykke Li",
+        "Slayyyter"
       ]
     },
     {
@@ -504,7 +504,7 @@
     }
   ],
   "archive": [
-     {
+    {
       "name": "Download Festival",
       "year": 2026,
       "artists": [

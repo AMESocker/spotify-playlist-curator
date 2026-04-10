@@ -2067,29 +2067,10 @@
   "Jazz / Blues": {
     "not_added": [
       {
-        "artist": "Duke Ellington",
-        "listeners": 985519,
-        "recommended": true,
-        "spotify_popularity": 58,
-        "spotify_id": "4F7Q5NV6h5TSwCainz8S5A"
+        "artist": "Wes Montgomery "
       },
       {
-        "artist": "John Lee Hooker",
-        "listeners": 932096,
-        "spotify_popularity": 53,
-        "spotify_id": "1yNOfXGQNGjAynk77wv85x"
-      },
-      {
-        "artist": "Brian Eno",
-        "listeners": 852011,
-        "spotify_popularity": 60,
-        "spotify_id": "7MSUfLeTdDEoZiJPDSBXgi"
-      },
-      {
-        "artist": "Glenn Miller",
-        "listeners": 589427,
-        "spotify_popularity": 55,
-        "spotify_id": "2aAHdB5HweT3mFcRzm0swc"
+        "artist": "Bill Evans "
       },
       {
         "artist": "Ella Fitzgerald",
@@ -2104,10 +2085,54 @@
         "spotify_id": "2jFZlvIea42ZvcCw4OeEdA"
       },
       {
+        "artist": "Sarah Vaughan "
+      },
+      {
+        "artist": "John Lee Hooker",
+        "listeners": 932096,
+        "spotify_popularity": 53,
+        "spotify_id": "1yNOfXGQNGjAynk77wv85x"
+      },
+      {
+        "artist": "Brian Eno",
+        "listeners": 852011,
+        "spotify_popularity": 60,
+        "spotify_id": "7MSUfLeTdDEoZiJPDSBXgi"
+      },
+      {
         "artist": "B.B. King",
         "listeners": 2886325,
         "spotify_popularity": 60,
         "spotify_id": "5xLSa7l4IV1gsQfhAMvl0U"
+      },
+      {
+        "artist": "Stan Getz "
+      },
+      {
+        "artist": "Koko Taylor"
+      },
+      {
+        "artist": "Dizzy Gillespie "
+      },
+      {
+        "artist": "Miles Davis",
+        "listeners": 2795036,
+        "recommended": true,
+        "spotify_popularity": 63,
+        "spotify_id": "0kbYTNQb4Pb1rPbbaF0pT4"
+      },
+      {
+        "artist": "Duke Ellington",
+        "listeners": 985519,
+        "recommended": true,
+        "spotify_popularity": 58,
+        "spotify_id": "4F7Q5NV6h5TSwCainz8S5A"
+      },
+      {
+        "artist": "Glenn Miller",
+        "listeners": 589427,
+        "spotify_popularity": 55,
+        "spotify_id": "2aAHdB5HweT3mFcRzm0swc"
       },
       {
         "artist": "Muddy Waters",
@@ -2120,13 +2145,6 @@
         "listeners": 425539,
         "spotify_popularity": 49,
         "spotify_id": "5dCuFngSPyOOnTAvrC7v2s"
-      },
-      {
-        "artist": "Miles Davis",
-        "listeners": 2795036,
-        "recommended": true,
-        "spotify_popularity": 63,
-        "spotify_id": "0kbYTNQb4Pb1rPbbaF0pT4"
       },
       {
         "artist": "John Coltrane",
@@ -2157,9 +2175,6 @@
         "spotify_id": "1YzCsTRb22dQkh9lghPIrp"
       },
       {
-        "artist": "Art Blakey "
-      },
-      {
         "artist": "Cannonball Adderley "
       },
       {
@@ -2169,28 +2184,10 @@
         "artist": "Sonny Rollins "
       },
       {
-        "artist": "Bill Evans "
-      },
-      {
         "artist": "Oscar Peterson"
       },
       {
-        "artist": "Wes Montgomery "
-      },
-      {
-        "artist": "Stan Getz "
-      },
-      {
-        "artist": "Dizzy Gillespie "
-      },
-      {
-        "artist": "Sarah Vaughan "
-      },
-      {
         "artist": "Kamasi Washington"
-      },
-      {
-        "artist": "Robert Glasper"
       },
       {
         "artist": "Howlin' Wolf"
@@ -2200,9 +2197,6 @@
       },
       {
         "artist": "T-Bone Walker"
-      },
-      {
-        "artist": "Koko Taylor"
       },
       {
         "artist": "Elmore James"
@@ -2277,6 +2271,20 @@
         "listeners": 809733,
         "spotify_id": "2ZvrvbQNrHKwjT7qfGFFUW",
         "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Robert Glasper",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Art Blakey ",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
         "tracksAdded": 5
       }
     ]
