@@ -4630,5 +4630,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-04-10T20:46:58.795Z"
+  },
+  {
+    "action": "add",
+    "artist": "Machine Head",
+    "album": "Through the Ashes of Empires (2003)",
+    "index": null,
+    "tracksAdded": 11,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-10T22:26:41.170Z"
   }
 ]
