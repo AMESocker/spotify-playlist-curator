@@ -86,11 +86,6 @@
       "year": 2007
     },
     {
-      "song": "Ready for Love",
-      "artist": "Walter Beasley",
-      "year": 2007
-    },
-    {
       "song": "Hypnotic",
       "artist": "Boney James",
       "year": 2007
@@ -386,11 +381,6 @@
       "year": 2012
     },
     {
-      "song": "The Funky Joint",
-      "artist": "Paul Brown",
-      "year": 2012
-    },
-    {
       "song": "Your Smile",
       "artist": "Brian Culbertson",
       "year": 2012
@@ -603,11 +593,6 @@
     {
       "song": "Go-Go Smooth",
       "artist": "Kim Waters",
-      "year": 2015
-    },
-    {
-      "song": "Bliss",
-      "artist": "Cindy Bradley",
       "year": 2015
     },
     {
@@ -906,11 +891,6 @@
       "year": 2018
     },
     {
-      "song": "Buckle Up",
-      "artist": "Nick Colionne",
-      "year": 2018
-    },
-    {
       "song": "Colors of Love",
       "artist": "Brian Culbertson",
       "year": 2018
@@ -1101,11 +1081,6 @@
       "year": 2019
     },
     {
-      "song": "It's So Amazing",
-      "artist": "Joyce Cooling",
-      "year": 2019
-    },
-    {
       "song": "Full Bloom",
       "artist": "Kayla Waters",
       "year": 2019
@@ -1128,11 +1103,6 @@
     {
       "song": "Fall for You",
       "artist": "Blake Aaron",
-      "year": 2020
-    },
-    {
-      "song": "Details",
-      "artist": "Jacob Webb featuring Stantawn Kendrick",
       "year": 2020
     },
     {
@@ -1178,11 +1148,6 @@
     {
       "song": "New Bounce",
       "artist": "Oli Silk featuring Vincent Ingala",
-      "year": 2020
-    },
-    {
-      "song": "Vibin' in Time",
-      "artist": "Alex Parchment featuring Phillip Doc Martin",
       "year": 2020
     },
     {
@@ -1371,11 +1336,6 @@
       "year": 2021
     },
     {
-      "song": "Keys to Paradise",
-      "artist": "Jonathan Fritzén",
-      "year": 2021
-    },
-    {
       "song": "Summer Song",
       "artist": "Paula Atherton featuring Nathan Mitchell",
       "year": 2021
@@ -1433,11 +1393,6 @@
     {
       "song": "Serendipity",
       "artist": "The Saxtress Pamela Williams featuring Gerald Albright",
-      "year": 2021
-    },
-    {
-      "song": "Straight to the Point",
-      "artist": "Paul Taylor",
       "year": 2021
     },
     {
@@ -1528,11 +1483,6 @@
     {
       "song": "Move Ahead",
       "artist": "Richard Elliot",
-      "year": 2022
-    },
-    {
-      "song": "Q's Vibe",
-      "artist": "Eric Valentine featuring Everette Harp and Greg Manning",
       "year": 2022
     },
     {
@@ -2067,6 +2017,41 @@
       "song": "Switch Up",
       "artist": "Phil Denny",
       "year": 2018
+    },
+    {
+      "song": "The Funky Joint",
+      "artist": "Paul Brown",
+      "year": 2012
+    },
+    {
+      "song": "It's So Amazing",
+      "artist": "Joyce Cooling",
+      "year": 2019
+    },
+    {
+      "song": "Buckle Up",
+      "artist": "Nick Colionne",
+      "year": 2018
+    },
+    {
+      "song": "Ready for Love",
+      "artist": "Walter Beasley",
+      "year": 2007
+    },
+    {
+      "song": "Bliss",
+      "artist": "Cindy Bradley",
+      "year": 2015
+    },
+    {
+      "song": "Straight to the Point",
+      "artist": "Paul Taylor",
+      "year": 2021
+    },
+    {
+      "song": "Keys to Paradise",
+      "artist": "Jonathan Fritzén",
+      "year": 2021
     }
   ]
 }

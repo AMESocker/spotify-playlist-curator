@@ -1,92 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2026-04-10",
-      "albums": [
-        {
-          "title": "Nowhere Faster",
-          "artist": "El Ten Eleven",
-          "spotifyTrack": {
-            "id": "5Mec4NEUojS9DJUVbcddEI",
-            "name": "Uncanny Valley Girl",
-            "uri": "spotify:track:5Mec4NEUojS9DJUVbcddEI",
-            "popularity": 2,
-            "albumName": "Nowhere Faster",
-            "albumId": "2jkkX88iyAQrVgGPi44B36",
-            "foundAt": "2026-04-11T10:26:07.372Z"
-          }
-        },
-        {
-          "title": "Hannah Lew",
-          "artist": "Hannah Lew",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:07.937Z"
-          }
-        },
-        {
-          "title": "Kammerkonzert",
-          "artist": "Squarepusher",
-          "spotifyTrack": {
-            "id": "7uqYTVK3qRO403AeFADwgn",
-            "name": "K1 Advance",
-            "uri": "spotify:track:7uqYTVK3qRO403AeFADwgn",
-            "popularity": 16,
-            "albumName": "Kammerkonzert",
-            "albumId": "4YRwqvWAu1cjBDyRRXz0Ee",
-            "foundAt": "2026-04-11T10:26:09.471Z"
-          }
-        },
-        {
-          "title": "Maybe Not Tonight",
-          "artist": "Lime Garden",
-          "spotifyTrack": {
-            "id": "2uEWM5lSQsl0ubzbxFd6U7",
-            "name": "Cross My Heart",
-            "uri": "spotify:track:2uEWM5lSQsl0ubzbxFd6U7",
-            "popularity": 14,
-            "albumName": "Maybe Not Tonight",
-            "albumId": "7EO4tVModdOi5Xh3m7uEzC",
-            "foundAt": "2026-04-11T10:26:10.927Z"
-          }
-        },
-        {
-          "title": "Picture in Mind",
-          "artist": "Rachel Love",
-          "spotifyTrack": {
-            "id": "1qxniqtFkgTPrDX6Grw3WY",
-            "name": "Primrose Hill",
-            "uri": "spotify:track:1qxniqtFkgTPrDX6Grw3WY",
-            "popularity": 9,
-            "albumName": "Picture In Mind",
-            "albumId": "1nxLdOl1rbZ5ZxhMKZlVzA",
-            "foundAt": "2026-04-11T10:26:12.405Z"
-          }
-        },
-        {
-          "title": "Jackson Plays Dylan",
-          "artist": "Javon Jackson",
-          "spotifyTrack": {
-            "id": "1eL3mm4FBhQ7CbbzBpAOKq",
-            "name": "Forever Young",
-            "uri": "spotify:track:1eL3mm4FBhQ7CbbzBpAOKq",
-            "popularity": 23,
-            "albumName": "Jackson Plays Dylan",
-            "albumId": "1yvpDanP5zoYaMnu76NEbD",
-            "foundAt": "2026-04-11T10:26:13.906Z"
-          }
-        },
-        {
-          "title": "Hans Zender: Schubert's Winterreise - A Composed Interpretation",
-          "artist": "Allan ClaytonNicholas CollonAurora Orchestra",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:14.482Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-04-18",
       "albums": [
         {
@@ -1322,6 +1236,94 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2026-04-10",
+      "albums": [
+        {
+          "title": "Nowhere Faster",
+          "artist": "El Ten Eleven",
+          "spotifyTrack": {
+            "id": "5Mec4NEUojS9DJUVbcddEI",
+            "name": "Uncanny Valley Girl",
+            "uri": "spotify:track:5Mec4NEUojS9DJUVbcddEI",
+            "popularity": 2,
+            "albumName": "Nowhere Faster",
+            "albumId": "2jkkX88iyAQrVgGPi44B36",
+            "foundAt": "2026-04-11T10:26:07.372Z"
+          }
+        },
+        {
+          "title": "Hannah Lew",
+          "artist": "Hannah Lew",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-11T10:26:07.937Z"
+          }
+        },
+        {
+          "title": "Kammerkonzert",
+          "artist": "Squarepusher",
+          "spotifyTrack": {
+            "id": "7uqYTVK3qRO403AeFADwgn",
+            "name": "K1 Advance",
+            "uri": "spotify:track:7uqYTVK3qRO403AeFADwgn",
+            "popularity": 16,
+            "albumName": "Kammerkonzert",
+            "albumId": "4YRwqvWAu1cjBDyRRXz0Ee",
+            "foundAt": "2026-04-11T10:26:09.471Z"
+          }
+        },
+        {
+          "title": "Maybe Not Tonight",
+          "artist": "Lime Garden",
+          "spotifyTrack": {
+            "id": "2uEWM5lSQsl0ubzbxFd6U7",
+            "name": "Cross My Heart",
+            "uri": "spotify:track:2uEWM5lSQsl0ubzbxFd6U7",
+            "popularity": 14,
+            "albumName": "Maybe Not Tonight",
+            "albumId": "7EO4tVModdOi5Xh3m7uEzC",
+            "foundAt": "2026-04-11T10:26:10.927Z"
+          }
+        },
+        {
+          "title": "Picture in Mind",
+          "artist": "Rachel Love",
+          "spotifyTrack": {
+            "id": "1qxniqtFkgTPrDX6Grw3WY",
+            "name": "Primrose Hill",
+            "uri": "spotify:track:1qxniqtFkgTPrDX6Grw3WY",
+            "popularity": 9,
+            "albumName": "Picture In Mind",
+            "albumId": "1nxLdOl1rbZ5ZxhMKZlVzA",
+            "foundAt": "2026-04-11T10:26:12.405Z"
+          }
+        },
+        {
+          "title": "Jackson Plays Dylan",
+          "artist": "Javon Jackson",
+          "spotifyTrack": {
+            "id": "1eL3mm4FBhQ7CbbzBpAOKq",
+            "name": "Forever Young",
+            "uri": "spotify:track:1eL3mm4FBhQ7CbbzBpAOKq",
+            "popularity": 23,
+            "albumName": "Jackson Plays Dylan",
+            "albumId": "1yvpDanP5zoYaMnu76NEbD",
+            "foundAt": "2026-04-11T10:26:13.906Z"
+          }
+        },
+        {
+          "title": "Hans Zender: Schubert's Winterreise - A Composed Interpretation",
+          "artist": "Allan ClaytonNicholas CollonAurora Orchestra",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-11T10:26:14.482Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-11T16:49:42.702Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-04-25",
       "albums": [

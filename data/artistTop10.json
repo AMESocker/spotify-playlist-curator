@@ -2358,9 +2358,6 @@
         "artist": "Al Green"
       },
       {
-        "artist": "Sam Cooke"
-      },
-      {
         "artist": "Wilson Pickett"
       },
       {
@@ -2386,9 +2383,6 @@
       },
       {
         "artist": "Jill Scott"
-      },
-      {
-        "artist": "Maxwell"
       },
       {
         "artist": "Leon Bridges"
@@ -2474,6 +2468,20 @@
         "artist": "Celia Cruz",
         "listeners": 749468,
         "spotify_id": "2weA6hhVqTIN2gSn9PUB9U",
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Sam Cooke",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Maxwell",
+        "listeners": null,
+        "spotify_id": null,
         "recommended": false,
         "tracksAdded": 5
       }
