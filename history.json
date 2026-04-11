@@ -4717,5 +4717,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-04-11T18:36:52.629Z"
+  },
+  {
+    "action": "add",
+    "artist": "Corrosion of Conformity",
+    "album": "IX",
+    "index": null,
+    "tracksAdded": 11,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-11T22:29:47.133Z"
   }
 ]
