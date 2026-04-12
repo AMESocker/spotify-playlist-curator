@@ -9,7 +9,6 @@
     "Sex Pistols",
     "The Pretenders",
     "Percy Sledge",
-    "Buddy Guy",
     "Prince",
     "ZZ Top",
     "George Harrison",
@@ -58,7 +57,6 @@
     "The Band",
     "The Grateful Dead",
     "Duane Eddy",
-    "Creedence Clearwater Revival",
     "Van Morrison",
     "The Doors",
     "Sly and the Family Stone",
@@ -231,6 +229,8 @@
     "The Yardbirds",
     "Bobby 'Blue' Bland",
     "Hank Ballard",
-    "The Moonglows"
+    "The Moonglows",
+    "Buddy Guy",
+    "Creedence Clearwater Revival"
   ]
 }
