@@ -52,7 +52,6 @@
     "Martha and the Vandellas",
     "Elton John",
     "John Lennon",
-    "Rod Stewart",
     "The Animals",
     "The Band",
     "The Grateful Dead",
@@ -76,7 +75,6 @@
     "The Platters",
     "Stevie Wonder",
     "The Rolling Stones",
-    "Dion",
     "The Beach Boys",
     "The Drifters",
     "The Supremes",
@@ -231,6 +229,8 @@
     "Hank Ballard",
     "The Moonglows",
     "Buddy Guy",
-    "Creedence Clearwater Revival"
+    "Creedence Clearwater Revival",
+    "Dion",
+    "Rod Stewart"
   ]
 }

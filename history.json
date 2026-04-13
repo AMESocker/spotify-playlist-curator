@@ -4821,5 +4821,21 @@
     "sourceFile": "data/billboardHot100.json",
     "strategy": "singleTrack",
     "timestamp": "2026-04-13T17:15:00.212Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Dion",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-13T19:07:13.918Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Rod Stewart",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-13T19:07:15.767Z"
   }
 ]
