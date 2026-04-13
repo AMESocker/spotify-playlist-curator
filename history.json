@@ -4837,5 +4837,12 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-04-13T19:07:15.767Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 9,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-13T21:02:17.504Z"
   }
 ]

@@ -533,6 +533,36 @@
   "Reggae / World ": {
     "not_added": [
       {
+        "artist": "Toumani Diabaté"
+      },
+      {
+        "artist": "Fela Kuti"
+      },
+      {
+        "artist": "Prince Far I"
+      },
+      {
+        "artist": "Mulatu Astatke",
+        "listeners": 309357,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "7HGFXtBhRq3g1Ma3nH4Rgv"
+      },
+      {
+        "artist": "Steel Pulse",
+        "listeners": 717398,
+        "recommended": true,
+        "spotify_popularity": 56,
+        "spotify_id": "6UL7BodGc5iVmQGlMwHR0g"
+      },
+      {
+        "artist": "Sizzla",
+        "listeners": 648280,
+        "recommended": true,
+        "spotify_popularity": 53,
+        "spotify_id": "72T7x96EAqN2UWvAgobYfv"
+      },
+      {
         "artist": "William Onyeabor"
       },
       {
@@ -559,12 +589,6 @@
         "artist": "Orchestra Baobab"
       },
       {
-        "artist": "Prince Far I"
-      },
-      {
-        "artist": "Prince Far I"
-      },
-      {
         "artist": "Ali Farka Touré"
       },
       {
@@ -576,13 +600,6 @@
         "recommended": true,
         "spotify_popularity": 33,
         "spotify_id": "48dgx7iGqLQ3E5KO3pzd94"
-      },
-      {
-        "artist": "Mulatu Astatke",
-        "listeners": 309357,
-        "recommended": true,
-        "spotify_popularity": 50,
-        "spotify_id": "7HGFXtBhRq3g1Ma3nH4Rgv"
       },
       {
         "artist": "Max Romeo"
@@ -598,13 +615,6 @@
         "spotify_id": "3QJzdZJYIAcoET1GcfpNGi"
       },
       {
-        "artist": "Sizzla",
-        "listeners": 648280,
-        "recommended": true,
-        "spotify_popularity": 53,
-        "spotify_id": "72T7x96EAqN2UWvAgobYfv"
-      },
-      {
         "artist": "Khruangbin",
         "listeners": 2252112,
         "recommended": true,
@@ -617,13 +627,6 @@
         "recommended": true,
         "spotify_popularity": 42,
         "spotify_id": "5WwEQwX3ruZofwDDqtOXwI"
-      },
-      {
-        "artist": "Steel Pulse",
-        "listeners": 717398,
-        "recommended": true,
-        "spotify_popularity": 56,
-        "spotify_id": "6UL7BodGc5iVmQGlMwHR0g"
       },
       {
         "artist": "Jimmy Cliff"
@@ -642,12 +645,6 @@
       },
       {
         "artist": "Cymande"
-      },
-      {
-        "artist": "Fela Kuti"
-      },
-      {
-        "artist": "Toumani Diabaté"
       },
       {
         "artist": "Cedric Myton"

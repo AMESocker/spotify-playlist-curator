@@ -346,11 +346,6 @@
       "year": 2012
     },
     {
-      "song": "Marrakesh",
-      "artist": "Acoustic Alchemy",
-      "year": 2012
-    },
-    {
       "song": "The Lady in My Life",
       "artist": "George Benson",
       "year": 2012
@@ -358,11 +353,6 @@
     {
       "song": "Perfect Nites",
       "artist": "Najee",
-      "year": 2012
-    },
-    {
-      "song": "Here We Go",
-      "artist": "Peter White",
       "year": 2012
     },
     {
@@ -473,11 +463,6 @@
     {
       "song": "Hacienda",
       "artist": "Jeff Lorber Fusion",
-      "year": 2013
-    },
-    {
-      "song": "Hacienda",
-      "artist": "Jeff Lorber Fusion",
       "year": 2014
     },
     {
@@ -536,11 +521,6 @@
       "year": 2014
     },
     {
-      "song": "Slam Dunk",
-      "artist": "Gerald Albright",
-      "year": 2014
-    },
-    {
       "song": "Head Over Heels",
       "artist": "Peter White",
       "year": 2014
@@ -553,11 +533,6 @@
     {
       "song": "Back to Back",
       "artist": "Rick Braun",
-      "year": 2015
-    },
-    {
-      "song": "Lip Service",
-      "artist": "Richard Elliot",
       "year": 2015
     },
     {
@@ -861,11 +836,6 @@
       "year": 2018
     },
     {
-      "song": "On the Prowl",
-      "artist": "Boney James",
-      "year": 2018
-    },
-    {
       "song": "Can You Feel It?",
       "artist": "Adam Hawley featuring Marcus Anderson",
       "year": 2018
@@ -1071,11 +1041,6 @@
       "year": 2020
     },
     {
-      "song": "Is There a Doctor in the House?",
-      "artist": "Chris Standring",
-      "year": 2020
-    },
-    {
       "song": "Can You Feel It",
       "artist": "Paula Atherton",
       "year": 2020
@@ -1148,11 +1113,6 @@
     {
       "song": "It's on Now",
       "artist": "Willie Bradley featuring Ragan Whiteside",
-      "year": 2020
-    },
-    {
-      "song": "Fluid",
-      "artist": "Lin Rountree",
       "year": 2020
     },
     {
@@ -1561,11 +1521,6 @@
       "year": 2023
     },
     {
-      "song": "Lovers Melody",
-      "artist": "Ryan La Valette featuring Nicholas Cole",
-      "year": 2023
-    },
-    {
       "song": "Just like That",
       "artist": "Nick Colionne",
       "year": 2023
@@ -1901,11 +1856,6 @@
       "year": 2025
     },
     {
-      "song": "Sooo Good",
-      "artist": "Adrian Crutchfield",
-      "year": 2025
-    },
-    {
       "song": "Dare to Fly",
       "artist": "Blake Aaron",
       "year": 2025
@@ -2047,6 +1997,51 @@
       "song": "Give Me the Reason",
       "artist": "Kirk Whalum",
       "year": 2007
+    },
+    {
+      "song": "Sooo Good",
+      "artist": "Adrian Crutchfield",
+      "year": 2025
+    },
+    {
+      "song": "Lip Service",
+      "artist": "Richard Elliot",
+      "year": 2015
+    },
+    {
+      "song": "Here We Go",
+      "artist": "Peter White",
+      "year": 2012
+    },
+    {
+      "song": "Hacienda",
+      "artist": "Jeff Lorber Fusion",
+      "year": 2013
+    },
+    {
+      "song": "Fluid",
+      "artist": "Lin Rountree",
+      "year": 2020
+    },
+    {
+      "song": "On the Prowl",
+      "artist": "Boney James",
+      "year": 2018
+    },
+    {
+      "song": "Marrakesh",
+      "artist": "Acoustic Alchemy",
+      "year": 2012
+    },
+    {
+      "song": "Slam Dunk",
+      "artist": "Gerald Albright",
+      "year": 2014
+    },
+    {
+      "song": "Is There a Doctor in the House?",
+      "artist": "Chris Standring",
+      "year": 2020
     }
   ]
 }
