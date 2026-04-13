@@ -4804,5 +4804,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-04-13T01:59:55.060Z"
+  },
+  {
+    "action": "add",
+    "artist": "Machine Head",
+    "album": "The Blackening (2007)",
+    "index": null,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-13T11:23:54.488Z"
   }
 ]
