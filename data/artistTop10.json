@@ -2152,13 +2152,6 @@
         "spotify_id": "5dCuFngSPyOOnTAvrC7v2s"
       },
       {
-        "artist": "John Coltrane",
-        "listeners": 1874891,
-        "recommended": true,
-        "spotify_popularity": 65,
-        "spotify_id": "2hGh5VOeeqimQFxqXvfCUf"
-      },
-      {
         "artist": "Thelonious Monk",
         "listeners": 743275,
         "recommended": true,
@@ -2181,9 +2174,6 @@
       },
       {
         "artist": "Cannonball Adderley "
-      },
-      {
-        "artist": "Wayne Shorter "
       },
       {
         "artist": "Sonny Rollins "
@@ -2287,6 +2277,20 @@
       },
       {
         "artist": "Art Blakey ",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "John Coltrane",
+        "listeners": 1874891,
+        "spotify_id": "2hGh5VOeeqimQFxqXvfCUf",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Wayne Shorter ",
         "listeners": null,
         "spotify_id": null,
         "recommended": false,

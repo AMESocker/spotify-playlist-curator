@@ -1,118 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-04-04",
-      "albums": [
-        {
-          "title": "Who Believes in Angels?",
-          "artist": "Brandi CarlileElton John",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:16.875Z"
-          }
-        },
-        {
-          "title": "Bunky Becky Birthday Boy",
-          "artist": "Sleigh Bells",
-          "spotifyTrack": {
-            "id": "2aNONqhy4ZNrnhfvWJqmSF",
-            "name": "Wanna Start A Band?",
-            "uri": "spotify:track:2aNONqhy4ZNrnhfvWJqmSF",
-            "popularity": 32,
-            "albumName": "Bunky Becky Birthday Boy",
-            "albumId": "0jFDQr2f0BdbnRZtPX3RbG",
-            "foundAt": "2026-02-05T18:50:11.482Z"
-          }
-        },
-        {
-          "title": "Abyss",
-          "artist": "Anika",
-          "spotifyTrack": {
-            "id": "1u9Uj3oUgYWIH5AaiZvhze",
-            "name": "Abyss",
-            "uri": "spotify:track:1u9Uj3oUgYWIH5AaiZvhze",
-            "popularity": 31,
-            "albumName": "Abyss",
-            "albumId": "0L5Z3YLCTykE0iFt2SX5wi",
-            "foundAt": "2026-02-05T18:50:13.016Z"
-          }
-        },
-        {
-          "title": "The Crux",
-          "artist": "Djo",
-          "spotifyTrack": {
-            "id": "7tFI5cqfAoR7MIvmbw1qd8",
-            "name": "Delete Ya",
-            "uri": "spotify:track:7tFI5cqfAoR7MIvmbw1qd8",
-            "popularity": 82,
-            "albumName": "The Crux",
-            "albumId": "1xQGeKOIMZrPBUlDJuqZGQ",
-            "foundAt": "2026-02-05T18:50:14.632Z"
-          }
-        },
-        {
-          "title": "Rathlin from a Distance/The Liquid Hour",
-          "artist": "Yann Tiersen",
-          "spotifyTrack": {
-            "id": "2UxkfRsjXCKkFH7P6WSNyd",
-            "name": "Ninnog",
-            "uri": "spotify:track:2UxkfRsjXCKkFH7P6WSNyd",
-            "popularity": 16,
-            "albumName": "Rathlin from a Distance l The Liquid Hour",
-            "albumId": "3Uq0jKffAgKPlgMV4abHjd",
-            "foundAt": "2026-02-05T18:50:16.086Z"
-          }
-        },
-        {
-          "title": "Stochastic Drift",
-          "artist": "Barker",
-          "spotifyTrack": {
-            "id": "0gRPbCjHQ3B5R7LnYdxdJg",
-            "name": "Reframing",
-            "uri": "spotify:track:0gRPbCjHQ3B5R7LnYdxdJg",
-            "popularity": 39,
-            "albumName": "Stochastic Drift",
-            "albumId": "3ChV6s15ch9qohd5gZaGOF",
-            "foundAt": "2026-02-05T18:50:17.625Z"
-          }
-        },
-        {
-          "title": "Take Me Out to a Bar/What Am I, Gatsby?",
-          "artist": "Sarah Mary Chadwick",
-          "spotifyTrack": {
-            "id": "1t1SjJgQZyYig3mI3Y8HGQ",
-            "name": "Not Cool Like NY / Not Cool Like LA",
-            "uri": "spotify:track:1t1SjJgQZyYig3mI3Y8HGQ",
-            "popularity": 7,
-            "albumName": "Take Me Out To a Bar / What Am I, Gatsby?",
-            "albumId": "2fEHRMOa8zt8Kq5Uj65zNw",
-            "foundAt": "2026-02-05T18:50:19.403Z"
-          }
-        },
-        {
-          "title": "Te Whare Tiwekaweka",
-          "artist": "Marlon Williams",
-          "spotifyTrack": {
-            "id": "6pcLDsn5Dyp3w6qQutyjMY",
-            "name": "Aua Atu Rā",
-            "uri": "spotify:track:6pcLDsn5Dyp3w6qQutyjMY",
-            "popularity": 36,
-            "albumName": "Te Whare Tīwekaweka",
-            "albumId": "5qMWA3N20b5Qpcak8rbj3b",
-            "foundAt": "2026-02-05T18:50:21.209Z"
-          }
-        },
-        {
-          "title": "Hyldon JID023",
-          "artist": "HyldonAdrian Younge",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:17.456Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-03-28",
       "albums": [
         {
@@ -1007,6 +895,120 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-04-04",
+      "albums": [
+        {
+          "title": "Who Believes in Angels?",
+          "artist": "Brandi CarlileElton John",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-11T10:26:16.875Z"
+          }
+        },
+        {
+          "title": "Bunky Becky Birthday Boy",
+          "artist": "Sleigh Bells",
+          "spotifyTrack": {
+            "id": "2aNONqhy4ZNrnhfvWJqmSF",
+            "name": "Wanna Start A Band?",
+            "uri": "spotify:track:2aNONqhy4ZNrnhfvWJqmSF",
+            "popularity": 32,
+            "albumName": "Bunky Becky Birthday Boy",
+            "albumId": "0jFDQr2f0BdbnRZtPX3RbG",
+            "foundAt": "2026-02-05T18:50:11.482Z"
+          }
+        },
+        {
+          "title": "Abyss",
+          "artist": "Anika",
+          "spotifyTrack": {
+            "id": "1u9Uj3oUgYWIH5AaiZvhze",
+            "name": "Abyss",
+            "uri": "spotify:track:1u9Uj3oUgYWIH5AaiZvhze",
+            "popularity": 31,
+            "albumName": "Abyss",
+            "albumId": "0L5Z3YLCTykE0iFt2SX5wi",
+            "foundAt": "2026-02-05T18:50:13.016Z"
+          }
+        },
+        {
+          "title": "The Crux",
+          "artist": "Djo",
+          "spotifyTrack": {
+            "id": "7tFI5cqfAoR7MIvmbw1qd8",
+            "name": "Delete Ya",
+            "uri": "spotify:track:7tFI5cqfAoR7MIvmbw1qd8",
+            "popularity": 82,
+            "albumName": "The Crux",
+            "albumId": "1xQGeKOIMZrPBUlDJuqZGQ",
+            "foundAt": "2026-02-05T18:50:14.632Z"
+          }
+        },
+        {
+          "title": "Rathlin from a Distance/The Liquid Hour",
+          "artist": "Yann Tiersen",
+          "spotifyTrack": {
+            "id": "2UxkfRsjXCKkFH7P6WSNyd",
+            "name": "Ninnog",
+            "uri": "spotify:track:2UxkfRsjXCKkFH7P6WSNyd",
+            "popularity": 16,
+            "albumName": "Rathlin from a Distance l The Liquid Hour",
+            "albumId": "3Uq0jKffAgKPlgMV4abHjd",
+            "foundAt": "2026-02-05T18:50:16.086Z"
+          }
+        },
+        {
+          "title": "Stochastic Drift",
+          "artist": "Barker",
+          "spotifyTrack": {
+            "id": "0gRPbCjHQ3B5R7LnYdxdJg",
+            "name": "Reframing",
+            "uri": "spotify:track:0gRPbCjHQ3B5R7LnYdxdJg",
+            "popularity": 39,
+            "albumName": "Stochastic Drift",
+            "albumId": "3ChV6s15ch9qohd5gZaGOF",
+            "foundAt": "2026-02-05T18:50:17.625Z"
+          }
+        },
+        {
+          "title": "Take Me Out to a Bar/What Am I, Gatsby?",
+          "artist": "Sarah Mary Chadwick",
+          "spotifyTrack": {
+            "id": "1t1SjJgQZyYig3mI3Y8HGQ",
+            "name": "Not Cool Like NY / Not Cool Like LA",
+            "uri": "spotify:track:1t1SjJgQZyYig3mI3Y8HGQ",
+            "popularity": 7,
+            "albumName": "Take Me Out To a Bar / What Am I, Gatsby?",
+            "albumId": "2fEHRMOa8zt8Kq5Uj65zNw",
+            "foundAt": "2026-02-05T18:50:19.403Z"
+          }
+        },
+        {
+          "title": "Te Whare Tiwekaweka",
+          "artist": "Marlon Williams",
+          "spotifyTrack": {
+            "id": "6pcLDsn5Dyp3w6qQutyjMY",
+            "name": "Aua Atu Rā",
+            "uri": "spotify:track:6pcLDsn5Dyp3w6qQutyjMY",
+            "popularity": 36,
+            "albumName": "Te Whare Tīwekaweka",
+            "albumId": "5qMWA3N20b5Qpcak8rbj3b",
+            "foundAt": "2026-02-05T18:50:21.209Z"
+          }
+        },
+        {
+          "title": "Hyldon JID023",
+          "artist": "HyldonAdrian Younge",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-11T10:26:17.456Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-14T19:05:34.133Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-04-11",
       "albums": [

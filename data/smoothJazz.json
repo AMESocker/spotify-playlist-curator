@@ -46,11 +46,6 @@
       "year": 2006
     },
     {
-      "song": "What Does It Take (To Win Your Love)",
-      "artist": "Peter White",
-      "year": 2006
-    },
-    {
       "song": "Free as the Wind",
       "artist": "Jazzmasters",
       "year": 2006
@@ -281,11 +276,6 @@
       "year": 2010
     },
     {
-      "song": "Heart and Soul",
-      "artist": "Kenny G",
-      "year": 2010
-    },
-    {
       "song": "That's Life",
       "artist": "Brian Culbertson featuring Earl Klugh",
       "year": 2010
@@ -403,11 +393,6 @@
     {
       "song": "Backstage Pass",
       "artist": "Paul Brown featuring Bob James",
-      "year": 2012
-    },
-    {
-      "song": "Backstage Pass",
-      "artist": "Paul Brown featuring Bob James",
       "year": 2013
     },
     {
@@ -481,11 +466,6 @@
       "year": 2014
     },
     {
-      "song": "The Sweetness",
-      "artist": "Down to the Bone",
-      "year": 2014
-    },
-    {
       "song": "Sneakin' out the Front Door",
       "artist": "Chris Standring",
       "year": 2014
@@ -533,11 +513,6 @@
     {
       "song": "Back to Back",
       "artist": "Rick Braun",
-      "year": 2015
-    },
-    {
-      "song": "Think Free (live)",
-      "artist": "Brian Culbertson",
       "year": 2015
     },
     {
@@ -604,11 +579,6 @@
       "song": "Get Up",
       "artist": "Jeff Lorber Fusion",
       "year": 2015
-    },
-    {
-      "song": "Get Up",
-      "artist": "Jeff Lorber Fusion",
-      "year": 2016
     },
     {
       "song": "Silverado",
@@ -1241,11 +1211,6 @@
       "year": 2021
     },
     {
-      "song": "Sunrise Boulevard",
-      "artist": "Greg Manning",
-      "year": 2021
-    },
-    {
       "song": "Now or Never",
       "artist": "Skinny Hightower",
       "year": 2021
@@ -1431,11 +1396,6 @@
       "year": 2022
     },
     {
-      "song": "Thrill Ride",
-      "artist": "Ragan Whiteside",
-      "year": 2022
-    },
-    {
       "song": "Summertime in NYC",
       "artist": "Dave Koz featuring Brian McKnight",
       "year": 2022
@@ -1463,11 +1423,6 @@
     {
       "song": "I'll Be the One",
       "artist": "Le Sonic featuring Lauran Beluzo and Robert Lee",
-      "year": 2022
-    },
-    {
-      "song": "Let's Get Down Tonight",
-      "artist": "Adam Hawley featuring Vincent Ingala",
       "year": 2022
     },
     {
@@ -1801,11 +1756,6 @@
       "year": 2025
     },
     {
-      "song": "Straight Up Down",
-      "artist": "Richard Elliot",
-      "year": 2025
-    },
-    {
       "song": "Oooh-Aah (Catalina)",
       "artist": "Mindi Abair",
       "year": 2025
@@ -2042,6 +1992,46 @@
       "song": "Is There a Doctor in the House?",
       "artist": "Chris Standring",
       "year": 2020
+    },
+    {
+      "song": "Thrill Ride",
+      "artist": "Ragan Whiteside",
+      "year": 2022
+    },
+    {
+      "song": "Think Free (live)",
+      "artist": "Brian Culbertson",
+      "year": 2015
+    },
+    {
+      "song": "What Does It Take (To Win Your Love)",
+      "artist": "Peter White",
+      "year": 2006
+    },
+    {
+      "song": "Get Up",
+      "artist": "Jeff Lorber Fusion",
+      "year": 2016
+    },
+    {
+      "song": "Straight Up Down",
+      "artist": "Richard Elliot",
+      "year": 2025
+    },
+    {
+      "song": "Sunrise Boulevard",
+      "artist": "Greg Manning",
+      "year": 2021
+    },
+    {
+      "song": "The Sweetness",
+      "artist": "Down to the Bone",
+      "year": 2014
+    },
+    {
+      "song": "Heart and Soul",
+      "artist": "Kenny G",
+      "year": 2010
     }
   ]
 }
