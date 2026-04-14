@@ -4978,5 +4978,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-04-14T21:02:17.342Z"
+  },
+  {
+    "action": "add",
+    "artist": "Corrosion of Conformity",
+    "album": "No Cross No Crown (2018)",
+    "index": null,
+    "tracksAdded": 15,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-14T22:42:58.500Z"
   }
 ]
