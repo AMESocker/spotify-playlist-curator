@@ -4960,5 +4960,23 @@
     "sourceFile": "data/editorsChoiceAlbums.json",
     "strategy": "editorsChoice",
     "timestamp": "2026-04-14T19:05:34.136Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "The Henry Girls",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-14T21:02:14.895Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "AJ Tracey",
+    "tracksAdded": 5,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-14T21:02:17.342Z"
   }
 ]
