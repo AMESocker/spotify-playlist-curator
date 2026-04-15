@@ -5065,5 +5065,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-04-15T20:59:29.014Z"
+  },
+  {
+    "action": "add",
+    "artist": "Sepultura",
+    "album": "Arise (1991)",
+    "index": null,
+    "tracksAdded": 13,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-15T23:41:55.206Z"
   }
 ]
