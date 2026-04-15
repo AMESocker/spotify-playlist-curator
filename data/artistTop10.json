@@ -2301,6 +2301,25 @@
   "Soul / Funk": {
     "not_added": [
       {
+        "artist": "Otis Redding"
+      },
+      {
+        "artist": "Marvin Gaye",
+        "listeners": 6171509,
+        "recommended": true,
+        "spotify_popularity": 74,
+        "spotify_id": "3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "artist": "Ohio Players"
+      },
+      {
+        "artist": "The Meters"
+      },
+      {
+        "artist": "Wilson Pickett"
+      },
+      {
         "artist": "Curtis Mayfield",
         "listeners": 1206124,
         "recommended": true,
@@ -2313,9 +2332,6 @@
         "recommended": true,
         "spotify_popularity": 47,
         "spotify_id": "0kEfub5RzlZOB2zGomqVSU"
-      },
-      {
-        "artist": "The Meters"
       },
       {
         "artist": "Fela Kuti",
@@ -2360,29 +2376,13 @@
         "spotify_id": "7nwUJBm0HE4ZxD3f5cy5ok"
       },
       {
-        "artist": "Marvin Gaye",
-        "listeners": 6171509,
-        "recommended": true,
-        "spotify_popularity": 74,
-        "spotify_id": "3koiLjNrgRTNbOwViDipeA"
-      },
-      {
-        "artist": "Otis Redding"
-      },
-      {
         "artist": "Al Green"
-      },
-      {
-        "artist": "Wilson Pickett"
       },
       {
         "artist": "Donny Hathaway"
       },
       {
         "artist": "Bootsy Collins"
-      },
-      {
-        "artist": "Ohio Players"
       },
       {
         "artist": "Kool & the Gang"
