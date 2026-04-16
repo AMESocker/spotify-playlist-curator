@@ -829,10 +829,6 @@
           "album": "With a Smile and a Song"
         },
         {
-          "artist": "Dean Martin",
-          "album": "The Door Is Still Open to My Heart"
-        },
-        {
           "artist": "Dusty Springfield",
           "album": "Dusty"
         },
@@ -3817,10 +3813,6 @@
         {
           "artist": "Frank Sinatra",
           "album": "Watertown"
-        },
-        {
-          "artist": "Blodwyn Pig",
-          "album": "Getting to This"
         },
         {
           "artist": "Linda Ronstadt",
@@ -39723,10 +39715,6 @@
           "album": "Mermaid Avenue"
         },
         {
-          "artist": "Dillinger Four",
-          "album": "Midwestern Songs of the Americas"
-        },
-        {
           "artist": "Gorguts",
           "album": "Obscura"
         },
@@ -61017,10 +61005,6 @@
           "album": "My Brother & Me"
         },
         {
-          "artist": "Jethro Tull",
-          "album": "Nothing Is Easy: Live at the Isle of Wight 1970"
-        },
-        {
           "artist": "Various Artists",
           "album": "Now That's What I Call Music! 17 (U.S. series)"
         },
@@ -66585,10 +66569,6 @@
         {
           "artist": "Benevento/Russo Duo",
           "album": "Play Pause Stop"
-        },
-        {
-          "artist": "Butch Walker",
-          "album": "The Rise and Fall of Butch Walker and the Let's-Go-Out-Tonites"
         },
         {
           "artist": "Cattle Decapitation",
@@ -84842,10 +84822,6 @@
         {
           "artist": "Northlane",
           "album": "Discoveries"
-        },
-        {
-          "artist": "Pixie Lott",
-          "album": "Young Foolish Happy"
         },
         {
           "artist": "Snow Patrol",
@@ -133224,10 +133200,6 @@
           "album": "Youth in the Shade"
         },
         {
-          "artist": "BT",
-          "album": "The Secret Language of Trees"
-        },
-        {
           "artist": "Bimini",
           "album": "When the Party Ends"
         },
@@ -147966,6 +147938,43 @@
           "album": "Neverland"
         }
       ]
+    }
+  ],
+  "addedAlbums": [
+    {
+      "artist": "Butch Walker",
+      "album": "The Rise and Fall of Butch Walker and the Let's-Go-Out-Tonites",
+      "year": "2006"
+    },
+    {
+      "artist": "Pixie Lott",
+      "album": "Young Foolish Happy",
+      "year": "2011"
+    },
+    {
+      "artist": "Dillinger Four",
+      "album": "Midwestern Songs of the Americas",
+      "year": "1998"
+    },
+    {
+      "artist": "Blodwyn Pig",
+      "album": "Getting to This",
+      "year": "1970"
+    },
+    {
+      "artist": "Jethro Tull",
+      "album": "Nothing Is Easy: Live at the Isle of Wight 1970",
+      "year": "2004"
+    },
+    {
+      "artist": "Dean Martin",
+      "album": "The Door Is Still Open to My Heart",
+      "year": "1964"
+    },
+    {
+      "artist": "BT",
+      "album": "The Secret Language of Trees",
+      "year": "2023"
     }
   ]
 }
