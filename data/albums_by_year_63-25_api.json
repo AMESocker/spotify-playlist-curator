@@ -829,10 +829,6 @@
           "album": "With a Smile and a Song"
         },
         {
-          "artist": "Dean Martin",
-          "album": "The Door Is Still Open to My Heart"
-        },
-        {
           "artist": "Dusty Springfield",
           "album": "Dusty"
         },
@@ -1469,10 +1465,6 @@
         {
           "artist": "Otis Redding",
           "album": "The Soul Album"
-        },
-        {
-          "artist": "Bobby Darin",
-          "album": "Bobby Darin Sings The Shadow of Your Smile"
         },
         {
           "artist": "Lou Rawls",
@@ -2298,10 +2290,6 @@
         {
           "artist": "Paul Butterfield Blues Band",
           "album": "The Resurrection of Pigboy Crabshaw"
-        },
-        {
-          "artist": "Van Dyke Parks",
-          "album": "Song Cycle"
         },
         {
           "artist": "Hep Stars",
@@ -3566,10 +3554,6 @@
           "album": "Liege & Lief"
         },
         {
-          "artist": "Donald Byrd",
-          "album": "Fancy Free"
-        },
-        {
           "artist": "Renaissance",
           "album": "Renaissance"
         }
@@ -3817,10 +3801,6 @@
         {
           "artist": "Frank Sinatra",
           "album": "Watertown"
-        },
-        {
-          "artist": "Blodwyn Pig",
-          "album": "Getting to This"
         },
         {
           "artist": "Linda Ronstadt",
@@ -16117,10 +16097,6 @@
         {
           "artist": "The Lords of the New Church",
           "album": "The Lords of the New Church"
-        },
-        {
-          "artist": "Kenny Rogers",
-          "album": "Love Will Turn You Around"
         },
         {
           "artist": "Whitehouse",
@@ -38666,10 +38642,6 @@
           "album": "Diana, Princess of Wales: Tribute"
         },
         {
-          "artist": "Pandora",
-          "album": "This Could Be Heaven"
-        },
-        {
           "artist": "Ron Wasserman",
           "album": "Dragon Ball Z: Original USA Television Soundtrack"
         },
@@ -39721,10 +39693,6 @@
         {
           "artist": "Billy Bragg and Wilco",
           "album": "Mermaid Avenue"
-        },
-        {
-          "artist": "Dillinger Four",
-          "album": "Midwestern Songs of the Americas"
         },
         {
           "artist": "Gorguts",
@@ -48276,10 +48244,6 @@
         {
           "artist": "Z-Ro",
           "album": "King of da Ghetto"
-        },
-        {
-          "artist": "Ivy",
-          "album": "Long Distance"
         },
         {
           "artist": "Avantasia",
@@ -61017,10 +60981,6 @@
           "album": "My Brother & Me"
         },
         {
-          "artist": "Jethro Tull",
-          "album": "Nothing Is Easy: Live at the Isle of Wight 1970"
-        },
-        {
           "artist": "Various Artists",
           "album": "Now That's What I Call Music! 17 (U.S. series)"
         },
@@ -65855,10 +65815,6 @@
           "album": "IV"
         },
         {
-          "artist": "Goo Goo Dolls",
-          "album": "Let Love In"
-        },
-        {
           "artist": "Irma Thomas",
           "album": "After the Rain"
         },
@@ -66585,10 +66541,6 @@
         {
           "artist": "Benevento/Russo Duo",
           "album": "Play Pause Stop"
-        },
-        {
-          "artist": "Butch Walker",
-          "album": "The Rise and Fall of Butch Walker and the Let's-Go-Out-Tonites"
         },
         {
           "artist": "Cattle Decapitation",
@@ -84844,10 +84796,6 @@
           "album": "Discoveries"
         },
         {
-          "artist": "Pixie Lott",
-          "album": "Young Foolish Happy"
-        },
-        {
           "artist": "Snow Patrol",
           "album": "Fallen Empires"
         },
@@ -90424,10 +90372,6 @@
         {
           "artist": "The Field",
           "album": "Cupid's Head"
-        },
-        {
-          "artist": "Joan Jett and the Blackhearts",
-          "album": "Unvarnished"
         },
         {
           "artist": "Mack Wilds",
@@ -133224,10 +133168,6 @@
           "album": "Youth in the Shade"
         },
         {
-          "artist": "BT",
-          "album": "The Secret Language of Trees"
-        },
-        {
           "artist": "Bimini",
           "album": "When the Party Ends"
         },
@@ -147966,6 +147906,83 @@
           "album": "Neverland"
         }
       ]
+    }
+  ],
+  "addedAlbums": [
+    {
+      "artist": "Butch Walker",
+      "album": "The Rise and Fall of Butch Walker and the Let's-Go-Out-Tonites",
+      "year": "2006"
+    },
+    {
+      "artist": "Pixie Lott",
+      "album": "Young Foolish Happy",
+      "year": "2011"
+    },
+    {
+      "artist": "Dillinger Four",
+      "album": "Midwestern Songs of the Americas",
+      "year": "1998"
+    },
+    {
+      "artist": "Blodwyn Pig",
+      "album": "Getting to This",
+      "year": "1970"
+    },
+    {
+      "artist": "Jethro Tull",
+      "album": "Nothing Is Easy: Live at the Isle of Wight 1970",
+      "year": "2004"
+    },
+    {
+      "artist": "Dean Martin",
+      "album": "The Door Is Still Open to My Heart",
+      "year": "1964"
+    },
+    {
+      "artist": "BT",
+      "album": "The Secret Language of Trees",
+      "year": "2023"
+    },
+    {
+      "artist": "Goo Goo Dolls",
+      "album": "Let Love In",
+      "year": "2006"
+    },
+    {
+      "artist": "Kenny Rogers",
+      "album": "Love Will Turn You Around",
+      "year": "1982"
+    },
+    {
+      "artist": "Pandora",
+      "album": "This Could Be Heaven",
+      "year": "1997"
+    },
+    {
+      "artist": "Ivy",
+      "album": "Long Distance",
+      "year": "2001"
+    },
+    {
+      "artist": "Van Dyke Parks",
+      "album": "Song Cycle",
+      "year": "1967"
+    },
+    {
+      "artist": "Joan Jett and the Blackhearts",
+      "album": "Unvarnished",
+      "year": "2013"
+    },
+    {
+      "artist": "Donald Byrd",
+      "album": "Fancy Free",
+      "year": "1969"
+    },
+    {
+      "artist": "Bobby Darin",
+      "album": "Bobby Darin Sings The Shadow of Your Smile",
+      "year": "1966"
     }
   ]
 }
