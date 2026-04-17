@@ -871,12 +871,6 @@
       },
       {
         "artist": "Grouper"
-      },
-      {
-        "artist": "Squarepusher"
-      },
-      {
-        "artist": "Plaid"
       }
     ],
     "added": [
@@ -969,6 +963,20 @@
         "listeners": 762055,
         "spotify_id": "2VAvhf61GgLYmC6C8anyX1",
         "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Plaid",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Squarepusher",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
         "tracksAdded": 5
       }
     ]
