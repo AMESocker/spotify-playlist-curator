@@ -1270,10 +1270,6 @@
           "album": "I Like It Like That"
         },
         {
-          "artist": "Rick Nelson",
-          "album": "Love and Kisses"
-        },
-        {
           "artist": "Chuck Berry",
           "album": "Fresh Berry's"
         },
@@ -4001,10 +3997,6 @@
         {
           "artist": "Uriah Heep",
           "album": "... Very 'Eavy ... Very 'Umble"
-        },
-        {
-          "artist": "Lulu",
-          "album": "Melody Fair"
         },
         {
           "artist": "Canned Heat",
@@ -10850,10 +10842,6 @@
           "album": "Rough Diamond"
         },
         {
-          "artist": "Neil Diamond",
-          "album": "Love at the Greek"
-        },
-        {
           "artist": "Dolly Parton",
           "album": "New Harvest – First Gathering"
         },
@@ -15883,10 +15871,6 @@
           "album": "Stevie Wonder's Original Musiquarium"
         },
         {
-          "artist": "The Cure",
-          "album": "Pornography"
-        },
-        {
           "artist": "Thomas Dolby",
           "album": "The Golden Age of Wireless"
         },
@@ -16694,10 +16678,6 @@
         {
           "artist": "Saxon",
           "album": "Power & the Glory"
-        },
-        {
-          "artist": "Heaven 17",
-          "album": "The Luxury Gap"
         },
         {
           "artist": "Various Artists",
@@ -17527,10 +17507,6 @@
         {
           "artist": "The Cars",
           "album": "Heartbeat City"
-        },
-        {
-          "artist": "The Style Council",
-          "album": "Café Bleu"
         },
         {
           "artist": "The Icicle Works",
@@ -25554,10 +25530,6 @@
         {
           "artist": "Death",
           "album": "Human"
-        },
-        {
-          "artist": "Del the Funky Homosapien",
-          "album": "I Wish My Brother George Was Here"
         },
         {
           "artist": "Teddy Edwards",
@@ -37728,10 +37700,6 @@
         {
           "artist": "Xuxa",
           "album": "Boas Notícias"
-        },
-        {
-          "artist": "BT",
-          "album": "ESCM"
         },
         {
           "artist": "Björk",
@@ -147983,6 +147951,46 @@
       "artist": "Bobby Darin",
       "album": "Bobby Darin Sings The Shadow of Your Smile",
       "year": "1966"
+    },
+    {
+      "artist": "Rick Nelson",
+      "album": "Love and Kisses",
+      "year": "1965"
+    },
+    {
+      "artist": "Heaven 17",
+      "album": "The Luxury Gap",
+      "year": "1983"
+    },
+    {
+      "artist": "Neil Diamond",
+      "album": "Love at the Greek",
+      "year": "1977"
+    },
+    {
+      "artist": "Lulu",
+      "album": "Melody Fair",
+      "year": "1970"
+    },
+    {
+      "artist": "BT",
+      "album": "ESCM",
+      "year": "1997"
+    },
+    {
+      "artist": "The Cure",
+      "album": "Pornography",
+      "year": "1982"
+    },
+    {
+      "artist": "Del the Funky Homosapien",
+      "album": "I Wish My Brother George Was Here",
+      "year": "1991"
+    },
+    {
+      "artist": "The Style Council",
+      "album": "Café Bleu",
+      "year": "1984"
     }
   ]
 }

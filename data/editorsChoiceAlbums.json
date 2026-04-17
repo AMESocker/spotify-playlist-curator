@@ -1,97 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-03-21",
-      "albums": [
-        {
-          "title": "For Melancholy Brunettes (& Sad Women)",
-          "artist": "Japanese Breakfast",
-          "spotifyTrack": {
-            "id": "02olsPYJypEE0IyuaGS4K4",
-            "name": "Picture Window",
-            "uri": "spotify:track:02olsPYJypEE0IyuaGS4K4",
-            "popularity": 48,
-            "albumName": "For Melancholy Brunettes (& sad women)",
-            "albumId": "4qqdOkr3Ff3kN8GxoxvRES",
-            "foundAt": "2026-02-05T18:50:35.366Z"
-          }
-        },
-        {
-          "title": "The Long Way Round",
-          "artist": "Maya Delilah",
-          "spotifyTrack": {
-            "id": "4zgIOCDE23hczp6120IZ5N",
-            "name": "Actress",
-            "uri": "spotify:track:4zgIOCDE23hczp6120IZ5N",
-            "popularity": 34,
-            "albumName": "The Long Way Round",
-            "albumId": "0wrJiW6NCHWxgc0T9HHYU9",
-            "foundAt": "2026-02-05T18:50:36.892Z"
-          }
-        },
-        {
-          "title": "Can't Lose My (Soul)",
-          "artist": "Annie and the Caldwells",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:20.008Z"
-          }
-        },
-        {
-          "title": "The Great Western Road",
-          "artist": "Deacon Blue",
-          "spotifyTrack": {
-            "id": "7GhAbRrRNOiCOFCHyZLTkT",
-            "name": "Late '88",
-            "uri": "spotify:track:7GhAbRrRNOiCOFCHyZLTkT",
-            "popularity": 30,
-            "albumName": "The Great Western Road",
-            "albumId": "0zdes5b3RxZZrqs8U6hTIv",
-            "foundAt": "2026-02-05T18:50:39.439Z"
-          }
-        },
-        {
-          "title": "Dance Therapy",
-          "artist": "Ora the Molecule",
-          "spotifyTrack": {
-            "id": "5Mm9ntWAGyvKWkDrveaAsF",
-            "name": "Intergalactic Dance",
-            "uri": "spotify:track:5Mm9ntWAGyvKWkDrveaAsF",
-            "popularity": 20,
-            "albumName": "Dance Therapy",
-            "albumId": "73mZESqGK6y4c7e2IfShqr",
-            "foundAt": "2026-02-05T18:50:41.039Z"
-          }
-        },
-        {
-          "title": "The EVEN MORE Freewheelin' Jeffrey Lewis",
-          "artist": "Jeffrey Lewis",
-          "spotifyTrack": {
-            "id": "5YWhLSOORWtVzoo4bRgSnp",
-            "name": "Do What Comes Natural",
-            "uri": "spotify:track:5YWhLSOORWtVzoo4bRgSnp",
-            "popularity": 10,
-            "albumName": "The EVEN MORE Freewheelin' Jeffrey Lewis",
-            "albumId": "6klRJARPSluE7zrKpzCsZ0",
-            "foundAt": "2026-02-05T18:50:42.751Z"
-          }
-        },
-        {
-          "title": "Gift Songs",
-          "artist": "Jefre Cantu-Ledesma",
-          "spotifyTrack": {
-            "id": "07cmsKQI2malLBrzF5icAR",
-            "name": "Gift Song II",
-            "uri": "spotify:track:07cmsKQI2malLBrzF5icAR",
-            "popularity": 36,
-            "albumName": "Gift Songs",
-            "albumId": "6iiPfNevxyjC2Gx68MqLIZ",
-            "foundAt": "2026-02-05T18:50:44.575Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-03-14",
       "albums": [
         {
@@ -788,6 +697,99 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-03-21",
+      "albums": [
+        {
+          "title": "For Melancholy Brunettes (& Sad Women)",
+          "artist": "Japanese Breakfast",
+          "spotifyTrack": {
+            "id": "02olsPYJypEE0IyuaGS4K4",
+            "name": "Picture Window",
+            "uri": "spotify:track:02olsPYJypEE0IyuaGS4K4",
+            "popularity": 48,
+            "albumName": "For Melancholy Brunettes (& sad women)",
+            "albumId": "4qqdOkr3Ff3kN8GxoxvRES",
+            "foundAt": "2026-02-05T18:50:35.366Z"
+          }
+        },
+        {
+          "title": "The Long Way Round",
+          "artist": "Maya Delilah",
+          "spotifyTrack": {
+            "id": "4zgIOCDE23hczp6120IZ5N",
+            "name": "Actress",
+            "uri": "spotify:track:4zgIOCDE23hczp6120IZ5N",
+            "popularity": 34,
+            "albumName": "The Long Way Round",
+            "albumId": "0wrJiW6NCHWxgc0T9HHYU9",
+            "foundAt": "2026-02-05T18:50:36.892Z"
+          }
+        },
+        {
+          "title": "Can't Lose My (Soul)",
+          "artist": "Annie and the Caldwells",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-11T10:26:20.008Z"
+          }
+        },
+        {
+          "title": "The Great Western Road",
+          "artist": "Deacon Blue",
+          "spotifyTrack": {
+            "id": "7GhAbRrRNOiCOFCHyZLTkT",
+            "name": "Late '88",
+            "uri": "spotify:track:7GhAbRrRNOiCOFCHyZLTkT",
+            "popularity": 30,
+            "albumName": "The Great Western Road",
+            "albumId": "0zdes5b3RxZZrqs8U6hTIv",
+            "foundAt": "2026-02-05T18:50:39.439Z"
+          }
+        },
+        {
+          "title": "Dance Therapy",
+          "artist": "Ora the Molecule",
+          "spotifyTrack": {
+            "id": "5Mm9ntWAGyvKWkDrveaAsF",
+            "name": "Intergalactic Dance",
+            "uri": "spotify:track:5Mm9ntWAGyvKWkDrveaAsF",
+            "popularity": 20,
+            "albumName": "Dance Therapy",
+            "albumId": "73mZESqGK6y4c7e2IfShqr",
+            "foundAt": "2026-02-05T18:50:41.039Z"
+          }
+        },
+        {
+          "title": "The EVEN MORE Freewheelin' Jeffrey Lewis",
+          "artist": "Jeffrey Lewis",
+          "spotifyTrack": {
+            "id": "5YWhLSOORWtVzoo4bRgSnp",
+            "name": "Do What Comes Natural",
+            "uri": "spotify:track:5YWhLSOORWtVzoo4bRgSnp",
+            "popularity": 10,
+            "albumName": "The EVEN MORE Freewheelin' Jeffrey Lewis",
+            "albumId": "6klRJARPSluE7zrKpzCsZ0",
+            "foundAt": "2026-02-05T18:50:42.751Z"
+          }
+        },
+        {
+          "title": "Gift Songs",
+          "artist": "Jefre Cantu-Ledesma",
+          "spotifyTrack": {
+            "id": "07cmsKQI2malLBrzF5icAR",
+            "name": "Gift Song II",
+            "uri": "spotify:track:07cmsKQI2malLBrzF5icAR",
+            "popularity": 36,
+            "albumName": "Gift Songs",
+            "albumId": "6iiPfNevxyjC2Gx68MqLIZ",
+            "foundAt": "2026-02-05T18:50:44.575Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-17T17:02:00.851Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-03-28",
       "albums": [

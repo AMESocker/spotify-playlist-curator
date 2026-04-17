@@ -750,6 +750,9 @@
   "Ambient / Experimental Electronic": {
     "not_added": [
       {
+        "artist": "The Caretaker"
+      },
+      {
         "artist": "Caribou",
         "listeners": 732092,
         "recommended": true,
@@ -757,13 +760,13 @@
         "spotify_id": "4aEnNH9PuU1HF3TsZTru54"
       },
       {
-        "artist": "Murcof"
+        "artist": "Harold Budd"
       },
       {
-        "artist": "Rafael Anton Irisarri"
+        "artist": "Brian Eno"
       },
       {
-        "artist": "The Caretaker"
+        "artist": "Loscil"
       },
       {
         "artist": "Burial",
@@ -771,6 +774,55 @@
         "recommended": true,
         "spotify_popularity": 48,
         "spotify_id": "0uCCBpmg6MrPb1KY2msceF"
+      },
+      {
+        "artist": "Nils Frahm",
+        "listeners": 727464,
+        "recommended": true,
+        "spotify_popularity": 57,
+        "spotify_id": "5gqhueRUZEa7VDnQt4HODp"
+      },
+      {
+        "artist": "Nils Frahm",
+        "listeners": 727464,
+        "recommended": true,
+        "spotify_popularity": 57,
+        "spotify_id": "5gqhueRUZEa7VDnQt4HODp"
+      },
+      {
+        "artist": "Oval"
+      },
+      {
+        "artist": "Murcof"
+      },
+      {
+        "artist": "William Basinski"
+      },
+      {
+        "artist": "Gas"
+      },
+      {
+        "artist": "Floating Points",
+        "listeners": 404135,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "2AR42Ur9PcchQDtEdwkv4L"
+      },
+      {
+        "artist": "Thievery Corporation",
+        "listeners": 983476,
+        "recommended": true,
+        "spotify_popularity": 61,
+        "spotify_id": "25KNo5GDS6ZpLkjasaecA3"
+      },
+      {
+        "artist": "Pole"
+      },
+      {
+        "artist": "Tim Hecker"
+      },
+      {
+        "artist": "Rafael Anton Irisarri"
       },
       {
         "artist": "The Orb",
@@ -808,27 +860,6 @@
         "spotify_id": "7Eu1txygG6nJttLHbZdQOh"
       },
       {
-        "artist": "Floating Points",
-        "listeners": 404135,
-        "recommended": true,
-        "spotify_popularity": 50,
-        "spotify_id": "2AR42Ur9PcchQDtEdwkv4L"
-      },
-      {
-        "artist": "Nils Frahm",
-        "listeners": 727464,
-        "recommended": true,
-        "spotify_popularity": 57,
-        "spotify_id": "5gqhueRUZEa7VDnQt4HODp"
-      },
-      {
-        "artist": "Thievery Corporation",
-        "listeners": 983476,
-        "recommended": true,
-        "spotify_popularity": 61,
-        "spotify_id": "25KNo5GDS6ZpLkjasaecA3"
-      },
-      {
         "artist": "Bonobo",
         "listeners": 1485781,
         "recommended": true,
@@ -836,40 +867,10 @@
         "spotify_id": "0cmWgDlu9CwTgxPhf403hb"
       },
       {
-        "artist": "Brian Eno"
-      },
-      {
-        "artist": "Harold Budd"
-      },
-      {
         "artist": "Lustmord"
       },
       {
-        "artist": "Tim Hecker"
-      },
-      {
         "artist": "Grouper"
-      },
-      {
-        "artist": "Squarepusher"
-      },
-      {
-        "artist": "Plaid"
-      },
-      {
-        "artist": "Pole"
-      },
-      {
-        "artist": "Gas"
-      },
-      {
-        "artist": "William Basinski"
-      },
-      {
-        "artist": "Oval"
-      },
-      {
-        "artist": "Loscil"
       }
     ],
     "added": [
@@ -962,6 +963,20 @@
         "listeners": 762055,
         "spotify_id": "2VAvhf61GgLYmC6C8anyX1",
         "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Plaid",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Squarepusher",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
         "tracksAdded": 5
       }
     ]
