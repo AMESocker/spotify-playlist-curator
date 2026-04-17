@@ -170,7 +170,6 @@
       "Artist": "Candlebox",
       "Group": "🟧 Post-Grunge / Alt Rock",
       "Albums": [
-        "Candlebox (1993)",
         "Lucy (1995)",
         "Happy Pills (1998)",
         "Into the Sun (2008)",
@@ -179,7 +178,9 @@
         "Wolves (2021)",
         "The Long Goodbye (2023)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "The Long Goodbye (2023)"
+      ]
     },
     {
       "Artist": "Foo Fighters",

@@ -5161,5 +5161,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-04-17T19:43:50.177Z"
+  },
+  {
+    "action": "add",
+    "artist": "Candlebox",
+    "album": "The Long Goodbye (2023)",
+    "index": null,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-17T20:54:39.129Z"
   }
 ]
