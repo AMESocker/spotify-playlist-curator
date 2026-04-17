@@ -750,7 +750,34 @@
   "Ambient / Experimental Electronic": {
     "not_added": [
       {
+        "artist": "Burial",
+        "listeners": 527105,
+        "recommended": true,
+        "spotify_popularity": 48,
+        "spotify_id": "0uCCBpmg6MrPb1KY2msceF"
+      },
+      {
         "artist": "Loscil"
+      },
+      {
+        "artist": "Nils Frahm",
+        "listeners": 727464,
+        "recommended": true,
+        "spotify_popularity": 57,
+        "spotify_id": "5gqhueRUZEa7VDnQt4HODp"
+      },
+      {
+        "artist": "Nils Frahm",
+        "listeners": 727464,
+        "recommended": true,
+        "spotify_popularity": 57,
+        "spotify_id": "5gqhueRUZEa7VDnQt4HODp"
+      },
+      {
+        "artist": "Oval"
+      },
+      {
+        "artist": "Murcof"
       },
       {
         "artist": "Harold Budd"
@@ -763,13 +790,6 @@
       },
       {
         "artist": "The Caretaker"
-      },
-      {
-        "artist": "Nils Frahm",
-        "listeners": 727464,
-        "recommended": true,
-        "spotify_popularity": 57,
-        "spotify_id": "5gqhueRUZEa7VDnQt4HODp"
       },
       {
         "artist": "Floating Points",
@@ -799,17 +819,7 @@
         "spotify_id": "4aEnNH9PuU1HF3TsZTru54"
       },
       {
-        "artist": "Murcof"
-      },
-      {
         "artist": "Rafael Anton Irisarri"
-      },
-      {
-        "artist": "Burial",
-        "listeners": 527105,
-        "recommended": true,
-        "spotify_popularity": 48,
-        "spotify_id": "0uCCBpmg6MrPb1KY2msceF"
       },
       {
         "artist": "The Orb",
@@ -867,9 +877,6 @@
       },
       {
         "artist": "Plaid"
-      },
-      {
-        "artist": "Oval"
       }
     ],
     "added": [
