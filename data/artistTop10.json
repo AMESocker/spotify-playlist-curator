@@ -750,6 +750,29 @@
   "Ambient / Experimental Electronic": {
     "not_added": [
       {
+        "artist": "Floating Points",
+        "listeners": 404135,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "2AR42Ur9PcchQDtEdwkv4L"
+      },
+      {
+        "artist": "Thievery Corporation",
+        "listeners": 983476,
+        "recommended": true,
+        "spotify_popularity": 61,
+        "spotify_id": "25KNo5GDS6ZpLkjasaecA3"
+      },
+      {
+        "artist": "Gas"
+      },
+      {
+        "artist": "Pole"
+      },
+      {
+        "artist": "Tim Hecker"
+      },
+      {
         "artist": "Caribou",
         "listeners": 732092,
         "recommended": true,
@@ -808,25 +831,11 @@
         "spotify_id": "7Eu1txygG6nJttLHbZdQOh"
       },
       {
-        "artist": "Floating Points",
-        "listeners": 404135,
-        "recommended": true,
-        "spotify_popularity": 50,
-        "spotify_id": "2AR42Ur9PcchQDtEdwkv4L"
-      },
-      {
         "artist": "Nils Frahm",
         "listeners": 727464,
         "recommended": true,
         "spotify_popularity": 57,
         "spotify_id": "5gqhueRUZEa7VDnQt4HODp"
-      },
-      {
-        "artist": "Thievery Corporation",
-        "listeners": 983476,
-        "recommended": true,
-        "spotify_popularity": 61,
-        "spotify_id": "25KNo5GDS6ZpLkjasaecA3"
       },
       {
         "artist": "Bonobo",
@@ -845,9 +854,6 @@
         "artist": "Lustmord"
       },
       {
-        "artist": "Tim Hecker"
-      },
-      {
         "artist": "Grouper"
       },
       {
@@ -855,12 +861,6 @@
       },
       {
         "artist": "Plaid"
-      },
-      {
-        "artist": "Pole"
-      },
-      {
-        "artist": "Gas"
       },
       {
         "artist": "William Basinski"
