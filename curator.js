@@ -485,8 +485,8 @@ async function handleFestival(source, data) {
   }
 
   return runArtistBatch({
-    batchSize: 2,
-    tracksPerArtist: 5,
+    batchSize: 3,
+    tracksPerArtist: 3,
     targetPlaylistId: process.env.TARGET_PLAYLIST_ID,
     wouldExceedLimit,
     pickArtist,
