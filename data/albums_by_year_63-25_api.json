@@ -2112,10 +2112,6 @@
           "album": "Lush Life"
         },
         {
-          "artist": "The Electric Prunes",
-          "album": "Underground"
-        },
-        {
           "artist": "Vanilla Fudge",
           "album": "Vanilla Fudge"
         },
@@ -14678,10 +14674,6 @@
           "album": "Waiata"
         },
         {
-          "artist": "Helix",
-          "album": "White Lace & Black Leather"
-        },
-        {
           "artist": "Flo & Eddie",
           "album": "Rock Steady with Flo & Eddie"
         },
@@ -17475,10 +17467,6 @@
         {
           "artist": "Van Morrison",
           "album": "Live at the Grand Opera House Belfast"
-        },
-        {
-          "artist": "M + M",
-          "album": "Mystery Walk"
         },
         {
           "artist": "Felt",
@@ -27574,10 +27562,6 @@
           "album": "Earth and Sun and Moon"
         },
         {
-          "artist": "The Reverend Horton Heat",
-          "album": "The Full-Custom Gospel Sounds of the Reverend Horton Heat"
-        },
-        {
           "artist": "Aerosmith",
           "album": "Get a Grip"
         },
@@ -29213,10 +29197,6 @@
         {
           "artist": "Dave Wong",
           "album": "Just Say You Love Me"
-        },
-        {
-          "artist": "Sublime",
-          "album": "Robbin' the Hood"
         },
         {
           "artist": "Luna",
@@ -90326,10 +90306,6 @@
           "album": "VII"
         },
         {
-          "artist": "Deltron 3030",
-          "album": "Event 2"
-        },
-        {
           "artist": "Dizzee Rascal",
           "album": "The Fifth"
         },
@@ -100187,10 +100163,6 @@
         {
           "artist": "Trygve Seim",
           "album": "Rumi Songs"
-        },
-        {
-          "artist": "Vince Staples",
-          "album": "Prima Donna"
         },
         {
           "artist": "Young Thug",
@@ -114799,10 +114771,6 @@
         {
           "artist": "Silverstein",
           "album": "A Beautiful Place to Drown"
-        },
-        {
-          "artist": "Stephen Malkmus",
-          "album": "Traditional Techniques"
         },
         {
           "artist": "U.S. Girls",
@@ -147991,6 +147959,46 @@
       "artist": "The Style Council",
       "album": "Café Bleu",
       "year": "1984"
+    },
+    {
+      "artist": "Vince Staples",
+      "album": "Prima Donna",
+      "year": "2016"
+    },
+    {
+      "artist": "The Electric Prunes",
+      "album": "Underground",
+      "year": "1967"
+    },
+    {
+      "artist": "Sublime",
+      "album": "Robbin' the Hood",
+      "year": "1994"
+    },
+    {
+      "artist": "Helix",
+      "album": "White Lace & Black Leather",
+      "year": "1981"
+    },
+    {
+      "artist": "M + M",
+      "album": "Mystery Walk",
+      "year": "1984"
+    },
+    {
+      "artist": "The Reverend Horton Heat",
+      "album": "The Full-Custom Gospel Sounds of the Reverend Horton Heat",
+      "year": "1993"
+    },
+    {
+      "artist": "Deltron 3030",
+      "album": "Event 2",
+      "year": "2013"
+    },
+    {
+      "artist": "Stephen Malkmus",
+      "album": "Traditional Techniques",
+      "year": "2020"
     }
   ]
 }
