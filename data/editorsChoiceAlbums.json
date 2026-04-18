@@ -1,6 +1,118 @@
 {
   "weeklyAlbums": [
     {
+      "date": "2026-04-17",
+      "albums": [
+        {
+          "title": "The World Is to Dig",
+          "artist": "They Might Be Giants",
+          "spotifyTrack": {
+            "id": "3jJobaaA2kGZLzYh9FCqRx",
+            "name": "Back in Los Angeles",
+            "uri": "spotify:track:3jJobaaA2kGZLzYh9FCqRx",
+            "popularity": 39,
+            "albumName": "The World Is to Dig",
+            "albumId": "2eOGS9MYF17pZozfDIR09s",
+            "foundAt": "2026-04-18T10:32:50.240Z"
+          }
+        },
+        {
+          "title": "Snocaps",
+          "artist": "Snocaps",
+          "spotifyTrack": {
+            "id": "4Q5Tw8eOylSLI9DvYrbQoO",
+            "name": "Heathcliff",
+            "uri": "spotify:track:4Q5Tw8eOylSLI9DvYrbQoO",
+            "popularity": 51,
+            "albumName": "Snocaps",
+            "albumId": "1fevi1JMVt1PVIMh5Z80ad",
+            "foundAt": "2026-04-18T10:32:51.800Z"
+          }
+        },
+        {
+          "title": "Fidelity",
+          "artist": "Yaya Bey",
+          "spotifyTrack": {
+            "id": "12fSlzhqUDqnrZnA50Y617",
+            "name": "Forty Days",
+            "uri": "spotify:track:12fSlzhqUDqnrZnA50Y617",
+            "popularity": 17,
+            "albumName": "Fidelity",
+            "albumId": "4gT5itNBVYzC9jcgMvvOUa",
+            "foundAt": "2026-04-18T10:32:53.353Z"
+          }
+        },
+        {
+          "title": "Julia",
+          "artist": "Julia Cumming",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:32:53.996Z"
+          }
+        },
+        {
+          "title": "Double Exposure",
+          "artist": "Penny Arcade",
+          "spotifyTrack": {
+            "id": "2heLmqSDdN0b03qIgz4JuP",
+            "name": "Regrets",
+            "uri": "spotify:track:2heLmqSDdN0b03qIgz4JuP",
+            "popularity": 1,
+            "albumName": "Double Exposure",
+            "albumId": "3eZTfWCcDyxjPgLrRfRlcq",
+            "foundAt": "2026-04-18T10:32:55.829Z"
+          }
+        },
+        {
+          "title": "Stella's Birth-Day",
+          "artist": "Fellow Mortals",
+          "spotifyTrack": {
+            "id": "4C4KPvgjMCYqQHvlq7oEPh",
+            "name": "Dancing Days",
+            "uri": "spotify:track:4C4KPvgjMCYqQHvlq7oEPh",
+            "popularity": 11,
+            "albumName": "STELLA'S BIRTH-DAY",
+            "albumId": "3jSAxxHsXXi1rPPXcQWQHI",
+            "foundAt": "2026-04-18T10:32:57.429Z"
+          }
+        },
+        {
+          "title": "Bitches' Blues",
+          "artist": "Hedvig Mollestad Weejuns",
+          "spotifyTrack": {
+            "id": "5Q1HLuifo9Oqe37RA7t6ld",
+            "name": "Bitches Blues",
+            "uri": "spotify:track:5Q1HLuifo9Oqe37RA7t6ld",
+            "popularity": 0,
+            "albumName": "Bitches Blues",
+            "albumId": "4cEOFt3LZFZPC4cNvGrcRy",
+            "foundAt": "2026-04-18T10:32:58.926Z"
+          }
+        },
+        {
+          "title": "100 Acre Wood",
+          "artist": "Winston Hightower",
+          "spotifyTrack": {
+            "id": "2f5NXeqSXjLCY8BxGhyw51",
+            "name": "Moonside",
+            "uri": "spotify:track:2f5NXeqSXjLCY8BxGhyw51",
+            "popularity": 0,
+            "albumName": "100 Acre Wood",
+            "albumId": "4D2G4Yt7aOBtobYQzp3AkL",
+            "foundAt": "2026-04-18T10:33:00.488Z"
+          }
+        },
+        {
+          "title": "The Wonderful Adventures of Amanda Maier",
+          "artist": "Trio ErnestEleonore Billy",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:01.104Z"
+          }
+        }
+      ]
+    },
+    {
       "date": "2025-03-14",
       "albums": [
         {
@@ -86,7 +198,7 @@
           "artist": "Dennis Bovell",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:20.755Z"
+            "searchedAt": "2026-04-18T10:33:01.743Z"
           }
         },
         {
@@ -177,7 +289,7 @@
           "artist": "ASTROPICALBomba EstéreoRawayana",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:21.462Z"
+            "searchedAt": "2026-04-18T10:33:02.347Z"
           }
         },
         {
@@ -185,7 +297,7 @@
           "artist": "Croatian AmorLust for Youth",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:22.091Z"
+            "searchedAt": "2026-04-18T10:33:03.024Z"
           }
         },
         {
@@ -219,7 +331,7 @@
           "artist": "Masaaki Suzuki",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:22.702Z"
+            "searchedAt": "2026-04-18T10:33:03.628Z"
           }
         }
       ]
@@ -284,7 +396,7 @@
           "artist": "Dub Syndicate",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:23.291Z"
+            "searchedAt": "2026-04-18T10:33:04.301Z"
           }
         },
         {
@@ -362,7 +474,7 @@
           "artist": "Marmen Quartet",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:23.854Z"
+            "searchedAt": "2026-04-18T10:33:04.942Z"
           }
         }
       ]
@@ -523,7 +635,7 @@
           "artist": "James Brandon Lewis TrioJames Brandon Lewis",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:24.435Z"
+            "searchedAt": "2026-04-18T10:33:05.601Z"
           }
         },
         {
@@ -583,7 +695,7 @@
           "artist": "Nyron Higor",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:25.010Z"
+            "searchedAt": "2026-04-18T10:33:06.217Z"
           }
         },
         {
@@ -591,7 +703,7 @@
           "artist": "Romain LeleuJulien Gernay",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:25.600Z"
+            "searchedAt": "2026-04-18T10:33:07.064Z"
           }
         }
       ]
@@ -643,7 +755,7 @@
           "artist": "Ali Shaheed MuhammadEbo TaylorAdrian Younge",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:26.210Z"
+            "searchedAt": "2026-04-18T10:33:07.668Z"
           }
         },
         {
@@ -651,7 +763,7 @@
           "artist": "Dwight Twilley",
           "spotifyTrack": {
             "error": "Not found",
-            "searchedAt": "2026-04-11T10:26:26.781Z"
+            "searchedAt": "2026-04-18T10:33:08.325Z"
           }
         },
         {
