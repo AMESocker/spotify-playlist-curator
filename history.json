@@ -5178,5 +5178,21 @@
     "sourceFile": "data/billboardHot100.json",
     "strategy": "singleTrack",
     "timestamp": "2026-04-18T01:07:19.348Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Dells",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-18T01:46:21.004Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Marvin Gaye",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-18T01:46:22.626Z"
   }
 ]
