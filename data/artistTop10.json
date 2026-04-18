@@ -533,13 +533,32 @@
   "Reggae / World ": {
     "not_added": [
       {
+        "artist": "Orchestra Baobab"
+      },
+      {
+        "artist": "Sizzla",
+        "listeners": 648280,
+        "recommended": true,
+        "spotify_popularity": 53,
+        "spotify_id": "72T7x96EAqN2UWvAgobYfv"
+      },
+      {
+        "artist": "Bunny Wailer"
+      },
+      {
+        "artist": "Prince Far I"
+      },
+      {
+        "artist": "Black Uhuru"
+      },
+      {
+        "artist": "Ebo Taylor"
+      },
+      {
         "artist": "Toumani Diabaté"
       },
       {
         "artist": "Fela Kuti"
-      },
-      {
-        "artist": "Prince Far I"
       },
       {
         "artist": "Mulatu Astatke",
@@ -556,13 +575,6 @@
         "spotify_id": "6UL7BodGc5iVmQGlMwHR0g"
       },
       {
-        "artist": "Sizzla",
-        "listeners": 648280,
-        "recommended": true,
-        "spotify_popularity": 53,
-        "spotify_id": "72T7x96EAqN2UWvAgobYfv"
-      },
-      {
         "artist": "William Onyeabor"
       },
       {
@@ -576,13 +588,7 @@
         "spotify_id": "2sf2owtFSCvz2MLfxmNdkb"
       },
       {
-        "artist": "Orchestra Baobab"
-      },
-      {
         "artist": "Ali Farka Touré"
-      },
-      {
-        "artist": "Ebo Taylor"
       },
       {
         "artist": "Mdou Moctar",
@@ -625,9 +631,6 @@
         "artist": "Barrington Levy"
       },
       {
-        "artist": "Black Uhuru"
-      },
-      {
         "artist": "Gregory Isaacs"
       },
       {
@@ -638,9 +641,6 @@
       },
       {
         "artist": "Cedric Myton"
-      },
-      {
-        "artist": "Bunny Wailer"
       },
       {
         "artist": "U-Roy"

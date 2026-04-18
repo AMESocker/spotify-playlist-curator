@@ -5203,5 +5203,12 @@
     "sourceFile": "data/albums_by_year_63-25_api.json",
     "strategy": "albumsByYear",
     "timestamp": "2026-04-18T16:53:16.858Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 8,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-18T18:39:42.087Z"
   }
 ]

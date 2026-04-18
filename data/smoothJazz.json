@@ -376,11 +376,6 @@
       "year": 2013
     },
     {
-      "song": "Champagne Life",
-      "artist": "Gerald Albright / Norman Brown",
-      "year": 2013
-    },
-    {
       "song": "Wish I Was There",
       "artist": "Vincent Ingala",
       "year": 2013
@@ -566,16 +561,6 @@
       "year": 2016
     },
     {
-      "song": "Overdrive",
-      "artist": "The JT Project",
-      "year": 2016
-    },
-    {
-      "song": "The Journey",
-      "artist": "Nick Colionne",
-      "year": 2016
-    },
-    {
       "song": "bwb",
       "artist": "bwb",
       "year": 2016
@@ -723,11 +708,6 @@
     {
       "song": "Tick Tock",
       "artist": "Boney James",
-      "year": 2017
-    },
-    {
-      "song": "Let's Take It Back",
-      "artist": "Najee featuring Incognito",
       "year": 2017
     },
     {
@@ -901,11 +881,6 @@
       "year": 2019
     },
     {
-      "song": "Moon Over Gotham",
-      "artist": "Keiko Matsui",
-      "year": 2019
-    },
-    {
       "song": "Cinco Cinco Seis",
       "artist": "Four80East",
       "year": 2019
@@ -958,11 +933,6 @@
     {
       "song": "Get Up!",
       "artist": "Brian Culbertson featuring Mr. TalkBox and Marcus Anderson",
-      "year": 2020
-    },
-    {
-      "song": "Solid",
-      "artist": "Boney James",
       "year": 2020
     },
     {
@@ -1276,11 +1246,6 @@
       "year": 2022
     },
     {
-      "song": "What You Do to Me",
-      "artist": "Nick Colionne",
-      "year": 2022
-    },
-    {
       "song": "G Wiggle",
       "artist": "Gerald Albright",
       "year": 2022
@@ -1461,11 +1426,6 @@
       "year": 2023
     },
     {
-      "song": "South Bay",
-      "artist": "Michael Lington",
-      "year": 2024
-    },
-    {
       "song": "My Heart to Yours",
       "artist": "Ellis Hamilton",
       "year": 2024
@@ -1478,11 +1438,6 @@
     {
       "song": "Bon Appetit",
       "artist": "Jonathan Butler",
-      "year": 2024
-    },
-    {
-      "song": "After Twilight",
-      "artist": "Lawson Rollins featuring Shahin Shahida",
       "year": 2024
     },
     {
@@ -1678,11 +1633,6 @@
     {
       "song": "Together Again",
       "artist": "Michael Broening",
-      "year": 2025
-    },
-    {
-      "song": "Living My Best Life",
-      "artist": "Gerald Albright",
       "year": 2025
     },
     {
@@ -1997,6 +1947,46 @@
       "song": "Listen to This",
       "artist": "Lisa Addeo",
       "year": 2020
+    },
+    {
+      "song": "Champagne Life",
+      "artist": "Gerald Albright / Norman Brown",
+      "year": 2013
+    },
+    {
+      "song": "What You Do to Me",
+      "artist": "Nick Colionne",
+      "year": 2022
+    },
+    {
+      "song": "The Journey",
+      "artist": "Nick Colionne",
+      "year": 2016
+    },
+    {
+      "song": "Solid",
+      "artist": "Boney James",
+      "year": 2020
+    },
+    {
+      "song": "Moon Over Gotham",
+      "artist": "Keiko Matsui",
+      "year": 2019
+    },
+    {
+      "song": "Living My Best Life",
+      "artist": "Gerald Albright",
+      "year": 2025
+    },
+    {
+      "song": "Overdrive",
+      "artist": "The JT Project",
+      "year": 2016
+    },
+    {
+      "song": "South Bay",
+      "artist": "Michael Lington",
+      "year": 2024
     }
   ]
 }
