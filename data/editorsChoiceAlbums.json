@@ -1,248 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2026-04-17",
-      "albums": [
-        {
-          "title": "The World Is to Dig",
-          "artist": "They Might Be Giants",
-          "spotifyTrack": {
-            "id": "3jJobaaA2kGZLzYh9FCqRx",
-            "name": "Back in Los Angeles",
-            "uri": "spotify:track:3jJobaaA2kGZLzYh9FCqRx",
-            "popularity": 39,
-            "albumName": "The World Is to Dig",
-            "albumId": "2eOGS9MYF17pZozfDIR09s",
-            "foundAt": "2026-04-18T10:32:50.240Z"
-          }
-        },
-        {
-          "title": "Snocaps",
-          "artist": "Snocaps",
-          "spotifyTrack": {
-            "id": "4Q5Tw8eOylSLI9DvYrbQoO",
-            "name": "Heathcliff",
-            "uri": "spotify:track:4Q5Tw8eOylSLI9DvYrbQoO",
-            "popularity": 51,
-            "albumName": "Snocaps",
-            "albumId": "1fevi1JMVt1PVIMh5Z80ad",
-            "foundAt": "2026-04-18T10:32:51.800Z"
-          }
-        },
-        {
-          "title": "Fidelity",
-          "artist": "Yaya Bey",
-          "spotifyTrack": {
-            "id": "12fSlzhqUDqnrZnA50Y617",
-            "name": "Forty Days",
-            "uri": "spotify:track:12fSlzhqUDqnrZnA50Y617",
-            "popularity": 17,
-            "albumName": "Fidelity",
-            "albumId": "4gT5itNBVYzC9jcgMvvOUa",
-            "foundAt": "2026-04-18T10:32:53.353Z"
-          }
-        },
-        {
-          "title": "Julia",
-          "artist": "Julia Cumming",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:32:53.996Z"
-          }
-        },
-        {
-          "title": "Double Exposure",
-          "artist": "Penny Arcade",
-          "spotifyTrack": {
-            "id": "2heLmqSDdN0b03qIgz4JuP",
-            "name": "Regrets",
-            "uri": "spotify:track:2heLmqSDdN0b03qIgz4JuP",
-            "popularity": 1,
-            "albumName": "Double Exposure",
-            "albumId": "3eZTfWCcDyxjPgLrRfRlcq",
-            "foundAt": "2026-04-18T10:32:55.829Z"
-          }
-        },
-        {
-          "title": "Stella's Birth-Day",
-          "artist": "Fellow Mortals",
-          "spotifyTrack": {
-            "id": "4C4KPvgjMCYqQHvlq7oEPh",
-            "name": "Dancing Days",
-            "uri": "spotify:track:4C4KPvgjMCYqQHvlq7oEPh",
-            "popularity": 11,
-            "albumName": "STELLA'S BIRTH-DAY",
-            "albumId": "3jSAxxHsXXi1rPPXcQWQHI",
-            "foundAt": "2026-04-18T10:32:57.429Z"
-          }
-        },
-        {
-          "title": "Bitches' Blues",
-          "artist": "Hedvig Mollestad Weejuns",
-          "spotifyTrack": {
-            "id": "5Q1HLuifo9Oqe37RA7t6ld",
-            "name": "Bitches Blues",
-            "uri": "spotify:track:5Q1HLuifo9Oqe37RA7t6ld",
-            "popularity": 0,
-            "albumName": "Bitches Blues",
-            "albumId": "4cEOFt3LZFZPC4cNvGrcRy",
-            "foundAt": "2026-04-18T10:32:58.926Z"
-          }
-        },
-        {
-          "title": "100 Acre Wood",
-          "artist": "Winston Hightower",
-          "spotifyTrack": {
-            "id": "2f5NXeqSXjLCY8BxGhyw51",
-            "name": "Moonside",
-            "uri": "spotify:track:2f5NXeqSXjLCY8BxGhyw51",
-            "popularity": 0,
-            "albumName": "100 Acre Wood",
-            "albumId": "4D2G4Yt7aOBtobYQzp3AkL",
-            "foundAt": "2026-04-18T10:33:00.488Z"
-          }
-        },
-        {
-          "title": "The Wonderful Adventures of Amanda Maier",
-          "artist": "Trio ErnestEleonore Billy",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:33:01.104Z"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-03-14",
-      "albums": [
-        {
-          "title": "Moonlight Concessions",
-          "artist": "Throwing Muses",
-          "spotifyTrack": {
-            "id": "5r56KnVx19cqIpvWRhjjxS",
-            "name": "Summer of Love",
-            "uri": "spotify:track:5r56KnVx19cqIpvWRhjjxS",
-            "popularity": 23,
-            "albumName": "Moonlight Concessions",
-            "albumId": "2ftAcFZMDD89fpNo89ZkG6",
-            "foundAt": "2026-02-05T18:50:46.298Z"
-          }
-        },
-        {
-          "title": "Nation Shall Speak Unto Nation",
-          "artist": "Edwyn Collins",
-          "spotifyTrack": {
-            "id": "2BZIvaIc6EN7QXConrAEXY",
-            "name": "Knowledge",
-            "uri": "spotify:track:2BZIvaIc6EN7QXConrAEXY",
-            "popularity": 23,
-            "albumName": "Nation Shall Speak Unto Nation",
-            "albumId": "2N1pnqJwLvRNjyer5OJv7G",
-            "foundAt": "2026-02-05T18:50:48.250Z"
-          }
-        },
-        {
-          "title": "Halo on the Inside",
-          "artist": "Circuit des Yeux",
-          "spotifyTrack": {
-            "id": "09tK0uxKhPE7HWNz27bYNY",
-            "name": "Megaloner",
-            "uri": "spotify:track:09tK0uxKhPE7HWNz27bYNY",
-            "popularity": 23,
-            "albumName": "Halo On The Inside",
-            "albumId": "1a5FMhDC5UFBhkirhJD72b",
-            "foundAt": "2026-02-05T18:50:50.087Z"
-          }
-        },
-        {
-          "title": "Dead Channel Sky",
-          "artist": "clipping.",
-          "spotifyTrack": {
-            "id": "3ZyfKvS2z4so0qtoudfyI0",
-            "name": "Keep Pushing",
-            "uri": "spotify:track:3ZyfKvS2z4so0qtoudfyI0",
-            "popularity": 41,
-            "albumName": "Dead Channel Sky",
-            "albumId": "2AkszlufP2t2ZHfC8NKKvN",
-            "foundAt": "2026-02-05T18:50:51.936Z"
-          }
-        },
-        {
-          "title": "Chapter III: We Return to Light",
-          "artist": "Anoushka Shankar",
-          "spotifyTrack": {
-            "id": "5yTsposXxnk1rJVETaXS4N",
-            "name": "Daybreak",
-            "uri": "spotify:track:5yTsposXxnk1rJVETaXS4N",
-            "popularity": 37,
-            "albumName": "Chapter III: We Return to Light",
-            "albumId": "10y2phPg1DNcq2YALjzABR",
-            "foundAt": "2026-02-05T18:50:53.535Z"
-          }
-        },
-        {
-          "title": "The Overview",
-          "artist": "Steven Wilson",
-          "spotifyTrack": {
-            "id": "1hiuFbjNa7Q0x41EHUfC80",
-            "name": "Objects Outlive Us",
-            "uri": "spotify:track:1hiuFbjNa7Q0x41EHUfC80",
-            "popularity": 41,
-            "albumName": "The Overview",
-            "albumId": "3xOcExpIWzroZldcdc212q",
-            "foundAt": "2026-02-05T18:50:55.159Z"
-          }
-        },
-        {
-          "title": "Different: The Singles Collection 1977-1981",
-          "artist": "Dennis Bovell",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:33:01.743Z"
-          }
-        },
-        {
-          "title": "Your Lungs and Your Tongues",
-          "artist": "Vazz",
-          "spotifyTrack": {
-            "id": "6OzUQEJo6vvLWDsOuw9k3D",
-            "name": "Breath",
-            "uri": "spotify:track:6OzUQEJo6vvLWDsOuw9k3D",
-            "popularity": 12,
-            "albumName": "Your Lungs And Your Tongues",
-            "albumId": "69BWVXLijRcjz13zFWip31",
-            "foundAt": "2026-02-05T18:50:57.459Z"
-          }
-        },
-        {
-          "title": "Whatever the Weather II",
-          "artist": "Whatever the Weather",
-          "spotifyTrack": {
-            "id": "4G2rofhMyhDKn2eYuNPKpv",
-            "name": "12°C",
-            "uri": "spotify:track:4G2rofhMyhDKn2eYuNPKpv",
-            "popularity": 32,
-            "albumName": "Whatever the Weather II",
-            "albumId": "6c2tadUprT8mxXulNmZ1dc",
-            "foundAt": "2026-02-05T18:50:59.204Z"
-          }
-        },
-        {
-          "title": "Seelentrost",
-          "artist": "Isabel Schicketanz",
-          "spotifyTrack": {
-            "id": "60sOCNLNVf4sxh2Do8EZsd",
-            "name": "Klag- und Trost-Lied: Ich steh in Angst und Pein",
-            "uri": "spotify:track:60sOCNLNVf4sxh2Do8EZsd",
-            "popularity": 1,
-            "albumName": "Seelentrost",
-            "albumId": "1IFKhQPghNvcrQtIMm9vG1",
-            "foundAt": "2026-02-05T18:51:01.150Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-03-07",
       "albums": [
         {
@@ -809,6 +567,252 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-03-14",
+      "albums": [
+        {
+          "title": "Moonlight Concessions",
+          "artist": "Throwing Muses",
+          "spotifyTrack": {
+            "id": "5r56KnVx19cqIpvWRhjjxS",
+            "name": "Summer of Love",
+            "uri": "spotify:track:5r56KnVx19cqIpvWRhjjxS",
+            "popularity": 23,
+            "albumName": "Moonlight Concessions",
+            "albumId": "2ftAcFZMDD89fpNo89ZkG6",
+            "foundAt": "2026-02-05T18:50:46.298Z"
+          }
+        },
+        {
+          "title": "Nation Shall Speak Unto Nation",
+          "artist": "Edwyn Collins",
+          "spotifyTrack": {
+            "id": "2BZIvaIc6EN7QXConrAEXY",
+            "name": "Knowledge",
+            "uri": "spotify:track:2BZIvaIc6EN7QXConrAEXY",
+            "popularity": 23,
+            "albumName": "Nation Shall Speak Unto Nation",
+            "albumId": "2N1pnqJwLvRNjyer5OJv7G",
+            "foundAt": "2026-02-05T18:50:48.250Z"
+          }
+        },
+        {
+          "title": "Halo on the Inside",
+          "artist": "Circuit des Yeux",
+          "spotifyTrack": {
+            "id": "09tK0uxKhPE7HWNz27bYNY",
+            "name": "Megaloner",
+            "uri": "spotify:track:09tK0uxKhPE7HWNz27bYNY",
+            "popularity": 23,
+            "albumName": "Halo On The Inside",
+            "albumId": "1a5FMhDC5UFBhkirhJD72b",
+            "foundAt": "2026-02-05T18:50:50.087Z"
+          }
+        },
+        {
+          "title": "Dead Channel Sky",
+          "artist": "clipping.",
+          "spotifyTrack": {
+            "id": "3ZyfKvS2z4so0qtoudfyI0",
+            "name": "Keep Pushing",
+            "uri": "spotify:track:3ZyfKvS2z4so0qtoudfyI0",
+            "popularity": 41,
+            "albumName": "Dead Channel Sky",
+            "albumId": "2AkszlufP2t2ZHfC8NKKvN",
+            "foundAt": "2026-02-05T18:50:51.936Z"
+          }
+        },
+        {
+          "title": "Chapter III: We Return to Light",
+          "artist": "Anoushka Shankar",
+          "spotifyTrack": {
+            "id": "5yTsposXxnk1rJVETaXS4N",
+            "name": "Daybreak",
+            "uri": "spotify:track:5yTsposXxnk1rJVETaXS4N",
+            "popularity": 37,
+            "albumName": "Chapter III: We Return to Light",
+            "albumId": "10y2phPg1DNcq2YALjzABR",
+            "foundAt": "2026-02-05T18:50:53.535Z"
+          }
+        },
+        {
+          "title": "The Overview",
+          "artist": "Steven Wilson",
+          "spotifyTrack": {
+            "id": "1hiuFbjNa7Q0x41EHUfC80",
+            "name": "Objects Outlive Us",
+            "uri": "spotify:track:1hiuFbjNa7Q0x41EHUfC80",
+            "popularity": 41,
+            "albumName": "The Overview",
+            "albumId": "3xOcExpIWzroZldcdc212q",
+            "foundAt": "2026-02-05T18:50:55.159Z"
+          }
+        },
+        {
+          "title": "Different: The Singles Collection 1977-1981",
+          "artist": "Dennis Bovell",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:01.743Z"
+          }
+        },
+        {
+          "title": "Your Lungs and Your Tongues",
+          "artist": "Vazz",
+          "spotifyTrack": {
+            "id": "6OzUQEJo6vvLWDsOuw9k3D",
+            "name": "Breath",
+            "uri": "spotify:track:6OzUQEJo6vvLWDsOuw9k3D",
+            "popularity": 12,
+            "albumName": "Your Lungs And Your Tongues",
+            "albumId": "69BWVXLijRcjz13zFWip31",
+            "foundAt": "2026-02-05T18:50:57.459Z"
+          }
+        },
+        {
+          "title": "Whatever the Weather II",
+          "artist": "Whatever the Weather",
+          "spotifyTrack": {
+            "id": "4G2rofhMyhDKn2eYuNPKpv",
+            "name": "12°C",
+            "uri": "spotify:track:4G2rofhMyhDKn2eYuNPKpv",
+            "popularity": 32,
+            "albumName": "Whatever the Weather II",
+            "albumId": "6c2tadUprT8mxXulNmZ1dc",
+            "foundAt": "2026-02-05T18:50:59.204Z"
+          }
+        },
+        {
+          "title": "Seelentrost",
+          "artist": "Isabel Schicketanz",
+          "spotifyTrack": {
+            "id": "60sOCNLNVf4sxh2Do8EZsd",
+            "name": "Klag- und Trost-Lied: Ich steh in Angst und Pein",
+            "uri": "spotify:track:60sOCNLNVf4sxh2Do8EZsd",
+            "popularity": 1,
+            "albumName": "Seelentrost",
+            "albumId": "1IFKhQPghNvcrQtIMm9vG1",
+            "foundAt": "2026-02-05T18:51:01.150Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-19T05:53:58.044Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
+    {
+      "date": "2026-04-17",
+      "albums": [
+        {
+          "title": "The World Is to Dig",
+          "artist": "They Might Be Giants",
+          "spotifyTrack": {
+            "id": "3jJobaaA2kGZLzYh9FCqRx",
+            "name": "Back in Los Angeles",
+            "uri": "spotify:track:3jJobaaA2kGZLzYh9FCqRx",
+            "popularity": 39,
+            "albumName": "The World Is to Dig",
+            "albumId": "2eOGS9MYF17pZozfDIR09s",
+            "foundAt": "2026-04-18T10:32:50.240Z"
+          }
+        },
+        {
+          "title": "Snocaps",
+          "artist": "Snocaps",
+          "spotifyTrack": {
+            "id": "4Q5Tw8eOylSLI9DvYrbQoO",
+            "name": "Heathcliff",
+            "uri": "spotify:track:4Q5Tw8eOylSLI9DvYrbQoO",
+            "popularity": 51,
+            "albumName": "Snocaps",
+            "albumId": "1fevi1JMVt1PVIMh5Z80ad",
+            "foundAt": "2026-04-18T10:32:51.800Z"
+          }
+        },
+        {
+          "title": "Fidelity",
+          "artist": "Yaya Bey",
+          "spotifyTrack": {
+            "id": "12fSlzhqUDqnrZnA50Y617",
+            "name": "Forty Days",
+            "uri": "spotify:track:12fSlzhqUDqnrZnA50Y617",
+            "popularity": 17,
+            "albumName": "Fidelity",
+            "albumId": "4gT5itNBVYzC9jcgMvvOUa",
+            "foundAt": "2026-04-18T10:32:53.353Z"
+          }
+        },
+        {
+          "title": "Julia",
+          "artist": "Julia Cumming",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:32:53.996Z"
+          }
+        },
+        {
+          "title": "Double Exposure",
+          "artist": "Penny Arcade",
+          "spotifyTrack": {
+            "id": "2heLmqSDdN0b03qIgz4JuP",
+            "name": "Regrets",
+            "uri": "spotify:track:2heLmqSDdN0b03qIgz4JuP",
+            "popularity": 1,
+            "albumName": "Double Exposure",
+            "albumId": "3eZTfWCcDyxjPgLrRfRlcq",
+            "foundAt": "2026-04-18T10:32:55.829Z"
+          }
+        },
+        {
+          "title": "Stella's Birth-Day",
+          "artist": "Fellow Mortals",
+          "spotifyTrack": {
+            "id": "4C4KPvgjMCYqQHvlq7oEPh",
+            "name": "Dancing Days",
+            "uri": "spotify:track:4C4KPvgjMCYqQHvlq7oEPh",
+            "popularity": 11,
+            "albumName": "STELLA'S BIRTH-DAY",
+            "albumId": "3jSAxxHsXXi1rPPXcQWQHI",
+            "foundAt": "2026-04-18T10:32:57.429Z"
+          }
+        },
+        {
+          "title": "Bitches' Blues",
+          "artist": "Hedvig Mollestad Weejuns",
+          "spotifyTrack": {
+            "id": "5Q1HLuifo9Oqe37RA7t6ld",
+            "name": "Bitches Blues",
+            "uri": "spotify:track:5Q1HLuifo9Oqe37RA7t6ld",
+            "popularity": 0,
+            "albumName": "Bitches Blues",
+            "albumId": "4cEOFt3LZFZPC4cNvGrcRy",
+            "foundAt": "2026-04-18T10:32:58.926Z"
+          }
+        },
+        {
+          "title": "100 Acre Wood",
+          "artist": "Winston Hightower",
+          "spotifyTrack": {
+            "id": "2f5NXeqSXjLCY8BxGhyw51",
+            "name": "Moonside",
+            "uri": "spotify:track:2f5NXeqSXjLCY8BxGhyw51",
+            "popularity": 0,
+            "albumName": "100 Acre Wood",
+            "albumId": "4D2G4Yt7aOBtobYQzp3AkL",
+            "foundAt": "2026-04-18T10:33:00.488Z"
+          }
+        },
+        {
+          "title": "The Wonderful Adventures of Amanda Maier",
+          "artist": "Trio ErnestEleonore Billy",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:01.104Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-18T19:42:55.082Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-03-21",
       "albums": [

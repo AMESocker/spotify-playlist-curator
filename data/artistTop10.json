@@ -533,13 +533,32 @@
   "Reggae / World ": {
     "not_added": [
       {
+        "artist": "Orchestra Baobab"
+      },
+      {
+        "artist": "Sizzla",
+        "listeners": 648280,
+        "recommended": true,
+        "spotify_popularity": 53,
+        "spotify_id": "72T7x96EAqN2UWvAgobYfv"
+      },
+      {
+        "artist": "Bunny Wailer"
+      },
+      {
+        "artist": "Prince Far I"
+      },
+      {
+        "artist": "Black Uhuru"
+      },
+      {
+        "artist": "Ebo Taylor"
+      },
+      {
         "artist": "Toumani Diabaté"
       },
       {
         "artist": "Fela Kuti"
-      },
-      {
-        "artist": "Prince Far I"
       },
       {
         "artist": "Mulatu Astatke",
@@ -556,13 +575,6 @@
         "spotify_id": "6UL7BodGc5iVmQGlMwHR0g"
       },
       {
-        "artist": "Sizzla",
-        "listeners": 648280,
-        "recommended": true,
-        "spotify_popularity": 53,
-        "spotify_id": "72T7x96EAqN2UWvAgobYfv"
-      },
-      {
         "artist": "William Onyeabor"
       },
       {
@@ -576,20 +588,7 @@
         "spotify_id": "2sf2owtFSCvz2MLfxmNdkb"
       },
       {
-        "artist": "Orchestra Baobab"
-      },
-      {
         "artist": "Ali Farka Touré"
-      },
-      {
-        "artist": "Ebo Taylor"
-      },
-      {
-        "artist": "Mdou Moctar",
-        "listeners": 161193,
-        "recommended": true,
-        "spotify_popularity": 33,
-        "spotify_id": "48dgx7iGqLQ3E5KO3pzd94"
       },
       {
         "artist": "Max Romeo"
@@ -622,12 +621,6 @@
         "artist": "Jimmy Cliff"
       },
       {
-        "artist": "Barrington Levy"
-      },
-      {
-        "artist": "Black Uhuru"
-      },
-      {
         "artist": "Gregory Isaacs"
       },
       {
@@ -638,9 +631,6 @@
       },
       {
         "artist": "Cedric Myton"
-      },
-      {
-        "artist": "Bunny Wailer"
       },
       {
         "artist": "U-Roy"
@@ -740,6 +730,20 @@
       },
       {
         "artist": "Linton Kwesi Johnson",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Mdou Moctar",
+        "listeners": 161193,
+        "spotify_id": "48dgx7iGqLQ3E5KO3pzd94",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Barrington Levy",
         "listeners": null,
         "spotify_id": null,
         "recommended": false,
@@ -2093,12 +2097,6 @@
         "artist": "Bill Evans "
       },
       {
-        "artist": "Ella Fitzgerald",
-        "listeners": 2792082,
-        "spotify_popularity": 68,
-        "spotify_id": "5V0MlUE1Bft0mbLlND7FJz"
-      },
-      {
         "artist": "Count Basie",
         "listeners": 417750,
         "spotify_popularity": 60,
@@ -2192,9 +2190,6 @@
       },
       {
         "artist": "Sonny Rollins "
-      },
-      {
-        "artist": "Oscar Peterson"
       },
       {
         "artist": "Kamasi Washington"
@@ -2308,6 +2303,20 @@
         "artist": "Wayne Shorter ",
         "listeners": null,
         "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Oscar Peterson",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Ella Fitzgerald",
+        "listeners": 2792082,
+        "spotify_id": "5V0MlUE1Bft0mbLlND7FJz",
         "recommended": false,
         "tracksAdded": 5
       }

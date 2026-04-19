@@ -37,7 +37,6 @@
         "Corto.alto",
         "Goat",
         "Abel Selaocoe",
-        "Thandii",
         "Black Country, New Road",
         "Blossoms",
         "Djo",
@@ -96,7 +95,6 @@
         "Hugh Cornwell",
         "Jeremy Loops",
         "London Community Gospel Choir",
-        "Lorraine Nash",
         "Michele Stodart",
         "Nadia Reid",
         "Nick Lowe",
@@ -133,7 +131,6 @@
         "Rumba de Bodas",
         "Sam Ryder",
         "Stephen Wilson Jr.",
-        "Talisk",
         "Terrorvision",
         "The Amy Winehouse Band",
         "The Big Moon",
@@ -179,7 +176,10 @@
         "Future Islands",
         "Girl in Red [DUPLICATE]",
         "The Henry Girls",
-        "AJ Tracey"
+        "AJ Tracey",
+        "Talisk",
+        "Lorraine Nash",
+        "Thandii"
       ]
     },
     {
@@ -362,7 +362,6 @@
         "Viagra Boys",
         "Ado",
         "Mustard",
-        "Jade",
         "Snow Strippers",
         "Boris Brejcha",
         "Eli Brown",
@@ -371,7 +370,6 @@
         "Oklou",
         "HorsegiirL",
         "Little Simz",
-        "Kwn",
         "Sienna Spiro",
         "The Story So Far",
         "Duke Dumont",
@@ -454,7 +452,6 @@
         "Chace",
         "Ella Boh",
         "Villanelle",
-        "The Braymores",
         "Ivri",
         "Justine Skye",
         "Will Swinton",
@@ -499,7 +496,10 @@
         "Jennie",
         "PartyOf2",
         "MC4D",
-        "Calder Allen"
+        "Calder Allen",
+        "The Braymores",
+        "Jade",
+        "Kwn"
       ]
     }
   ],

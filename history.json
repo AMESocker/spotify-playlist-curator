@@ -5203,5 +5203,215 @@
     "sourceFile": "data/albums_by_year_63-25_api.json",
     "strategy": "albumsByYear",
     "timestamp": "2026-04-18T16:53:16.858Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 8,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-18T18:39:42.087Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Reggae / World ",
+    "artist": "Mdou Moctar",
+    "listeners": 161193,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-18T19:42:51.447Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Reggae / World ",
+    "artist": "Barrington Levy",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-18T19:42:51.758Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2026-04-17",
+    "tracksAdded": 7,
+    "tracksSkipped": 2,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-04-18T19:42:55.084Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "Talisk",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-19T04:47:17.981Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "Lorraine Nash",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-19T04:47:20.154Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "Thandii",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-19T04:47:21.922Z"
+  },
+  {
+    "action": "add",
+    "artist": "Slayer",
+    "album": "Seasons in the Abyss (1990)",
+    "index": null,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-19T05:53:09.790Z"
+  },
+  {
+    "action": "billboardHot100",
+    "tracksAdded": 10,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "singleTrack",
+    "timestamp": "2026-04-19T05:53:18.188Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Ricky Nelson",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-19T05:53:25.838Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Jackson 5",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-19T05:53:28.076Z"
+  },
+  {
+    "action": "addAlbumsByYear",
+    "albumYear": "2011",
+    "tracksAdded": 8,
+    "tracksSkipped": 2,
+    "sourceFile": "data/albums_by_year_63-25_api.json",
+    "strategy": "albumsByYear",
+    "timestamp": "2026-04-19T05:53:41.646Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 8,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-19T05:53:49.686Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Jazz / Blues",
+    "artist": "Oscar Peterson",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-19T05:53:54.466Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Jazz / Blues",
+    "artist": "Ella Fitzgerald",
+    "listeners": 2792082,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-19T05:53:54.744Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-03-14",
+    "tracksAdded": 9,
+    "tracksSkipped": 1,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-04-19T05:53:58.045Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Lollapalooza",
+    "artist": "The Braymores",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-19T10:52:14.515Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Lollapalooza",
+    "artist": "Jade",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-19T10:52:16.054Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Lollapalooza",
+    "artist": "Kwn",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-19T10:52:17.435Z"
+  },
+  {
+    "action": "add",
+    "artist": "Toadies",
+    "album": "Rubberneck",
+    "index": null,
+    "tracksAdded": 11,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-19T10:52:22.122Z"
+  },
+  {
+    "action": "billboardHot100",
+    "tracksAdded": 8,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "singleTrack",
+    "timestamp": "2026-04-19T16:53:22.711Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Eric Clapton",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-19T19:12:23.231Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Drifters",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-19T19:12:27.876Z"
+  },
+  {
+    "action": "addAlbumsByYear",
+    "albumYear": "2019",
+    "tracksAdded": 9,
+    "tracksSkipped": 1,
+    "sourceFile": "data/albums_by_year_63-25_api.json",
+    "strategy": "albumsByYear",
+    "timestamp": "2026-04-19T19:12:43.769Z"
   }
 ]

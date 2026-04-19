@@ -764,7 +764,6 @@
       "Artist": "Slayer",
       "Group": "🔴 Thrash Metal",
       "Albums": [
-        "Hell Awaits (1985)",
         "Reign in Blood (1986)",
         "South of Heaven (1988)",
         "Seasons in the Abyss (1990)",
@@ -777,7 +776,8 @@
         "Repentless (2015)"
       ],
       "AddedAlbums": [
-        "South of Heaven (1988)"
+        "South of Heaven (1988)",
+        "Seasons in the Abyss (1990)"
       ]
     },
     {
@@ -1380,13 +1380,14 @@
       "Artist": "Toadies",
       "Group": "🔷 Indie / Alternative Rock",
       "Albums": [
-        "Rubberneck",
         "Hell Below/Stars Above",
         "No Deliverance",
         "Feeler",
         "Heretics"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Rubberneck"
+      ]
     },
     {
       "Artist": "A",
