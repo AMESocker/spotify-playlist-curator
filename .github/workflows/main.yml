@@ -39,6 +39,8 @@ jobs:
           CLEAN_PLAYLIST_ID: ${{ secrets.CLEAN_PLAYLIST_ID }}
           CAR_PLAYLIST_ALL_ID: ${{ secrets.CAR_PLAYLIST_ALL_ID }}
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          ARTIST_GENRE_PLAYLIST_ID: ${{ secrets.ARTIST_GENRE_PLAYLIST_ID }}
+          ARTIST_DISC_PLAYLIST_ID: ${{ secrets.ARTIST_DISC_PLAYLIST_ID }}
           RUN_MODE: once
         run: node index.js
       - name: Commit and push all changes
