@@ -1380,13 +1380,14 @@
       "Artist": "Toadies",
       "Group": "🔷 Indie / Alternative Rock",
       "Albums": [
-        "Rubberneck",
         "Hell Below/Stars Above",
         "No Deliverance",
         "Feeler",
         "Heretics"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Rubberneck"
+      ]
     },
     {
       "Artist": "A",
