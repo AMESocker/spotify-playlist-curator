@@ -21,7 +21,6 @@
     "Isaac Hayes",
     "Gene Pitney",
     "Michael Jackson",
-    "Steely Dan",
     "Ritchie Valens",
     "The Flamingos",
     "Earth, Wind & Fire",
@@ -46,7 +45,6 @@
     "Martha and the Vandellas",
     "Elton John",
     "John Lennon",
-    "The Animals",
     "The Band",
     "The Grateful Dead",
     "Duane Eddy",
@@ -231,6 +229,8 @@
     "Ricky Nelson",
     "The Jackson 5",
     "Eric Clapton",
-    "The Drifters"
+    "The Drifters",
+    "Steely Dan",
+    "The Animals"
   ]
 }

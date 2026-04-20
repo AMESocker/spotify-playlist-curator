@@ -5493,5 +5493,21 @@
     "sourceFile": "data/billboardHot100.json",
     "strategy": "singleTrack",
     "timestamp": "2026-04-19T20:46:51.162Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Steely Dan",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-20T00:13:39.492Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Animals",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-20T00:13:43.663Z"
   }
 ]
