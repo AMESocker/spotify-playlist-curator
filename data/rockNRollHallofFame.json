@@ -21,7 +21,6 @@
     "Isaac Hayes",
     "Gene Pitney",
     "Michael Jackson",
-    "Steely Dan",
     "Ritchie Valens",
     "The Flamingos",
     "Earth, Wind & Fire",
@@ -35,7 +34,6 @@
     "Santana",
     "Gene Vincent",
     "Lloyd Price",
-    "Parliament-Funkadelic",
     "David Bowie",
     "The Velvet Underground",
     "Gladys Knight & the Pips",
@@ -46,7 +44,6 @@
     "Martha and the Vandellas",
     "Elton John",
     "John Lennon",
-    "The Animals",
     "The Band",
     "The Grateful Dead",
     "Duane Eddy",
@@ -59,7 +56,6 @@
     "Booker T. & the M.G.'s",
     "Wilson Pickett",
     "John Lee Hooker",
-    "Ike & Tina Turner",
     "Jimmy Reed",
     "LaVern Baker",
     "Simon & Garfunkel",
@@ -231,6 +227,10 @@
     "Ricky Nelson",
     "The Jackson 5",
     "Eric Clapton",
-    "The Drifters"
+    "The Drifters",
+    "Steely Dan",
+    "The Animals",
+    "Parliament-Funkadelic",
+    "Ike & Tina Turner"
   ]
 }

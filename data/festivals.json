@@ -11,7 +11,6 @@
         "Inhaler",
         "Amyl and the Sniffers",
         "Alessi Rose",
-        "Louis Dunford",
         "Nadine Shah",
         "Fabio & Grooverider",
         "Doechii",
@@ -90,7 +89,6 @@
         "Dawn Landes",
         "Dhani Harrison",
         "Gabrielle Aplin",
-        "Henry Grace",
         "Hothouse Flowers",
         "Hugh Cornwell",
         "Jeremy Loops",
@@ -123,7 +121,6 @@
         "FÜLÜ",
         "Hard-Fi",
         "Jade Bird",
-        "Jamie Cullum",
         "My Baby",
         "Orla Gartland",
         "Paris Paloma",
@@ -179,7 +176,10 @@
         "AJ Tracey",
         "Talisk",
         "Lorraine Nash",
-        "Thandii"
+        "Thandii",
+        "Henry Grace",
+        "Jamie Cullum",
+        "Louis Dunford"
       ]
     },
     {
@@ -210,13 +210,11 @@
         "HUGEL",
         "CMAT",
         "Prospa",
-        "Hot Mulligan",
         "Hamdi",
         "Fleshwater",
         "Max Styler",
         "Dabeull",
         "The Two Lips",
-        "Ninajirachi",
         "Max Dean x Luke Dean",
         "Cachirula & Loojan",
         "Chloé Caillet x Rossi.",
@@ -269,7 +267,6 @@
         "GENESI",
         "Yamagucci",
         "Karol G",
-        "Kaskade",
         "Major Lazer",
         "Iggy Pop",
         "FKA twigs",
@@ -296,7 +293,6 @@
         "Jane Remover",
         "RØZ",
         "Glitterer",
-        "Carlita x Josh Baker",
         "&friends",
         "LE YORA",
         "Samia",
@@ -320,7 +316,11 @@
         "Katseye",
         "Fujii Kaze",
         "Blood Orange",
-        "WhoMadeWho"
+        "WhoMadeWho",
+        "Hot Mulligan [DUPLICATE]",
+        "Ninajirachi",
+        "Carlita x Josh Baker",
+        "Kaskade"
       ]
     },
     {
@@ -380,7 +380,6 @@
         "Sidepiece",
         "Cortis",
         "Skye Newman",
-        "Dombresky",
         "Monaleo",
         "Notion",
         "Cameron Whitcomb",
@@ -395,7 +394,6 @@
         "Quadeca",
         "Julia Wolf",
         "Wunderhorse",
-        "Amble",
         "Momma",
         "Frost Children",
         "Amber Mark",
@@ -462,7 +460,6 @@
         "Nat Myers",
         "Ink",
         "Peace Control",
-        "Case Oats",
         "The Creekers",
         "Klo",
         "Valencia Grace",
@@ -499,7 +496,10 @@
         "Calder Allen",
         "The Braymores",
         "Jade",
-        "Kwn"
+        "Kwn",
+        "Case Oats",
+        "Amble",
+        "Dombresky"
       ]
     }
   ],

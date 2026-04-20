@@ -150,7 +150,6 @@
       "Artist": "Collective Soul",
       "Group": "🟧 Post-Grunge / Alt Rock",
       "Albums": [
-        "Disciplined Breakdown (1997)",
         "Dosage (1999)",
         "Blender (2000)",
         "Youth (2004)",
@@ -163,7 +162,8 @@
         "Touch and Go (2026)"
       ],
       "AddedAlbums": [
-        "Youth (2004)"
+        "Youth (2004)",
+        "Blender (2000)"
       ]
     },
     {
@@ -829,7 +829,6 @@
       "Artist": "Anthrax",
       "Group": "🔴 Thrash Metal",
       "Albums": [
-        "Spreading the Disease (1985)",
         "Among the Living (1987)",
         "State of Euphoria (1988)",
         "Persistence of Time (1990)",
@@ -842,7 +841,8 @@
         "Cursum Perficio (2026)"
       ],
       "AddedAlbums": [
-        "Cursum Perficio (2026) [NOT FOUND]"
+        "Cursum Perficio (2026) [NOT FOUND]",
+        "State of Euphoria (1988)"
       ]
     },
     {
@@ -1804,7 +1804,6 @@
       "Artist": "Aerosmith",
       "Group": "⚪ Classic Rock & Blues Rock",
       "Albums": [
-        "Aerosmith (1973)",
         "Get Your Wings (1974)",
         "Toys in the Attic (1975)",
         "Rocks (1976)",
@@ -1820,7 +1819,9 @@
         "Honkin' on Bobo (2004)",
         "Music from Another Dimension! (2012)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Get Your Wings (1974)"
+      ]
     },
     {
       "Artist": "Rush",

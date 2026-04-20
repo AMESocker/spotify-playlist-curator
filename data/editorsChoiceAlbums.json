@@ -1,243 +1,6 @@
 {
   "weeklyAlbums": [
     {
-      "date": "2025-03-07",
-      "albums": [
-        {
-          "title": "MAYHEM",
-          "artist": "Lady Gaga",
-          "spotifyTrack": {
-            "id": "7so0lgd0zP2Sbgs2d7a1SZ",
-            "name": "Die With A Smile",
-            "uri": "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ",
-            "popularity": 88,
-            "albumName": "MAYHEM",
-            "albumId": "2MHUaRi9OCyTN02SoyRRBJ",
-            "foundAt": "2026-02-05T18:51:02.912Z"
-          }
-        },
-        {
-          "title": "Foxes in the Snow",
-          "artist": "Jason Isbell",
-          "spotifyTrack": {
-            "id": "56fy1fC0cxRpoEDMySEGBv",
-            "name": "Bury Me",
-            "uri": "spotify:track:56fy1fC0cxRpoEDMySEGBv",
-            "popularity": 47,
-            "albumName": "Foxes in the Snow",
-            "albumId": "6OgNgnMcqhcDw01qXlw8el",
-            "foundAt": "2026-02-05T18:51:04.923Z"
-          }
-        },
-        {
-          "title": "This Side of the Island",
-          "artist": "Hamilton Leithauser",
-          "spotifyTrack": {
-            "id": "3IFk55tJwqBrdhgsLvrVvn",
-            "name": "Knockin' Heart",
-            "uri": "spotify:track:3IFk55tJwqBrdhgsLvrVvn",
-            "popularity": 31,
-            "albumName": "This Side of the Island",
-            "albumId": "06d60TFUm7t91QHcVKq65T",
-            "foundAt": "2026-02-05T18:51:06.680Z"
-          }
-        },
-        {
-          "title": "ASTROPICAL",
-          "artist": "ASTROPICALBomba EstéreoRawayana",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:33:02.347Z"
-          }
-        },
-        {
-          "title": "All Worlds",
-          "artist": "Croatian AmorLust for Youth",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:33:03.024Z"
-          }
-        },
-        {
-          "title": "Flamingo Tower",
-          "artist": "Monde UFO",
-          "spotifyTrack": {
-            "id": "6gD298fIBCCEGSNcCPwFlt",
-            "name": "Samba 9",
-            "uri": "spotify:track:6gD298fIBCCEGSNcCPwFlt",
-            "popularity": 12,
-            "albumName": "Flamingo Tower",
-            "albumId": "0XlAdNXmPXFPWdonLpsNRl",
-            "foundAt": "2026-02-05T18:51:09.479Z"
-          }
-        },
-        {
-          "title": "Points of Origin",
-          "artist": "Will Stratton",
-          "spotifyTrack": {
-            "id": "5xc2qWp99FMsCTZ0OOD5xI",
-            "name": "I Found You",
-            "uri": "spotify:track:5xc2qWp99FMsCTZ0OOD5xI",
-            "popularity": 13,
-            "albumName": "Points Of Origin",
-            "albumId": "5kjbZokM10OexxRnyJvwK5",
-            "foundAt": "2026-02-05T18:51:11.160Z"
-          }
-        },
-        {
-          "title": "Masaaki Suzuki plays Bach Organ Works, Vol. 6 … leipziger choräle (I) …",
-          "artist": "Masaaki Suzuki",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:33:03.628Z"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-02-28",
-      "albums": [
-        {
-          "title": "Sinister Grift",
-          "artist": "Panda Bear",
-          "spotifyTrack": {
-            "id": "08aaQA6A7UHvbPGsfPrAFe",
-            "name": "Praise",
-            "uri": "spotify:track:08aaQA6A7UHvbPGsfPrAFe",
-            "popularity": 44,
-            "albumName": "Sinister Grift",
-            "albumId": "7dQ09jOwQBuBcm6qRBQcP9",
-            "foundAt": "2026-02-05T18:51:13.740Z"
-          }
-        },
-        {
-          "title": "A Paradise in the Hold",
-          "artist": "Yazz Ahmed",
-          "spotifyTrack": {
-            "id": "1zNp2WZJ7r0nwbCd2WQVTm",
-            "name": "She Stands On the Shore",
-            "uri": "spotify:track:1zNp2WZJ7r0nwbCd2WQVTm",
-            "popularity": 32,
-            "albumName": "A Paradise In The Hold",
-            "albumId": "3UHpYF4WdoHZkCD4fSz6ig",
-            "foundAt": "2026-02-05T18:51:15.483Z"
-          }
-        },
-        {
-          "title": "Spring Board: The Early Unrecorded Songs",
-          "artist": "The Chills",
-          "spotifyTrack": {
-            "id": "6CJy7OnC2kWzWVPfB8TZu5",
-            "name": "If This World Was Made For Me",
-            "uri": "spotify:track:6CJy7OnC2kWzWVPfB8TZu5",
-            "popularity": 18,
-            "albumName": "Spring Board: The Early Unrecorded Songs",
-            "albumId": "7AKflhK90ck3bjy37oYUeC",
-            "foundAt": "2026-02-05T18:51:17.296Z"
-          }
-        },
-        {
-          "title": "The Moment of Truth: Ella at the Coliseum",
-          "artist": "Ella Fitzgerald",
-          "spotifyTrack": {
-            "id": "6ZfrzVc7zw2mx4qJ10SS29",
-            "name": "The Moment Of Truth - Live At The Coliseum",
-            "uri": "spotify:track:6ZfrzVc7zw2mx4qJ10SS29",
-            "popularity": 16,
-            "albumName": "The Moment Of Truth: Ella At The Coliseum (Live)",
-            "albumId": "39RiB66wg8z2BtkJbf04qt",
-            "foundAt": "2026-02-05T18:51:19.066Z"
-          }
-        },
-        {
-          "title": "Out Here on the Perimeter 1989-1996",
-          "artist": "Dub Syndicate",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:33:04.301Z"
-          }
-        },
-        {
-          "title": "Luminescent Creatures",
-          "artist": "Ichiko Aoba",
-          "spotifyTrack": {
-            "id": "0ur6QHp5cE1a3qz87vRDSA",
-            "name": "COLORATURA",
-            "uri": "spotify:track:0ur6QHp5cE1a3qz87vRDSA",
-            "popularity": 38,
-            "albumName": "Luminescent Creatures",
-            "albumId": "5HT3Ygm47fCCNs9AhqzzvS",
-            "foundAt": "2026-02-05T18:51:21.349Z"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-02-21",
-      "albums": [
-        {
-          "title": "Exploding Trees & Airplane Screams",
-          "artist": "Patterson Hood",
-          "spotifyTrack": {
-            "id": "7Mmu8cIhnuOOfxT8UXs7sJ",
-            "name": "The Forks of Cypress (feat. Waxahatchee)",
-            "uri": "spotify:track:7Mmu8cIhnuOOfxT8UXs7sJ",
-            "popularity": 23,
-            "albumName": "Exploding Trees & Airplane Screams",
-            "albumId": "1q3rza4WeEyGx1RGhcnsUG",
-            "foundAt": "2026-02-05T18:51:22.958Z"
-          }
-        },
-        {
-          "title": "GNOSIS",
-          "artist": "RAVEN",
-          "spotifyTrack": {
-            "id": "7oLMbkdwvQ6tUo6ag56gPL",
-            "name": "GNOSIS THEME",
-            "uri": "spotify:track:7oLMbkdwvQ6tUo6ag56gPL",
-            "popularity": 14,
-            "albumName": "GNOSIS",
-            "albumId": "7fmwPlVcvQWwGHPoDxCZWD",
-            "foundAt": "2026-02-05T18:51:24.697Z"
-          }
-        },
-        {
-          "title": "Flowers in the Spring",
-          "artist": "Wrekmeister Harmonies",
-          "spotifyTrack": {
-            "id": "2ZWvjscMaGuA4lanETLoqd",
-            "name": "Flowers In The Spring",
-            "uri": "spotify:track:2ZWvjscMaGuA4lanETLoqd",
-            "popularity": 6,
-            "albumName": "Flowers in the Spring",
-            "albumId": "7c481P4ertLg2JC9BhVqvs",
-            "foundAt": "2026-02-05T18:51:26.333Z"
-          }
-        },
-        {
-          "title": "Rise Above It: A Souled American Anthology",
-          "artist": "Souled American",
-          "spotifyTrack": {
-            "id": "5lDfmx08l8321CSXNOeA3R",
-            "name": "Before Tonight",
-            "uri": "spotify:track:5lDfmx08l8321CSXNOeA3R",
-            "popularity": 10,
-            "albumName": "Rise Above It: A Souled American Anthology",
-            "albumId": "60tO4FIZ4m9SRKaSkpwVzl",
-            "foundAt": "2026-02-05T18:51:27.977Z"
-          }
-        },
-        {
-          "title": "Ligeti: String Quartets Nos. 1 & 2; Bartók: String Quartet No. 4",
-          "artist": "Marmen Quartet",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:33:04.942Z"
-          }
-        }
-      ]
-    },
-    {
       "date": "2025-02-14",
       "albums": [
         {
@@ -567,6 +330,249 @@
     }
   ],
   "addedWeeks": [
+    {
+      "date": "2025-02-21",
+      "albums": [
+        {
+          "title": "Exploding Trees & Airplane Screams",
+          "artist": "Patterson Hood",
+          "spotifyTrack": {
+            "id": "7Mmu8cIhnuOOfxT8UXs7sJ",
+            "name": "The Forks of Cypress (feat. Waxahatchee)",
+            "uri": "spotify:track:7Mmu8cIhnuOOfxT8UXs7sJ",
+            "popularity": 23,
+            "albumName": "Exploding Trees & Airplane Screams",
+            "albumId": "1q3rza4WeEyGx1RGhcnsUG",
+            "foundAt": "2026-02-05T18:51:22.958Z"
+          }
+        },
+        {
+          "title": "GNOSIS",
+          "artist": "RAVEN",
+          "spotifyTrack": {
+            "id": "7oLMbkdwvQ6tUo6ag56gPL",
+            "name": "GNOSIS THEME",
+            "uri": "spotify:track:7oLMbkdwvQ6tUo6ag56gPL",
+            "popularity": 14,
+            "albumName": "GNOSIS",
+            "albumId": "7fmwPlVcvQWwGHPoDxCZWD",
+            "foundAt": "2026-02-05T18:51:24.697Z"
+          }
+        },
+        {
+          "title": "Flowers in the Spring",
+          "artist": "Wrekmeister Harmonies",
+          "spotifyTrack": {
+            "id": "2ZWvjscMaGuA4lanETLoqd",
+            "name": "Flowers In The Spring",
+            "uri": "spotify:track:2ZWvjscMaGuA4lanETLoqd",
+            "popularity": 6,
+            "albumName": "Flowers in the Spring",
+            "albumId": "7c481P4ertLg2JC9BhVqvs",
+            "foundAt": "2026-02-05T18:51:26.333Z"
+          }
+        },
+        {
+          "title": "Rise Above It: A Souled American Anthology",
+          "artist": "Souled American",
+          "spotifyTrack": {
+            "id": "5lDfmx08l8321CSXNOeA3R",
+            "name": "Before Tonight",
+            "uri": "spotify:track:5lDfmx08l8321CSXNOeA3R",
+            "popularity": 10,
+            "albumName": "Rise Above It: A Souled American Anthology",
+            "albumId": "60tO4FIZ4m9SRKaSkpwVzl",
+            "foundAt": "2026-02-05T18:51:27.977Z"
+          }
+        },
+        {
+          "title": "Ligeti: String Quartets Nos. 1 & 2; Bartók: String Quartet No. 4",
+          "artist": "Marmen Quartet",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:04.942Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-20T20:56:26.258Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
+    {
+      "date": "2025-02-28",
+      "albums": [
+        {
+          "title": "Sinister Grift",
+          "artist": "Panda Bear",
+          "spotifyTrack": {
+            "id": "08aaQA6A7UHvbPGsfPrAFe",
+            "name": "Praise",
+            "uri": "spotify:track:08aaQA6A7UHvbPGsfPrAFe",
+            "popularity": 44,
+            "albumName": "Sinister Grift",
+            "albumId": "7dQ09jOwQBuBcm6qRBQcP9",
+            "foundAt": "2026-02-05T18:51:13.740Z"
+          }
+        },
+        {
+          "title": "A Paradise in the Hold",
+          "artist": "Yazz Ahmed",
+          "spotifyTrack": {
+            "id": "1zNp2WZJ7r0nwbCd2WQVTm",
+            "name": "She Stands On the Shore",
+            "uri": "spotify:track:1zNp2WZJ7r0nwbCd2WQVTm",
+            "popularity": 32,
+            "albumName": "A Paradise In The Hold",
+            "albumId": "3UHpYF4WdoHZkCD4fSz6ig",
+            "foundAt": "2026-02-05T18:51:15.483Z"
+          }
+        },
+        {
+          "title": "Spring Board: The Early Unrecorded Songs",
+          "artist": "The Chills",
+          "spotifyTrack": {
+            "id": "6CJy7OnC2kWzWVPfB8TZu5",
+            "name": "If This World Was Made For Me",
+            "uri": "spotify:track:6CJy7OnC2kWzWVPfB8TZu5",
+            "popularity": 18,
+            "albumName": "Spring Board: The Early Unrecorded Songs",
+            "albumId": "7AKflhK90ck3bjy37oYUeC",
+            "foundAt": "2026-02-05T18:51:17.296Z"
+          }
+        },
+        {
+          "title": "The Moment of Truth: Ella at the Coliseum",
+          "artist": "Ella Fitzgerald",
+          "spotifyTrack": {
+            "id": "6ZfrzVc7zw2mx4qJ10SS29",
+            "name": "The Moment Of Truth - Live At The Coliseum",
+            "uri": "spotify:track:6ZfrzVc7zw2mx4qJ10SS29",
+            "popularity": 16,
+            "albumName": "The Moment Of Truth: Ella At The Coliseum (Live)",
+            "albumId": "39RiB66wg8z2BtkJbf04qt",
+            "foundAt": "2026-02-05T18:51:19.066Z"
+          }
+        },
+        {
+          "title": "Out Here on the Perimeter 1989-1996",
+          "artist": "Dub Syndicate",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:04.301Z"
+          }
+        },
+        {
+          "title": "Luminescent Creatures",
+          "artist": "Ichiko Aoba",
+          "spotifyTrack": {
+            "id": "0ur6QHp5cE1a3qz87vRDSA",
+            "name": "COLORATURA",
+            "uri": "spotify:track:0ur6QHp5cE1a3qz87vRDSA",
+            "popularity": 38,
+            "albumName": "Luminescent Creatures",
+            "albumId": "5HT3Ygm47fCCNs9AhqzzvS",
+            "foundAt": "2026-02-05T18:51:21.349Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-20T02:00:15.813Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
+    {
+      "date": "2025-03-07",
+      "albums": [
+        {
+          "title": "MAYHEM",
+          "artist": "Lady Gaga",
+          "spotifyTrack": {
+            "id": "7so0lgd0zP2Sbgs2d7a1SZ",
+            "name": "Die With A Smile",
+            "uri": "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ",
+            "popularity": 88,
+            "albumName": "MAYHEM",
+            "albumId": "2MHUaRi9OCyTN02SoyRRBJ",
+            "foundAt": "2026-02-05T18:51:02.912Z"
+          }
+        },
+        {
+          "title": "Foxes in the Snow",
+          "artist": "Jason Isbell",
+          "spotifyTrack": {
+            "id": "56fy1fC0cxRpoEDMySEGBv",
+            "name": "Bury Me",
+            "uri": "spotify:track:56fy1fC0cxRpoEDMySEGBv",
+            "popularity": 47,
+            "albumName": "Foxes in the Snow",
+            "albumId": "6OgNgnMcqhcDw01qXlw8el",
+            "foundAt": "2026-02-05T18:51:04.923Z"
+          }
+        },
+        {
+          "title": "This Side of the Island",
+          "artist": "Hamilton Leithauser",
+          "spotifyTrack": {
+            "id": "3IFk55tJwqBrdhgsLvrVvn",
+            "name": "Knockin' Heart",
+            "uri": "spotify:track:3IFk55tJwqBrdhgsLvrVvn",
+            "popularity": 31,
+            "albumName": "This Side of the Island",
+            "albumId": "06d60TFUm7t91QHcVKq65T",
+            "foundAt": "2026-02-05T18:51:06.680Z"
+          }
+        },
+        {
+          "title": "ASTROPICAL",
+          "artist": "ASTROPICALBomba EstéreoRawayana",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:02.347Z"
+          }
+        },
+        {
+          "title": "All Worlds",
+          "artist": "Croatian AmorLust for Youth",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:03.024Z"
+          }
+        },
+        {
+          "title": "Flamingo Tower",
+          "artist": "Monde UFO",
+          "spotifyTrack": {
+            "id": "6gD298fIBCCEGSNcCPwFlt",
+            "name": "Samba 9",
+            "uri": "spotify:track:6gD298fIBCCEGSNcCPwFlt",
+            "popularity": 12,
+            "albumName": "Flamingo Tower",
+            "albumId": "0XlAdNXmPXFPWdonLpsNRl",
+            "foundAt": "2026-02-05T18:51:09.479Z"
+          }
+        },
+        {
+          "title": "Points of Origin",
+          "artist": "Will Stratton",
+          "spotifyTrack": {
+            "id": "5xc2qWp99FMsCTZ0OOD5xI",
+            "name": "I Found You",
+            "uri": "spotify:track:5xc2qWp99FMsCTZ0OOD5xI",
+            "popularity": 13,
+            "albumName": "Points Of Origin",
+            "albumId": "5kjbZokM10OexxRnyJvwK5",
+            "foundAt": "2026-02-05T18:51:11.160Z"
+          }
+        },
+        {
+          "title": "Masaaki Suzuki plays Bach Organ Works, Vol. 6 … leipziger choräle (I) …",
+          "artist": "Masaaki Suzuki",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:03.628Z"
+          }
+        }
+      ],
+      "addedToPlaylist": "2026-04-19T20:27:09.806Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
+    },
     {
       "date": "2025-03-14",
       "albums": [

@@ -41,11 +41,6 @@
       "year": 2006
     },
     {
-      "song": "Summer Nights",
-      "artist": "Nils Jiptner",
-      "year": 2006
-    },
-    {
       "song": "Free as the Wind",
       "artist": "Jazzmasters",
       "year": 2006
@@ -171,11 +166,6 @@
       "year": 2009
     },
     {
-      "song": "I'm Waiting for You",
-      "artist": "Jackiem Joyner",
-      "year": 2009
-    },
-    {
       "song": "Steady as She Goes",
       "artist": "Walter Beasley",
       "year": 2009
@@ -206,18 +196,8 @@
       "year": 2009
     },
     {
-      "song": "Bright",
-      "artist": "Peter White",
-      "year": 2010
-    },
-    {
       "song": "Burnin'",
       "artist": "Paul Taylor",
-      "year": 2010
-    },
-    {
-      "song": "Soldier of Love",
-      "artist": "Sade",
       "year": 2010
     },
     {
@@ -231,11 +211,6 @@
       "year": 2010
     },
     {
-      "song": "Ritmo De Otono",
-      "artist": "Bernie Williams featuring Dave Koz",
-      "year": 2010
-    },
-    {
       "song": "Christiane",
       "artist": "Rick Braun",
       "year": 2010
@@ -243,11 +218,6 @@
     {
       "song": "Bossa Blue",
       "artist": "Chris Standring",
-      "year": 2010
-    },
-    {
-      "song": "Fun in the Sun",
-      "artist": "Steve Oliver",
       "year": 2010
     },
     {
@@ -259,21 +229,6 @@
       "song": "Touch and Go",
       "artist": "Jazzmasters",
       "year": 2010
-    },
-    {
-      "song": "That's Life",
-      "artist": "Brian Culbertson featuring Earl Klugh",
-      "year": 2010
-    },
-    {
-      "song": "Put the Top Down",
-      "artist": "Dave Koz featuring Lee Ritenour",
-      "year": 2010
-    },
-    {
-      "song": "Put the Top Down",
-      "artist": "Dave Koz featuring Lee Ritenour",
-      "year": 2011
     },
     {
       "song": "Jump Start",
@@ -406,11 +361,6 @@
       "year": 2013
     },
     {
-      "song": "Pusherman",
-      "artist": "Jeff Golub with Brian Auger",
-      "year": 2013
-    },
-    {
       "song": "Powerhouse",
       "artist": "Boney James",
       "year": 2013
@@ -476,11 +426,6 @@
       "year": 2015
     },
     {
-      "song": "Go-Go Smooth",
-      "artist": "Kim Waters",
-      "year": 2015
-    },
-    {
       "song": "Drumline",
       "artist": "Boney James",
       "year": 2015
@@ -493,11 +438,6 @@
     {
       "song": "Coast to Coast",
       "artist": "Vincent Ingala",
-      "year": 2015
-    },
-    {
-      "song": "Rio Drive",
-      "artist": "Gregg Karukas featuring Ricardo Silveira, Shelby Flint and Ron Boustead",
       "year": 2015
     },
     {
@@ -556,11 +496,6 @@
       "year": 2016
     },
     {
-      "song": "bwb",
-      "artist": "bwb",
-      "year": 2016
-    },
-    {
       "song": "D-Luxe",
       "artist": "Darren Rahn",
       "year": 2016
@@ -573,11 +508,6 @@
     {
       "song": "Cup of Joe",
       "artist": "Marcus Anderson featuring Matt Marshak",
-      "year": 2016
-    },
-    {
-      "song": "Still Euge",
-      "artist": "Euge Groove",
       "year": 2016
     },
     {
@@ -596,11 +526,6 @@
       "year": 2016
     },
     {
-      "song": "Been Around the World",
-      "artist": "Brian Culbertson",
-      "year": 2016
-    },
-    {
       "song": "Laguna Beach",
       "artist": "Marc Antoine",
       "year": 2016
@@ -608,11 +533,6 @@
     {
       "song": "Put It Where You Want It",
       "artist": "Paul Brown",
-      "year": 2016
-    },
-    {
-      "song": "Echoes Rising",
-      "artist": "Paul Hardcastle",
       "year": 2016
     },
     {
@@ -681,11 +601,6 @@
       "year": 2017
     },
     {
-      "song": "Summer Nights",
-      "artist": "Jazz Holdouts",
-      "year": 2017
-    },
-    {
       "song": "I Don't Mind",
       "artist": "Adam Hawley featuring Euge Groove",
       "year": 2017
@@ -693,11 +608,6 @@
     {
       "song": "Uncle Nick",
       "artist": "Nick Colionne",
-      "year": 2017
-    },
-    {
-      "song": "Frankie B.",
-      "artist": "Gerald Albright",
       "year": 2017
     },
     {
@@ -733,16 +643,6 @@
     {
       "song": "Ready to Go",
       "artist": "ThreeStyle featuring Magdalena Chovancova",
-      "year": 2018
-    },
-    {
-      "song": "Up and Up",
-      "artist": "Jeff Ryan",
-      "year": 2018
-    },
-    {
-      "song": "Corey's Bop",
-      "artist": "Ragan Whiteside",
       "year": 2018
     },
     {
@@ -858,11 +758,6 @@
     {
       "song": "Soulmate",
       "artist": "Nicholas Cole featuring Chieli Minucci",
-      "year": 2019
-    },
-    {
-      "song": "Crossroads",
-      "artist": "Rick Braun",
       "year": 2019
     },
     {
@@ -1066,11 +961,6 @@
       "year": 2021
     },
     {
-      "song": "Now or Never",
-      "artist": "Skinny Hightower",
-      "year": 2021
-    },
-    {
       "song": "Just like Music",
       "artist": "Ben Tankard",
       "year": 2021
@@ -1126,11 +1016,6 @@
       "year": 2021
     },
     {
-      "song": "Hispanica",
-      "artist": "Christian de Mesones featuring Bob James",
-      "year": 2021
-    },
-    {
       "song": "Feels So Right",
       "artist": "Blake Aaron",
       "year": 2021
@@ -1138,11 +1023,6 @@
     {
       "song": "Serendipity",
       "artist": "The Saxtress Pamela Williams featuring Gerald Albright",
-      "year": 2021
-    },
-    {
-      "song": "I'm Every Woman",
-      "artist": "Kim Scott featuring Althea Rene and Ragan Whiteside",
       "year": 2021
     },
     {
@@ -1188,11 +1068,6 @@
     {
       "song": "Stylish",
       "artist": "Judah Sealy",
-      "year": 2022
-    },
-    {
-      "song": "Change the World",
-      "artist": "Chris Standring",
       "year": 2022
     },
     {
@@ -1251,11 +1126,6 @@
       "year": 2022
     },
     {
-      "song": "Bring It Back",
-      "artist": "Boney James featuring Dontae Winslow",
-      "year": 2022
-    },
-    {
       "song": "I'll Be the One",
       "artist": "Le Sonic featuring Lauran Beluzo and Robert Lee",
       "year": 2022
@@ -1279,11 +1149,6 @@
       "song": "Broken Promises",
       "artist": "Quintin Gerard W. featuring Michael Broening",
       "year": 2022
-    },
-    {
-      "song": "Nothing Ever Hurt like You",
-      "artist": "Mindi Abair",
-      "year": 2023
     },
     {
       "song": "Let It Breathe",
@@ -1313,11 +1178,6 @@
     {
       "song": "Just like That",
       "artist": "Nick Colionne",
-      "year": 2023
-    },
-    {
-      "song": "Groove Central",
-      "artist": "Lemek featuring Ryan La Valette",
       "year": 2023
     },
     {
@@ -1441,11 +1301,6 @@
       "year": 2024
     },
     {
-      "song": "Hypnotized",
-      "artist": "The TNR Collective",
-      "year": 2024
-    },
-    {
       "song": "Diamond Dress",
       "artist": "Lisa Addeo",
       "year": 2024
@@ -1518,11 +1373,6 @@
     {
       "song": "A Little Moxie",
       "artist": "Cindy Bradley",
-      "year": 2025
-    },
-    {
-      "song": "Seaside Story",
-      "artist": "Carol Albert",
       "year": 2025
     },
     {
@@ -1977,6 +1827,101 @@
       "song": "The King Is Here",
       "artist": "Norman Brown",
       "year": 2019
+    },
+    {
+      "song": "I'm Waiting for You",
+      "artist": "Jackiem Joyner",
+      "year": 2009
+    },
+    {
+      "song": "Now or Never",
+      "artist": "Skinny Hightower",
+      "year": 2021
+    },
+    {
+      "song": "Hypnotized",
+      "artist": "The TNR Collective",
+      "year": 2024
+    },
+    {
+      "song": "Up and Up",
+      "artist": "Jeff Ryan",
+      "year": 2018
+    },
+    {
+      "song": "Crossroads",
+      "artist": "Rick Braun",
+      "year": 2019
+    },
+    {
+      "song": "Seaside Story",
+      "artist": "Carol Albert",
+      "year": 2025
+    },
+    {
+      "song": "Nothing Ever Hurt like You",
+      "artist": "Mindi Abair",
+      "year": 2023
+    },
+    {
+      "song": "bwb",
+      "artist": "bwb",
+      "year": 2016
+    },
+    {
+      "song": "Been Around the World",
+      "artist": "Brian Culbertson",
+      "year": 2016
+    },
+    {
+      "song": "Change the World",
+      "artist": "Chris Standring",
+      "year": 2022
+    },
+    {
+      "song": "Fun in the Sun",
+      "artist": "Steve Oliver",
+      "year": 2010
+    },
+    {
+      "song": "Soldier of Love",
+      "artist": "Sade",
+      "year": 2010
+    },
+    {
+      "song": "Still Euge",
+      "artist": "Euge Groove",
+      "year": 2016
+    },
+    {
+      "song": "Go-Go Smooth",
+      "artist": "Kim Waters",
+      "year": 2015
+    },
+    {
+      "song": "Echoes Rising",
+      "artist": "Paul Hardcastle",
+      "year": 2016
+    },
+    {
+      "song": "Summer Nights",
+      "artist": "Jazz Holdouts",
+      "year": 2017
+    },
+    {
+      "song": "Bright",
+      "artist": "Peter White",
+      "year": 2010
+    },
+    {
+      "song": "Corey's Bop",
+      "artist": "Ragan Whiteside",
+      "year": 2018
+    },
+    {
+      "song": "Frankie B.",
+      "artist": "Gerald Albright",
+      "year": 2017
     }
   ]
 }

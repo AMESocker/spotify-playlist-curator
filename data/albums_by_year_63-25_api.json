@@ -108884,10 +108884,6 @@
           "album": "The Imperial"
         },
         {
-          "artist": "Gnash",
-          "album": "We"
-        },
-        {
           "artist": "Randy Houser",
           "album": "Magnolia"
         },
@@ -109010,10 +109006,6 @@
         {
           "artist": "Switchfoot",
           "album": "Native Tongue"
-        },
-        {
-          "artist": "Tender",
-          "album": "Fear of Falling Asleep"
         },
         {
           "artist": "Thunder",
@@ -109420,10 +109412,6 @@
           "album": "Can't Say I Ain't Country"
         },
         {
-          "artist": "Hayes Carll",
-          "album": "What It Is"
-        },
-        {
           "artist": "Homeshake",
           "album": "Helium"
         },
@@ -109784,10 +109772,6 @@
           "album": "Gold in a Brass Age"
         },
         {
-          "artist": "Dido",
-          "album": "Still on My Mind"
-        },
-        {
           "artist": "Foals",
           "album": "Everything Not Saved Will Be Lost – Part 1"
         },
@@ -110080,10 +110064,6 @@
           "album": "When We All Fall Asleep, Where Do We Go?"
         },
         {
-          "artist": "Billy Woods & Kenny Segal",
-          "album": "Hiding Places"
-        },
-        {
           "artist": "The Black Sorrows",
           "album": "Citizen John"
         },
@@ -110106,10 +110086,6 @@
         {
           "artist": "George Strait",
           "album": "Honky Tonk Time Machine"
-        },
-        {
-          "artist": "I Prevail",
-          "album": "Trauma"
         },
         {
           "artist": "Jake Owen",
@@ -110334,10 +110310,6 @@
         {
           "artist": "The Chemical Brothers",
           "album": "No Geography"
-        },
-        {
-          "artist": "Dan Sultan",
-          "album": "Nali & Friends"
         },
         {
           "artist": "Emma Bunton",
@@ -110624,10 +110596,6 @@
           "album": "Colours. Reflect. Time. Loss."
         },
         {
-          "artist": "Diplo",
-          "album": "Higher Ground"
-        },
-        {
           "artist": "Passenger",
           "album": "Sometimes It's Something, Sometimes It's Nothing at All"
         },
@@ -110658,10 +110626,6 @@
         {
           "artist": "Joy Williams",
           "album": "Front Porch"
-        },
-        {
-          "artist": "Judah & the Lion",
-          "album": "Pep Talks"
         },
         {
           "artist": "Kate Ceberano and Paul Grabowsky",
@@ -110702,10 +110666,6 @@
         {
           "artist": "Bear Hands",
           "album": "Fake Tunes"
-        },
-        {
-          "artist": "Charly Bliss",
-          "album": "Young Enough"
         },
         {
           "artist": "Christian Nodal",
@@ -111212,10 +111172,6 @@
           "album": "Gold & Grey"
         },
         {
-          "artist": "Bastille",
-          "album": "Doom Days"
-        },
-        {
           "artist": "Bill Callahan",
           "album": "Shepherd in a Sheepskin Vest"
         },
@@ -111680,10 +111636,6 @@
           "album": "Order in Decline"
         },
         {
-          "artist": "Willow",
-          "album": "Willow"
-        },
-        {
           "artist": "Andy Grammer",
           "album": "Naive"
         },
@@ -111778,10 +111730,6 @@
         {
           "artist": "Carnifex",
           "album": "World War X"
-        },
-        {
-          "artist": "Clairo",
-          "album": "Immunity"
         },
         {
           "artist": "Cory Wong",
@@ -112136,10 +112084,6 @@
           "album": "In the Raw"
         },
         {
-          "artist": "Tones and I",
-          "album": "The Kids Are Coming"
-        },
-        {
           "artist": "Tool",
           "album": "Fear Inoculum"
         },
@@ -112240,10 +112184,6 @@
           "album": "Here Come the Wolves"
         },
         {
-          "artist": "Rüfüs Du Sol",
-          "album": "Solace Remixed"
-        },
-        {
           "artist": "Sleeping with Sirens",
           "album": "How It Feels to Be Lost"
         },
@@ -112254,10 +112194,6 @@
         {
           "artist": "Status Quo",
           "album": "Backbone"
-        },
-        {
-          "artist": "Tinariwen",
-          "album": "Amadjar"
         },
         {
           "artist": "Pernice Brothers",
@@ -113272,10 +113208,6 @@
           "album": "Three Chords & the Truth"
         },
         {
-          "artist": "Monsta X",
-          "album": "Follow: Find You"
-        },
-        {
           "artist": "White Denim",
           "album": "In Person"
         },
@@ -113368,10 +113300,6 @@
           "album": "Ghetto Cowboy"
         },
         {
-          "artist": "Got7",
-          "album": "Call My Name"
-        },
-        {
           "artist": "Victon",
           "album": "Nostalgia"
         },
@@ -113446,10 +113374,6 @@
         {
           "artist": "Michael Ball and Alfie Boe",
           "album": "Back Together"
-        },
-        {
-          "artist": "Moor Mother",
-          "album": "Analog Fluids of Sonic Black Holes"
         },
         {
           "artist": "Mount Eerie",
@@ -148015,6 +147939,101 @@
     {
       "artist": "Interpol",
       "album": "A Fine Mess",
+      "year": "2019"
+    },
+    {
+      "artist": "Dan Sultan",
+      "album": "Nali & Friends",
+      "year": "2019"
+    },
+    {
+      "artist": "Billy Woods & Kenny Segal",
+      "album": "Hiding Places",
+      "year": "2019"
+    },
+    {
+      "artist": "Got7",
+      "album": "Call My Name",
+      "year": "2019"
+    },
+    {
+      "artist": "Diplo",
+      "album": "Higher Ground",
+      "year": "2019"
+    },
+    {
+      "artist": "Tones and I",
+      "album": "The Kids Are Coming",
+      "year": "2019"
+    },
+    {
+      "artist": "Willow",
+      "album": "Willow",
+      "year": "2019"
+    },
+    {
+      "artist": "Gnash",
+      "album": "We",
+      "year": "2019"
+    },
+    {
+      "artist": "Hayes Carll",
+      "album": "What It Is",
+      "year": "2019"
+    },
+    {
+      "artist": "Clairo",
+      "album": "Immunity",
+      "year": "2019"
+    },
+    {
+      "artist": "Dido",
+      "album": "Still on My Mind",
+      "year": "2019"
+    },
+    {
+      "artist": "Tinariwen",
+      "album": "Amadjar",
+      "year": "2019"
+    },
+    {
+      "artist": "Tender",
+      "album": "Fear of Falling Asleep",
+      "year": "2019"
+    },
+    {
+      "artist": "Monsta X",
+      "album": "Follow: Find You",
+      "year": "2019"
+    },
+    {
+      "artist": "I Prevail",
+      "album": "Trauma",
+      "year": "2019"
+    },
+    {
+      "artist": "Charly Bliss",
+      "album": "Young Enough",
+      "year": "2019"
+    },
+    {
+      "artist": "Moor Mother",
+      "album": "Analog Fluids of Sonic Black Holes",
+      "year": "2019"
+    },
+    {
+      "artist": "Rüfüs Du Sol",
+      "album": "Solace Remixed",
+      "year": "2019"
+    },
+    {
+      "artist": "Judah & the Lion",
+      "album": "Pep Talks",
+      "year": "2019"
+    },
+    {
+      "artist": "Bastille",
+      "album": "Doom Days",
       "year": "2019"
     }
   ]

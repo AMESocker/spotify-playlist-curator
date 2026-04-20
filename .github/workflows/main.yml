@@ -39,6 +39,15 @@ jobs:
           CLEAN_PLAYLIST_ID: ${{ secrets.CLEAN_PLAYLIST_ID }}
           CAR_PLAYLIST_ALL_ID: ${{ secrets.CAR_PLAYLIST_ALL_ID }}
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          ARTIST_GENRE_PLAYLIST_ID: ${{ secrets.ARTIST_GENRE_PLAYLIST_ID }}
+          ARTIST_DISC_PLAYLIST_ID: ${{ secrets.ARTIST_DISC_PLAYLIST_ID }}
+          BILLBOARD_100_PLAYLIST_ID: ${{ secrets.BILLBOARD_100_PLAYLIST_ID }}
+          HALL_OF_FAME_PLAYLIST_ID: ${{ secrets.HALL_OF_FAME_PLAYLIST_ID }}
+          ALBUMS_BY_YEAR_PLAYLIST_ID: ${{ secrets.ALBUMS_BY_YEAR_PLAYLIST_ID }}
+          SMOOTH_JAZZ_PLAYLIST_ID: ${{ secrets.SMOOTH_JAZZ_PLAYLIST_ID }}
+          ALLMUSIC_EDITORS_CHOICE_PLAYLIST_ID: ${{ secrets.ALLMUSIC_EDITORS_CHOICE_PLAYLIST_ID }}
+          FESTIVALS_PLAYLIST_ID: ${{ secrets.FESTIVALS_PLAYLIST_ID }}
+          
           RUN_MODE: once
         run: node index.js
       - name: Commit and push all changes

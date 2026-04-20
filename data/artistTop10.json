@@ -797,9 +797,6 @@
         "artist": "Oval"
       },
       {
-        "artist": "Murcof"
-      },
-      {
         "artist": "William Basinski"
       },
       {
@@ -848,13 +845,6 @@
         "recommended": true,
         "spotify_popularity": 65,
         "spotify_id": "6liAMWkVf5LH7YR9yfFy1Y"
-      },
-      {
-        "artist": "Amon Tobin",
-        "listeners": 276559,
-        "recommended": true,
-        "spotify_popularity": 42,
-        "spotify_id": "3mvkWMe6swnknwscwvGCHO"
       },
       {
         "artist": "Four Tet",
@@ -981,6 +971,20 @@
         "listeners": null,
         "spotify_id": null,
         "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Murcof",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Amon Tobin",
+        "listeners": 276559,
+        "spotify_id": "3mvkWMe6swnknwscwvGCHO",
+        "recommended": true,
         "tracksAdded": 5
       }
     ]
@@ -1824,13 +1828,6 @@
         "spotify_id": "3Q8wgwyVVv0z4UEh1HB0KY"
       },
       {
-        "artist": "Phosphorescent",
-        "listeners": 259498,
-        "recommended": true,
-        "spotify_popularity": 48,
-        "spotify_id": "57kIMCLPgkzQlXjblX7XXP"
-      },
-      {
         "artist": "Fleet Foxes",
         "listeners": 1474085,
         "recommended": true,
@@ -1959,13 +1956,6 @@
         "spotify_id": "32vWCbZh0xZ4o9gkz4PsEU"
       },
       {
-        "artist": "Willie Nelson",
-        "listeners": 2644932,
-        "recommended": true,
-        "spotify_popularity": 69,
-        "spotify_id": "5W5bDNCqJ1jbCgTxDD0Cb3"
-      },
-      {
         "artist": "Joni Mitchell",
         "listeners": 1677360,
         "recommended": true,
@@ -2083,6 +2073,20 @@
         "artist": "Neutral Milk Hotel",
         "listeners": 814554,
         "spotify_id": "2ooIqOf4X2uz4mMptXCtie",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Phosphorescent",
+        "listeners": 259498,
+        "spotify_id": "57kIMCLPgkzQlXjblX7XXP",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Willie Nelson",
+        "listeners": 2644932,
+        "spotify_id": "5W5bDNCqJ1jbCgTxDD0Cb3",
         "recommended": true,
         "tracksAdded": 5
       }
@@ -2325,6 +2329,19 @@
   "Soul / Funk": {
     "not_added": [
       {
+        "artist": "D'Angelo"
+      },
+      {
+        "artist": "Nina Simone",
+        "listeners": 3319842,
+        "recommended": true,
+        "spotify_popularity": 68,
+        "spotify_id": "7G1GBhoKtEPnP86X2PvEYO"
+      },
+      {
+        "artist": "Orchestra Baobab"
+      },
+      {
         "artist": "Otis Redding"
       },
       {
@@ -2361,9 +2378,6 @@
         "spotify_id": "5CG9X521RDFWCuAhlo6QoR"
       },
       {
-        "artist": "Orchestra Baobab"
-      },
-      {
         "artist": "Frank Sinatra",
         "listeners": 8695773,
         "spotify_popularity": 78,
@@ -2376,13 +2390,6 @@
         "spotify_id": "3jK9MiCrA42lLAdMGUZpwa"
       },
       {
-        "artist": "Nina Simone",
-        "listeners": 3319842,
-        "recommended": true,
-        "spotify_popularity": 68,
-        "spotify_id": "7G1GBhoKtEPnP86X2PvEYO"
-      },
-      {
         "artist": "Aretha Franklin",
         "listeners": 3903676,
         "recommended": true,
@@ -2393,25 +2400,16 @@
         "artist": "Al Green"
       },
       {
-        "artist": "Donny Hathaway"
-      },
-      {
         "artist": "Bootsy Collins"
       },
       {
         "artist": "Kool & the Gang"
       },
       {
-        "artist": "D'Angelo"
-      },
-      {
         "artist": "Erykah Badu"
       },
       {
         "artist": "Jill Scott"
-      },
-      {
-        "artist": "Leon Bridges"
       },
       {
         "artist": "Cory Wong"
@@ -2520,6 +2518,20 @@
         "listeners": 7292634,
         "spotify_id": "7guDJrEfX3qb6FEbdPA5qi",
         "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Leon Bridges",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Donny Hathaway",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
         "tracksAdded": 5
       }
     ]
