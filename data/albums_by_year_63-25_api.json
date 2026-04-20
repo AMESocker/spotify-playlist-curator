@@ -109008,10 +109008,6 @@
           "album": "Native Tongue"
         },
         {
-          "artist": "Tender",
-          "album": "Fear of Falling Asleep"
-        },
-        {
           "artist": "Thunder",
           "album": "Please Remain Seated"
         },
@@ -110092,10 +110088,6 @@
           "album": "Honky Tonk Time Machine"
         },
         {
-          "artist": "I Prevail",
-          "album": "Trauma"
-        },
-        {
           "artist": "Jake Owen",
           "album": "Greetings from... Jake"
         },
@@ -110636,10 +110628,6 @@
           "album": "Front Porch"
         },
         {
-          "artist": "Judah & the Lion",
-          "album": "Pep Talks"
-        },
-        {
           "artist": "Kate Ceberano and Paul Grabowsky",
           "album": "Tryst"
         },
@@ -110678,10 +110666,6 @@
         {
           "artist": "Bear Hands",
           "album": "Fake Tunes"
-        },
-        {
-          "artist": "Charly Bliss",
-          "album": "Young Enough"
         },
         {
           "artist": "Christian Nodal",
@@ -111186,10 +111170,6 @@
         {
           "artist": "Baroness",
           "album": "Gold & Grey"
-        },
-        {
-          "artist": "Bastille",
-          "album": "Doom Days"
         },
         {
           "artist": "Bill Callahan",
@@ -112204,10 +112184,6 @@
           "album": "Here Come the Wolves"
         },
         {
-          "artist": "Rüfüs Du Sol",
-          "album": "Solace Remixed"
-        },
-        {
           "artist": "Sleeping with Sirens",
           "album": "How It Feels to Be Lost"
         },
@@ -112218,10 +112194,6 @@
         {
           "artist": "Status Quo",
           "album": "Backbone"
-        },
-        {
-          "artist": "Tinariwen",
-          "album": "Amadjar"
         },
         {
           "artist": "Pernice Brothers",
@@ -113236,10 +113208,6 @@
           "album": "Three Chords & the Truth"
         },
         {
-          "artist": "Monsta X",
-          "album": "Follow: Find You"
-        },
-        {
           "artist": "White Denim",
           "album": "In Person"
         },
@@ -113406,10 +113374,6 @@
         {
           "artist": "Michael Ball and Alfie Boe",
           "album": "Back Together"
-        },
-        {
-          "artist": "Moor Mother",
-          "album": "Analog Fluids of Sonic Black Holes"
         },
         {
           "artist": "Mount Eerie",
@@ -148025,6 +147989,51 @@
     {
       "artist": "Dido",
       "album": "Still on My Mind",
+      "year": "2019"
+    },
+    {
+      "artist": "Tinariwen",
+      "album": "Amadjar",
+      "year": "2019"
+    },
+    {
+      "artist": "Tender",
+      "album": "Fear of Falling Asleep",
+      "year": "2019"
+    },
+    {
+      "artist": "Monsta X",
+      "album": "Follow: Find You",
+      "year": "2019"
+    },
+    {
+      "artist": "I Prevail",
+      "album": "Trauma",
+      "year": "2019"
+    },
+    {
+      "artist": "Charly Bliss",
+      "album": "Young Enough",
+      "year": "2019"
+    },
+    {
+      "artist": "Moor Mother",
+      "album": "Analog Fluids of Sonic Black Holes",
+      "year": "2019"
+    },
+    {
+      "artist": "Rüfüs Du Sol",
+      "album": "Solace Remixed",
+      "year": "2019"
+    },
+    {
+      "artist": "Judah & the Lion",
+      "album": "Pep Talks",
+      "year": "2019"
+    },
+    {
+      "artist": "Bastille",
+      "album": "Doom Days",
       "year": "2019"
     }
   ]
