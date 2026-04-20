@@ -1804,7 +1804,6 @@
       "Artist": "Aerosmith",
       "Group": "⚪ Classic Rock & Blues Rock",
       "Albums": [
-        "Aerosmith (1973)",
         "Get Your Wings (1974)",
         "Toys in the Attic (1975)",
         "Rocks (1976)",
@@ -1820,7 +1819,9 @@
         "Honkin' on Bobo (2004)",
         "Music from Another Dimension! (2012)"
       ],
-      "AddedAlbums": []
+      "AddedAlbums": [
+        "Get Your Wings (1974)"
+      ]
     },
     {
       "Artist": "Rush",

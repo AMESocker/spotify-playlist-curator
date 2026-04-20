@@ -380,7 +380,6 @@
         "Sidepiece",
         "Cortis",
         "Skye Newman",
-        "Dombresky",
         "Monaleo",
         "Notion",
         "Cameron Whitcomb",
@@ -395,7 +394,6 @@
         "Quadeca",
         "Julia Wolf",
         "Wunderhorse",
-        "Amble",
         "Momma",
         "Frost Children",
         "Amber Mark",
@@ -462,7 +460,6 @@
         "Nat Myers",
         "Ink",
         "Peace Control",
-        "Case Oats",
         "The Creekers",
         "Klo",
         "Valencia Grace",
@@ -499,7 +496,10 @@
         "Calder Allen",
         "The Braymores",
         "Jade",
-        "Kwn"
+        "Kwn",
+        "Case Oats",
+        "Amble",
+        "Dombresky"
       ]
     }
   ],
