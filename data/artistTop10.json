@@ -2329,6 +2329,25 @@
   "Soul / Funk": {
     "not_added": [
       {
+        "artist": "D'Angelo"
+      },
+      {
+        "artist": "Nina Simone",
+        "listeners": 3319842,
+        "recommended": true,
+        "spotify_popularity": 68,
+        "spotify_id": "7G1GBhoKtEPnP86X2PvEYO"
+      },
+      {
+        "artist": "Leon Bridges"
+      },
+      {
+        "artist": "Leon Bridges"
+      },
+      {
+        "artist": "Orchestra Baobab"
+      },
+      {
         "artist": "Otis Redding"
       },
       {
@@ -2365,9 +2384,6 @@
         "spotify_id": "5CG9X521RDFWCuAhlo6QoR"
       },
       {
-        "artist": "Orchestra Baobab"
-      },
-      {
         "artist": "Frank Sinatra",
         "listeners": 8695773,
         "spotify_popularity": 78,
@@ -2378,13 +2394,6 @@
         "listeners": 2746196,
         "spotify_popularity": 75,
         "spotify_id": "3jK9MiCrA42lLAdMGUZpwa"
-      },
-      {
-        "artist": "Nina Simone",
-        "listeners": 3319842,
-        "recommended": true,
-        "spotify_popularity": 68,
-        "spotify_id": "7G1GBhoKtEPnP86X2PvEYO"
       },
       {
         "artist": "Aretha Franklin",
@@ -2406,16 +2415,10 @@
         "artist": "Kool & the Gang"
       },
       {
-        "artist": "D'Angelo"
-      },
-      {
         "artist": "Erykah Badu"
       },
       {
         "artist": "Jill Scott"
-      },
-      {
-        "artist": "Leon Bridges"
       },
       {
         "artist": "Cory Wong"

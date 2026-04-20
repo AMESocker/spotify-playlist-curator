@@ -196,11 +196,6 @@
       "year": 2009
     },
     {
-      "song": "Bright",
-      "artist": "Peter White",
-      "year": 2010
-    },
-    {
       "song": "Burnin'",
       "artist": "Paul Taylor",
       "year": 2010
@@ -234,11 +229,6 @@
       "song": "Touch and Go",
       "artist": "Jazzmasters",
       "year": 2010
-    },
-    {
-      "song": "Put the Top Down",
-      "artist": "Dave Koz featuring Lee Ritenour",
-      "year": 2011
     },
     {
       "song": "Jump Start",
@@ -371,11 +361,6 @@
       "year": 2013
     },
     {
-      "song": "Pusherman",
-      "artist": "Jeff Golub with Brian Auger",
-      "year": 2013
-    },
-    {
       "song": "Powerhouse",
       "artist": "Boney James",
       "year": 2013
@@ -441,11 +426,6 @@
       "year": 2015
     },
     {
-      "song": "Go-Go Smooth",
-      "artist": "Kim Waters",
-      "year": 2015
-    },
-    {
       "song": "Drumline",
       "artist": "Boney James",
       "year": 2015
@@ -458,11 +438,6 @@
     {
       "song": "Coast to Coast",
       "artist": "Vincent Ingala",
-      "year": 2015
-    },
-    {
-      "song": "Rio Drive",
-      "artist": "Gregg Karukas featuring Ricardo Silveira, Shelby Flint and Ron Boustead",
       "year": 2015
     },
     {
@@ -561,11 +536,6 @@
       "year": 2016
     },
     {
-      "song": "Echoes Rising",
-      "artist": "Paul Hardcastle",
-      "year": 2016
-    },
-    {
       "song": "Lifecycle",
       "artist": "Nathan East",
       "year": 2016
@@ -631,11 +601,6 @@
       "year": 2017
     },
     {
-      "song": "Summer Nights",
-      "artist": "Jazz Holdouts",
-      "year": 2017
-    },
-    {
       "song": "I Don't Mind",
       "artist": "Adam Hawley featuring Euge Groove",
       "year": 2017
@@ -643,11 +608,6 @@
     {
       "song": "Uncle Nick",
       "artist": "Nick Colionne",
-      "year": 2017
-    },
-    {
-      "song": "Frankie B.",
-      "artist": "Gerald Albright",
       "year": 2017
     },
     {
@@ -683,11 +643,6 @@
     {
       "song": "Ready to Go",
       "artist": "ThreeStyle featuring Magdalena Chovancova",
-      "year": 2018
-    },
-    {
-      "song": "Corey's Bop",
-      "artist": "Ragan Whiteside",
       "year": 2018
     },
     {
@@ -1168,11 +1123,6 @@
     {
       "song": "Highway 10",
       "artist": "Ryan La Valette",
-      "year": 2022
-    },
-    {
-      "song": "Bring It Back",
-      "artist": "Boney James featuring Dontae Winslow",
       "year": 2022
     },
     {
@@ -1942,6 +1892,36 @@
       "song": "Still Euge",
       "artist": "Euge Groove",
       "year": 2016
+    },
+    {
+      "song": "Go-Go Smooth",
+      "artist": "Kim Waters",
+      "year": 2015
+    },
+    {
+      "song": "Echoes Rising",
+      "artist": "Paul Hardcastle",
+      "year": 2016
+    },
+    {
+      "song": "Summer Nights",
+      "artist": "Jazz Holdouts",
+      "year": 2017
+    },
+    {
+      "song": "Bright",
+      "artist": "Peter White",
+      "year": 2010
+    },
+    {
+      "song": "Corey's Bop",
+      "artist": "Ragan Whiteside",
+      "year": 2018
+    },
+    {
+      "song": "Frankie B.",
+      "artist": "Gerald Albright",
+      "year": 2017
     }
   ]
 }
