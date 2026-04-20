@@ -12,11 +12,7 @@ const DATA_PATH = "data/editorsChoiceAlbums.json";
  */
 export function getEditorsChoiceStatus() {
   if (!fs.existsSync(DATA_PATH)) {
-    return {
-      available: false,
-      pendingWeeks: 0,
-      nextWeek: null
-    };
+    return { available: false, pendingWeeks: 0, nextWeek: null };
   }
 
   let data;
@@ -24,19 +20,11 @@ export function getEditorsChoiceStatus() {
     data = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
   } catch (err) {
     console.error("❌ Error parsing Editors' Choice JSON:", err.message);
-    return {
-      available: false,
-      pendingWeeks: 0,
-      nextWeek: null
-    };
+    return { available: false, pendingWeeks: 0, nextWeek: null };
   }
 
   if (!data.weeklyAlbums || data.weeklyAlbums.length === 0) {
-    return {
-      available: false,
-      pendingWeeks: 0,
-      nextWeek: null
-    };
+    return { available: false, pendingWeeks: 0, nextWeek: null };
   }
 
   const nextWeek = data.weeklyAlbums[0];
@@ -45,13 +33,8 @@ export function getEditorsChoiceStatus() {
   ).length;
 
   return {
-    available: true,
-    pendingWeeks: data.weeklyAlbums.length,
-    nextWeek: {
-      date: nextWeek.date,
-      totalAlbums: nextWeek.albums.length,
-      enrichedAlbums: enrichedAlbums
-    }
+    available: true, pendingWeeks: data.weeklyAlbums.length,
+    nextWeek: { date: nextWeek.date, totalAlbums: nextWeek.albums.length, enrichedAlbums: enrichedAlbums }
   };
 }
 
@@ -62,30 +45,21 @@ export function getEditorsChoiceStatus() {
 export async function processEditorsChoiceWeek() {
   // Load data
   if (!fs.existsSync(DATA_PATH)) {
-    return {
-      success: false,
-      reason: "DATA FILE NOT FOUND"
-    };
+    return {      success: false,      reason: "DATA FILE NOT FOUND"    };
   }
 
   let data;
   try {
     data = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
   } catch (err) {
-    return {
-      success: false,
-      reason: "JSON PARSE ERROR",
-      error: err.message
-    };
+    return {      success: false,      reason: "JSON PARSE ERROR",      error: err.message    };
   }
 
   if (!data.weeklyAlbums || data.weeklyAlbums.length === 0) {
-    return {
-      success: false,
-      reason: "NO PENDING WEEKS"
-    };
+    return {      success: false,      reason: "NO PENDING WEEKS"    };
   }
 
+  //^ Process the first week in the list
   const week = data.weeklyAlbums[0];
   console.log(`\n📅 Processing AllMusic Editors' Choice week: ${week.date}`);
 
@@ -113,7 +87,7 @@ export async function processEditorsChoiceWeek() {
     data.weeklyAlbums.shift();
     week.addedToPlaylist = new Date().toISOString();
     week.playlistId = process.env.TARGET_PLAYLIST_ID || "UNKNOWN";
-    
+
     if (!data.addedWeeks) {
       data.addedWeeks = [];
     }
@@ -147,6 +121,7 @@ export async function processEditorsChoiceWeek() {
     // Add tracks to playlist using curator's addTracks function
     const targetPlaylistId = process.env.TARGET_PLAYLIST_ID;
     await addTracks(targetPlaylistId, trackUris);
+    await addTracks(process.env.ALLMUSIC_EDITORS_CHOICE_PLAYLIST_ID, trackUris);
     console.log(`   ✅ Added ${trackUris.length} tracks to playlist`);
 
     // Mark week as processed
@@ -198,7 +173,6 @@ export async function processMultipleWeeks(weeksToProcess = 1) {
     }
 
     const result = await processEditorsChoiceWeek();
-    
     if (result.success) {
       processedCount++;
       totalTracksAdded += result.tracksAdded;
