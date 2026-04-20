@@ -400,6 +400,7 @@ async function handleRockHall(source, data) {
     wouldExceedLimit,
     pickArtist,
     onResult,
+    strategy: source.strategy,
   });
 }
 
@@ -488,6 +489,7 @@ async function handleFestival(source, data) {
     wouldExceedLimit,
     pickArtist,
     onResult,
+    strategy: source.strategy,
   });
 }
 

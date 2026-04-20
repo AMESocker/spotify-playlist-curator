@@ -95,6 +95,7 @@ export async function runArtistBatch({
   wouldExceedLimit,
   pickArtist,
   onResult,
+  strategy,
 }) {
   // Pre-flight: ensure room for at least one full artist before we start
   if (await wouldExceedLimit(10)) return false;
@@ -132,6 +133,11 @@ export async function runArtistBatch({
     }
 
     await addTracks(targetPlaylistId, result.trackUris);
+    if (strategy === "rockHall") {
+      await addTracks(process.env.HALL_OF_FAME_PLAYLIST_ID, result.trackUris);
+    } else if (strategy === "festival") {
+      await addTracks(process.env.FESTIVALS_PLAYLIST_ID, result.trackUris);
+    }
     console.log(`🎶 Added ${result.trackCount} tracks to playlist`);
 
     await onResult(artist.name, true, result.trackUris, null);
