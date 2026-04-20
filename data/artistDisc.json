@@ -829,7 +829,6 @@
       "Artist": "Anthrax",
       "Group": "🔴 Thrash Metal",
       "Albums": [
-        "Spreading the Disease (1985)",
         "Among the Living (1987)",
         "State of Euphoria (1988)",
         "Persistence of Time (1990)",
@@ -842,7 +841,8 @@
         "Cursum Perficio (2026)"
       ],
       "AddedAlbums": [
-        "Cursum Perficio (2026) [NOT FOUND]"
+        "Cursum Perficio (2026) [NOT FOUND]",
+        "State of Euphoria (1988)"
       ]
     },
     {
