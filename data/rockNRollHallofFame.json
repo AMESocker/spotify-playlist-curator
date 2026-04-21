@@ -20,7 +20,6 @@
     "Brenda Lee",
     "Isaac Hayes",
     "Gene Pitney",
-    "Michael Jackson",
     "Ritchie Valens",
     "The Flamingos",
     "Earth, Wind & Fire",
@@ -75,8 +74,7 @@
     "Eddie Cochran",
     "Ray Charles",
     "Jerry Lee Lewis",
-    "Little Richard",
-    "Fats Domino"
+    "Little Richard"
   ],
   "added": [
     "The White Stripes",
@@ -231,6 +229,8 @@
     "Steely Dan",
     "The Animals",
     "Parliament-Funkadelic",
-    "Ike & Tina Turner"
+    "Ike & Tina Turner",
+    "Michael Jackson",
+    "Fats Domino"
   ]
 }
