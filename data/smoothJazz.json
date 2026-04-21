@@ -371,11 +371,6 @@
       "year": 2014
     },
     {
-      "song": "Snap",
-      "artist": "Nicholas Cole featuring Vincent Ingala",
-      "year": 2014
-    },
-    {
       "song": "Shake Your Body (Down to the Ground)",
       "artist": "bwb",
       "year": 2014
@@ -591,11 +586,6 @@
       "year": 2017
     },
     {
-      "song": "It Keeps Coming Back",
-      "artist": "Norman Brown",
-      "year": 2017
-    },
-    {
       "song": "Taboo",
       "artist": "Skinny Hightower featuring Andrew Hawkley",
       "year": 2017
@@ -613,11 +603,6 @@
     {
       "song": "Piccadilly Circus",
       "artist": "Paul Brown featuring Chris Standring",
-      "year": 2017
-    },
-    {
-      "song": "Baby Coffee",
-      "artist": "Michael J Thomas",
       "year": 2017
     },
     {
@@ -746,11 +731,6 @@
       "year": 2019
     },
     {
-      "song": "I'll Never Love Again",
-      "artist": "Michael J Thomas",
-      "year": 2019
-    },
-    {
       "song": "Cinco Cinco Seis",
       "artist": "Four80East",
       "year": 2019
@@ -783,11 +763,6 @@
     {
       "song": "Fall for You",
       "artist": "Blake Aaron",
-      "year": 2020
-    },
-    {
-      "song": "Can You Feel It",
-      "artist": "Paula Atherton",
       "year": 2020
     },
     {
@@ -864,11 +839,6 @@
       "song": "Better Days Ahead",
       "artist": "Gerald Albright",
       "year": 2020
-    },
-    {
-      "song": "Better Days Ahead",
-      "artist": "Gerald Albright",
-      "year": 2021
     },
     {
       "song": "Blue Moon",
@@ -1006,11 +976,6 @@
       "year": 2021
     },
     {
-      "song": "Risin' Up",
-      "artist": "Adam Hawley",
-      "year": 2021
-    },
-    {
       "song": "Open Portals",
       "artist": "Kayla Waters",
       "year": 2021
@@ -1018,11 +983,6 @@
     {
       "song": "Feels So Right",
       "artist": "Blake Aaron",
-      "year": 2021
-    },
-    {
-      "song": "Serendipity",
-      "artist": "The Saxtress Pamela Williams featuring Gerald Albright",
       "year": 2021
     },
     {
@@ -1146,11 +1106,6 @@
       "year": 2022
     },
     {
-      "song": "Broken Promises",
-      "artist": "Quintin Gerard W. featuring Michael Broening",
-      "year": 2022
-    },
-    {
       "song": "Let It Breathe",
       "artist": "Michael Broening",
       "year": 2023
@@ -1258,11 +1213,6 @@
     {
       "song": "Promise",
       "artist": "Cindy Bradley",
-      "year": 2024
-    },
-    {
-      "song": "She's the One",
-      "artist": "Blake Aaron",
       "year": 2024
     },
     {
@@ -1922,6 +1872,41 @@
       "song": "Frankie B.",
       "artist": "Gerald Albright",
       "year": 2017
+    },
+    {
+      "song": "I'll Never Love Again",
+      "artist": "Michael J Thomas",
+      "year": 2019
+    },
+    {
+      "song": "She's the One",
+      "artist": "Blake Aaron",
+      "year": 2024
+    },
+    {
+      "song": "Baby Coffee",
+      "artist": "Michael J Thomas",
+      "year": 2017
+    },
+    {
+      "song": "It Keeps Coming Back",
+      "artist": "Norman Brown",
+      "year": 2017
+    },
+    {
+      "song": "Can You Feel It",
+      "artist": "Paula Atherton",
+      "year": 2020
+    },
+    {
+      "song": "Risin' Up",
+      "artist": "Adam Hawley",
+      "year": 2021
+    },
+    {
+      "song": "Better Days Ahead",
+      "artist": "Gerald Albright",
+      "year": 2021
     }
   ]
 }

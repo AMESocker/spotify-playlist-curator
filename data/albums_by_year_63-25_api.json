@@ -14490,10 +14490,6 @@
           "album": "Stands for Decibels"
         },
         {
-          "artist": "Toto",
-          "album": "Turn Back"
-        },
-        {
           "artist": "UFO",
           "album": "The Wild, the Willing and the Innocent"
         },
@@ -14822,10 +14818,6 @@
           "album": "Sondra"
         },
         {
-          "artist": "X",
-          "album": "Wild Gift"
-        },
-        {
           "artist": "Cliff Richard",
           "album": "Love Songs"
         },
@@ -14864,14 +14856,6 @@
         {
           "artist": "Kid Creole and the Coconuts",
           "album": "Fresh Fruit in Foreign Places"
-        },
-        {
-          "artist": "David Johansen",
-          "album": "Here Comes the Night"
-        },
-        {
-          "artist": "Commodores",
-          "album": "In the Pocket"
         },
         {
           "artist": "The Joe Perry Project",
@@ -14950,10 +14934,6 @@
           "album": "Pleasant Dreams"
         },
         {
-          "artist": "Debbie Harry",
-          "album": "KooKoo"
-        },
-        {
           "artist": "Bucks Fizz",
           "album": "Bucks Fizz"
         },
@@ -14984,14 +14964,6 @@
         {
           "artist": "Foghat",
           "album": "Girls to Chat and Boys to Bounce"
-        },
-        {
-          "artist": "Various Artists",
-          "album": "Heavy Metal Soundtrack"
-        },
-        {
-          "artist": "Little Feat",
-          "album": "Hoy-Hoy!"
         },
         {
           "artist": "Romeo Void",
@@ -148035,6 +148007,41 @@
       "artist": "Bastille",
       "album": "Doom Days",
       "year": "2019"
+    },
+    {
+      "artist": "David Johansen",
+      "album": "Here Comes the Night",
+      "year": "1981"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Heavy Metal Soundtrack",
+      "year": "1981"
+    },
+    {
+      "artist": "Little Feat",
+      "album": "Hoy-Hoy!",
+      "year": "1981"
+    },
+    {
+      "artist": "Commodores",
+      "album": "In the Pocket",
+      "year": "1981"
+    },
+    {
+      "artist": "Toto",
+      "album": "Turn Back",
+      "year": "1981"
+    },
+    {
+      "artist": "X",
+      "album": "Wild Gift",
+      "year": "1981"
+    },
+    {
+      "artist": "Debbie Harry",
+      "album": "KooKoo",
+      "year": "1981"
     }
   ]
 }

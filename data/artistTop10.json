@@ -536,6 +536,29 @@
         "artist": "Orchestra Baobab"
       },
       {
+        "artist": "Ebo Taylor"
+      },
+      {
+        "artist": "Ali Farka Touré"
+      },
+      {
+        "artist": "William Onyeabor"
+      },
+      {
+        "artist": "Khruangbin",
+        "listeners": 2252112,
+        "recommended": true,
+        "spotify_popularity": 69,
+        "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
+      },
+      {
+        "artist": "Tinariwen",
+        "listeners": 497655,
+        "recommended": true,
+        "spotify_popularity": 50,
+        "spotify_id": "2sf2owtFSCvz2MLfxmNdkb"
+      },
+      {
         "artist": "Sizzla",
         "listeners": 648280,
         "recommended": true,
@@ -550,9 +573,6 @@
       },
       {
         "artist": "Black Uhuru"
-      },
-      {
-        "artist": "Ebo Taylor"
       },
       {
         "artist": "Toumani Diabaté"
@@ -575,20 +595,7 @@
         "spotify_id": "6UL7BodGc5iVmQGlMwHR0g"
       },
       {
-        "artist": "William Onyeabor"
-      },
-      {
         "artist": "Alpha Blondy"
-      },
-      {
-        "artist": "Tinariwen",
-        "listeners": 497655,
-        "recommended": true,
-        "spotify_popularity": 50,
-        "spotify_id": "2sf2owtFSCvz2MLfxmNdkb"
-      },
-      {
-        "artist": "Ali Farka Touré"
       },
       {
         "artist": "Max Romeo"
@@ -602,13 +609,6 @@
         "recommended": true,
         "spotify_popularity": 67,
         "spotify_id": "3QJzdZJYIAcoET1GcfpNGi"
-      },
-      {
-        "artist": "Khruangbin",
-        "listeners": 2252112,
-        "recommended": true,
-        "spotify_popularity": 69,
-        "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
       },
       {
         "artist": "Augustus Pablo",
