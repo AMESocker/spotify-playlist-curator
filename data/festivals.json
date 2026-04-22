@@ -5,7 +5,6 @@
       "year": 2025,
       "artists": [
         "Loyle Carner",
-        "Ezra Collective",
         "Turnstile",
         "Rizzle Kicks",
         "Inhaler",
@@ -40,7 +39,6 @@
         "Blossoms",
         "Djo",
         "Fat Dog",
-        "Father John Misty",
         "Fcukers",
         "Four Tet",
         "Gurriers",
@@ -71,7 +69,6 @@
         "Horsegirl",
         "Ichiko Aoba",
         "Jalen Ngonda",
-        "Japanese Breakfast",
         "John Glacier",
         "Kae Tempest",
         "Katy J Pearson",
@@ -124,7 +121,6 @@
         "My Baby",
         "Orla Gartland",
         "Paris Paloma",
-        "Rachel Chinouriri",
         "Rumba de Bodas",
         "Sam Ryder",
         "Stephen Wilson Jr.",
@@ -179,7 +175,11 @@
         "Thandii",
         "Henry Grace",
         "Jamie Cullum",
-        "Louis Dunford"
+        "Louis Dunford",
+        "Japanese Breakfast",
+        "Ezra Collective [DUPLICATE]",
+        "Rachel Chinouriri",
+        "Father John Misty"
       ]
     },
     {
