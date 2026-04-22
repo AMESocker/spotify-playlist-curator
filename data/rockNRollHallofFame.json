@@ -43,7 +43,6 @@
     "Martha and the Vandellas",
     "Elton John",
     "John Lennon",
-    "The Band",
     "The Grateful Dead",
     "Duane Eddy",
     "Van Morrison",
@@ -68,7 +67,6 @@
     "Aretha Franklin",
     "Roy Orbison",
     "Jackie Wilson",
-    "Bill Haley",
     "Muddy Waters",
     "Smokey Robinson",
     "Eddie Cochran",
@@ -231,6 +229,8 @@
     "Parliament-Funkadelic",
     "Ike & Tina Turner",
     "Michael Jackson",
-    "Fats Domino"
+    "Fats Domino",
+    "Bill Haley",
+    "The Band"
   ]
 }

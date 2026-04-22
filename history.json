@@ -5808,5 +5808,21 @@
     "sourceFile": "data/billboardHot100.json",
     "strategy": "billboard100",
     "timestamp": "2026-04-22T19:06:10.657Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Bill Haley",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-22T21:03:12.293Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Band",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-22T21:03:16.720Z"
   }
 ]
