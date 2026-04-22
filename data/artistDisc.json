@@ -1804,7 +1804,6 @@
       "Artist": "Aerosmith",
       "Group": "⚪ Classic Rock & Blues Rock",
       "Albums": [
-        "Get Your Wings (1974)",
         "Toys in the Attic (1975)",
         "Rocks (1976)",
         "Draw the Line (1977)",
@@ -1820,7 +1819,8 @@
         "Music from Another Dimension! (2012)"
       ],
       "AddedAlbums": [
-        "Get Your Wings (1974)"
+        "Get Your Wings (1974)",
+        "Done with Mirrors (1985)"
       ]
     },
     {
