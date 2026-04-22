@@ -29243,10 +29243,6 @@
           "album": "Your Filthy Little Mouth"
         },
         {
-          "artist": "Level 42",
-          "album": "Forever Now"
-        },
-        {
           "artist": "Morrissey",
           "album": "Vauxhall and I"
         },
@@ -29349,10 +29345,6 @@
         {
           "artist": "Phish",
           "album": "Hoist"
-        },
-        {
-          "artist": "Ali Farka Touré with Ry Cooder",
-          "album": "Talking Timbuktu"
         },
         {
           "artist": "Gwar",
@@ -29943,10 +29935,6 @@
           "album": "Handful of Rain"
         },
         {
-          "artist": "Jerky Boys",
-          "album": "Jerky Boys 2"
-        },
-        {
           "artist": "Barenaked Ladies",
           "album": "Maybe You Should Drive"
         },
@@ -30021,10 +30009,6 @@
         {
           "artist": "Rusted Root",
           "album": "When I Woke"
-        },
-        {
-          "artist": "Patty Loveless",
-          "album": "When Fallen Angels Fly"
         },
         {
           "artist": "Dinosaur Jr.",
@@ -30317,10 +30301,6 @@
         {
           "artist": "Various Artists",
           "album": "Nativity in Black: A Tribute to Black Sabbath"
-        },
-        {
-          "artist": "Joe Jackson",
-          "album": "Night Music"
         },
         {
           "artist": "The Smashing Pumpkins",
@@ -30745,10 +30725,6 @@
         {
           "artist": "Thorleifs",
           "album": "Och du tände stjärnorna"
-        },
-        {
-          "artist": "The Stone Roses",
-          "album": "Second Coming"
         },
         {
           "artist": "Black Sheep",
@@ -148042,6 +148018,36 @@
       "artist": "Debbie Harry",
       "album": "KooKoo",
       "year": "1981"
+    },
+    {
+      "artist": "Ali Farka Touré with Ry Cooder",
+      "album": "Talking Timbuktu",
+      "year": "1994"
+    },
+    {
+      "artist": "Patty Loveless",
+      "album": "When Fallen Angels Fly",
+      "year": "1994"
+    },
+    {
+      "artist": "Joe Jackson",
+      "album": "Night Music",
+      "year": "1994"
+    },
+    {
+      "artist": "Level 42",
+      "album": "Forever Now",
+      "year": "1994"
+    },
+    {
+      "artist": "Jerky Boys",
+      "album": "Jerky Boys 2",
+      "year": "1994"
+    },
+    {
+      "artist": "The Stone Roses",
+      "album": "Second Coming",
+      "year": "1994"
     }
   ]
 }
