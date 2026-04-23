@@ -1,6 +1,107 @@
 {
   "weeklyAlbums": [
     {
+      "date": "2025-01-31",
+      "albums": [
+        {
+          "title": "Hurry Up Tomorrow",
+          "artist": "The Weeknd",
+          "spotifyTrack": {
+            "id": "0FIDCNYYjNvPVimz5icugS",
+            "name": "Timeless (feat Playboi Carti)",
+            "uri": "spotify:track:0FIDCNYYjNvPVimz5icugS",
+            "popularity": 91,
+            "albumName": "Hurry Up Tomorrow",
+            "albumId": "3OxfaVgvTxUTy7276t7SPU",
+            "foundAt": "2026-02-05T18:51:57.673Z"
+          }
+        },
+        {
+          "title": "The Purple Bird",
+          "artist": "Bonnie \"Prince\" Billy",
+          "spotifyTrack": {
+            "id": "0aiOf1F9G8JS9MP1tXn2r6",
+            "name": "London May",
+            "uri": "spotify:track:0aiOf1F9G8JS9MP1tXn2r6",
+            "popularity": 26,
+            "albumName": "The Purple Bird",
+            "albumId": "6VpdeIfQLH0HhlJVbftwP6",
+            "foundAt": "2026-02-05T18:51:59.400Z"
+          }
+        },
+        {
+          "title": "Honey from a Winter Stone",
+          "artist": "Ambrose Akinmusire",
+          "spotifyTrack": {
+            "id": "6bemf7VsRoh9eI2L2lLWM2",
+            "name": "muffled screams",
+            "uri": "spotify:track:6bemf7VsRoh9eI2L2lLWM2",
+            "popularity": 25,
+            "albumName": "honey from a winter stone",
+            "albumId": "69qmpFumQAb3y3UXgGCIbz",
+            "foundAt": "2026-02-05T18:52:01.048Z"
+          }
+        },
+        {
+          "title": "Ebo Taylor",
+          "artist": "Ali Shaheed MuhammadEbo TaylorAdrian Younge",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:07.668Z"
+          }
+        },
+        {
+          "title": "Scuba Divers [Blueprint Edition]",
+          "artist": "Dwight Twilley",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-18T10:33:08.325Z"
+          }
+        },
+        {
+          "title": "List of Demands",
+          "artist": "Damon Locks",
+          "spotifyTrack": {
+            "id": "1ElUlrXyOWo4adfL66tt4d",
+            "name": "Holding the Dawn in Place (Beyond, Pt. 2)",
+            "uri": "spotify:track:1ElUlrXyOWo4adfL66tt4d",
+            "popularity": 8,
+            "albumName": "List of Demands",
+            "albumId": "4FmYOHMOJ6qfY7oqFwzhdz",
+            "foundAt": "2026-02-05T18:52:04.199Z"
+          }
+        },
+        {
+          "title": "Gravity",
+          "artist": "Joona Toivanen Trio",
+          "spotifyTrack": {
+            "id": "6FXibr7oXEtXElSFP8LHES",
+            "name": "Green Model",
+            "uri": "spotify:track:6FXibr7oXEtXElSFP8LHES",
+            "popularity": 18,
+            "albumName": "Gravity",
+            "albumId": "1ZIyFQ6sS5bnZoY60HqkP4",
+            "foundAt": "2026-02-05T18:52:05.794Z"
+          }
+        },
+        {
+          "title": "I Dont Think It Will Hurt if You Smile",
+          "artist": "Norma Tanega",
+          "spotifyTrack": {
+            "id": "124Ufpwu2knrSTW4b5Wyhi",
+            "name": "Now is the Time",
+            "uri": "spotify:track:124Ufpwu2knrSTW4b5Wyhi",
+            "popularity": 28,
+            "albumName": "I Don't Think It Will Hurt If You Smile",
+            "albumId": "4rsVi2ypkpMwTh8UciewU9",
+            "foundAt": "2026-02-05T18:52:07.605Z"
+          }
+        }
+      ]
+    }
+  ],
+  "addedWeeks": [
+    {
       "date": "2025-02-07",
       "albums": [
         {
@@ -118,109 +219,10 @@
             "searchedAt": "2026-04-18T10:33:07.064Z"
           }
         }
-      ]
+      ],
+      "addedToPlaylist": "2026-04-23T01:58:38.233Z",
+      "playlistId": "0xTdpxzdPQLlASRxbPvDl1"
     },
-    {
-      "date": "2025-01-31",
-      "albums": [
-        {
-          "title": "Hurry Up Tomorrow",
-          "artist": "The Weeknd",
-          "spotifyTrack": {
-            "id": "0FIDCNYYjNvPVimz5icugS",
-            "name": "Timeless (feat Playboi Carti)",
-            "uri": "spotify:track:0FIDCNYYjNvPVimz5icugS",
-            "popularity": 91,
-            "albumName": "Hurry Up Tomorrow",
-            "albumId": "3OxfaVgvTxUTy7276t7SPU",
-            "foundAt": "2026-02-05T18:51:57.673Z"
-          }
-        },
-        {
-          "title": "The Purple Bird",
-          "artist": "Bonnie \"Prince\" Billy",
-          "spotifyTrack": {
-            "id": "0aiOf1F9G8JS9MP1tXn2r6",
-            "name": "London May",
-            "uri": "spotify:track:0aiOf1F9G8JS9MP1tXn2r6",
-            "popularity": 26,
-            "albumName": "The Purple Bird",
-            "albumId": "6VpdeIfQLH0HhlJVbftwP6",
-            "foundAt": "2026-02-05T18:51:59.400Z"
-          }
-        },
-        {
-          "title": "Honey from a Winter Stone",
-          "artist": "Ambrose Akinmusire",
-          "spotifyTrack": {
-            "id": "6bemf7VsRoh9eI2L2lLWM2",
-            "name": "muffled screams",
-            "uri": "spotify:track:6bemf7VsRoh9eI2L2lLWM2",
-            "popularity": 25,
-            "albumName": "honey from a winter stone",
-            "albumId": "69qmpFumQAb3y3UXgGCIbz",
-            "foundAt": "2026-02-05T18:52:01.048Z"
-          }
-        },
-        {
-          "title": "Ebo Taylor",
-          "artist": "Ali Shaheed MuhammadEbo TaylorAdrian Younge",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:33:07.668Z"
-          }
-        },
-        {
-          "title": "Scuba Divers [Blueprint Edition]",
-          "artist": "Dwight Twilley",
-          "spotifyTrack": {
-            "error": "Not found",
-            "searchedAt": "2026-04-18T10:33:08.325Z"
-          }
-        },
-        {
-          "title": "List of Demands",
-          "artist": "Damon Locks",
-          "spotifyTrack": {
-            "id": "1ElUlrXyOWo4adfL66tt4d",
-            "name": "Holding the Dawn in Place (Beyond, Pt. 2)",
-            "uri": "spotify:track:1ElUlrXyOWo4adfL66tt4d",
-            "popularity": 8,
-            "albumName": "List of Demands",
-            "albumId": "4FmYOHMOJ6qfY7oqFwzhdz",
-            "foundAt": "2026-02-05T18:52:04.199Z"
-          }
-        },
-        {
-          "title": "Gravity",
-          "artist": "Joona Toivanen Trio",
-          "spotifyTrack": {
-            "id": "6FXibr7oXEtXElSFP8LHES",
-            "name": "Green Model",
-            "uri": "spotify:track:6FXibr7oXEtXElSFP8LHES",
-            "popularity": 18,
-            "albumName": "Gravity",
-            "albumId": "1ZIyFQ6sS5bnZoY60HqkP4",
-            "foundAt": "2026-02-05T18:52:05.794Z"
-          }
-        },
-        {
-          "title": "I Dont Think It Will Hurt if You Smile",
-          "artist": "Norma Tanega",
-          "spotifyTrack": {
-            "id": "124Ufpwu2knrSTW4b5Wyhi",
-            "name": "Now is the Time",
-            "uri": "spotify:track:124Ufpwu2knrSTW4b5Wyhi",
-            "popularity": 28,
-            "albumName": "I Don't Think It Will Hurt If You Smile",
-            "albumId": "4rsVi2ypkpMwTh8UciewU9",
-            "foundAt": "2026-02-05T18:52:07.605Z"
-          }
-        }
-      ]
-    }
-  ],
-  "addedWeeks": [
     {
       "date": "2025-02-14",
       "albums": [

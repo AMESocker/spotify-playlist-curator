@@ -1105,13 +1105,6 @@
         "spotify_id": "2AM4ilv6UzW0uMRuqKtDgN"
       },
       {
-        "artist": "Thin Lizzy",
-        "listeners": 1394637,
-        "recommended": true,
-        "spotify_popularity": 58,
-        "spotify_id": "6biWAmrHyiMkX49LkycGqQ"
-      },
-      {
         "artist": "Foghat",
         "listeners": 971189,
         "recommended": true,
@@ -1145,13 +1138,6 @@
         "recommended": true,
         "spotify_popularity": 64,
         "spotify_id": "3UbyYnvNIT5DFXU4WgiGpP"
-      },
-      {
-        "artist": "Rainbow",
-        "listeners": 1423534,
-        "recommended": true,
-        "spotify_popularity": 69,
-        "spotify_id": "4hz8tIajF2INpgM0qzPJz2"
       },
       {
         "artist": "Blue Oyster Cult",
@@ -1279,6 +1265,20 @@
         "listeners": 244072,
         "spotify_id": "6FxuPrpa8phaP3Xn73emhT",
         "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Rainbow",
+        "listeners": 1423534,
+        "spotify_id": "4hz8tIajF2INpgM0qzPJz2",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Thin Lizzy",
+        "listeners": 1394637,
+        "spotify_id": "6biWAmrHyiMkX49LkycGqQ",
+        "recommended": true,
         "tracksAdded": 5
       }
     ]

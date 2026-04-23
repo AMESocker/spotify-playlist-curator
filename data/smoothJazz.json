@@ -261,11 +261,6 @@
       "year": 2011
     },
     {
-      "song": "Spin",
-      "artist": "Boney James",
-      "year": 2011
-    },
-    {
       "song": "Easy Come Easy Go",
       "artist": "Paul Hardcastle",
       "year": 2011
@@ -301,11 +296,6 @@
       "year": 2012
     },
     {
-      "song": "Feelin' It",
-      "artist": "David Benoit",
-      "year": 2012
-    },
-    {
       "song": "On Your Feet",
       "artist": "Julian Vaughn",
       "year": 2012
@@ -323,11 +313,6 @@
     {
       "song": "Backstage Pass",
       "artist": "Paul Brown featuring Bob James",
-      "year": 2013
-    },
-    {
-      "song": "Wish I Was There",
-      "artist": "Vincent Ingala",
       "year": 2013
     },
     {
@@ -453,11 +438,6 @@
     {
       "song": "Because of You",
       "artist": "Gerald Albright",
-      "year": 2015
-    },
-    {
-      "song": "Vinyl",
-      "artist": "Boney James",
       "year": 2015
     },
     {
@@ -771,11 +751,6 @@
       "year": 2020
     },
     {
-      "song": "Get Up!",
-      "artist": "Brian Culbertson featuring Mr. TalkBox and Marcus Anderson",
-      "year": 2020
-    },
-    {
       "song": "Let's Get Serious",
       "artist": "Nick Colionne",
       "year": 2020
@@ -906,11 +881,6 @@
       "year": 2021
     },
     {
-      "song": "Kickin It Up",
-      "artist": "Jazmin Ghent",
-      "year": 2021
-    },
-    {
       "song": "Sunday Strut",
       "artist": "Blake Aaron featuring Najee",
       "year": 2021
@@ -1011,18 +981,8 @@
       "year": 2022
     },
     {
-      "song": "Nothing Better",
-      "artist": "Jacob Webb featuring Jazmin Ghent",
-      "year": 2022
-    },
-    {
       "song": "Any Moment",
       "artist": "Le Sonic featuring Robert Lee",
-      "year": 2022
-    },
-    {
-      "song": "Feelings",
-      "artist": "Nicholas Cole featuring Julian Vaughn",
       "year": 2022
     },
     {
@@ -1166,11 +1126,6 @@
       "year": 2023
     },
     {
-      "song": "Solid",
-      "artist": "Lin Rountree featuring Ryan La Valette",
-      "year": 2023
-    },
-    {
       "song": "Closer to You",
       "artist": "Ryan La Valette featuring Chris 'Big Dog' Davis",
       "year": 2023
@@ -1293,11 +1248,6 @@
     {
       "song": "Slide",
       "artist": "Boney James",
-      "year": 2024
-    },
-    {
-      "song": "Happy Hour",
-      "artist": "Michael Broening",
       "year": 2024
     },
     {
@@ -1907,6 +1857,36 @@
       "song": "Better Days Ahead",
       "artist": "Gerald Albright",
       "year": 2021
+    },
+    {
+      "song": "Spin",
+      "artist": "Boney James",
+      "year": 2011
+    },
+    {
+      "song": "Vinyl",
+      "artist": "Boney James",
+      "year": 2015
+    },
+    {
+      "song": "Kickin It Up",
+      "artist": "Jazmin Ghent",
+      "year": 2021
+    },
+    {
+      "song": "Wish I Was There",
+      "artist": "Vincent Ingala",
+      "year": 2013
+    },
+    {
+      "song": "Feelin' It",
+      "artist": "David Benoit",
+      "year": 2012
+    },
+    {
+      "song": "Happy Hour",
+      "artist": "Michael Broening",
+      "year": 2024
     }
   ]
 }
