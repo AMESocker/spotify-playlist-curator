@@ -20,22 +20,10 @@
         "spotify_id": "6wWVKhxIU2cEi0K81v7HvP"
       },
       {
-        "artist": "Pantera",
-        "listeners": 6561428,
-        "spotify_popularity": 71,
-        "spotify_id": "14pVkFUHDL207LzLHtSA18"
-      },
-      {
         "artist": "Slayer",
         "listeners": 4574728,
         "spotify_popularity": 63,
         "spotify_id": "1IQ2e1buppatiN1bxUVkrk"
-      },
-      {
-        "artist": "Motorhead",
-        "listeners": 4566506,
-        "spotify_popularity": 63,
-        "spotify_id": "1DFr97A9HnbV3SKTJFu62M"
       },
       {
         "artist": "Gojira",
@@ -257,6 +245,20 @@
         "listeners": 4621588,
         "spotify_popularity": 64,
         "spotify_id": "2tRsMl4eGxwoNabM08Dm4I"
+      },
+      {
+        "artist": "Pantera",
+        "listeners": 6561428,
+        "spotify_id": "14pVkFUHDL207LzLHtSA18",
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Motorhead",
+        "listeners": 4566506,
+        "spotify_id": "1DFr97A9HnbV3SKTJFu62M",
+        "recommended": false,
+        "tracksAdded": 5
       }
     ]
   },
@@ -285,13 +287,6 @@
         "listeners": 359060,
         "spotify_popularity": 45,
         "spotify_id": "79S80ZWgVhIPMCHuvl6SkA"
-      },
-      {
-        "artist": "Pink Floyd",
-        "listeners": 23331273,
-        "recommended": true,
-        "spotify_popularity": 80,
-        "spotify_id": "0k17h0D3J5VfsdmQ1iZtE9"
       },
       {
         "artist": "Karnivool",
@@ -352,12 +347,6 @@
         "listeners": 326392,
         "spotify_popularity": 51,
         "spotify_id": "38uWD5h115pdz278q4rwZW"
-      },
-      {
-        "artist": "Symphony X",
-        "listeners": 304965,
-        "spotify_popularity": 45,
-        "spotify_id": "4MnZkh4dpNmTMPxkl4Ev5L"
       },
       {
         "artist": "Riverside",
@@ -526,6 +515,20 @@
         "listeners": 1352688,
         "spotify_id": "7M1FPw29m5FbicYzS2xdpi",
         "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Symphony X",
+        "listeners": 304965,
+        "spotify_id": "4MnZkh4dpNmTMPxkl4Ev5L",
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Pink Floyd",
+        "listeners": 23331273,
+        "spotify_id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "recommended": true,
         "tracksAdded": 5
       }
     ]
@@ -765,13 +768,6 @@
         "artist": "The Caretaker"
       },
       {
-        "artist": "Caribou",
-        "listeners": 732092,
-        "recommended": true,
-        "spotify_popularity": 54,
-        "spotify_id": "4aEnNH9PuU1HF3TsZTru54"
-      },
-      {
         "artist": "Harold Budd"
       },
       {
@@ -823,9 +819,6 @@
         "recommended": true,
         "spotify_popularity": 61,
         "spotify_id": "25KNo5GDS6ZpLkjasaecA3"
-      },
-      {
-        "artist": "Pole"
       },
       {
         "artist": "Tim Hecker"
@@ -992,6 +985,20 @@
         "artist": "Amon Tobin",
         "listeners": 276559,
         "spotify_id": "3mvkWMe6swnknwscwvGCHO",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Pole",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Caribou",
+        "listeners": 732092,
+        "spotify_id": "4aEnNH9PuU1HF3TsZTru54",
         "recommended": true,
         "tracksAdded": 5
       }
@@ -1829,20 +1836,6 @@
         "spotify_id": "0vYQRW5LIDeYQOccTviQNX"
       },
       {
-        "artist": "Jason Isbell",
-        "listeners": 482065,
-        "recommended": true,
-        "spotify_popularity": 51,
-        "spotify_id": "3Q8wgwyVVv0z4UEh1HB0KY"
-      },
-      {
-        "artist": "Fleet Foxes",
-        "listeners": 1474085,
-        "recommended": true,
-        "spotify_popularity": 63,
-        "spotify_id": "4EVpmkEwrLYEg6jIsiPMIb"
-      },
-      {
         "artist": "Johnny Cash",
         "listeners": 7038022,
         "spotify_popularity": 73,
@@ -2097,6 +2090,20 @@
         "spotify_id": "5W5bDNCqJ1jbCgTxDD0Cb3",
         "recommended": true,
         "tracksAdded": 5
+      },
+      {
+        "artist": "Jason Isbell",
+        "listeners": 482065,
+        "spotify_id": "3Q8wgwyVVv0z4UEh1HB0KY",
+        "recommended": true,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Fleet Foxes",
+        "listeners": 1474085,
+        "spotify_id": "4EVpmkEwrLYEg6jIsiPMIb",
+        "recommended": true,
+        "tracksAdded": 5
       }
     ]
   },
@@ -2113,9 +2120,6 @@
         "listeners": 417750,
         "spotify_popularity": 60,
         "spotify_id": "2jFZlvIea42ZvcCw4OeEdA"
-      },
-      {
-        "artist": "Sarah Vaughan "
       },
       {
         "artist": "John Lee Hooker",
@@ -2199,9 +2203,6 @@
       },
       {
         "artist": "Cannonball Adderley "
-      },
-      {
-        "artist": "Sonny Rollins "
       },
       {
         "artist": "Kamasi Washington"
@@ -2331,6 +2332,20 @@
         "spotify_id": "5V0MlUE1Bft0mbLlND7FJz",
         "recommended": false,
         "tracksAdded": 5
+      },
+      {
+        "artist": "Sarah Vaughan ",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Sonny Rollins ",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
       }
     ]
   },
@@ -2409,9 +2424,6 @@
       },
       {
         "artist": "Bootsy Collins"
-      },
-      {
-        "artist": "Kool & the Gang"
       },
       {
         "artist": "Erykah Badu"
@@ -2537,6 +2549,20 @@
       },
       {
         "artist": "Donny Hathaway",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Kool & the Gang",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Kool & the Gang",
         "listeners": null,
         "spotify_id": null,
         "recommended": false,

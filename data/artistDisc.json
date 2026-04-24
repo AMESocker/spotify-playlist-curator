@@ -115,7 +115,6 @@
       "Artist": "Bush",
       "Group": "🟧 Post-Grunge / Alt Rock",
       "Albums": [
-        "Razorblade Suitcase (1996)",
         "The Science of Things (1999)",
         "Golden State (2001)",
         "The Sea of Memories (2011)",
@@ -126,7 +125,8 @@
         "I Beat Loneliness (2025)"
       ],
       "AddedAlbums": [
-        "The Sea of Memories (2011)"
+        "The Sea of Memories (2011)",
+        "The Kingdom (2020)"
       ]
     },
     {
@@ -562,7 +562,6 @@
       "Artist": "Disturbed",
       "Group": "⚫ Nu Metal / Alt Metal",
       "Albums": [
-        "Believe (2002)",
         "Ten Thousand Fists (2005)",
         "Indestructible (2008)",
         "Asylum (2010)",
@@ -571,6 +570,7 @@
         "Divisive (2022)"
       ],
       "AddedAlbums": [
+        "Believe (2002)",
         "Believe (2002)"
       ]
     },
@@ -608,12 +608,12 @@
       "Artist": "Pantera",
       "Group": "🟤 Groove / Industrial Metal",
       "Albums": [
-        "Vulgar Display of Power (1992)",
         "Far Beyond Driven (1994)",
         "The Great Southern Trendkill (1996)",
         "Reinventing the Steel (2000)"
       ],
       "AddedAlbums": [
+        "The Great Southern Trendkill (1996)",
         "The Great Southern Trendkill (1996)"
       ]
     },
@@ -806,7 +806,6 @@
       "Artist": "Sepultura",
       "Group": "🔴 Thrash Metal",
       "Albums": [
-        "Beneath the Remains (1989)",
         "Arise (1991)",
         "Chaos A.D. (1993)",
         "Roots (1996)",
@@ -822,7 +821,8 @@
       ],
       "AddedAlbums": [
         "Beneath the Remains (1989)",
-        "Arise (1991)"
+        "Arise (1991)",
+        "Chaos A.D. (1993)"
       ]
     },
     {
@@ -1139,7 +1139,6 @@
       "Artist": "Mötley Crüe",
       "Group": "🔵 Heavy / Power / Prog Metal",
       "Albums": [
-        "Shout at the Devil (1983)",
         "Theatre of Pain (1985)",
         "Girls, Girls, Girls (1987)",
         "Dr. Feelgood (1989)",
@@ -1149,6 +1148,7 @@
         "Saints of Los Angeles (2008)"
       ],
       "AddedAlbums": [
+        "New Tattoo (2000)",
         "New Tattoo (2000)"
       ]
     },
@@ -1911,7 +1911,6 @@
       "Artist": "The Black Crowes",
       "Group": "⚪ Classic Rock & Blues Rock",
       "Albums": [
-        "Shake Your Money Maker (1990)",
         "The Southern Harmony and Musical Companion (1991)",
         "Amorica (1994)",
         "Three Snakes and One Charm (1996)",
@@ -1923,7 +1922,8 @@
         "A Pound of Feathers (2026)"
       ],
       "AddedAlbums": [
-        "Croweology (2010)"
+        "Croweology (2010)",
+        "Lions (2001)"
       ]
     },
     {

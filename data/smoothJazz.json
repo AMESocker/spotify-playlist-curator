@@ -16,16 +16,6 @@
       "year": 2005
     },
     {
-      "song": "Shining Star",
-      "artist": "Rick Braun",
-      "year": 2006
-    },
-    {
-      "song": "It's All Good",
-      "artist": "Brian Simpson",
-      "year": 2006
-    },
-    {
       "song": "Mystique",
       "artist": "Richard Elliot",
       "year": 2006
@@ -38,11 +28,6 @@
     {
       "song": "Do It Again",
       "artist": "Philippe Saisse Trio",
-      "year": 2006
-    },
-    {
-      "song": "Free as the Wind",
-      "artist": "Jazzmasters",
       "year": 2006
     },
     {
@@ -91,21 +76,6 @@
       "year": 2007
     },
     {
-      "song": "Ain't No Woman (Like the One I Got)",
-      "artist": "Jeff Golub featuring Richard Elliot",
-      "year": 2007
-    },
-    {
-      "song": "L.A. City Lights",
-      "artist": "Candy Dulfer",
-      "year": 2007
-    },
-    {
-      "song": "L.A. City Lights",
-      "artist": "Candy Dulfer",
-      "year": 2008
-    },
-    {
       "song": "Blue Water",
       "artist": "Eric Marienthal",
       "year": 2008
@@ -131,16 +101,6 @@
       "year": 2008
     },
     {
-      "song": "Fallin' for You",
-      "artist": "The Sax Pack",
-      "year": 2008
-    },
-    {
-      "song": "Life in the Fast Lane",
-      "artist": "Dave Koz",
-      "year": 2008
-    },
-    {
       "song": "Goin' All Out",
       "artist": "Eric Darius",
       "year": 2008
@@ -149,11 +109,6 @@
       "song": "Sweet Sundays",
       "artist": "Tim Bowman",
       "year": 2008
-    },
-    {
-      "song": "Sweet Sundays",
-      "artist": "Tim Bowman",
-      "year": 2009
     },
     {
       "song": "Religify",
@@ -173,11 +128,6 @@
     {
       "song": "Move On Up",
       "artist": "Richard Elliot",
-      "year": 2009
-    },
-    {
-      "song": "Go for It",
-      "artist": "Bernie Williams",
       "year": 2009
     },
     {
@@ -208,11 +158,6 @@
     {
       "song": "Take Me There",
       "artist": "Jackiem Joyner",
-      "year": 2010
-    },
-    {
-      "song": "Christiane",
-      "artist": "Rick Braun",
       "year": 2010
     },
     {
@@ -256,28 +201,13 @@
       "year": 2011
     },
     {
-      "song": "Massive Transit",
-      "artist": "Cindy Bradley",
-      "year": 2011
-    },
-    {
       "song": "Easy Come Easy Go",
       "artist": "Paul Hardcastle",
       "year": 2011
     },
     {
-      "song": "Boom Town",
-      "artist": "Richard Elliot",
-      "year": 2012
-    },
-    {
       "song": "The Lady in My Life",
       "artist": "George Benson",
-      "year": 2012
-    },
-    {
-      "song": "Perfect Nites",
-      "artist": "Najee",
       "year": 2012
     },
     {
@@ -311,16 +241,6 @@
       "year": 2012
     },
     {
-      "song": "Backstage Pass",
-      "artist": "Paul Brown featuring Bob James",
-      "year": 2013
-    },
-    {
-      "song": "No Stress",
-      "artist": "Paul Hardcastle",
-      "year": 2013
-    },
-    {
       "song": "Batucada (The Beat)",
       "artist": "Boney James featuring Rick Braun",
       "year": 2013
@@ -349,11 +269,6 @@
       "song": "Powerhouse",
       "artist": "Boney James",
       "year": 2013
-    },
-    {
-      "song": "Hacienda",
-      "artist": "Jeff Lorber Fusion",
-      "year": 2014
     },
     {
       "song": "Shake Your Body (Down to the Ground)",
@@ -386,24 +301,9 @@
       "year": 2014
     },
     {
-      "song": "African Breeze",
-      "artist": "Jonathan Butler",
-      "year": 2014
-    },
-    {
       "song": "Head Over Heels",
       "artist": "Peter White",
       "year": 2014
-    },
-    {
-      "song": "Head Over Heels",
-      "artist": "Peter White",
-      "year": 2015
-    },
-    {
-      "song": "Back to Back",
-      "artist": "Rick Braun",
-      "year": 2015
     },
     {
       "song": "Drumline",
@@ -526,11 +426,6 @@
       "year": 2017
     },
     {
-      "song": "Category A",
-      "artist": "Cindy Bradley featuring Chris Standring",
-      "year": 2017
-    },
-    {
       "song": "I Am",
       "artist": "Kayla Waters featuring Kim Waters",
       "year": 2017
@@ -556,23 +451,8 @@
       "year": 2017
     },
     {
-      "song": "Like This, Like That",
-      "artist": "Chris Standring",
-      "year": 2017
-    },
-    {
-      "song": "Lavish",
-      "artist": "Special EFX",
-      "year": 2017
-    },
-    {
       "song": "Taboo",
       "artist": "Skinny Hightower featuring Andrew Hawkley",
-      "year": 2017
-    },
-    {
-      "song": "I Don't Mind",
-      "artist": "Adam Hawley featuring Euge Groove",
       "year": 2017
     },
     {
@@ -601,11 +481,6 @@
       "year": 2018
     },
     {
-      "song": "Everyone but You",
-      "artist": "Cindy Bradley",
-      "year": 2018
-    },
-    {
       "song": "Ready to Go",
       "artist": "ThreeStyle featuring Magdalena Chovancova",
       "year": 2018
@@ -613,16 +488,6 @@
     {
       "song": "You're Magic",
       "artist": "Brian Culbertson",
-      "year": 2018
-    },
-    {
-      "song": "Up All Night",
-      "artist": "Boney James",
-      "year": 2018
-    },
-    {
-      "song": "Coupe De Ville",
-      "artist": "Brian Bromberg",
       "year": 2018
     },
     {
@@ -638,11 +503,6 @@
     {
       "song": "Zephyr",
       "artist": "Kayla Waters",
-      "year": 2018
-    },
-    {
-      "song": "Snap, Crackle, Pop",
-      "artist": "Vincent Ingala",
       "year": 2018
     },
     {
@@ -668,16 +528,6 @@
     {
       "song": "Top Down",
       "artist": "Greg Manning",
-      "year": 2019
-    },
-    {
-      "song": "Infinite Soul",
-      "artist": "Will Donato",
-      "year": 2019
-    },
-    {
-      "song": "Spirit Dance",
-      "artist": "Keiko Matsui featuring Gretchen Parlato",
       "year": 2019
     },
     {
@@ -711,11 +561,6 @@
       "year": 2019
     },
     {
-      "song": "Cinco Cinco Seis",
-      "artist": "Four80East",
-      "year": 2019
-    },
-    {
       "song": "Soulmate",
       "artist": "Nicholas Cole featuring Chieli Minucci",
       "year": 2019
@@ -724,16 +569,6 @@
       "song": "Before I Let Go",
       "artist": "Dave Koz / Gerald Albright / Rick Braun / Richard Elliot / Aubrey Logan",
       "year": 2019
-    },
-    {
-      "song": "Full Bloom",
-      "artist": "Kayla Waters",
-      "year": 2019
-    },
-    {
-      "song": "Full Bloom",
-      "artist": "Kayla Waters",
-      "year": 2020
     },
     {
       "song": "Dancing Galaxies",
@@ -781,16 +616,6 @@
       "year": 2020
     },
     {
-      "song": "Shake You Up",
-      "artist": "Chris Standring",
-      "year": 2020
-    },
-    {
-      "song": "Afternoon Delight",
-      "artist": "Julian Vaughn featuring Elan Trotman",
-      "year": 2020
-    },
-    {
       "song": "Dirty Dozen",
       "artist": "Euge Groove",
       "year": 2020
@@ -801,18 +626,8 @@
       "year": 2020
     },
     {
-      "song": "Outta Sight",
-      "artist": "Nils Jiptner",
-      "year": 2020
-    },
-    {
       "song": "Side by Side",
       "artist": "Dave Koz featuring David Sanborn",
-      "year": 2020
-    },
-    {
-      "song": "Better Days Ahead",
-      "artist": "Gerald Albright",
       "year": 2020
     },
     {
@@ -826,11 +641,6 @@
       "year": 2021
     },
     {
-      "song": "Too Tuff",
-      "artist": "Freddie Fox",
-      "year": 2021
-    },
-    {
       "song": "Magic Hour",
       "artist": "Sean U featuring Blake Aaron",
       "year": 2021
@@ -841,11 +651,6 @@
       "year": 2021
     },
     {
-      "song": "Nothin' but Love",
-      "artist": "Paul Brown featuring Jeff Ryan",
-      "year": 2021
-    },
-    {
       "song": "It's My Time",
       "artist": "Willie Bradley featuring James Lloyd",
       "year": 2021
@@ -853,11 +658,6 @@
     {
       "song": "Exhale",
       "artist": "Patrick Bradley",
-      "year": 2021
-    },
-    {
-      "song": "Welcome to the Beach",
-      "artist": "Paul Hardcastle",
       "year": 2021
     },
     {
@@ -873,11 +673,6 @@
     {
       "song": "Just Groovin'",
       "artist": "Norman Brown",
-      "year": 2021
-    },
-    {
-      "song": "Hurry Up and Wait",
-      "artist": "Oli Silk",
       "year": 2021
     },
     {
@@ -946,24 +741,9 @@
       "year": 2021
     },
     {
-      "song": "Open Portals",
-      "artist": "Kayla Waters",
-      "year": 2021
-    },
-    {
       "song": "Feels So Right",
       "artist": "Blake Aaron",
       "year": 2021
-    },
-    {
-      "song": "Sundance",
-      "artist": "Boney James",
-      "year": 2021
-    },
-    {
-      "song": "Daydreams",
-      "artist": "Randy Scott featuring Cindy Bradley",
-      "year": 2022
     },
     {
       "song": "Urban Troubadour",
@@ -1041,21 +821,6 @@
       "year": 2022
     },
     {
-      "song": "Highway 10",
-      "artist": "Ryan La Valette",
-      "year": 2022
-    },
-    {
-      "song": "I'll Be the One",
-      "artist": "Le Sonic featuring Lauran Beluzo and Robert Lee",
-      "year": 2022
-    },
-    {
-      "song": "Paradigm Shift",
-      "artist": "Carol Albert featuring Paul Brown",
-      "year": 2022
-    },
-    {
       "song": "Co-Motion",
       "artist": "Lemek",
       "year": 2022
@@ -1076,33 +841,8 @@
       "year": 2023
     },
     {
-      "song": "Nujazzy",
-      "artist": "Bobby Lyle featuring Nathan East",
-      "year": 2023
-    },
-    {
-      "song": "Stone Cold",
-      "artist": "Pamela Williams",
-      "year": 2023
-    },
-    {
-      "song": "It's Personal",
-      "artist": "Jimmy B.",
-      "year": 2023
-    },
-    {
       "song": "Just like That",
       "artist": "Nick Colionne",
-      "year": 2023
-    },
-    {
-      "song": "100% Cotton",
-      "artist": "Nathan Mitchell featuring Marcus Anderson",
-      "year": 2023
-    },
-    {
-      "song": "On a Roll",
-      "artist": "Quintin Gerard W.",
       "year": 2023
     },
     {
@@ -1113,21 +853,6 @@
     {
       "song": "Easy",
       "artist": "Tim Bowman",
-      "year": 2023
-    },
-    {
-      "song": "Talk to Me",
-      "artist": "Michael Broening featuring Marion Meadows",
-      "year": 2023
-    },
-    {
-      "song": "Taboo",
-      "artist": "Damien Escobar",
-      "year": 2023
-    },
-    {
-      "song": "Closer to You",
-      "artist": "Ryan La Valette featuring Chris 'Big Dog' Davis",
       "year": 2023
     },
     {
@@ -1201,11 +926,6 @@
       "year": 2024
     },
     {
-      "song": "Full Throttle",
-      "artist": "Gerald Albright",
-      "year": 2024
-    },
-    {
       "song": "Diamond Dress",
       "artist": "Lisa Addeo",
       "year": 2024
@@ -1213,11 +933,6 @@
     {
       "song": "Cool Summer",
       "artist": "Special EFX featuring Chieli Minucci",
-      "year": 2024
-    },
-    {
-      "song": "Groovin' On",
-      "artist": "Gregory Goodloe",
       "year": 2024
     },
     {
@@ -1243,11 +958,6 @@
     {
       "song": "Runnin' Hot",
       "artist": "Elan Trotman",
-      "year": 2024
-    },
-    {
-      "song": "Slide",
-      "artist": "Boney James",
       "year": 2024
     },
     {
@@ -1343,16 +1053,6 @@
     {
       "song": "De Nada",
       "artist": "Roberto Restuccia",
-      "year": 2025
-    },
-    {
-      "song": "On the Road",
-      "artist": "Brian Culbertson featuring Marcus Miller and Sheila E.",
-      "year": 2025
-    },
-    {
-      "song": "Feel the Heat",
-      "artist": "Nathan Mitchell featuring Patrick Bryant and Mo'Horns",
       "year": 2025
     },
     {
@@ -1887,6 +1587,221 @@
       "song": "Happy Hour",
       "artist": "Michael Broening",
       "year": 2024
+    },
+    {
+      "song": "Full Bloom",
+      "artist": "Kayla Waters",
+      "year": 2020
+    },
+    {
+      "song": "On a Roll",
+      "artist": "Quintin Gerard W.",
+      "year": 2023
+    },
+    {
+      "song": "Cinco Cinco Seis",
+      "artist": "Four80East",
+      "year": 2019
+    },
+    {
+      "song": "Back to Back",
+      "artist": "Rick Braun",
+      "year": 2015
+    },
+    {
+      "song": "Perfect Nites",
+      "artist": "Najee",
+      "year": 2012
+    },
+    {
+      "song": "Slide",
+      "artist": "Boney James",
+      "year": 2024
+    },
+    {
+      "song": "Taboo",
+      "artist": "Damien Escobar",
+      "year": 2023
+    },
+    {
+      "song": "Sundance",
+      "artist": "Boney James",
+      "year": 2021
+    },
+    {
+      "song": "No Stress",
+      "artist": "Paul Hardcastle",
+      "year": 2013
+    },
+    {
+      "song": "Highway 10",
+      "artist": "Ryan La Valette",
+      "year": 2022
+    },
+    {
+      "song": "Shake You Up",
+      "artist": "Chris Standring",
+      "year": 2020
+    },
+    {
+      "song": "Life in the Fast Lane",
+      "artist": "Dave Koz",
+      "year": 2008
+    },
+    {
+      "song": "Hurry Up and Wait",
+      "artist": "Oli Silk",
+      "year": 2021
+    },
+    {
+      "song": "Shining Star",
+      "artist": "Rick Braun",
+      "year": 2006
+    },
+    {
+      "song": "L.A. City Lights",
+      "artist": "Candy Dulfer",
+      "year": 2007
+    },
+    {
+      "song": "Go for It",
+      "artist": "Bernie Williams",
+      "year": 2009
+    },
+    {
+      "song": "Too Tuff",
+      "artist": "Freddie Fox",
+      "year": 2021
+    },
+    {
+      "song": "Coupe De Ville",
+      "artist": "Brian Bromberg",
+      "year": 2018
+    },
+    {
+      "song": "Full Bloom",
+      "artist": "Kayla Waters",
+      "year": 2019
+    },
+    {
+      "song": "Welcome to the Beach",
+      "artist": "Paul Hardcastle",
+      "year": 2021
+    },
+    {
+      "song": "Head Over Heels",
+      "artist": "Peter White",
+      "year": 2015
+    },
+    {
+      "song": "Better Days Ahead",
+      "artist": "Gerald Albright",
+      "year": 2020
+    },
+    {
+      "song": "Up All Night",
+      "artist": "Boney James",
+      "year": 2018
+    },
+    {
+      "song": "Stone Cold",
+      "artist": "Pamela Williams",
+      "year": 2023
+    },
+    {
+      "song": "Full Throttle",
+      "artist": "Gerald Albright",
+      "year": 2024
+    },
+    {
+      "song": "Open Portals",
+      "artist": "Kayla Waters",
+      "year": 2021
+    },
+    {
+      "song": "It's Personal",
+      "artist": "Jimmy B.",
+      "year": 2023
+    },
+    {
+      "song": "Free as the Wind",
+      "artist": "Jazzmasters",
+      "year": 2006
+    },
+    {
+      "song": "Sweet Sundays",
+      "artist": "Tim Bowman",
+      "year": 2009
+    },
+    {
+      "song": "It's All Good",
+      "artist": "Brian Simpson",
+      "year": 2006
+    },
+    {
+      "song": "Christiane",
+      "artist": "Rick Braun",
+      "year": 2010
+    },
+    {
+      "song": "Snap, Crackle, Pop",
+      "artist": "Vincent Ingala",
+      "year": 2018
+    },
+    {
+      "song": "African Breeze",
+      "artist": "Jonathan Butler",
+      "year": 2014
+    },
+    {
+      "song": "Fallin' for You",
+      "artist": "The Sax Pack",
+      "year": 2008
+    },
+    {
+      "song": "Infinite Soul",
+      "artist": "Will Donato",
+      "year": 2019
+    },
+    {
+      "song": "Boom Town",
+      "artist": "Richard Elliot",
+      "year": 2012
+    },
+    {
+      "song": "Groovin' On",
+      "artist": "Gregory Goodloe",
+      "year": 2024
+    },
+    {
+      "song": "Everyone but You",
+      "artist": "Cindy Bradley",
+      "year": 2018
+    },
+    {
+      "song": "Hacienda",
+      "artist": "Jeff Lorber Fusion",
+      "year": 2014
+    },
+    {
+      "song": "Lavish",
+      "artist": "Special EFX",
+      "year": 2017
+    },
+    {
+      "song": "Massive Transit",
+      "artist": "Cindy Bradley",
+      "year": 2011
+    },
+    {
+      "song": "L.A. City Lights",
+      "artist": "Candy Dulfer",
+      "year": 2008
+    },
+    {
+      "song": "Like This, Like That",
+      "artist": "Chris Standring",
+      "year": 2017
     }
   ]
 }

@@ -5929,5 +5929,590 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-04-24T04:50:55.737Z"
+  },
+  {
+    "action": "addAlbumsByYear",
+    "albumYear": "2022",
+    "tracksAdded": 10,
+    "tracksSkipped": 0,
+    "sourceFile": "data/albums_by_year_63-25_api.json",
+    "strategy": "albumsByYear",
+    "timestamp": "2026-04-24T18:42:03.248Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 7,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-24T18:42:15.761Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Jazz / Blues",
+    "artist": "Sarah Vaughan ",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:42:23.248Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Jazz / Blues",
+    "artist": "Sonny Rollins ",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:42:23.754Z"
+  },
+  {
+    "action": "addEditorsChoice",
+    "weekDate": "2025-01-31",
+    "tracksAdded": 6,
+    "tracksSkipped": 2,
+    "sourceFile": "data/editorsChoiceAlbums.json",
+    "strategy": "editorsChoice",
+    "timestamp": "2026-04-24T18:42:27.284Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Jane Remover",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:42:38.691Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Cachirula & Loojan",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:42:43.422Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Ceremony",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:42:47.480Z"
+  },
+  {
+    "action": "add",
+    "artist": "Sepultura",
+    "album": "Chaos A.D. (1993)",
+    "index": null,
+    "tracksAdded": 16,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-24T18:42:55.939Z"
+  },
+  {
+    "action": "billboardHot100",
+    "tracksAdded": 8,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "billboard100",
+    "timestamp": "2026-04-24T18:43:09.896Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Booker T. & the M.G.'s",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:43:24.687Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Martha and the Vandellas",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:43:30.033Z"
+  },
+  {
+    "action": "addAlbumsByYear",
+    "albumYear": "1976",
+    "tracksAdded": 5,
+    "tracksSkipped": 5,
+    "sourceFile": "data/albums_by_year_63-25_api.json",
+    "strategy": "albumsByYear",
+    "timestamp": "2026-04-24T18:43:42.970Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 9,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-24T18:43:58.003Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Progressive / Experimental Rock & Metal",
+    "artist": "Symphony X",
+    "listeners": 304965,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:44:05.759Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Progressive / Experimental Rock & Metal",
+    "artist": "Pink Floyd",
+    "listeners": 23331273,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:44:06.340Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Lollapalooza",
+    "artist": "Khamari",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:44:19.102Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Lollapalooza",
+    "artist": "The Smashing Pumpkins",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:44:24.183Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Lollapalooza",
+    "artist": "DJ Trixie Mattel",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:44:29.060Z"
+  },
+  {
+    "action": "add",
+    "artist": "Disturbed",
+    "album": "Believe (2002)",
+    "index": null,
+    "tracksAdded": 12,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-24T18:44:37.869Z"
+  },
+  {
+    "action": "billboardHot100",
+    "tracksAdded": 10,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "billboard100",
+    "timestamp": "2026-04-24T18:44:53.732Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "LaVern Baker",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:45:11.106Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Gladys Knight & the Pips",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:45:16.735Z"
+  },
+  {
+    "action": "addAlbumsByYear",
+    "albumYear": "1980",
+    "tracksAdded": 10,
+    "tracksSkipped": 0,
+    "sourceFile": "data/albums_by_year_63-25_api.json",
+    "strategy": "albumsByYear",
+    "timestamp": "2026-04-24T18:45:36.003Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 6,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-24T18:45:51.340Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Folk / Country / Americana",
+    "artist": "Jason Isbell",
+    "listeners": 482065,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:45:59.293Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Folk / Country / Americana",
+    "artist": "Fleet Foxes",
+    "listeners": 1474085,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:46:00.075Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "Rhiannon Giddens",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:46:13.269Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "Kneecap",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:46:18.736Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "Bob Vylan",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:46:23.877Z"
+  },
+  {
+    "action": "add",
+    "artist": "Bush",
+    "album": "The Kingdom (2020)",
+    "index": null,
+    "tracksAdded": 12,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-24T18:46:32.466Z"
+  },
+  {
+    "action": "billboardHot100",
+    "tracksAdded": 7,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "billboard100",
+    "timestamp": "2026-04-24T18:46:47.417Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Doors",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:47:04.927Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Aretha Franklin",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:47:11.088Z"
+  },
+  {
+    "action": "addAlbumsByYear",
+    "albumYear": "2002",
+    "tracksAdded": 9,
+    "tracksSkipped": 1,
+    "sourceFile": "data/albums_by_year_63-25_api.json",
+    "strategy": "albumsByYear",
+    "timestamp": "2026-04-24T18:47:26.500Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 7,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-24T18:47:41.616Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Ambient / Experimental Electronic",
+    "artist": "Pole",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:47:50.132Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Ambient / Experimental Electronic",
+    "artist": "Caribou",
+    "listeners": 732092,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:47:50.732Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Febuary",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:48:04.532Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Gordo",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:48:10.265Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "GIVEON",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:48:16.137Z"
+  },
+  {
+    "action": "add",
+    "artist": "Mötley Crüe",
+    "album": "New Tattoo (2000)",
+    "index": null,
+    "tracksAdded": 11,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-24T18:48:25.214Z"
+  },
+  {
+    "action": "billboardHot100",
+    "tracksAdded": 9,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "billboard100",
+    "timestamp": "2026-04-24T18:48:41.705Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Frankie Valli & The Four Seasons",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:49:00.083Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Stevie Wonder",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:49:05.787Z"
+  },
+  {
+    "action": "addAlbumsByYear",
+    "albumYear": "1970",
+    "tracksAdded": 7,
+    "tracksSkipped": 3,
+    "sourceFile": "data/albums_by_year_63-25_api.json",
+    "strategy": "albumsByYear",
+    "timestamp": "2026-04-24T18:49:20.646Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 6,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-24T18:49:36.292Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Soul / Funk",
+    "artist": "Kool & the Gang",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:49:45.533Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Soul / Funk",
+    "artist": "Kool & the Gang",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:49:46.089Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "Gabrielle Aplin",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:49:59.956Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "Sorry",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:50:05.454Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Glastonbury",
+    "artist": "Toby Lee",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:50:11.453Z"
+  },
+  {
+    "action": "add",
+    "artist": "Pantera",
+    "album": "The Great Southern Trendkill (1996)",
+    "index": null,
+    "tracksAdded": 11,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-24T18:50:21.187Z"
+  },
+  {
+    "action": "billboardHot100",
+    "tracksAdded": 8,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "billboard100",
+    "timestamp": "2026-04-24T18:50:38.640Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Eagles",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:50:58.003Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Supremes",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:51:04.231Z"
+  },
+  {
+    "action": "addAlbumsByYear",
+    "albumYear": "1989",
+    "tracksAdded": 9,
+    "tracksSkipped": 1,
+    "sourceFile": "data/albums_by_year_63-25_api.json",
+    "strategy": "albumsByYear",
+    "timestamp": "2026-04-24T18:51:24.839Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 8,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-24T18:51:41.083Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Heavy Metal / Thrash / Death",
+    "artist": "Pantera",
+    "listeners": 6561428,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:51:50.115Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Heavy Metal / Thrash / Death",
+    "artist": "Motorhead",
+    "listeners": 4566506,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-24T18:51:50.736Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Ethel Cain",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:52:05.937Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "GENESI",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:52:12.534Z"
+  },
+  {
+    "action": "addFestival",
+    "festival": "Coachella",
+    "artist": "Nine Inch Noize",
+    "tracksAdded": 3,
+    "sourceFile": "data/festivals.json",
+    "strategy": "festival",
+    "timestamp": "2026-04-24T18:52:18.552Z"
+  },
+  {
+    "action": "add",
+    "artist": "The Black Crowes",
+    "album": "Lions (2001)",
+    "index": null,
+    "tracksAdded": 13,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-24T18:52:28.377Z"
+  },
+  {
+    "action": "billboardHot100",
+    "tracksAdded": 9,
+    "sourceFile": "data/billboardHot100.json",
+    "strategy": "billboard100",
+    "timestamp": "2026-04-24T18:52:45.644Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "Del Shannon",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:53:06.337Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Flamingos",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T18:53:12.911Z"
   }
 ]
