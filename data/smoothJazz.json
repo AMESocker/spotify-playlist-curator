@@ -151,11 +151,6 @@
       "year": 2010
     },
     {
-      "song": "Sweet Summer Nights",
-      "artist": "Najee",
-      "year": 2010
-    },
-    {
       "song": "Take Me There",
       "artist": "Jackiem Joyner",
       "year": 2010
@@ -421,11 +416,6 @@
       "year": 2017
     },
     {
-      "song": "Do I Do",
-      "artist": "Peter White",
-      "year": 2017
-    },
-    {
       "song": "I Am",
       "artist": "Kayla Waters featuring Kim Waters",
       "year": 2017
@@ -521,11 +511,6 @@
       "year": 2019
     },
     {
-      "song": "How Sweet It Is (To Be Loved by You)",
-      "artist": "Nick Colionne",
-      "year": 2019
-    },
-    {
       "song": "Top Down",
       "artist": "Greg Manning",
       "year": 2019
@@ -543,11 +528,6 @@
     {
       "song": "Stylin'",
       "artist": "Gregory Goodloe",
-      "year": 2019
-    },
-    {
-      "song": "Black Dynamite",
-      "artist": "Julian Vaughn",
       "year": 2019
     },
     {
@@ -618,11 +598,6 @@
     {
       "song": "Dirty Dozen",
       "artist": "Euge Groove",
-      "year": 2020
-    },
-    {
-      "song": "Joy Ride",
-      "artist": "Randy Scott",
       "year": 2020
     },
     {
@@ -921,11 +896,6 @@
       "year": 2024
     },
     {
-      "song": "Sunshine Yellow",
-      "artist": "Carol Albert featuring Peter White",
-      "year": 2024
-    },
-    {
       "song": "Diamond Dress",
       "artist": "Lisa Addeo",
       "year": 2024
@@ -963,16 +933,6 @@
     {
       "song": "Happy Hour",
       "artist": "Michael Broening",
-      "year": 2025
-    },
-    {
-      "song": "Slide",
-      "artist": "Boney James",
-      "year": 2025
-    },
-    {
-      "song": "Daydreaming",
-      "artist": "Ryan La Valette",
       "year": 2025
     },
     {
@@ -1038,16 +998,6 @@
     {
       "song": "Too Good 2 Let Go",
       "artist": "Eric Darius",
-      "year": 2025
-    },
-    {
-      "song": "Together Again",
-      "artist": "Michael Broening",
-      "year": 2025
-    },
-    {
-      "song": "Show Me the Way",
-      "artist": "3rd Force",
       "year": 2025
     },
     {
@@ -1801,6 +1751,46 @@
     {
       "song": "Like This, Like That",
       "artist": "Chris Standring",
+      "year": 2017
+    },
+    {
+      "song": "Sweet Summer Nights",
+      "artist": "Najee",
+      "year": 2010
+    },
+    {
+      "song": "Show Me the Way",
+      "artist": "3rd Force",
+      "year": 2025
+    },
+    {
+      "song": "Together Again",
+      "artist": "Michael Broening",
+      "year": 2025
+    },
+    {
+      "song": "Daydreaming",
+      "artist": "Ryan La Valette",
+      "year": 2025
+    },
+    {
+      "song": "How Sweet It Is (To Be Loved by You)",
+      "artist": "Nick Colionne",
+      "year": 2019
+    },
+    {
+      "song": "Black Dynamite",
+      "artist": "Julian Vaughn",
+      "year": 2019
+    },
+    {
+      "song": "Slide",
+      "artist": "Boney James",
+      "year": 2025
+    },
+    {
+      "song": "Do I Do",
+      "artist": "Peter White",
       "year": 2017
     }
   ]

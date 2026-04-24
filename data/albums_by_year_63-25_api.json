@@ -45125,10 +45125,6 @@
           "album": "Who Let the Dogs Out"
         },
         {
-          "artist": "Eve 6",
-          "album": "Horrorscope"
-        },
-        {
           "artist": "Persuader",
           "album": "The Hunter"
         },
@@ -148098,6 +148094,11 @@
       "artist": "Ray Lynch",
       "album": "No Blue Thing",
       "year": "1989"
+    },
+    {
+      "artist": "Eve 6",
+      "album": "Horrorscope",
+      "year": "2000"
     }
   ]
 }

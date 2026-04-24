@@ -536,20 +536,10 @@
   "Reggae / World ": {
     "not_added": [
       {
-        "artist": "Orchestra Baobab"
-      },
-      {
-        "artist": "Ali Farka Touré"
-      },
-      {
         "artist": "William Onyeabor"
       },
       {
-        "artist": "Khruangbin",
-        "listeners": 2252112,
-        "recommended": true,
-        "spotify_popularity": 69,
-        "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
+        "artist": "Bunny Wailer"
       },
       {
         "artist": "Tinariwen",
@@ -559,14 +549,37 @@
         "spotify_id": "2sf2owtFSCvz2MLfxmNdkb"
       },
       {
+        "artist": "Winston Reedy"
+      },
+      {
+        "artist": "Augustus Pablo",
+        "listeners": 114950,
+        "recommended": true,
+        "spotify_popularity": 42,
+        "spotify_id": "5WwEQwX3ruZofwDDqtOXwI"
+      },
+      {
+        "artist": "Alpha Blondy"
+      },
+      {
+        "artist": "Orchestra Baobab"
+      },
+      {
+        "artist": "Ali Farka Touré"
+      },
+      {
+        "artist": "Khruangbin",
+        "listeners": 2252112,
+        "recommended": true,
+        "spotify_popularity": 69,
+        "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
+      },
+      {
         "artist": "Sizzla",
         "listeners": 648280,
         "recommended": true,
         "spotify_popularity": 53,
         "spotify_id": "72T7x96EAqN2UWvAgobYfv"
-      },
-      {
-        "artist": "Bunny Wailer"
       },
       {
         "artist": "Prince Far I"
@@ -595,9 +608,6 @@
         "spotify_id": "6UL7BodGc5iVmQGlMwHR0g"
       },
       {
-        "artist": "Alpha Blondy"
-      },
-      {
         "artist": "Max Romeo"
       },
       {
@@ -611,17 +621,7 @@
         "spotify_id": "3QJzdZJYIAcoET1GcfpNGi"
       },
       {
-        "artist": "Augustus Pablo",
-        "listeners": 114950,
-        "recommended": true,
-        "spotify_popularity": 42,
-        "spotify_id": "5WwEQwX3ruZofwDDqtOXwI"
-      },
-      {
         "artist": "Gregory Isaacs"
-      },
-      {
-        "artist": "Winston Reedy"
       },
       {
         "artist": "Cymande"
