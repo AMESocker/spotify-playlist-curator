@@ -6,7 +6,6 @@
     "Lynyrd Skynyrd",
     "Miles Davis",
     "Sex Pistols",
-    "The Pretenders",
     "Percy Sledge",
     "Prince",
     "ZZ Top",
@@ -62,7 +61,6 @@
     "The Platters",
     "Stevie Wonder",
     "The Rolling Stones",
-    "The Beach Boys",
     "The Supremes",
     "Aretha Franklin",
     "Roy Orbison",
@@ -231,6 +229,8 @@
     "Michael Jackson",
     "Fats Domino",
     "Bill Haley",
-    "The Band"
+    "The Band",
+    "The Beach Boys",
+    "The Pretenders"
   ]
 }

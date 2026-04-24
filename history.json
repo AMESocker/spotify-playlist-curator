@@ -5913,5 +5913,21 @@
     "sourceFile": "data/billboardHot100.json",
     "strategy": "billboard100",
     "timestamp": "2026-04-24T01:58:34.032Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Beach Boys",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T04:50:52.559Z"
+  },
+  {
+    "action": "addRockHall",
+    "artist": "The Pretenders",
+    "tracksAdded": 5,
+    "sourceFile": "data/rockNRollHallofFame.json",
+    "strategy": "rockHall",
+    "timestamp": "2026-04-24T04:50:55.737Z"
   }
 ]
