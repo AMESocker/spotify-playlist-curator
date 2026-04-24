@@ -536,6 +536,25 @@
   "Reggae / World ": {
     "not_added": [
       {
+        "artist": "Winston Reedy"
+      },
+      {
+        "artist": "Orchestra Baobab"
+      },
+      {
+        "artist": "Prince Far I"
+      },
+      {
+        "artist": "Cedric Myton"
+      },
+      {
+        "artist": "Khruangbin",
+        "listeners": 2252112,
+        "recommended": true,
+        "spotify_popularity": 69,
+        "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
+      },
+      {
         "artist": "William Onyeabor"
       },
       {
@@ -549,9 +568,6 @@
         "spotify_id": "2sf2owtFSCvz2MLfxmNdkb"
       },
       {
-        "artist": "Winston Reedy"
-      },
-      {
         "artist": "Augustus Pablo",
         "listeners": 114950,
         "recommended": true,
@@ -562,17 +578,7 @@
         "artist": "Alpha Blondy"
       },
       {
-        "artist": "Orchestra Baobab"
-      },
-      {
         "artist": "Ali Farka Touré"
-      },
-      {
-        "artist": "Khruangbin",
-        "listeners": 2252112,
-        "recommended": true,
-        "spotify_popularity": 69,
-        "spotify_id": "2mVVjNmdjXZZDvhgQWiakk"
       },
       {
         "artist": "Sizzla",
@@ -580,9 +586,6 @@
         "recommended": true,
         "spotify_popularity": 53,
         "spotify_id": "72T7x96EAqN2UWvAgobYfv"
-      },
-      {
-        "artist": "Prince Far I"
       },
       {
         "artist": "Black Uhuru"
@@ -625,9 +628,6 @@
       },
       {
         "artist": "Cymande"
-      },
-      {
-        "artist": "Cedric Myton"
       },
       {
         "artist": "U-Roy"
