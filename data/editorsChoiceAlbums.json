@@ -1,5 +1,134 @@
 {
-  "weeklyAlbums": [],
+  "weeklyAlbums": [
+    {
+      "date": "2026-04-24",
+      "albums": [
+        {
+          "title": "Your Favorite Toy",
+          "artist": "Foo Fighters",
+          "spotifyTrack": {
+            "id": "1N8fvq9XcxxpRdGydlSqC1",
+            "name": "Window",
+            "uri": "spotify:track:1N8fvq9XcxxpRdGydlSqC1",
+            "popularity": 37,
+            "albumName": "Your Favorite Toy",
+            "albumId": "5qKZaYgZJakL0qIE1kKgSJ",
+            "foundAt": "2026-04-25T10:36:19.419Z"
+          }
+        },
+        {
+          "title": "Romanticize the Dive",
+          "artist": "Metric",
+          "spotifyTrack": {
+            "id": "2fLrRiiTmJM4Gdoq7mdXV9",
+            "name": "Tremolo",
+            "uri": "spotify:track:2fLrRiiTmJM4Gdoq7mdXV9",
+            "popularity": 19,
+            "albumName": "Romanticize The Dive",
+            "albumId": "75oefoG5Cn2MbBc32uNPnu",
+            "foundAt": "2026-04-25T10:36:20.813Z"
+          }
+        },
+        {
+          "title": "13",
+          "artist": "White Denim",
+          "spotifyTrack": {
+            "id": "038C1QuHsxwDPS357waWHM",
+            "name": "(God Created) Lock and Key",
+            "uri": "spotify:track:038C1QuHsxwDPS357waWHM",
+            "popularity": 0,
+            "albumName": "13",
+            "albumId": "21OjLYKI3xdQOFbPvZ0x4M",
+            "foundAt": "2026-04-25T10:36:22.214Z"
+          }
+        },
+        {
+          "title": "Orange",
+          "artist": "White Fence",
+          "spotifyTrack": {
+            "id": "3SgTRMNYqqy34kK5WZXXLO",
+            "name": "That's Where The Money Goes (Seen From The Celestial Realm)",
+            "uri": "spotify:track:3SgTRMNYqqy34kK5WZXXLO",
+            "popularity": 6,
+            "albumName": "Orange",
+            "albumId": "2ZL2pKtN0WwpKHgOgifsds",
+            "foundAt": "2026-04-25T10:36:23.777Z"
+          }
+        },
+        {
+          "title": "Insomnia and Seven Steps to Grace",
+          "artist": "Joy Harjo",
+          "spotifyTrack": {
+            "id": "5VFS2sPW0pTmJNntvWqEdu",
+            "name": "I Am a Prayer",
+            "uri": "spotify:track:5VFS2sPW0pTmJNntvWqEdu",
+            "popularity": 1,
+            "albumName": "Insomnia and Seven Steps to Grace",
+            "albumId": "3jXe8DHmVJyvtaJQsKl53k",
+            "foundAt": "2026-04-25T10:36:25.225Z"
+          }
+        },
+        {
+          "title": "Confession",
+          "artist": "Carla dal Forno",
+          "spotifyTrack": {
+            "id": "6rcmeg8MTddE7vBp36tuwT",
+            "name": "Nighttime",
+            "uri": "spotify:track:6rcmeg8MTddE7vBp36tuwT",
+            "popularity": 12,
+            "albumName": "Confession",
+            "albumId": "4YoCbEExp7Zmo6wbcYaR6c",
+            "foundAt": "2026-04-25T10:36:26.561Z"
+          }
+        },
+        {
+          "title": "Bern",
+          "artist": "Roy Hargrove",
+          "spotifyTrack": {
+            "id": "6XSEoCdK5UH4IDEqeWfM4R",
+            "name": "Circus (Live at the Bern Jazz Festival 2000)",
+            "uri": "spotify:track:6XSEoCdK5UH4IDEqeWfM4R",
+            "popularity": 22,
+            "albumName": "Circus (Live at the Bern Jazz Festival 2000)",
+            "albumId": "4Qw2zdX3cvtx2guQb0QLmR",
+            "foundAt": "2026-04-25T10:36:28.042Z"
+          }
+        },
+        {
+          "title": "Something Worth Waiting For",
+          "artist": "FrikoFriko",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-25T10:36:28.642Z"
+          }
+        },
+        {
+          "title": "The Horizon Spirals/The Horizon Viral",
+          "artist": "Lightning BoltOOIOO",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-25T10:36:29.261Z"
+          }
+        },
+        {
+          "title": "Nuts & Bolts",
+          "artist": "Richard BaroneJames Mastro",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-25T10:36:29.821Z"
+          }
+        },
+        {
+          "title": "The Grotesque & The Sublime",
+          "artist": "Daníel BjarnasonIceland Symphony Orchestra",
+          "spotifyTrack": {
+            "error": "Not found",
+            "searchedAt": "2026-04-25T10:36:30.423Z"
+          }
+        }
+      ]
+    }
+  ],
   "addedWeeks": [
     {
       "date": "2025-01-31",
