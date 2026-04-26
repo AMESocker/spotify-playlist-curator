@@ -118762,10 +118762,6 @@
       "year": "2021",
       "albums": [
         {
-          "artist": "Agallah Don Bishop",
-          "album": "2021"
-        },
-        {
           "artist": "Anavitória",
           "album": "Cor"
         },
@@ -119230,10 +119226,6 @@
           "album": "Under a Mediterranean Sky"
         },
         {
-          "artist": "Still Corners",
-          "album": "The Last Exit"
-        },
-        {
           "artist": "Tebey",
           "album": "The Good Ones"
         },
@@ -119300,10 +119292,6 @@
         {
           "artist": "Jake Hoot",
           "album": "Love Out Of Time"
-        },
-        {
-          "artist": "The Magician",
-          "album": "Magic Tape 100"
         },
         {
           "artist": "Mica Levi",
@@ -120158,10 +120146,6 @@
           "album": "Alkisah"
         },
         {
-          "artist": "SG Lewis",
-          "album": "Times"
-        },
-        {
           "artist": "Tash Sultana",
           "album": "Terra Firma"
         },
@@ -120364,10 +120348,6 @@
         {
           "artist": "Lydia Luce",
           "album": "Dark River"
-        },
-        {
-          "artist": "Madison Beer",
-          "album": "Life Support"
         },
         {
           "artist": "Maxïmo Park",
@@ -120824,10 +120804,6 @@
         {
           "artist": "Valerie June",
           "album": "The Moon and Stars: Prescriptions for Dreamers"
-        },
-        {
-          "artist": "Pentagon",
-          "album": "Love or Take"
         },
         {
           "artist": "Super Junior",
@@ -122346,10 +122322,6 @@
           "album": "Bridge over Troubled Dreams"
         },
         {
-          "artist": "Fightmilk",
-          "album": "Contender"
-        },
-        {
           "artist": "J. Cole",
           "album": "The Off-Season"
         },
@@ -123352,10 +123324,6 @@
         {
           "artist": "Spellling",
           "album": "The Turning Wheel"
-        },
-        {
-          "artist": "Squirrel Flower",
-          "album": "Planet (I)"
         },
         {
           "artist": "Sullivan King",
@@ -148099,6 +148067,46 @@
       "artist": "Eve 6",
       "album": "Horrorscope",
       "year": "2000"
+    },
+    {
+      "artist": "Agallah Don Bishop",
+      "album": "2021",
+      "year": "2021"
+    },
+    {
+      "artist": "Squirrel Flower",
+      "album": "Planet (I)",
+      "year": "2021"
+    },
+    {
+      "artist": "The Magician",
+      "album": "Magic Tape 100",
+      "year": "2021"
+    },
+    {
+      "artist": "SG Lewis",
+      "album": "Times",
+      "year": "2021"
+    },
+    {
+      "artist": "Madison Beer",
+      "album": "Life Support",
+      "year": "2021"
+    },
+    {
+      "artist": "Pentagon",
+      "album": "Love or Take",
+      "year": "2021"
+    },
+    {
+      "artist": "Still Corners",
+      "album": "The Last Exit",
+      "year": "2021"
+    },
+    {
+      "artist": "Fightmilk",
+      "album": "Contender",
+      "year": "2021"
     }
   ]
 }
