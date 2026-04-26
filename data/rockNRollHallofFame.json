@@ -5,7 +5,6 @@
     "Patti Smith",
     "Lynyrd Skynyrd",
     "Miles Davis",
-    "Sex Pistols",
     "Percy Sledge",
     "Prince",
     "ZZ Top",
@@ -18,7 +17,6 @@
     "Tom Petty and the Heartbreakers",
     "Brenda Lee",
     "Isaac Hayes",
-    "Gene Pitney",
     "Ritchie Valens",
     "Earth, Wind & Fire",
     "James Taylor",
@@ -231,6 +229,8 @@
     "Eagles",
     "The Supremes",
     "Del Shannon",
-    "The Flamingos"
+    "The Flamingos",
+    "Sex Pistols",
+    "Gene Pitney"
   ]
 }
