@@ -136,11 +136,6 @@
       "year": 2009
     },
     {
-      "song": "Burnin'",
-      "artist": "Paul Taylor",
-      "year": 2010
-    },
-    {
       "song": "Take Me There",
       "artist": "Jackiem Joyner",
       "year": 2010
@@ -206,11 +201,6 @@
       "year": 2012
     },
     {
-      "song": "Magical",
-      "artist": "Jonathan Fritzén featuring Boney James",
-      "year": 2012
-    },
-    {
       "song": "House of Groove",
       "artist": "Euge Groove",
       "year": 2012
@@ -231,18 +221,8 @@
       "year": 2013
     },
     {
-      "song": "Got to Get You into My Life",
-      "artist": "Dave Koz featuring Gerald Albright, Mindi Abair and Richard Elliot",
-      "year": 2013
-    },
-    {
       "song": "Deep in the Weeds",
       "artist": "Bob James and David Sanborn",
-      "year": 2013
-    },
-    {
-      "song": "Powerhouse",
-      "artist": "Boney James",
       "year": 2013
     },
     {
@@ -253,11 +233,6 @@
     {
       "song": "Supernova",
       "artist": "Paul Taylor",
-      "year": 2014
-    },
-    {
-      "song": "Let's Ride",
-      "artist": "Vandell Andrew",
       "year": 2014
     },
     {
@@ -274,11 +249,6 @@
       "song": "Head Over Heels",
       "artist": "Peter White",
       "year": 2014
-    },
-    {
-      "song": "Drumline",
-      "artist": "Boney James",
-      "year": 2015
     },
     {
       "song": "Ride Along",
@@ -298,11 +268,6 @@
     {
       "song": "Swagster",
       "artist": "Jeff Golub featuring Philippe Saisse and Kirk Whalum",
-      "year": 2015
-    },
-    {
-      "song": "Because of You",
-      "artist": "Gerald Albright",
       "year": 2015
     },
     {
@@ -491,11 +456,6 @@
       "year": 2019
     },
     {
-      "song": "Soulmate",
-      "artist": "Nicholas Cole featuring Chieli Minucci",
-      "year": 2019
-    },
-    {
       "song": "Before I Let Go",
       "artist": "Dave Koz / Gerald Albright / Rick Braun / Richard Elliot / Aubrey Logan",
       "year": 2019
@@ -518,11 +478,6 @@
     {
       "song": "Let's Get Serious",
       "artist": "Nick Colionne",
-      "year": 2020
-    },
-    {
-      "song": "Free to Be",
-      "artist": "Kim Scott featuring Jazmin Ghent",
       "year": 2020
     },
     {
@@ -913,11 +868,6 @@
     {
       "song": "London Nights",
       "artist": "Ryan La Valette",
-      "year": 2025
-    },
-    {
-      "song": "The Bounce",
-      "artist": "Boney James",
       "year": 2025
     }
   ],
@@ -1762,6 +1712,36 @@
       "song": "Botswana Bossa Nova",
       "artist": "David Benoit",
       "year": 2011
+    },
+    {
+      "song": "Drumline",
+      "artist": "Boney James",
+      "year": 2015
+    },
+    {
+      "song": "Because of You",
+      "artist": "Gerald Albright",
+      "year": 2015
+    },
+    {
+      "song": "The Bounce",
+      "artist": "Boney James",
+      "year": 2025
+    },
+    {
+      "song": "Powerhouse",
+      "artist": "Boney James",
+      "year": 2013
+    },
+    {
+      "song": "Burnin'",
+      "artist": "Paul Taylor",
+      "year": 2010
+    },
+    {
+      "song": "Let's Ride",
+      "artist": "Vandell Andrew",
+      "year": 2014
     }
   ]
 }

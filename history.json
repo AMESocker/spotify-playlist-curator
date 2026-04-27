@@ -6820,5 +6820,32 @@
     "sourceFile": "data/albums_by_year_63-25_api.json",
     "strategy": "albumsByYear",
     "timestamp": "2026-04-27T21:09:35.582Z"
+  },
+  {
+    "action": "smoothJazz",
+    "tracksAdded": 6,
+    "sourceFile": "data/smoothJazz.json",
+    "strategy": "smoothJazz",
+    "timestamp": "2026-04-27T22:50:56.096Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Jazz / Blues",
+    "artist": "Cannonball Adderley ",
+    "listeners": null,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-27T22:51:05.773Z"
+  },
+  {
+    "action": "addArtistGenre",
+    "genre": "Jazz / Blues",
+    "artist": "John Lee Hooker",
+    "listeners": 932096,
+    "tracksAdded": 5,
+    "sourceFile": "data/artistTop10.json",
+    "strategy": "artistGenre",
+    "timestamp": "2026-04-27T22:51:06.320Z"
   }
 ]

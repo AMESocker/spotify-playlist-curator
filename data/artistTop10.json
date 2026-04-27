@@ -2128,12 +2128,6 @@
         "spotify_id": "2jFZlvIea42ZvcCw4OeEdA"
       },
       {
-        "artist": "John Lee Hooker",
-        "listeners": 932096,
-        "spotify_popularity": 53,
-        "spotify_id": "1yNOfXGQNGjAynk77wv85x"
-      },
-      {
         "artist": "Brian Eno",
         "listeners": 852011,
         "spotify_popularity": 60,
@@ -2206,9 +2200,6 @@
         "recommended": true,
         "spotify_popularity": 63,
         "spotify_id": "1YzCsTRb22dQkh9lghPIrp"
-      },
-      {
-        "artist": "Cannonball Adderley "
       },
       {
         "artist": "Kamasi Washington"
@@ -2350,6 +2341,20 @@
         "artist": "Sonny Rollins ",
         "listeners": null,
         "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "Cannonball Adderley ",
+        "listeners": null,
+        "spotify_id": null,
+        "recommended": false,
+        "tracksAdded": 5
+      },
+      {
+        "artist": "John Lee Hooker",
+        "listeners": 932096,
+        "spotify_id": "1yNOfXGQNGjAynk77wv85x",
         "recommended": false,
         "tracksAdded": 5
       }
