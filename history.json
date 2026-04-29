@@ -6874,5 +6874,15 @@
     "sourceFile": "data/festivals.json",
     "strategy": "festival",
     "timestamp": "2026-04-29T02:12:13.813Z"
+  },
+  {
+    "action": "add",
+    "artist": "Exodus",
+    "album": "Let There Be Blood (2008)",
+    "index": null,
+    "tracksAdded": 10,
+    "sourceFile": "data/artistDisc.json",
+    "strategy": "fairness",
+    "timestamp": "2026-04-29T17:45:51.927Z"
   }
 ]
