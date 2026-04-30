@@ -6907,5 +6907,14 @@
     "sourceFile": "data/rockNRollHallofFame.json",
     "strategy": "rockHall",
     "timestamp": "2026-04-30T17:40:02.506Z"
+  },
+  {
+    "action": "addAlbumsByYear",
+    "albumYear": "2007",
+    "tracksAdded": 9,
+    "tracksSkipped": 1,
+    "sourceFile": "data/albums_by_year_63-25_api.json",
+    "strategy": "albumsByYear",
+    "timestamp": "2026-04-30T19:12:13.355Z"
   }
 ]

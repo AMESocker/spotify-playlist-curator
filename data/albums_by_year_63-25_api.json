@@ -68536,10 +68536,6 @@
           "album": "Serve & Collect"
         },
         {
-          "artist": "Dälek",
-          "album": "Abandoned Language"
-        },
-        {
           "artist": "Dean & Britta",
           "album": "Back Numbers"
         },
@@ -69030,10 +69026,6 @@
         {
           "artist": "Bright Eyes",
           "album": "Cassadaga"
-        },
-        {
-          "artist": "Cowboy Junkies",
-          "album": "At the End of Paths Taken"
         },
         {
           "artist": "Marillion",
@@ -69676,10 +69668,6 @@
           "album": "Music from Regions Beyond"
         },
         {
-          "artist": "Bon Jovi",
-          "album": "Lost Highway"
-        },
-        {
           "artist": "Enrique Iglesias",
           "album": "Insomniac"
         },
@@ -69884,10 +69872,6 @@
           "album": "Easy Tiger"
         },
         {
-          "artist": "Symphony X",
-          "album": "Paradise Lost"
-        },
-        {
           "artist": "Steve Vai with Metropole Orkest",
           "album": "Sound Theories Vol. I & II"
         },
@@ -70080,10 +70064,6 @@
           "album": "Book of Ezekiel"
         },
         {
-          "artist": "Hans Zimmer",
-          "album": "The Simpsons Movie: The Music"
-        },
-        {
           "artist": "John Vanderslice",
           "album": "Emerald City"
         },
@@ -70274,14 +70254,6 @@
         {
           "artist": "Rilo Kiley",
           "album": "Under the Blacklight"
-        },
-        {
-          "artist": "Aiden",
-          "album": "Conviction"
-        },
-        {
-          "artist": "Idiot Pilot",
-          "album": "Wolves"
         },
         {
           "artist": "Minus the Bear",
@@ -70556,10 +70528,6 @@
           "album": "We Are Him"
         },
         {
-          "artist": "Black Lips",
-          "album": "Good Bad Not Evil"
-        },
-        {
           "artist": "The Good Life",
           "album": "Help Wanted Nights"
         },
@@ -70650,10 +70618,6 @@
         {
           "artist": "Four Year Strong",
           "album": "Rise or Die Trying"
-        },
-        {
-          "artist": "Havoc",
-          "album": "The Kush"
         },
         {
           "artist": "Keke Palmer",
@@ -148126,6 +148090,51 @@
       "artist": "SNFU",
       "album": "If You Swear, You'll Catch No Fish",
       "year": "1986"
+    },
+    {
+      "artist": "Idiot Pilot",
+      "album": "Wolves",
+      "year": "2007"
+    },
+    {
+      "artist": "Havoc",
+      "album": "The Kush",
+      "year": "2007"
+    },
+    {
+      "artist": "Symphony X",
+      "album": "Paradise Lost",
+      "year": "2007"
+    },
+    {
+      "artist": "Black Lips",
+      "album": "Good Bad Not Evil",
+      "year": "2007"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "album": "The Simpsons Movie: The Music",
+      "year": "2007"
+    },
+    {
+      "artist": "Cowboy Junkies",
+      "album": "At the End of Paths Taken",
+      "year": "2007"
+    },
+    {
+      "artist": "Dälek",
+      "album": "Abandoned Language",
+      "year": "2007"
+    },
+    {
+      "artist": "Aiden",
+      "album": "Conviction",
+      "year": "2007"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Lost Highway",
+      "year": "2007"
     }
   ]
 }
