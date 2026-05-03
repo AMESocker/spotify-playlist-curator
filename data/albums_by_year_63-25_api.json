@@ -10818,10 +10818,6 @@
           "album": "Sleepwalker"
         },
         {
-          "artist": "Minnie Riperton",
-          "album": "Stay in Love"
-        },
-        {
           "artist": "Klaus Schulze",
           "album": "Body Love"
         },
@@ -10836,10 +10832,6 @@
         {
           "artist": "Pablo Cruise",
           "album": "A Place in the Sun"
-        },
-        {
-          "artist": "Dragon",
-          "album": "Sunshine"
         },
         {
           "artist": "Glen Campbell",
@@ -10934,10 +10926,6 @@
           "album": "Detective"
         },
         {
-          "artist": "Al Di Meola",
-          "album": "Elegant Gypsy"
-        },
-        {
           "artist": "Spirit",
           "album": "Future Games"
         },
@@ -10954,10 +10942,6 @@
           "album": "Let It Flow"
         },
         {
-          "artist": "Space",
-          "album": "Magic Fly"
-        },
-        {
           "artist": "Klaus Schulze",
           "album": "Mirage"
         },
@@ -10972,10 +10956,6 @@
         {
           "artist": "Peter Hammill",
           "album": "Over"
-        },
-        {
-          "artist": "Van Morrison",
-          "album": "A Period of Transition"
         },
         {
           "artist": "Phyllis Hyman",
@@ -11116,10 +11096,6 @@
         {
           "artist": "Debby Boone",
           "album": "You Light Up My Life"
-        },
-        {
-          "artist": "Hawkwind",
-          "album": "Quark, Strangeness and Charm"
         },
         {
           "artist": "Kiss",
@@ -11354,20 +11330,12 @@
           "album": "Gone to Earth"
         },
         {
-          "artist": "Klaatu",
-          "album": "Hope"
-        },
-        {
           "artist": "Cheap Trick",
           "album": "In Color"
         },
         {
           "artist": "Rick Nelson and the Stone Canyon Band",
           "album": "Intakes"
-        },
-        {
-          "artist": "Steve Hillage",
-          "album": "Motivation Radio"
         },
         {
           "artist": "Linda Ronstadt",
@@ -11540,10 +11508,6 @@
         {
           "artist": "Leonard Cohen",
           "album": "Death of a Ladies' Man"
-        },
-        {
-          "artist": "The Drones",
-          "album": "Further Temptations"
         },
         {
           "artist": "John Denver",
@@ -148135,6 +148099,51 @@
       "artist": "Bon Jovi",
       "album": "Lost Highway",
       "year": "2007"
+    },
+    {
+      "artist": "Al Di Meola",
+      "album": "Elegant Gypsy",
+      "year": "1977"
+    },
+    {
+      "artist": "Minnie Riperton",
+      "album": "Stay in Love",
+      "year": "1977"
+    },
+    {
+      "artist": "Klaatu",
+      "album": "Hope",
+      "year": "1977"
+    },
+    {
+      "artist": "Hawkwind",
+      "album": "Quark, Strangeness and Charm",
+      "year": "1977"
+    },
+    {
+      "artist": "Van Morrison",
+      "album": "A Period of Transition",
+      "year": "1977"
+    },
+    {
+      "artist": "The Drones",
+      "album": "Further Temptations",
+      "year": "1977"
+    },
+    {
+      "artist": "Steve Hillage",
+      "album": "Motivation Radio",
+      "year": "1977"
+    },
+    {
+      "artist": "Space",
+      "album": "Magic Fly",
+      "year": "1977"
+    },
+    {
+      "artist": "Dragon",
+      "album": "Sunshine",
+      "year": "1977"
     }
   ]
 }

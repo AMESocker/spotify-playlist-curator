@@ -45,11 +45,9 @@
     "Bobby Darin",
     "The Platters",
     "The Rolling Stones",
-    "Roy Orbison",
     "Jackie Wilson",
     "Muddy Waters",
     "Ray Charles",
-    "Jerry Lee Lewis",
     "Little Richard"
   ],
   "added": [
@@ -231,6 +229,8 @@
     "Eddie Cochran",
     "Jimmy Reed",
     "Miles Davis",
-    "Little Willie John"
+    "Little Willie John",
+    "Jerry Lee Lewis",
+    "Roy Orbison"
   ]
 }
